@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!-- Main Repositories for openSUSE 10.3
+     These are maintained by Stephan Kulow <coolo@suse.de> -->
+<metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
+    <group distversion="openSUSE Factory">
+	<repositories>
+
+	    <repository recommended="true" format="yast">
+		<name>10.3 - Main Repository (OSS)</name>
+		<name lang="cs">10.3 - Main Repository (OSS) (lang=cs)</name>
+		<summary>This is the main repository of openSUSE 10.3.</summary>
+		<summary xml:lang="cs">This is the main repository of openSUSE 10.3. (xml:lang=cs)</summary>
+		<description>...</description>
+		<description xml:lang="cs_CZ">... (xml:lang=cs_CZ)</description>
+<!-- this is NOT a /distribution/ link since YaST does check for double repos
+     based on the URL -->
+		<url>http://download.opensuse.org/repositories/openSUSE:10.3/standard/</url>
+	    </repository>
+
+	    <repository recommended="true" format="yast">
+		<name>10.3 - Main Repository (NON-OSS)</name>
+		<summary>This is the main repository of openSUSE 10.3 (Non-Open Source Software).</summary>
+		<description>...</description>
+		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
+	    </repository>
+
+	    <repository recommended="false" format="yast">
+		<name>FACTORY - Main Repository (DEBUG)</name>
+		<summary>This is the main repository of the openSUSE FACTORY with debug-packages.</summary>
+		<description>Some description needs to be added...</description>
+		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>
+	    </repository>
+
+	</repositories>
+    </group>
+</metapackage>

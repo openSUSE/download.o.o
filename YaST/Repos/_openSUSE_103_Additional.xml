@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!-- Additional Repositories for openSUSE 10.3
+     These are maintained by Stephan Kulow <coolo@suse.de> -->
+<metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
+    <group distversion="openSUSE Factory">
+	<repositories>
+
+	    <repository recommended="false" format="yast">
+		<name>FACTORY - KDE:Community</name>
+		<name lang="cs_CZ">FACTORY - Komunitní KDE</name>
+		<summary>Community repository for KDE</summary>
+		<summary lang="cs_CZ">Kommunitni repozitar obsahujici KDE</summary>
+		<description>Some description needs to be added...</description>
+		<!-- was http://software.opensuse.org/download/KDE:/Community/SUSE_Factory/ -->
+		<url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_Factory/</url>
+	    </repository>
+
+	    <repository recommended="false" format="yast">
+		<name>FACTORY - Mozilla</name>
+		<summary>The newest stuff made by mozilla</summary>
+		<description>Some description needs to be added...</description>
+		<url>http://software.opensuse.org/download/mozilla/SUSE_Factory/</url>
+	    </repository>
+
+	    <repository recommended="false" format="yast">
+		<name>FACTORY - Hamradio</name>
+		<summary>Amateur Radio</summary>
+		<description>Some description needs to be added...</description>
+		<url>http://software.opensuse.org/download/hamradio/openSUSE_Factory/</url>
+	    </repository>
+
+	    <repository recommended="false" format="yast">
+		<name>FACTORY - GNOME:Community</name>
+		<summary>Community repository for GNOME</summary>
+		<description>Some description needs to be added...</description>
+		<url>http://software.opensuse.org/download/GNOME:/Community/openSUSE_Factory/</url>
+	    </repository>
+
+	</repositories>
+    </group>
+</metapackage>

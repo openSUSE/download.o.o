@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!-- Additional Repositories for openSUSE 10.3
+     These are maintained by Stephan Kulow <coolo@suse.de> -->
+<productDefines xmlns="http://www.suse.com/1.0/yast2ns" xmlns:config="http://www.suse.com/1.0/configns">
+    <servers config:type="list">
+
+	<!-- official openSUSE links -->
+	<item>
+	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_103_Default.xml</link>
+	    <!-- to enable it during installation -->
+	    <installation_repo config:type="boolean">true</installation_repo>
+	    <official config:type="boolean">true</official>
+	</item>
+
+	<item>
+	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_103_Additional.xml</link>
+	    <official config:type="boolean">true</official>
+	</item>
+
+	<!-- Community links -->
+
+	<!-- testing: wrong IP -->
+	<item>
+	    <link>http://256.0.0.1/does-not-exist/testing/</link>
+	</item>
+
+    </servers>
+</productDefines>
