@@ -5,10 +5,10 @@
     <description>This package contains Adobe's Flash plug-in for the supported Web browsers.</description>
     <repositories>
       <repository recommended="true">
-        <name>openSUSE:Factory</name>
-        <summary>openSUSE Factory</summary>
+        <name>openSUSE:Factory non-OSS</name>
+        <summary>openSUSE Factory non-OSS</summary>
         <description>Our bleeding edge distribution.</description>
-        <url>http://download.opensuse.org/repositories/openSUSE:/Factory/standard/</url>
+        <url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
       </repository>
     </repositories>
     <software>
