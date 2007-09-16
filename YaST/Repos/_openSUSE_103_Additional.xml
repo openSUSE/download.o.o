@@ -2,40 +2,134 @@
 <!-- Additional Repositories for openSUSE 10.3
      These are maintained by Stephan Kulow <coolo@suse.de> -->
 <metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
-    <group distversion="openSUSE Factory">
-	<repositories>
-
-	    <repository recommended="false" format="yast">
-		<name>FACTORY - KDE:Community</name>
-		<name lang="cs_CZ">FACTORY - Komunitní KDE</name>
-		<summary>Community repository for KDE</summary>
-		<summary lang="cs_CZ">Kommunitni repozitar obsahujici KDE</summary>
-		<description>Some description needs to be added...</description>
-		<!-- was http://software.opensuse.org/download/KDE:/Community/SUSE_Factory/ -->
-		<url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_Factory/</url>
-	    </repository>
-
-	    <repository recommended="false" format="yast">
-		<name>FACTORY - Mozilla</name>
-		<summary>The newest stuff made by mozilla</summary>
-		<description>Some description needs to be added...</description>
-		<url>http://software.opensuse.org/download/mozilla/SUSE_Factory/</url>
-	    </repository>
-
-	    <repository recommended="false" format="yast">
-		<name>FACTORY - Hamradio</name>
-		<summary>Amateur Radio</summary>
-		<description>Some description needs to be added...</description>
-		<url>http://software.opensuse.org/download/hamradio/openSUSE_Factory/</url>
-	    </repository>
-
-	    <repository recommended="false" format="yast">
-		<name>FACTORY - GNOME:Community</name>
-		<summary>Community repository for GNOME</summary>
-		<description>Some description needs to be added...</description>
-		<url>http://software.opensuse.org/download/GNOME:/Community/openSUSE_Factory/</url>
-	    </repository>
-
-	</repositories>
-    </group>
+  <group distversion="openSUSE Factory">
+    <repositories>
+      <repository recommended="false" format="yast">
+        <name>10.3 - Main Repository (Sources)</name>
+        <summary>Main repository of openSUSE 10.3 (Source packages)</summary>
+        <description/>
+        <url>http://ftp.opensuse.org/pub/opensuse/distribution/10.3/repo/src-oss/suse/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>10.3 - Update Repository</name>
+        <summary>Repository for official updates to 10.3</summary>
+        <description>In this repository you find security and maintenance updates to 10.3</description>
+        <url>http://download.opensuse.org/update/10.3</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - XFCE</name>
+        <summary>Latest XFCE release</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/X11:/xfce/openSUSE_Factory/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - X11:XGL</name>
+        <summary>Latest Compiz release</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - xorg73</name>
+        <summary>Latest Xorg 7.3 release</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/xorg73/openSUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - OpenOffice.org</name>
+        <summary>Latest stable OpenOffice.org release</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/OpenOffice.org:/STABLE/openSUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - Mozilla</name>
+        <summary>Most recent builds of Mozilla Software like Firefox</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/mozilla/SUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - Wine CVS Builds</name>
+        <summary>Snapshots of Wine CVS</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/Emulators:/Wine/SUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - Games (action)</name>
+        <summary>A collection of action games</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/games:/action/SUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - Drivers for webcams</name>
+        <summary>Recent drivers for webcams</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/drivers:/webcam/SUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - Drivers for Wireless LAN</name>
+        <summary>Recent drivers for wlan</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/drivers:/wlan/SUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - Virtualization (Qemu)</name>
+        <summary>Latest builds of Qemu</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/Virtualization/Qemu/SUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - Virtualization (VirtualBox)</name>
+        <summary>Latest builds of Virtualbox</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/Virtualization/VirtualBox/SUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - PHP</name>
+        <summary>Latest updates for php software</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/server:/php/SUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - Database</name>
+        <summary>Latest updates for database software</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/server:/database/SUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>FACTORY - Mail Server</name>
+        <summary>Latest updates for postfix, exim and tools around them</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/server:/mail/SUSE_Factory</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>FACTORY - KDE:Backports</name>
+        <summary>Backports of KDE applications</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/KDE:/Backports/openSUSE_Factory/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>FACTORY - KDE:Community</name>
+        <summary>Community repository for KDE</summary>
+        <description>Some description needs to be added...</description>
+        <url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_Factory/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>FACTORY - Mozilla</name>
+        <summary>The newest stuff made by mozilla</summary>
+        <description>Some description needs to be added...</description>
+        <url>http://software.opensuse.org/download/mozilla/SUSE_Factory/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>FACTORY - GNOME:STABLE</name>
+        <summary>Backport of latest stable GNOME</summary>
+        <description/>
+        <url>http://download.opensuse.org/repositories/GNOME:/STABLE/openSUSE_Factory/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>FACTORY - GNOME:Community</name>
+        <summary>Community repository for GNOME</summary>
+        <description>Some description needs to be added...</description>
+        <url>http://software.opensuse.org/download/GNOME:/Community/openSUSE_Factory/</url>
+      </repository>
+    </repositories>
+  </group>
 </metapackage>
