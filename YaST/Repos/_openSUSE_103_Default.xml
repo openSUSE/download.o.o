@@ -4,23 +4,20 @@
 	<repositories>
 
 	    <repository recommended="true" format="yast">
-		<name>10.3 - Main Repository (OSS)</name>
-		<name xml:lang="sk">10.3 - Hlavný repozitár (OSS)</name>
+		<name>Main Repository (OSS)</name>
 		<summary>Main repository of openSUSE 10.3 including only Open Source Software</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 10.3, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
 
 		<url>http://download.opensuse.org/repositories/openSUSE:10.3/standard/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
-		<name>10.3 - Addon Repository (NON-OSS)</name>
-		<name xml:lang="sk">10.3 - Doplnkový repozitár (NON-OSS)</name>
+		<name>Main Repository (NON-OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 10.3</summary>
 		<description>The official openSUSE 10.3 repository for all Non-Open Source Software maintained by the openSUSE team, including RealPlayer, Opera, Java, Flash, and more.</description>
 		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
-		<name>10.3 - Main Repository (DEBUG)</name>
-		<name xml:lang="sk">10.3 - Hlavný repozitár (debug)</name>
+		<name>Main Repository (DEBUG)</name>
 		<summary>Main repository of openSUSE 10.3 including the debuginfo packages</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 10.3. For experts only.</description>
 		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>

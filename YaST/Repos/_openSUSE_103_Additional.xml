@@ -3,133 +3,121 @@
   <group distversion="openSUSE Factory">
     <repositories>
       <repository recommended="false" format="yast">
-        <name>10.3 - Main Repository (Sources)</name>
-        <name xml:lang="de">10.3 - Hauptfundgrube (Quellen)</name>
-        <name xml:lang="sk">10.3 - Hlavný repozitár (Zdroje)</name>
+        <name>Main Repository (Sources)</name>
         <summary>Main repository of openSUSE 10.3 (Source packages)</summary>
         <description>The repository of all source packages in openSUSE 10.3. For experts only.</description>
         <url>http://ftp.opensuse.org/pub/opensuse/distribution/10.3/repo/src-oss/suse/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>10.3 - Update Repository</name>
-        <name xml:lang="sk">10.3 - Repozitár s aktualizáciami</name>
+        <name>Main Update Repository</name>
         <summary>Repository for official updates to 10.3</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 10.3.</description>
         <url>http://download.opensuse.org/update/10.3</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - XFCE</name>
+        <name>openSUSE BuildService - XFCE</name>
         <summary>Latest XFCE release</summary>
         <description>The XFCE repository in the openSUSE Build Service, which provides you with the unsupported but latest version of the XFCE desktop environment and software.</description>
         <url>http://download.opensuse.org/repositories/X11:/xfce/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - X11:XGL</name>
+        <name>openSUSE BuildService - X11:XGL</name>
         <summary>Latest Compiz release</summary>
         <summary xml:lang="sk">Najnovšia verzia Compizu</summary>
         <description>This repository contains the latest software that brings you composite effects and technology. It includes Xgl, Compiz, and Compiz Fusion packages maintained by the openSUSE Community.</description>
         <url>http://download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/</url>
       </repository>
+
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - xorg73</name>
-        <summary>Latest Xorg 7.3 release</summary>
-        <description>Provides you with the latest version of the Xorg (display server) 7.3. This repository will change and can break frequently; for experts only.</description>
-        <url>http://download.opensuse.org/repositories/xorg73/openSUSE_Factory</url>
-      </repository>
-      <repository recommended="false" format="rpm-md">
-        <name>FACTORY - OpenOffice.org</name>
+        <name>openSUSE BuildService - OpenOffice.org</name>
         <summary>Latest stable OpenOffice.org release</summary>
         <description>Provides you with the latest stable version of OpenOffice.org, the Office suite that openSUSE uses.</description>
         <url>http://download.opensuse.org/repositories/OpenOffice.org:/STABLE/openSUSE_Factory</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - Mozilla</name>
+        <name>openSUSE BuildService - Mozilla</name>
         <summary>Most recent builds of Mozilla Software like Firefox</summary>
         <description>Containing the latest releases of all Mozilla software, such as the popular Thunderbird (mail client), Firefox and SeaMonkey (web browsers).</description>
         <url>http://download.opensuse.org/repositories/mozilla/SUSE_Factory</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - Wine CVS Builds</name>
+        <name>openSUSE BuildService - Wine CVS Builds</name>
         <summary>Snapshots of Wine CVS</summary>
         <description>Wine is an Open Source implementation of the Windows API, so it allows you to run some Windows applications in openSUSE. This repository provides the latest CVS (development) snapshot packages of Wine.</description>
         <url>http://download.opensuse.org/repositories/Emulators:/Wine/SUSE_Factory</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - Games (action)</name>
+        <name>openSUSE BuildService - Games (action)</name>
         <summary>A collection of action games</summary>
         <summary xml:lang="sk">Zbierka akčných hier</summary>
         <description>Contains several action games including Open Arena (shoot 'em up), Flight Gear (flight simulator) and Torcs (3D racing simulator).</description>
         <url>http://download.opensuse.org/repositories/games:/action/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - Drivers for webcams</name>
+        <name>openSUSE BuildService - Drivers for webcams</name>
         <summary>Recent drivers for webcams</summary>
         <description>Contains recent drivers for hundreds of different webcams.</description>
         <url>http://download.opensuse.org/repositories/drivers:/webcam/SUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - Drivers for Wireless LAN</name>
-        <name xml:lang="sk">FACTORY - Ovládače kariet pre bezdrôtové siete</name>
+        <name>openSUSE BuildService - Drivers for Wireless LAN</name>
         <summary>Recent drivers for wlan</summary>
         <summary xml:lang="sk">Najnovšie ovládače wlan kariet</summary>
         <description>Contains up-to-date drivers for Wireless LAN.</description>
         <url>http://download.opensuse.org/repositories/drivers:/wlan/SUSE_Linux_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - Virtualization (QEMU)</name>
+        <name>openSUSE BuildService - Virtualization (QEMU)</name>
         <summary>Latest builds of Qemu</summary>
         <description>Provides up-to-date builds of QEMU, a generic and open source machine emulator and virtualizer.</description>
         <url>http://download.opensuse.org/repositories/Virtualization:/Qemu/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - Virtualization (VirtualBox)</name>
-        <name xml:lang="sk">FACTORY - Virtualizácia (VirtualBox)</name>
+        <name>openSUSE BuildService - Virtualization (VirtualBox)</name>
         <summary>Latest builds of Virtualbox</summary>
         <description>Provides up-to-date builds of VirtualBox, a general-purpose open-source full virtualizer for x86 hardware.</description>
         <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - PHP</name>
+        <name>openSUSE BuildService - PHP</name>
         <summary>Latest updates for PHP software</summary>
         <description>Provides the latest packages and multiple-version builds of PHP software.</description>
         <url>http://download.opensuse.org/repositories/server:/php/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - Database</name>
-        <name xml:lang="sk">FACTORY - Databázy</name>
+        <name>openSUSE BuildService - Database</name>
         <summary>Latest updates for database software</summary>
         <description>Latest updates for database software including Firebird and MySQL.</description>
         <url>http://download.opensuse.org/repositories/server:/database/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <name>FACTORY - Mail Server</name>
-        <name xml:lang="sk">FACTORY - E-mailový server</name>
+        <name>openSUSE BuildService - Mail Server</name>
         <summary>Latest updates for postfix, exim and tools around them.</summary>
         <description>Providing the latest updates for postfix, exim and tools around them.</description>
         <url>http://download.opensuse.org/repositories/server:/mail/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <name>FACTORY - KDE:Backports</name>
+        <name>openSUSE BuildService - KDE:Backports</name>
         <summary>Backports of KDE applications</summary>
         <summary xml:lang="sk">Nové KDE aplikácie pre už vydané distribúcie</summary>
         <description>Updates to the KDE software that is shipped with the distribution (backports).</description>
         <url>http://download.opensuse.org/repositories/KDE:/Backports/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <name>FACTORY - KDE:Community</name>
+        <name>openSUSE BuildService - KDE:Community</name>
         <summary>Community repository for KDE</summary>
         <description>Provides additional KDE software maintained by the openSUSE KDE community. This includes filelight, d3lphin, kooldock, and much more.</description>
         <url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <name>FACTORY - GNOME:STABLE</name>
+        <name>openSUSE BuildService - GNOME:STABLE</name>
         <summary>Backport of latest stable GNOME</summary>
         <summary xml:lang="sk">Najnovší stabilný GNOME pre už vydané distribúcie</summary>
         <description>This provides the latest stable, unsupported release of GNOME for openSUSE 10.3.</description>
         <url>http://download.opensuse.org/repositories/GNOME:/STABLE/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <name>FACTORY - GNOME:Community</name>
+        <name>openSUSE BuildService - GNOME:Community</name>
         <summary>Community repository for GNOME</summary>
         <description>Updates to the GNOME software that is shipped with the distribution (backports).</description>
         <url>http://software.opensuse.org/download/GNOME:/Community/openSUSE_Factory/</url>
