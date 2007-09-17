@@ -7,20 +7,28 @@
 
 	    <repository recommended="true" format="yast">
 		<name>10.3 - Main Repository (OSS)</name>
-		<summary>Main repository of openSUSE 10.3 including only open source software (OSS)</summary>
-		<description>The big, main Open Source Software (OSS) repository for openSUSE 10.3, giving you access to all the thousands of official packages maintained by the openSUSE team.</description>
+		<summary>Main repository of openSUSE 10.3 including only
+		Open Source Software</summary>
+		<description>The big Open Source Software (OSS) repository
+		for openSUSE 10.3, giving you access to thousands of
+		packages maintained by the openSUSE team. (Due to the size of
+		the repository, adding it may take some time. 512 MB of RAM
+		or an enabled SWAP partition are highly recommended in case
+		you want to access this repository at installation time.)
+		 </description>
 <!-- this is NOT a /distribution/ link since YaST does check for double repos
      based on the URL -->
 		<url>http://download.opensuse.org/repositories/openSUSE:10.3/standard/</url>
 	    </repository>
-
 	    <repository recommended="true" format="yast">
-		<name>10.3 - Main Repository (NON-OSS)</name>
-		<summary>Main repository of openSUSE 10.3 (Non-Open Source Software)</summary>
-		<description>The main, official openSUSE 10.3 repository for all the Non Open Source Software maintained by the openSUSE team. In here you can find Real Player, Opera, Java, Flash, and much more.</description>
+		<name>10.3 - Addon Repository (NON-OSS)</name>
+		<summary>Non-Open Source Software Addon repository for openSUSE 10.3</summary>
+		<description>The official openSUSE 10.3 repository for all
+		Non-Open Source Software maintained by the openSUSE team,
+		including RealPlayer, Opera, Java, Flash, and
+		more.</description>
 		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
 	    </repository>
-
 	    <repository recommended="false" format="yast">
 		<name>10.3 - Main Repository (DEBUG)</name>
 		<summary>Main repository of openSUSE 10.3 including the debuginfo packages</summary>
