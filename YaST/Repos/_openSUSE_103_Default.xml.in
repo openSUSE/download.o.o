@@ -6,7 +6,7 @@
 	<repositories>
 
 	    <repository recommended="true" format="yast">
-		<_name>10.3 - Main Repository (OSS)</_name>
+		<_name>Main Repository (OSS)</_name>
 		<_summary>Main repository of openSUSE 10.3 including only
 		Open Source Software</_summary>
 		<_description>The big Open Source Software (OSS) repository
@@ -21,7 +21,7 @@
 		<url>http://download.opensuse.org/repositories/openSUSE:10.3/standard/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
-		<_name>10.3 - Addon Repository (NON-OSS)</_name>
+		<_name>Main Repository (NON-OSS)</_name>
 		<_summary>Non-Open Source Software Addon repository for openSUSE 10.3</_summary>
 		<_description>The official openSUSE 10.3 repository for all
 		Non-Open Source Software maintained by the openSUSE team,
@@ -30,7 +30,7 @@
 		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
-		<_name>10.3 - Main Repository (DEBUG)</_name>
+		<_name>Main Repository (DEBUG)</_name>
 		<_summary>Main repository of openSUSE 10.3 including the debuginfo packages</_summary>
 		<_description>This repository is useful for those that want to debug applications on openSUSE 10.3. For experts only.</_description>
 		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>
