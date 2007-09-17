@@ -1,17 +1,18 @@
-<?xml version="1.0"?>
-<!-- Additional Repositories for openSUSE 10.3
-     These are maintained by Stephan Kulow <coolo@suse.de> -->
+<?xml version="1.0" encoding="UTF-8"?>
 <metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
   <group distversion="openSUSE Factory">
     <repositories>
       <repository recommended="false" format="yast">
         <name>10.3 - Main Repository (Sources)</name>
+        <name xml:lang="de">10.3 - Hauptfundgrube (Quellen)</name>
+        <name xml:lang="sk">10.3 - Hlavný repozitár (Zdroje)</name>
         <summary>Main repository of openSUSE 10.3 (Source packages)</summary>
         <description>The repository of all source packages in openSUSE 10.3. For experts only.</description>
         <url>http://ftp.opensuse.org/pub/opensuse/distribution/10.3/repo/src-oss/suse/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>10.3 - Update Repository</name>
+        <name xml:lang="sk">10.3 - Repozitár s aktualizáciami</name>
         <summary>Repository for official updates to 10.3</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 10.3.</description>
         <url>http://download.opensuse.org/update/10.3</url>
@@ -25,6 +26,7 @@
       <repository recommended="false" format="rpm-md">
         <name>FACTORY - X11:XGL</name>
         <summary>Latest Compiz release</summary>
+        <summary xml:lang="sk">Najnovšia verzia Compizu</summary>
         <description>This repository contains the latest software that brings you composite effects and technology. It includes Xgl, Compiz, and Compiz Fusion packages maintained by the openSUSE Community.</description>
         <url>http://download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/</url>
       </repository>
@@ -43,7 +45,7 @@
       <repository recommended="false" format="rpm-md">
         <name>FACTORY - Mozilla</name>
         <summary>Most recent builds of Mozilla Software like Firefox</summary>
-        <description>Containing the latest releases of all Mozilla software, such as the popular Thunderbird (mail client), Firefox and SeaMonkey (web browsers). </description>
+        <description>Containing the latest releases of all Mozilla software, such as the popular Thunderbird (mail client), Firefox and SeaMonkey (web browsers).</description>
         <url>http://download.opensuse.org/repositories/mozilla/SUSE_Factory</url>
       </repository>
       <repository recommended="false" format="rpm-md">
@@ -55,7 +57,8 @@
       <repository recommended="false" format="rpm-md">
         <name>FACTORY - Games (action)</name>
         <summary>A collection of action games</summary>
-        <description>Contains several action games including Open Arena (shoot 'em up), Flight Gear (flight simulator) and Torcs (3D racing simulator). </description>
+        <summary xml:lang="sk">Zbierka akčných hier</summary>
+        <description>Contains several action games including Open Arena (shoot 'em up), Flight Gear (flight simulator) and Torcs (3D racing simulator).</description>
         <url>http://download.opensuse.org/repositories/games:/action/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
@@ -66,18 +69,21 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>FACTORY - Drivers for Wireless LAN</name>
+        <name xml:lang="sk">FACTORY - Ovládače kariet pre bezdrôtové siete</name>
         <summary>Recent drivers for wlan</summary>
+        <summary xml:lang="sk">Najnovšie ovládače wlan kariet</summary>
         <description>Contains up-to-date drivers for Wireless LAN.</description>
         <url>http://download.opensuse.org/repositories/drivers:/wlan/SUSE_Linux_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>FACTORY - Virtualization (QEMU)</name>
         <summary>Latest builds of Qemu</summary>
-        <description>Provides up-to-date builds of QEMU, a generic and open source machine emulator and virtualizer. </description>
+        <description>Provides up-to-date builds of QEMU, a generic and open source machine emulator and virtualizer.</description>
         <url>http://download.opensuse.org/repositories/Virtualization:/Qemu/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>FACTORY - Virtualization (VirtualBox)</name>
+        <name xml:lang="sk">FACTORY - Virtualizácia (VirtualBox)</name>
         <summary>Latest builds of Virtualbox</summary>
         <description>Provides up-to-date builds of VirtualBox, a general-purpose open-source full virtualizer for x86 hardware.</description>
         <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox/openSUSE_Factory/</url>
@@ -90,12 +96,14 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>FACTORY - Database</name>
+        <name xml:lang="sk">FACTORY - Databázy</name>
         <summary>Latest updates for database software</summary>
         <description>Latest updates for database software including Firebird and MySQL.</description>
         <url>http://download.opensuse.org/repositories/server:/database/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>FACTORY - Mail Server</name>
+        <name xml:lang="sk">FACTORY - E-mailový server</name>
         <summary>Latest updates for postfix, exim and tools around them.</summary>
         <description>Providing the latest updates for postfix, exim and tools around them.</description>
         <url>http://download.opensuse.org/repositories/server:/mail/openSUSE_Factory/</url>
@@ -103,6 +111,7 @@
       <repository recommended="false" format="yast">
         <name>FACTORY - KDE:Backports</name>
         <summary>Backports of KDE applications</summary>
+        <summary xml:lang="sk">Nové KDE aplikácie pre už vydané distribúcie</summary>
         <description>Updates to the KDE software that is shipped with the distribution (backports).</description>
         <url>http://download.opensuse.org/repositories/KDE:/Backports/openSUSE_Factory/</url>
       </repository>
@@ -115,6 +124,7 @@
       <repository recommended="false" format="yast">
         <name>FACTORY - GNOME:STABLE</name>
         <summary>Backport of latest stable GNOME</summary>
+        <summary xml:lang="sk">Najnovší stabilný GNOME pre už vydané distribúcie</summary>
         <description>This provides the latest stable, unsupported release of GNOME for openSUSE 10.3.</description>
         <url>http://download.opensuse.org/repositories/GNOME:/STABLE/openSUSE_Factory/</url>
       </repository>
