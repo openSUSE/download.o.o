@@ -5,122 +5,387 @@
       <repository recommended="false" format="yast">
         <name>Main Repository (Sources)</name>
         <name xml:lang="de">Hauptfundgrube (Quellen)</name>
+        <name xml:lang="km">ឃ្លាំង​ចម្បង (ប្រភព)</name>
+        <name xml:lang="nl">Hoofd-installatiebron (broncode)</name>
+        <name xml:lang="pt_BR">Repositório Principal (Fontes)</name>
+        <name xml:lang="uk">Головне сховище (джерела)</name>
         <summary>Main repository of openSUSE 10.3 (Source packages)</summary>
+        <summary xml:lang="km">ឃ្លាំង​ចម្បង​របស់​អូផឹន​ស៊ូស៊ី ១០.៣ (កញ្ចប់​ប្រភព)</summary>
+        <summary xml:lang="nl">Hoofd-installatiebron van openSUSE 10.3 (broncodepakketten)</summary>
+        <summary xml:lang="pt_BR">Repositório principal do openSUSE 10.3 (Pacotes fonte)</summary>
+        <summary xml:lang="uk">Головне сховище для openSUSE 10.3 (джерельні пакунки)</summary>
         <description>The repository of all source packages in openSUSE 10.3. For experts only.</description>
+        <description xml:lang="fi">Asennuslähde kaikille openSUSE 10.3:n lähdekoodipaketeille. Vain edistyneille käyttäjille.</description>
+        <description xml:lang="km">ឃ្លាំង​របស់​កញ្ចប់​ប្រភព​ទាំង​អស់​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១០.៣ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​ប៉ុណ្ណោះ ។</description>
+        <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE 10.3. Alleen voor ervaren gebruikers.</description>
+        <description xml:lang="pt_BR">O repositório de todos os pacotes fonte do openSUSE 10.3. Para especialistas apenas.</description>
+        <description xml:lang="uk">Сховище для всіх джерельних пакунків в openSUSE 10.3. Тільки для експертів.</description>
         <url>http://download.opensuse.org/distribution/10.3/repo/src-oss/suse/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>Main Update Repository</name>
+        <name xml:lang="km">ឃ្លាំង​ធ្វើ​ឲ្យ​ទាន់សម័យ​ចម្បង</name>
+        <name xml:lang="nl">Hoofd-opwaardeerbron</name>
+        <name xml:lang="pt_BR">Repositório Principal de Atualização</name>
+        <name xml:lang="uk">Головне сховище з оновленнями</name>
         <summary>Repository for official updates to 10.3</summary>
+        <summary xml:lang="fi">10.3 virallinen päivitysten asennuslähde.</summary>
+        <summary xml:lang="km">ឃ្លាំង​សម្រាប់​ភាព​ទាន់សម័យ​ជា​ផ្លូវការ​ទៅ ១០.៣</summary>
+        <summary xml:lang="nl">Installatiebron met officiële opwaarderingen voor 10.3</summary>
+        <summary xml:lang="pt_BR">Repositório para atualizações oficiais do 10.3</summary>
+        <summary xml:lang="uk">Сховище для офіційних оновлень в 10.3</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 10.3.</description>
+        <description xml:lang="km">នៅ​ក្នុង​ឃ្លាំង​នេះ អ្នក​រក​សុវត្ថិភាព និង​ថែទាំ​​​ភាព​ទាន់សម័យ​ទៅ​ជា​អូផឹន​ស៊ូស៊ី​១០.៣ ។</description>
+        <description xml:lang="nl">In deze bron vindt u veiligheids- en onderhoudsopwaarderingen voor openSUSE 10.3</description>
+        <description xml:lang="pt_BR">Neste repositório você encontra atualizações de manutenção e segurança para o openSUSE 10.3.</description>
+        <description xml:lang="uk">В цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 10.3.</description>
         <url>http://download.opensuse.org/update/10.3</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - XFCE</name>
+        <name xml:lang="fi">openSUSE BuildService - XFCE</name>
+        <name xml:lang="km">openSUSE BuildService - XFCE</name>
+        <name xml:lang="nl">openSUSE BuildService - XFCE</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - XFCE</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - XFCE</name>
         <summary>Latest XFCE release</summary>
+        <summary xml:lang="fi">Viimeisin XFCE julkaisu</summary>
+        <summary xml:lang="km">ការ​ចេញផ្សាយ​​ចុ​ងក្រោយ​បំផុត​របស់ XFCE</summary>
+        <summary xml:lang="nl">Nieuwste uitgave van XFCE</summary>
+        <summary xml:lang="pt_BR">Último lançamento XFCE</summary>
+        <summary xml:lang="uk">Найновіший випуск XFCE</summary>
         <description>The XFCE repository in the openSUSE Build Service, which provides you with the unsupported but latest version of the XFCE desktop environment and software.</description>
+        <description xml:lang="fi">openSUSE build servicen XFCE asennuslähde, joka tarjoaa tukemattoman mutta viimeisimmän version XFCE työpöydästä ja ohjelmistoista.</description>
+        <description xml:lang="km">ឃ្លាំង XFCE នៅ​ក្នុង​សេវាស្ថាបនា​របស់​អូផឹនស៊ូស៊ី ដែល​ផ្ដល់​​ឲ្យ​អ្នក​នូវ​អ្វី​ដែល​មិនបានគាំទ្រ ប៉ុន្តែ​កំណែ​ចុងក្រោយ​បំផុត​របស់​បរិស្ថាន​ផ្ទៃតុ XFCE និង​កម្មវិធី ។</description>
+        <description xml:lang="nl">De XFCE-bron in de openSUSE Build Service. Deze levert u de niet-ondersteunde, maar nieuwste versie van de  XFCE Desktop Environment en -software.</description>
+        <description xml:lang="uk">Сховище XFCE в службі складання пакунків openSUSE, яке надає найновіші версії стільничного середовища XFCE і його програм.</description>
         <url>http://download.opensuse.org/repositories/X11:/xfce/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - X11:XGL</name>
+        <name xml:lang="fi">openSUSE BuildService - X11:XGL</name>
+        <name xml:lang="km">openSUSE BuildService - X11 ៖ XGL</name>
+        <name xml:lang="nl">openSUSE BuildService - X11:XGL</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - X11:XGL</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - X11:XGL</name>
         <summary>Latest Compiz release</summary>
+        <summary xml:lang="fi">Viimeisin Compiz julkaisu</summary>
+        <summary xml:lang="km">ការ​ចេញផ្សាយ​ Compiz ចុង​ក្រោយ​បំផុត</summary>
+        <summary xml:lang="nl">Nieuwste uitgave van Compiz</summary>
+        <summary xml:lang="pt_BR">Último lançamento do Compiz</summary>
         <summary xml:lang="sk">Najnovšia verzia Compizu</summary>
+        <summary xml:lang="uk">Найновіший випуск Compiz</summary>
         <description>This repository contains the latest software that brings you composite effects and technology. It includes Xgl, Compiz, and Compiz Fusion packages maintained by the openSUSE Community.</description>
+        <description xml:lang="fi">Tämä asennuslähde sisältää viimeisimmät ohjelmistot jotka tuovat komposiitti efektit ja teknologian. Sisältäen openSUSE yhteisön ylläpitämät Xgl, Compiz, ja Compiz Fusion paketit.</description>
+        <description xml:lang="km">ឃ្លាំង​នេះ​មាន​កម្មវិធី​កំណែ​ចុងក្រោយ​បំផុត ដែល​​នឹង​អនុញ្ញាត​ឲ្យ​ចងក្រង​បែបផែន និង​បច្ចេកវិទ្យា ។ វា​រួមមាន​ Xgl, Compiz និង Compiz កញ្ចប់​ដែល​បានថែទាំ​ដោយ​សហគមន៍​អូផឹន​ស៊ូស៊ី ។</description>
+        <description xml:lang="nl">Deze bron bevat de nieuwste software voor composite-effecten en -technologie. Ze bevat onder anderen Xgl, Compiz en Compiz Fusion, onderhouden door de openSUSE-gemeenschap.</description>
+        <description xml:lang="uk">Це сховище містить найновіше ПЗ, яке надає ефекти і технологію composite. Включає пакунки Xgl, Compiz і Compiz Fusion, які підтримуються спільнотою openSUSE.</description>
         <url>http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/</url>
       </repository>
 
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - OpenOffice.org</name>
+        <name xml:lang="fi">openSUSE BuildService - OpenOffice.org</name>
+        <name xml:lang="km">openSUSE BuildService - OpenOffice.org</name>
+        <name xml:lang="nl">openSUSE BuildService - OpenOffice.org</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - OpenOffice.org</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - OpenOffice.org</name>
         <summary>Latest stable OpenOffice.org release</summary>
+        <summary xml:lang="fi">Viimeisin vakaa OpenOffice.org julkaisu</summary>
+        <summary xml:lang="km">ការ​ចេញ​ផ្សាយ​​កំណែ​ស្ថិតស្ថេរ​ចុងក្រោយ​បំផុត​របស់ OpenOffice.org</summary>
+        <summary xml:lang="nl">Nieuwste stabiele uitgave van OpenOffice.org</summary>
+        <summary xml:lang="pt_BR">Último lançamento estável do OpenOffice.org</summary>
+        <summary xml:lang="uk">Найновіша стабільна версія OpenOffice.org</summary>
         <description>Provides you with the latest stable version of OpenOffice.org, the Office suite that openSUSE uses.</description>
+        <description xml:lang="km">ផ្ដល់​​ឲ្យ​អ្នក​នូវ​កំណែ​ស្ថិតស្ថេរ​ចុងក្រោយ​បំផុត​របស់ OpenOffice.org ដែល​ជា​កម្មវិធី​ការិយាល័យ​នៅ​ក្នុង​អូនផឹន​ស៊ូស៊ី ។</description>
+        <description xml:lang="nl">Levert de nieuwste stabiele versie van OpenOffice.org, het standaard kantoorpakket van openSUSE.</description>
+        <description xml:lang="pt_BR">Provê a última versão estávl do OpenOffice.org, a suíte Office que o openSUSE usa.</description>
+        <description xml:lang="uk">Надає найновішу стабільну версію OpenOffice.org, офісного набору, який вживається в openSUSE.</description>
         <url>http://download.opensuse.org/repositories/OpenOffice.org:/STABLE/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Mozilla</name>
+        <name xml:lang="fi">openSUSE BuildService - Mozilla</name>
+        <name xml:lang="km">openSUSE BuildService - Mozilla</name>
+        <name xml:lang="nl">openSUSE BuildService - Mozilla</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - Mozilla</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - Mozilla</name>
         <summary>Most recent builds of Mozilla Software like Firefox</summary>
+        <summary xml:lang="fi">Viimeisimmät versiot Mozilla ohjelmistoista kuten Firefox</summary>
+        <summary xml:lang="km">ការ​ស្ថាបនា​ថ្មីៗ​បំផុត​របស់​កម្មវិធី Mozilla ដូច​ជា Firefox</summary>
+        <summary xml:lang="nl">Meestrecente versies van Mozilla-software, zoals Firefox</summary>
+        <summary xml:lang="pt_BR">Compilações mais recentes de Softwares do Mozilla como o Firefox</summary>
+        <summary xml:lang="uk">Оновлення для програм Mozilla, напр., Firefox</summary>
         <description>Containing the latest releases of all Mozilla software, such as the popular Thunderbird (mail client), Firefox and SeaMonkey (web browsers).</description>
+        <description xml:lang="fi">Sisältää viimeisimmät Mozilla ohjelmistoperheen julkaisut, kuten suositut Thunderbird (sähköpostiohjelma), Firefox ja SeaMonkey (web-selaimet).</description>
+        <description xml:lang="km">មាន​ការ​ចេញផ្សាយ​ចុងក្រោយ​បំផុត​របស់​កម្មវិធី Mozilla ទាំង​អស់ ដូចជា​កម្មវិធី​អ៊ីមែល​ដ៏មាន​ប្រជាប្រិយភាព Thunderbird, កម្មវិធី​រុករក​បណ្ដាញ Firefox និង SeaMonkey ។</description>
+        <description xml:lang="nl">Bevat de nieuwste uitgaven van alle Mozilla-software, zoals de populaire Thunderbird (e-mail), Firefox en SeaMonkey (webbrowsers).</description>
+        <description xml:lang="pt_BR">Contém os últimos lançamentos de todos os softwares da Mozilla, como o popular Thunderbird (cliente de e-mail), o Firefox e o SeaMonkey (navegadores de internet).</description>
+        <description xml:lang="uk">Містить найновіші випуски програм Mozilla, таких як Thunderbird (поштовий клієнт), Firefox і SeaMonkey (навігатори Тенет).</description>
         <url>http://download.opensuse.org/repositories/mozilla/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Wine CVS Builds</name>
+        <name xml:lang="fi">openSUSE BuildService - Wine CVS Builds</name>
+        <name xml:lang="km">openSUSE BuildService - ការ​ស្ថាបនា Wine CVS</name>
+        <name xml:lang="nl">openSUSE BuildService - Wine CVS Builds</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - Wine CVS Builds</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - Wine CVS</name>
         <summary>Snapshots of Wine CVS</summary>
+        <summary xml:lang="fi">Wine CVS tilannevedos</summary>
+        <summary xml:lang="km">រូបថត​អេក្រង់របស់ Wine CVS</summary>
+        <summary xml:lang="nl">Snapshots van Wine CVS</summary>
+        <summary xml:lang="pt_BR">Snapshots do Wine CVS</summary>
+        <summary xml:lang="uk">Версія в розробці (CVS) Wine</summary>
         <description>Wine is an Open Source implementation of the Windows API, so it allows you to run some Windows applications in openSUSE. This repository provides the latest CVS (development) snapshot packages of Wine.</description>
+        <description xml:lang="fi">Wine on avoimen lähdekoodin toteutus Windows API:sta, joten se sallii joidenkin Windows sovellusten suorittamisen openSUSEssa. Tämä asennuslähde tarjoaa viimeisimmät CVS (kehitys) tilannevedospaketit Winestä.</description>
+        <description xml:lang="km">Wine គឺ​ជា​​កម្មវិធី​ប្រភព​កូដ​ចំហ​របស់ Windows API ដូច្នេះ​វា​អនុញ្ញាត​ឲ្យ​អ្នក​រត់​កម្មវិធី​​របស់​វីនដូ​មួយ​ចំនួន​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ។ ឃ្លាំង​នេះ​ផ្ដល់​នូវ​​កញ្ចប់​រូបថត​អេក្រង់​របស់ CVS (ការ​អភិវឌ្ឍន៍) ចុង​ក្រោយ​បំផុត​របស់ Wine ។</description>
+        <description xml:lang="nl">Wine is een opensource-implementatie van de Windows API. Deze maakt het mogelijk om enkele Windows-programma's op openSUSE te draaien. Deze bron bevat de laatste CVS (ontwikkeling) pakketten van Wine.</description>
+        <description xml:lang="uk">Wine - це (ВПЗ) впровадження Windows API, що дозволяє запускати деякі програми Windows в openSUSE. Це сховище надає пакунки Wine з найновішими модифікаціями з CVS (версія в розробці).</description>
         <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Games (action)</name>
+        <name xml:lang="fi">openSUSE BuildService - Games (action)</name>
+        <name xml:lang="km">openSUSE BuildService - ល្បែង (សកម្មភាព)</name>
+        <name xml:lang="nl">openSUSE BuildService - Spellen (actie)</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - Jogos (ação)</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - Ігри</name>
         <summary>A collection of action games</summary>
+        <summary xml:lang="fi">Kokoelma toimintapelejä</summary>
+        <summary xml:lang="km">បណ្ដុំ​ល្បែង​សកម្មភាព</summary>
+        <summary xml:lang="nl">Een verzameling actiespellen.</summary>
+        <summary xml:lang="pt_BR">Uma coleção de jogos de ação</summary>
         <summary xml:lang="sk">Zbierka akčných hier</summary>
+        <summary xml:lang="uk">Збірка ігор</summary>
         <description>Contains several action games including Open Arena (shoot 'em up), Flight Gear (flight simulator) and Torcs (3D racing simulator).</description>
+        <description xml:lang="fi">Sisältää useita toiminta pelejä mukaan lukien Open Arena (ammuntapeli), Flight Gear (lentosimulaattori) ja Torcs (3D rata-ajo simulaattori).</description>
+        <description xml:lang="km">មាន​ល្បែក​សកម្មភាព​ជា​ច្រើន​ដែល​រួម​មាន Open Arena (shoot 'em up), Flight Gear (កម្មវិធីក្លែង​ធ្វើ​ការ​ប្រយុទ្ធ) និង Torcs (កម្មវិធីក្លែង​ធ្វើ​ការ​ប្រណាំង​ត្រីមាត្រ) ។</description>
+        <description xml:lang="nl">Bevat diverse actiespellen zoals Open Arena (schietspel), Flight Gear (vluchtsimulator) en Torcs (3D race-simulator).</description>
+        <description xml:lang="pt_BR">Contém diversos jogos de ação incluindo o Open Arena (tiro em primeira pessoa), o Flight Gear (simulador de vôo) e o Torcs (simulador de corrida 3D).</description>
+        <description xml:lang="uk">Містить декілька ігор: Open Arena (стрілянина), Flight Gear (симуляція польотів) і Torcs (3D симуляція гонок).</description>
         <url>http://download.opensuse.org/repositories/games:/action/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Drivers for webcams</name>
+        <name xml:lang="fi">openSUSE BuildService - Drivers for webcams</name>
+        <name xml:lang="km">openSUSE BuildService - កម្មវិធី​បញ្ជា​សម្រាប់​ម៉ាស៊ីន​ថត​លើ​បណ្ដាញ</name>
+        <name xml:lang="nl">openSUSE BuildService - Stuurprogramma's voor webcams</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - Drivers para webcams</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - Драйвери для веб-камер</name>
         <summary>Recent drivers for webcams</summary>
+        <summary xml:lang="km">កម្មវិធី​បញ្ជា​ថ្មីៗ​សម្រាប់​ម៉ាស៊ីន​ថត​លើ​បណ្ដាញ</summary>
+        <summary xml:lang="nl">Recente stuurprogramma's voor webcams</summary>
+        <summary xml:lang="pt_BR">Drivers recentes para webcams</summary>
+        <summary xml:lang="uk">Найновіші драйвери для веб-камер</summary>
         <description>Contains recent drivers for hundreds of different webcams.</description>
+        <description xml:lang="fi">Sisältää viime aikaiset ajurit satoihin erilaisiin web-kameroihin.</description>
+        <description xml:lang="km">មាន​កម្មវិធី​បញ្ជា​ថ្មីៗ​សម្រាប់​ម៉ាស៊ីន​ថត​លើ​បណ្ដាញ​ផ្សេងៗទៀត​រាប់រយ ។</description>
+        <description xml:lang="nl">Bevat recente stuurprogramma's voor honderden verschillende webcams.</description>
+        <description xml:lang="pt_BR">Contém drivers recentes para centenas de webcams diferentes.</description>
+        <description xml:lang="uk">Містить найновіші драйвери для сотень різних веб-камер.</description>
         <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Drivers for Wireless LAN</name>
+        <name xml:lang="fi">openSUSE BuildService - Drivers for Wireless LAN</name>
+        <name xml:lang="km">openSUSE BuildService - កម្មវិធី​បញ្ជា​សម្រាប់ LAN ឥត​ខ្សែ</name>
+        <name xml:lang="nl">openSUSE BuildService - Stuurprogramma's voor draadloze netwerken</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - Drivers para placas Wireless LAN</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - Драйвери для Wireless LAN</name>
         <summary>Recent drivers for wlan</summary>
+        <summary xml:lang="km">កម្មវិធី​បញ្ជា​ថ្មីៗ​សម្រាប់ wlan</summary>
+        <summary xml:lang="nl">Recente stuurprogramma's voor draadloze netwerken</summary>
+        <summary xml:lang="pt_BR">Drivers recentes para placas wlan</summary>
         <summary xml:lang="sk">Najnovšie ovládače wlan kariet</summary>
+        <summary xml:lang="uk">Найновіші драйвери для wlan</summary>
         <description>Contains up-to-date drivers for Wireless LAN.</description>
+        <description xml:lang="fi">Sisältää päivitettyjä ajureita langattomille verkkokorteille.</description>
+        <description xml:lang="km">មាន​កម្មវិធី​បញ្ជា​ទាន់សម័យ​សម្រាប់ LAN ឥតខ្សែ ។</description>
+        <description xml:lang="nl">Bevat actuele stuurprogramma's voor draadloze netwerken.</description>
+        <description xml:lang="pt_BR">Contém drivers atualizados para placas Wireless LAN.</description>
+        <description xml:lang="uk">Містить найновіші драйвери бездротової ЛОМ.</description>
         <url>http://download.opensuse.org/repositories/drivers:/wlan/SUSE_Linux_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Virtualization (QEMU)</name>
+        <name xml:lang="fi">openSUSE BuildService - Virtualization (QEMU)</name>
+        <name xml:lang="km">openSUSE BuildService - ការ​និម្មិត (QEMU)</name>
+        <name xml:lang="nl">openSUSE BuildService - Virtualisatie (QEMU)</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - Virtualização (QEMU)</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - Віртуалізація (QEMU)</name>
         <summary>Latest builds of Qemu</summary>
+        <summary xml:lang="km">ការ​ស្ថាបនា​ចុងក្រោយ​បំផុត​របស់ Qemu</summary>
+        <summary xml:lang="nl">Nieuwste uitgaven van Qemu</summary>
+        <summary xml:lang="pt_BR">Últimas compilaçõs do Qemu</summary>
+        <summary xml:lang="uk">Найновіші версії Qemu</summary>
         <description>Provides up-to-date builds of QEMU, a generic and open source machine emulator and virtualizer.</description>
+        <description xml:lang="km">ផ្ដល់​នូវ​ការ​ស្ថាបនា​ជា​ទូទៅ និង​កម្មវិធី​ត្រាប់តាម​ប្រភព​កូដ​ចំហ និង​កម្មវិធី​និម្មិត​របស់ QEMU ។</description>
+        <description xml:lang="nl">Levert de nieuwste versies van QEMU, een generieke en opensource computer-emulator en -virtualisatie.</description>
+        <description xml:lang="pt_BR">Provê compilações atualizadas do QEMU, um emulador de máquina e virtualizador genérico e de código aberto.</description>
+        <description xml:lang="uk">Найновіші пакунки QEMU, емуляція і віртуалізація (з відкритим кодом) машин.</description>
         <url>http://download.opensuse.org/repositories/Virtualization:/Qemu/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Virtualization (VirtualBox)</name>
+        <name xml:lang="fi">openSUSE BuildService - Virtualization (VirtualBox)</name>
+        <name xml:lang="km">openSUSE BuildService - ការ​និម្មិត (ប្រអប់​និម្មិត)</name>
+        <name xml:lang="nl">openSUSE BuildService - Virtualisatie (VirtualBox)</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - Virtualização (VirtualBox)</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - Віртуалізація (VirtualBox)</name>
         <summary>Latest builds of Virtualbox</summary>
+        <summary xml:lang="km">ការ​ស្ថាបនា​ចុងក្រោយ​បំផុត​របស់​ប្រអប់​និម្មិត</summary>
+        <summary xml:lang="nl">Nieuwste uitgaven van Virtualbox</summary>
+        <summary xml:lang="pt_BR">Últimas compilações do Virtualbox</summary>
+        <summary xml:lang="uk">Найновіші версії Virtualbox</summary>
         <description>Provides up-to-date builds of VirtualBox, a general-purpose open-source full virtualizer for x86 hardware.</description>
+        <description xml:lang="km">ផ្ដល់​នូវ​ការ​ស្ថាបនា​​ទាន់សម័យ​របស់ VirtualBox ជាំ​កម្មវិធី​និម្មិត​ដែល​មាន​លក្ខណៈ​ជា​កម្មវិធី​ប្រភព​កូដ​ចំហ​ពេញលេញ​សម្រាប់​គ្រប់គោលបំណង​សម្រាប់​ផ្នែក​រឹង x86 ។</description>
+        <description xml:lang="nl">Levert de nieuwste versies van VirtualBox, opensource virtualisatie voor x86-hardware.</description>
+        <description xml:lang="pt_BR">Provê compilações atualizadas do VirtualBox, um virtualizador completo de uso geral e código aberto para hardware x86.</description>
+        <description xml:lang="uk">Найновіші пакунки VirtualBox, програма (з відкритим кодом) загального вжитку для віртуалізації апаратного обладнання x86.</description>
         <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - PHP</name>
+        <name xml:lang="fi">openSUSE BuildService - PHP</name>
+        <name xml:lang="km">openSUSE BuildService - PHP</name>
+        <name xml:lang="nl">openSUSE BuildService - PHP</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - PHP</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - PHP</name>
         <summary>Latest updates for PHP software</summary>
+        <summary xml:lang="fi">Viimeisimmät päivitykset PHP ohjelmistoon</summary>
+        <summary xml:lang="km">ភាព​ទាន់សម័យ​ចុងក្រោយ​បំផុត​សម្រាប់​កម្មវិធី PHP</summary>
+        <summary xml:lang="nl">Laatste opwaarderingen voor PHP-software</summary>
+        <summary xml:lang="pt_BR">Últimas atualizações para software PHP</summary>
+        <summary xml:lang="uk">Оновлення для PHP</summary>
         <description>Provides the latest packages and multiple-version builds of PHP software.</description>
+        <description xml:lang="fi">Tarjoaa viimeisimmät paketit ja useita eri versioita PHP ohjelmistosta.</description>
+        <description xml:lang="km">ផ្ដល់​នូវ​កញ្ចប់​ និង​​ការ​ស្ថាបនា​កំណែ​ច្រើន​ចុងក្រោយ​បំផុត​របស់​កម្មវិធី PHP ។</description>
+        <description xml:lang="nl">Levert de nieuwste pakketten en meerdere versies van PHP-software.</description>
+        <description xml:lang="pt_BR">Provê os últimos pacotes e compilações de múltiplas versões de softwares PHP.</description>
+        <description xml:lang="uk">Надає найновіші пакунки програмного забезпечення для PHP.</description>
         <url>http://download.opensuse.org/repositories/server:/php/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Database</name>
+        <name xml:lang="fi">openSUSE BuildService - Database</name>
+        <name xml:lang="km">openSUSE BuildService - មូលដ្ឋាន​ទិន្នន័យ</name>
+        <name xml:lang="nl">openSUSE BuildService - Database</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - Base de Dados</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - Бази даних</name>
         <summary>Latest updates for database software</summary>
+        <summary xml:lang="fi">Viimeisimmät päivitykset tietokanta ohjelmistoihin</summary>
+        <summary xml:lang="km">ភាព​ទាន់សម័យ​ចុងក្រោយ​បំផុត​សម្រាប់​កម្មវិធី​​មូលដ្ឋាន​ទិន្នន័យ</summary>
+        <summary xml:lang="nl">Laatste opwaarderingen voor databasesoftware</summary>
+        <summary xml:lang="pt_BR">Últimas atualizações para software de base de dados</summary>
+        <summary xml:lang="uk">Оновлення для баз даних</summary>
         <description>Latest updates for database software including Firebird and MySQL.</description>
+        <description xml:lang="fi">Viimeisimmät tietokantaohjelmistot mukaan lukien Firebird ja MySQL.</description>
+        <description xml:lang="km">ភាព​ទាន់សម័យ​ចុងក្រោយ​បំផុត​សម្រាប់​កម្មវិធី​មូលដ្ឋាន​ទិន្នន័យ រួម​មាន Firebird និង MySQL ។</description>
+        <description xml:lang="nl">Laatste opwaarderingen voor databasesoftware inclusief Firebird en MySQL</description>
+        <description xml:lang="pt_BR">Últimas atualizações para software de base de dados incluindo o Firebird e o MySQL.</description>
+        <description xml:lang="uk">Оновлення для ПЗ баз даних, таких як Firebird і MySQL.</description>
         <url>http://download.opensuse.org/repositories/server:/database/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Mail Server</name>
+        <name xml:lang="fi">openSUSE BuildService - Mail Server</name>
+        <name xml:lang="km">openSUSE BuildService - ម៉ាស៊ីន​បម្រើ​សំបុត្រ</name>
+        <name xml:lang="nl">openSUSE BuildService - Mailserver</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - Servidor de E-mail</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - Поштовий сервер</name>
         <summary>Latest updates for postfix, exim and tools around them.</summary>
+        <summary xml:lang="fi">Viimeisimmät päivitykset postfixiin, eximiin ja niiden käyttämiin työkaluihin.</summary>
+        <summary xml:lang="km">ភាព​ទាន់សម័យ​ចុងក្រោយ​បំផុត​សម្រាប់បច្ច័យ exim និង​ឧបករណ៍​ជុំវិញ​ពួកវា ។</summary>
+        <summary xml:lang="nl">Laatste opwaarderingen voor postfix, exim en bijhorende programma's.</summary>
+        <summary xml:lang="pt_BR">Últimas atualizações para o postfix, o exim e suas ferramentas.</summary>
+        <summary xml:lang="uk">Оновлення для postfix, exim і засоби навколо них.</summary>
         <description>Providing the latest updates for postfix, exim and tools around them.</description>
+        <description xml:lang="km">ផ្ដល់​នូវ​ភាព​ទាន់សម័យ​ចុងក្រោយ​បំផុត​សម្រាប់​បច្ច័យ exim និង​ឧបករណ៍​ផ្សេងៗ​ជុំវិញ​ពួក​វា ។</description>
+        <description xml:lang="nl">Levert de nieuwste opwaarderingen voor postfix, exim en bijhorende programma's.</description>
+        <description xml:lang="pt_BR">Provê as últimas atualizações para o postfix, o exim e suas ferramentas.</description>
+        <description xml:lang="uk">Надає оновлення для postfix, exim і засобів для них.</description>
         <url>http://download.opensuse.org/repositories/server:/mail/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:Backports</name>
+        <name xml:lang="fi">openSUSE BuildService - KDE:Backports</name>
+        <name xml:lang="km">openSUSE BuildService - KDE ៖ បំណះ</name>
+        <name xml:lang="nl">openSUSE BuildService - KDE-backports</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - KDE:Backports</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - KDE:Backports</name>
         <summary>Backports of KDE applications</summary>
+        <summary xml:lang="km">បំណះ​របស់​កម្មវិធី KDE</summary>
+        <summary xml:lang="nl">KDE-toepassingen, geschikt gemaakt voor de KDE-versie meegeleverd met openSUSE</summary>
+        <summary xml:lang="pt_BR">Backports de aplicativos do KDE</summary>
         <summary xml:lang="sk">Nové KDE aplikácie pre už vydané distribúcie</summary>
+        <summary xml:lang="uk">Оновлені програми KDE</summary>
         <description>Updates to the KDE software that is shipped with the distribution (backports).</description>
+        <description xml:lang="km">ការ​ធ្វើ​ឲ្យ​ទាន់សម័យ​កម្មវិធី​របស់ KDE ដែល​ត្រូវ​បាន​​យក​មក​ជា​មួយ​នឹង​ការចែកចាយ (បំណះ) ។</description>
+        <description xml:lang="nl">Opwaarderingen voor KDE-software die met deze distributie wordt meegeleverd.</description>
+        <description xml:lang="pt_BR">Atualizações para softwares do KDE que vêm com a distribuição (backports).</description>
+        <description xml:lang="uk">Оновлення для програм KDE, які прийшли з дистрибутивом (backports).</description>
         <url>http://download.opensuse.org/repositories/KDE:/Backports/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:Community</name>
+        <name xml:lang="fi">openSUSE BuildService - KDE:Community</name>
+        <name xml:lang="km">openSUSE BuildService - KDE ៖ សហគមន៍</name>
+        <name xml:lang="nl">openSUSE BuildService - KDE-gemeenschap</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - KDE:Comunidade</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - KDE:Community</name>
         <summary>Community repository for KDE</summary>
+        <summary xml:lang="fi">KDE:n yhteisöasennuslähde</summary>
+        <summary xml:lang="km">ឃ្លាំង​ចម្បង​សម្រាប់ KDE</summary>
+        <summary xml:lang="nl">Gemeenschapsbron voor KDE</summary>
+        <summary xml:lang="pt_BR">Repositórios da comunidade para o KDE</summary>
+        <summary xml:lang="uk">Громадські сховища для KDE</summary>
         <description>Provides additional KDE software maintained by the openSUSE KDE community. This includes filelight, d3lphin, kooldock, and much more.</description>
+        <description xml:lang="fi">Tarjoaa lisää KDE ohjelmia openSUSEn KDE yhteisöltä. Mukaan lukien filelight, d3lphin, kooldock, ja paljon muita.</description>
+        <description xml:lang="km">ផ្ដល់​នូវ​កម្មវិធី​របស់ KDE បន្ថែម​ដែល​បាន​ថែទាំ​ដោយ​សហគមន៍ openSUSE KDE  ។ វា​រួម​មាន filelight, d3lphin, kooldock និង​អ្វីៗ​ជា​ច្រើន​ទៀត ។</description>
+        <description xml:lang="nl">Levert aanvullende KDE-software die onderhouden wordt door de openSUSE-gemeenschap. Dit is inclusief  filelight, d3lphin, kooldock en vele andere programma's.</description>
+        <description xml:lang="pt_BR">Provê software adicional para o KDE mantido pela comunidade KDE do openSUSE. Isto inclui o filelight, o d3lphin, o kooldock  e muito mais.</description>
+        <description xml:lang="uk">Надає додаткове ПЗ KDE, яке підтримується спільнотою openSUSE KDE. Включає filelight, dоlphin, kooldock і багато інших.</description>
         <url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:STABLE</name>
+        <name xml:lang="fi">openSUSE BuildService - GNOME:STABLE</name>
+        <name xml:lang="km">openSUSE BuildService - GNOME ៖ ស្ថិតស្ថេរ</name>
+        <name xml:lang="nl">openSUSE BuildService - GNOME-stabiel</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - GNOME:ESTÁVEL</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - GNOME:STABLE</name>
         <summary>Backport of latest stable GNOME</summary>
+        <summary xml:lang="km">បំណះ​​​របស់​ GNOME ដែល​ថេរ​ចុង​ក្រោយ​បំផុត</summary>
+        <summary xml:lang="nl">Nieuwste stabiele GNOME-programma's, geschikt gemaakt voor de GNOME-versie meegeleverd met openSUSE</summary>
+        <summary xml:lang="pt_BR">Backport do último GNOME estável</summary>
         <summary xml:lang="sk">Najnovší stabilný GNOME pre už vydané distribúcie</summary>
+        <summary xml:lang="uk">Найновіший стабільний GNOME</summary>
         <description>This provides the latest stable, unsupported release of GNOME for openSUSE 10.3.</description>
+        <description xml:lang="fi">Tarjoaa viimeisimmän vakaan ei tuetun GNOME julkaisun openSUSE 10.3:lle.</description>
+        <description xml:lang="km">វា​ផ្ដល់​នូវ​ការ​ចេញផ្សាយ​ស្ថិតស្ថេរ មិន​បាន​គាំទ្រ​ចុងក្រោយ​បំផុត​របស់ GNOME សម្រាប់​អូផឹន​ស៊ូស៊ី ១០.៣ ។</description>
+        <description xml:lang="nl">Dit levert de nieuwste, stabiele, niet-ondersteunde uitgave van GNOME voor openSUSE 10.3.</description>
+        <description xml:lang="uk">Містить найновіший стабільний випуск GNOME для openSUSE 10.3.</description>
         <url>http://download.opensuse.org/repositories/GNOME:/STABLE/openSUSE_10.3/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:Community</name>
+        <name xml:lang="fi">openSUSE BuildService - GNOME:Community</name>
+        <name xml:lang="km">openSUSE BuildService - GNOME ៖ សហគមន៍</name>
+        <name xml:lang="nl">openSUSE BuildService - GNOME-gemeenschap</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - GNOME:Comunidade</name>
+        <name xml:lang="uk">Служба складання пакунків openSUSE - GNOME:Community</name>
         <summary>Community repository for GNOME</summary>
+        <summary xml:lang="fi">GNOME:n yhteisöasennuslähde</summary>
+        <summary xml:lang="km">ឃ្លាំង​សហគមន៍​សម្រាប់ GNOME</summary>
+        <summary xml:lang="nl">Gemeenschapsbron voor GNOME</summary>
+        <summary xml:lang="pt_BR">Repositórios da comunidade para o GNOME</summary>
+        <summary xml:lang="uk">Громадські сховища для GNOME</summary>
         <description>Updates to the GNOME software that is shipped with the distribution (backports).</description>
+        <description xml:lang="km">ការ​ធ្វើ​ឲ្យ​ទាន់សម័យ​កម្មវិធី​របស់ GNOME ដែល​ត្រូវ​បាន​​យក​មក​ជា​មួយ​នឹង​ការចែកចាយ (បំណះ) ។</description>
+        <description xml:lang="nl">Opwaarderingen voor GNOME-software die met deze distributie wordt meegeleverd.</description>
+        <description xml:lang="pt_BR">Atualizações para softwares do GNOME que vêm com a distribuição (backports).</description>
+        <description xml:lang="uk">Оновлення для програм GNOME, які прийшли з дистрибутивом (backports).</description>
         <url>http://download.opensuse.org/repositories/GNOME:/Community/openSUSE_10.3/</url>
       </repository>
     </repositories>

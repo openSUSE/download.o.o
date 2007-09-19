@@ -5,24 +5,63 @@
 
 	    <repository recommended="true" format="yast">
 		<name>Main Repository (OSS)</name>
-		<name xml:lang="de">Hauptfundgrube (Quellen)</name>
+		<name xml:lang="de">Hauptfundgrube (Opensource Software - OSS)</name>
+		<name xml:lang="km">ឃ្លាំង​ចម្បង (កម្មវិធី​កូដ​ចំហ)</name>
+		<name xml:lang="nl">Hoofd-installatiebron (opensource)</name>
+		<name xml:lang="pt_BR">Repositório Principal (OSS)</name>
+		<name xml:lang="uk">Головне сховище (ВПЗ)</name>
 		<summary>Main repository of openSUSE 10.3 including only Open Source Software</summary>
+		<summary xml:lang="fi">openSUSE 10.3 perusasennuslähde sisältää vain vapaan lähdekoodin ohjelmia</summary>
+		<summary xml:lang="km">ឃ្លាំង​ចម្បង​របស់​អូផឹនស៊ូស៊ី ១០.៣ រួម​មាន​តែ​កម្មវិធី​កូដ​ចំហ​​ប៉ុណ្ណោះ</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 10.3 met alleen opensource-software</summary>
+		<summary xml:lang="pt_BR">Repositório principal do openSUSE 10.3 inclui apenas Softwares de Código Aberto</summary>
+		<summary xml:lang="uk">Головне сховище openSUSE 10.3, яке містить тільки ПЗ з відкритим кодом</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 10.3, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 10.3:lle, josta löydät tuhansia openSUSE tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi, lisääminen saattaa olla aikaa vievää. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltuja jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
+		<description xml:lang="km">ឃ្លាំង​កម្មវិធី​កូដ​ចំហ​ដ៏ធំ​មួយ​របស់​អូផឹន​ស៊ូស៊ី ១០.៣ ដោយ​ផ្ដល់​​ឲ្យ​អ្នក​នូវ​ការ​ចូល​ដំណើរការ​កញ្ចប់​រាប់ពាន់​ដែល​បានថែទាំ​ដោយ​ក្រុម​អូផឹន​ស៊ូស៊ី ។ (អាស្រ័យ​លើ​ទំហំ​របស់​ឃ្លាំង ការ​បន្ថែម​វា​អាច​ចំណាយ​ពេល​មួយ​រយៈ ។ ​បាន​ផ្ដល់​អនុសាសន៍​ឲ្យ​មាន​សតិ​​ន​ទំហំ ៥១២ មេកាបៃ ឬ​បាន​បើក​ភាគ​ថាស​ស្វ ក្នុង​ករណី​ដែលអ្នក​ចង់​ចូល​ដំណើរការ​ឃ្លាំង​នេះ​នៅ​ពេល​ដំឡើង ។.)</description>
+		<description xml:lang="nl">De grote opensource-installatiebron van openSUSE 10.3 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 mb RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+		<description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE 10.3, яке надає вам доступ до тисяч пакунків, які підтримуються командою openSUSE. (Через те, що сховище має величезний розмір, його додавання може зайняти багато часу. Рекомендовано мати 512 МБ операційної пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під час встановлення системи.)</description>
 
 		<url>http://download.opensuse.org/repositories/openSUSE:10.3/standard/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
 		<name>Main Repository (NON-OSS)</name>
 		<name xml:lang="de">Hauptfundgrube (Nicht-OSS)</name>
+		<name xml:lang="km">ឃ្លាំង​ចម្បង (មិនមែន​​កម្មវិធី​កូដ​ចំហ)</name>
+		<name xml:lang="nl">Hoofd-installatiebron (niet-opensource)</name>
+		<name xml:lang="pt_BR">Repositório Principal (OSS)</name>
+		<name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 10.3</summary>
+		<summary xml:lang="fi">Ei avoimen lähdekoodin lisäasennuslähde openSUSE 10.3:lle</summary>
+		<summary xml:lang="km">ឃ្លាំង​បន្ថែម​របស់​កម្មវិធី​មិនមែន​កូដ​ចំហ​សម្រាប់​អូផឹន​ស៊ូស៊ី ១០.៣</summary>
+		<summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE 10.3</summary>
+		<summary xml:lang="pt_BR">Repositório Adicional de Sotwares que Não Tem o Código Aberto para o openSUSE 10.3</summary>
+		<summary xml:lang="uk">Додаткове сховище openSUSE 10.3, яке містить ПЗ з закритим кодом</summary>
 		<description>The official openSUSE 10.3 repository for all Non-Open Source Software maintained by the openSUSE team, including RealPlayer, Opera, Java, Flash, and more.</description>
+		<description xml:lang="fi">Virallinen openSUSE tiimin ylläpitämä openSUSE 10.3 asennuslähde kaikille ei-vapaan lähdekoodin ohjelmistoille, mukaan lukien RealPlayer, Opera, Java, Flash, ja niin edelleen.</description>
+		<description xml:lang="km">ឃ្លាំង​អូផឹន​ស៊ូស៊ី ១០.៣ ជា​ផ្លូវការ​សម្រាប់​កម្មវិធី​មិនមែន​កូដ​ចំហ ដែល​បានថែទាំ​ដោយ​ក្រុម​អូផឹនស៊ូស៊ី រួម​មាន RealPlayer, Opera, Java, Flash និង​អ្វីៗ​​ជា​ច្រើន​ទៀត ។</description>
+		<description xml:lang="nl">De officiële openSUSE 10.3-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals RealPlayer, Opera, Flash, Java, etc.</description>
+		<description xml:lang="uk">Офіційне сховище openSUSE 10.3 для всіх програм з закритим кодом, які підтримуються командою openSUSE: RealPlayer, Opera, Java, Flash та інших.</description>
 		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
 		<name>Main Repository (DEBUG)</name>
 		<name xml:lang="de">Hauptfundgrube (DEBUG)</name>
+		<name xml:lang="km">ឃ្លាំង​ចម្បង (បំបាត់​កំហុស)</name>
+		<name xml:lang="nl">Hoofd-installatiebron (debuginformatie)</name>
+		<name xml:lang="pt_BR">Repositório Principal (DEBUG)</name>
+		<name xml:lang="uk">Головне сховище (DEBUG)</name>
 		<summary>Main repository of openSUSE 10.3 including the debuginfo packages</summary>
+		<summary xml:lang="fi">openSUSE 10.3 perusasennuslähde sisältää myös debuginfo-paketit</summary>
+		<summary xml:lang="km">ឃ្លាំង​ចម្បង​របស់​អូផឹន​ស៊ូស៊ី ១០.៣ រួម​មាន​កញ្ចប់​ debuginfo</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 10.3 met debuginfo-pakketten</summary>
+		<summary xml:lang="pt_BR">Repositório principal do openSUSE 10.3 incluindo pacotes debuginfo</summary>
+		<summary xml:lang="uk">Головне сховище openSUSE 10.3, яке містить пакунки debuginfo</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 10.3. For experts only.</description>
+		<description xml:lang="fi">Tämä asennuslähde on käytännöllinen niille jotka tahtovat debugata ohjelmistoja openSUSE 10.3:ssa. Vain asiantuntijoille.</description>
+		<description xml:lang="km">ឃ្លាំង​នេះ​មាន​ប្រយោជន៍​សម្រាប់​អ្វី​ដែល​អ្នក​ចង់​បំបាត់​កំហុស​កម្មវិធី​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១០.៣ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​ប៉ុណ្ណោះ ។</description>
+		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's willen opsporen. Alleen voor ervaren gebruikers.</description>
+		<description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 10.3. Тільки для експертів.</description>
 		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>
 	    </repository>
 
