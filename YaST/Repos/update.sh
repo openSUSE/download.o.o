@@ -20,4 +20,8 @@ for i in *.xml; do
   intltool-merge --xml-style po $i.in $i
 done
 
+svn ci -m "update translations"
+
 rm -rf po
+
+ssh root@ftp-opensuse.suse.de svn up /srv/www-local/download
