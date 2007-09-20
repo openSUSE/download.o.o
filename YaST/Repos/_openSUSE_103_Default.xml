@@ -23,6 +23,7 @@
 		<description xml:lang="fr">Le gros dépôt de logiciels Open Sources (OSS) pour openSUSE 10.3 vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (A cause de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active est fortement recommandé dans le cas où vous voulez y acceder au moment de l'installation.)</description>
 		<description xml:lang="km">ឃ្លាំង​កម្មវិធី​កូដ​ចំហ​ដ៏ធំ​មួយ​របស់​អូផឹន​ស៊ូស៊ី ១០.៣ ដោយ​ផ្ដល់​​ឲ្យ​អ្នក​នូវ​ការ​ចូល​ដំណើរការ​កញ្ចប់​រាប់ពាន់​ដែល​បានថែទាំ​ដោយ​ក្រុម​អូផឹន​ស៊ូស៊ី ។ (អាស្រ័យ​លើ​ទំហំ​របស់​ឃ្លាំង ការ​បន្ថែម​វា​អាច​ចំណាយ​ពេល​មួយ​រយៈ ។ ​បាន​ផ្ដល់​អនុសាសន៍​ឲ្យ​មាន​សតិ​​ន​ទំហំ ៥១២ មេកាបៃ ឬ​បាន​បើក​ភាគ​ថាស​ស្វ ក្នុង​ករណី​ដែលអ្នក​ចង់​ចូល​ដំណើរការ​ឃ្លាំង​នេះ​នៅ​ពេល​ដំឡើង ។.)</description>
 		<description xml:lang="nl">De grote opensource-installatiebron van openSUSE 10.3 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 mb RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+		<description xml:lang="pt_BR">O grande repositório OSS (Open Source Software - Softwares de Código Aberto) para o openSUSE 10.3, dá a você acesso a milhares de pacotes mantidos pela equipe openSUSE. (Devido ao tamanho do repositório, adicioná-lo pode levar algum tempo. 512 MB de memória RAM ou uma partição SWAP habilitada são altamente recomendados no cao de você querer acessar esse repositório no momento da instalação.)</description>
 		<description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE 10.3, яке надає вам доступ до тисяч пакунків, які підтримуються командою openSUSE. (Через те, що сховище має величезний розмір, його додавання може зайняти багато часу. Рекомендовано мати 512 МБ операційної пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під час встановлення системи.)</description>
 
 		<url>http://download.opensuse.org/repositories/openSUSE:10.3/standard/</url>
@@ -46,6 +47,7 @@
 		<description xml:lang="fr">Dépôt officiel d'openSUSE 10.3 pour tous les logiciels Non-Open Source maintenu par l'équipe d'openSUSE, il contient RealPlayer, Opera, Java, Flash, et bien d'autres.</description>
 		<description xml:lang="km">ឃ្លាំង​អូផឹន​ស៊ូស៊ី ១០.៣ ជា​ផ្លូវការ​សម្រាប់​កម្មវិធី​មិនមែន​កូដ​ចំហ ដែល​បានថែទាំ​ដោយ​ក្រុម​អូផឹនស៊ូស៊ី រួម​មាន RealPlayer, Opera, Java, Flash និង​អ្វីៗ​​ជា​ច្រើន​ទៀត ។</description>
 		<description xml:lang="nl">De officiële openSUSE 10.3-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals RealPlayer, Opera, Flash, Java, etc.</description>
+		<description xml:lang="pt_BR">O repositório oficial do openSUSE 10.3 para todos os Softwares Sem Codigo Aberto (NON-OSS - Non-Open Source Software) mantido pela equipe openSUSE, incluindo o RealPlayer, o Opera, o Java, o Flash, e mais.</description>
 		<description xml:lang="uk">Офіційне сховище openSUSE 10.3 для всіх програм з закритим кодом, які підтримуються командою openSUSE: RealPlayer, Opera, Java, Flash та інших.</description>
 		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
 	    </repository>
@@ -69,6 +71,7 @@
 		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent deboguer des applications sous openSUSE 10.3. Pour experts seulement.</description>
 		<description xml:lang="km">ឃ្លាំង​នេះ​មាន​ប្រយោជន៍​សម្រាប់​អ្វី​ដែល​អ្នក​ចង់​បំបាត់​កំហុស​កម្មវិធី​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១០.៣ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​ប៉ុណ្ណោះ ។</description>
 		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's willen opsporen. Alleen voor ervaren gebruikers.</description>
+		<description xml:lang="pt_BR">Este repositório é util para aqueles que querem depurar aplicativos no openSUSE 10.3. Para especialistas somente.</description>
 		<description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 10.3. Тільки для експертів.</description>
 		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>
 	    </repository>
