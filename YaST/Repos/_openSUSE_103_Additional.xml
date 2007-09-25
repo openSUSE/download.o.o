@@ -18,6 +18,7 @@
         <name xml:lang="pt_BR">Repositório Principal (Fontes)</name>
         <name xml:lang="sk">Hlavný repozitár (zdrojové kódy)</name>
         <name xml:lang="uk">Головне сховище (джерела)</name>
+        <name xml:lang="zh_CN">主安装源（代码）</name>
         <name xml:lang="zh_TW">主要套件庫 (原碼)</name>
         <summary>Main repository of openSUSE 10.3 (Source packages)</summary>
         <summary xml:lang="cs">Hlavní repozitář openSUSE 10.3 (zdrojové balíky)</summary>
@@ -64,6 +65,7 @@
         <name xml:lang="pt_BR">Repositório Principal de Atualização</name>
         <name xml:lang="sk">Hlavný repozitár s aktualizáciami</name>
         <name xml:lang="uk">Головне сховище з оновленнями</name>
+        <name xml:lang="zh_CN">主更新安装源</name>
         <name xml:lang="zh_TW">主要更新套件庫</name>
         <summary>Repository for official updates to 10.3</summary>
         <summary xml:lang="cs">Repozitář s oficiálními aktualizacemi openSUSE 10.3</summary>
@@ -79,6 +81,7 @@
         <summary xml:lang="pt_BR">Repositório para atualizações oficiais do 10.3</summary>
         <summary xml:lang="sk">Repozitár s oficiálnymi aktualizáciami pre 10.3</summary>
         <summary xml:lang="uk">Сховище для офіційних оновлень в 10.3</summary>
+        <summary xml:lang="zh_CN">升级到 10.3 的官方安装源</summary>
         <summary xml:lang="zh_TW">10.3 的官方更新套件庫</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 10.3.</description>
         <description xml:lang="cs">V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE 10.3.</description>
@@ -110,6 +113,7 @@
         <name xml:lang="nl">openSUSE BuildService - XFCE</name>
         <name xml:lang="pt_BR">openSUSE BuildService - XFCE</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - XFCE</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - XFCE</name>
         <summary>Latest XFCE release</summary>
         <summary xml:lang="cs">Nejnovější vydání XFCE</summary>
         <summary xml:lang="da">Seneste Xfce-udgivelse</summary>
@@ -125,6 +129,7 @@
         <summary xml:lang="pt_BR">Versão mais recente do XFCE</summary>
         <summary xml:lang="sk">Najnovšie vydania XFCE</summary>
         <summary xml:lang="uk">Найновіший випуск XFCE</summary>
+        <summary xml:lang="zh_CN">最新 XFCE 版本</summary>
         <summary xml:lang="zh_TW">最新釋出的 XFCE</summary>
         <description>The XFCE repository in the openSUSE Build Service, which provides you with the unsupported but latest version of the XFCE desktop environment and software.</description>
         <description xml:lang="cs">XFCE repozitář z openSUSE Build Service poskytující nejnovější nepodporovanou verzi grafického prostředí XFCE.</description>
@@ -154,6 +159,7 @@
         <name xml:lang="nl">openSUSE BuildService - X11:XGL</name>
         <name xml:lang="pt_BR">openSUSE BuildService - X11:XGL</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - X11:XGL</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - X11:XGL</name>
         <summary>Latest Compiz release</summary>
         <summary xml:lang="cs">Nejnovější vydání Compiz</summary>
         <summary xml:lang="da">Seneste Compiz-udgivelse</summary>
@@ -169,6 +175,7 @@
         <summary xml:lang="pt_BR">Versão mais recente do Compiz</summary>
         <summary xml:lang="sk">Najnovšia verzia Compizu</summary>
         <summary xml:lang="uk">Найновіший випуск Compiz</summary>
+        <summary xml:lang="zh_CN">最新 Compiz 版本</summary>
         <summary xml:lang="zh_TW">最新釋出的 Compiz</summary>
         <description>This repository contains the latest software that brings you composite effects and technology. It includes Xgl, Compiz, and Compiz Fusion packages maintained by the openSUSE Community.</description>
         <description xml:lang="cs">Tento repozitář obsahuje nejnovější software pro kompozitní grafické technologie. Obsahuje balíky Xgl, Compiz a Compiz Fusion spravované komunitou openSUSE.</description>
@@ -199,6 +206,7 @@
         <name xml:lang="nl">openSUSE BuildService - OpenOffice.org</name>
         <name xml:lang="pt_BR">openSUSE BuildService - OpenOffice.org</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - OpenOffice.org</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - OpenOffice.org</name>
         <summary>Latest stable OpenOffice.org release</summary>
         <summary xml:lang="cs">Poslední stabilní verze OpenOffice.org</summary>
         <summary xml:lang="da">Nyeste stabile OpenOffice.org-udgivelse</summary>
@@ -213,6 +221,7 @@
         <summary xml:lang="pt_BR">Versão estável mais recente do OpenOffice.org</summary>
         <summary xml:lang="sk">Najnovšia stabilná verzia OpenOffice.org</summary>
         <summary xml:lang="uk">Найновіша стабільна версія OpenOffice.org</summary>
+        <summary xml:lang="zh_CN">最新 OpenOffice.org 稳定版本发布</summary>
         <summary xml:lang="zh_TW">最新釋出的穩定版 OpenOffice.org</summary>
         <description>Provides you with the latest stable version of OpenOffice.org, the Office suite that openSUSE uses.</description>
         <description xml:lang="cs">Poskytuje nejnovější stabilní verzi OpenOffice.org, kancelářského balíku používaného v openSUSE.</description>
@@ -242,6 +251,7 @@
         <name xml:lang="nl">openSUSE BuildService - Mozilla</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Mozilla</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Mozilla</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - Mozilla</name>
         <summary>Most recent builds of Mozilla Software like Firefox</summary>
         <summary xml:lang="cs">Nejnovější vydání Mozilla softwaru, např. Firefox</summary>
         <summary xml:lang="da">Mest nylige pakker af Mozilla-software såsom Firefox</summary>
@@ -284,6 +294,7 @@
         <name xml:lang="nl">openSUSE BuildService - Wine CVS Builds</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Wine CVS Builds</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Wine CVS</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - Wine CVS Builds</name>
         <summary>Snapshots of Wine CVS</summary>
         <summary xml:lang="cs">Vývojovbé verze Wine</summary>
         <summary xml:lang="da">Øjebliksbilleder af Wine CVS</summary>
@@ -296,6 +307,7 @@
         <summary xml:lang="pt_BR">Snapshots do Wine CVS</summary>
         <summary xml:lang="sk">Každodenné verzie programu Wine z CVS</summary>
         <summary xml:lang="uk">Версія в розробці (CVS) Wine</summary>
+        <summary xml:lang="zh_CN">Wine CVS 的 Snapshot</summary>
         <summary xml:lang="zh_TW">Wine CVS 的最新版</summary>
         <description>Wine is an Open Source implementation of the Windows API, so it allows you to run some Windows applications in openSUSE. This repository provides the latest CVS (development) snapshot packages of Wine.</description>
         <description xml:lang="cs">Wine je opensource implementace Windows API, kterí umožňuje spouštět některé Windows aplikace v systému openSUSE. Tento repozitář obsahuje balíky s nejnovějšími vývojovými verzemi Wine.</description>
@@ -323,6 +335,7 @@
         <name xml:lang="nl">openSUSE BuildService - Spellen (actie)</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Jogos (ação)</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Ігри</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - 游戏（动作类）</name>
         <summary>A collection of action games</summary>
         <summary xml:lang="cs">Sbírka akčních her</summary>
         <summary xml:lang="da">En samling af action-spil</summary>
@@ -368,6 +381,7 @@
         <name xml:lang="nl">openSUSE BuildService - Stuurprogramma's voor webcams</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Drivers para webcams</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Драйвери для веб-камер</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - 网络摄像头驱动</name>
         <summary>Recent drivers for webcams</summary>
         <summary xml:lang="cs">Nejnovější ovladače pro webové kamery</summary>
         <summary xml:lang="da">Nylige drivere til webcams</summary>
@@ -382,6 +396,7 @@
         <summary xml:lang="pt_BR">Drivers recentes para webcams</summary>
         <summary xml:lang="sk">Najnovšie ovládače webových kamier</summary>
         <summary xml:lang="uk">Найновіші драйвери для веб-камер</summary>
+        <summary xml:lang="zh_CN">网络摄像头的最新驱动</summary>
         <summary xml:lang="zh_TW">網路攝影機的最新驅動程式</summary>
         <description>Contains recent drivers for hundreds of different webcams.</description>
         <description xml:lang="cs">Obsahuje nejnovější ovladače pro stovky typů webových kamer.</description>
@@ -412,6 +427,7 @@
         <name xml:lang="pt_BR">openSUSE BuildService - Drivers para placas Wireless LAN</name>
         <name xml:lang="sk">openSUSE BuildService - Ovládače kariet pre bezdrôtové siete</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Драйвери для Wireless LAN</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 -  无线网卡驱动</name>
         <summary>Recent drivers for wlan</summary>
         <summary xml:lang="cs">Nejnovější ovladače pro wlan</summary>
         <summary xml:lang="da">Nylige drivere til wlan</summary>
@@ -426,6 +442,7 @@
         <summary xml:lang="pt_BR">Drivers recentes para placas wlan</summary>
         <summary xml:lang="sk">Najnovšie ovládače wlan kariet</summary>
         <summary xml:lang="uk">Найновіші драйвери для wlan</summary>
+        <summary xml:lang="zh_CN">wlan 无线网卡最新驱动</summary>
         <summary xml:lang="zh_TW">無線網路的最新驅動程式</summary>
         <description>Contains up-to-date drivers for Wireless LAN.</description>
         <description xml:lang="cs">Obsahuje aktuální ovladače pro bezdrátové LAN karty.</description>
@@ -457,6 +474,7 @@
         <name xml:lang="nl">openSUSE BuildService - Virtualisatie (QEMU)</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Virtualização (QEMU)</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Віртуалізація (QEMU)</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - 虚拟化 (QEMU)</name>
         <summary>Latest builds of Qemu</summary>
         <summary xml:lang="cs">Poslední verze Qemu</summary>
         <summary xml:lang="da">Seneste Qemu-pakker</summary>
@@ -469,6 +487,7 @@
         <summary xml:lang="pt">Últimas construções do Qemu</summary>
         <summary xml:lang="pt_BR">Compilações mais recentes do Qemu</summary>
         <summary xml:lang="uk">Найновіші версії Qemu</summary>
+        <summary xml:lang="zh_CN">Qemu 最新的编译</summary>
         <summary xml:lang="zh_TW">最新版的 Qemu</summary>
         <description>Provides up-to-date builds of QEMU, a generic and open source machine emulator and virtualizer.</description>
         <description xml:lang="cs">Obsahuje aktuální verzi QEMU, opensource emulátoru a virtualizačního nástroje.</description>
@@ -499,6 +518,7 @@
         <name xml:lang="pt_BR">openSUSE BuildService - Virtualização (VirtualBox)</name>
         <name xml:lang="sk">openSUSE BuildService - Virtualizácia (VirtualBox)</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Віртуалізація (VirtualBox)</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - 虚拟化 (VirtualBox)</name>
         <summary>Latest builds of Virtualbox</summary>
         <summary xml:lang="cs">Poslední verze Virtualbox</summary>
         <summary xml:lang="da">Seneste Virtualbox-pakker</summary>
@@ -511,6 +531,7 @@
         <summary xml:lang="pt">Últimas construções do Virtualbox</summary>
         <summary xml:lang="pt_BR">Compilações mais recentes do Virtualbox</summary>
         <summary xml:lang="uk">Найновіші версії Virtualbox</summary>
+        <summary xml:lang="zh_CN">Virtualbox 最新的编译</summary>
         <summary xml:lang="zh_TW">最新版的 Virtualbox</summary>
         <description>Provides up-to-date builds of VirtualBox, a general-purpose open-source full virtualizer for x86 hardware.</description>
         <description xml:lang="cs">Obsahuje aktuální verzi VirtualBoxu, opensource nástroje pro virtualizaci x86 hardwaru.</description>
@@ -540,6 +561,7 @@
         <name xml:lang="nl">openSUSE BuildService - PHP</name>
         <name xml:lang="pt_BR">openSUSE BuildService - PHP</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - PHP</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - PHP</name>
         <summary>Latest updates for PHP software</summary>
         <summary xml:lang="cs">Poslední aktualizace PHP</summary>
         <summary xml:lang="da">Seneste opdateringer til PHP-software</summary>
@@ -582,6 +604,7 @@
         <name xml:lang="nl">openSUSE BuildService - Database</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Base de Dados</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Бази даних</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - 数据库</name>
         <summary>Latest updates for database software</summary>
         <summary xml:lang="cs">Poslední aktualizace databázového softwaru</summary>
         <summary xml:lang="da">Seneste opdateringer til database-software</summary>
@@ -626,6 +649,7 @@
         <name xml:lang="nl">openSUSE BuildService - Mailserver</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Servidor de E-mail</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Поштовий сервер</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - 邮件服务器程序</name>
         <summary>Latest updates for postfix, exim and tools around them.</summary>
         <summary xml:lang="cs">Poslední aktualizace pro postfix, exim a související nástroje.</summary>
         <summary xml:lang="da">Seneste opdateringer til postfix, exim og tillægsværktøjer.</summary>
@@ -667,6 +691,7 @@
         <name xml:lang="nl">openSUSE BuildService - KDE-backports</name>
         <name xml:lang="pt_BR">openSUSE BuildService - KDE:Backports</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - KDE:Backports</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - KDE:Backports</name>
         <summary>Backports of KDE applications</summary>
         <summary xml:lang="cs">Zpětné porty KDE aplikací</summary>
         <summary xml:lang="da">Backports af KDE-programmer</summary>
@@ -706,6 +731,7 @@
         <name xml:lang="nl">openSUSE BuildService - KDE-gemeenschap</name>
         <name xml:lang="pt_BR">openSUSE BuildService - KDE:Comunidade</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - KDE:Community</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - KDE:Community</name>
         <summary>Community repository for KDE</summary>
         <summary xml:lang="cs">Komunitní repozitář s KDE</summary>
         <summary xml:lang="da">Softwarekilde fra fællesskabet med KDE</summary>
@@ -749,6 +775,7 @@
         <name xml:lang="nl">openSUSE BuildService - GNOME-stabiel</name>
         <name xml:lang="pt_BR">openSUSE BuildService - GNOME:ESTÁVEL</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - GNOME:STABLE</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - GNOME:STABLE</name>
         <summary>Backport of latest stable GNOME</summary>
         <summary xml:lang="cs">Zpětný port nejnovější stabilní verze GNOME</summary>
         <summary xml:lang="da">Backport af seneste stabile GNOME</summary>
@@ -789,6 +816,7 @@
         <name xml:lang="nl">openSUSE BuildService - GNOME-gemeenschap</name>
         <name xml:lang="pt_BR">openSUSE BuildService - GNOME:Comunidade</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - GNOME:Community</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - GNOME:Community</name>
         <summary>Community repository for GNOME</summary>
         <summary xml:lang="cs">Komunitní repozitář s GNOME</summary>
         <summary xml:lang="da">Softwarekilde fra fællesskabet med GNOME</summary>
