@@ -112,7 +112,7 @@
         <description xml:lang="sk">V tomto repozitáry nájdete bezpečnostné a opravné aktualizácie a openSUSE verzie 10.3.</description>
         <description xml:lang="uk">В цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 10.3.</description>
         <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 10.3 的安全性與維護性更新</description>
-        <url>http://download.opensuse.org/update/10.3</url>
+        <url>http://download.opensuse.org/update/10.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - XFCE</name>
@@ -1041,3 +1041,4 @@
     </repositories>
   </group>
 </metapackage>
+
