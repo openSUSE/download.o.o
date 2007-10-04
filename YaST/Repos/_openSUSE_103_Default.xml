@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
-    <group distversion="openSUSE Factory">
+    <group distversion="openSUSE Main Repository">
 	<repositories>
 
 	    <repository recommended="true" format="yast">
@@ -113,7 +113,7 @@
 		<description xml:lang="uk">Офіційне сховище openSUSE 10.3 для всіх програм з закритим кодом, які підтримуються командою openSUSE: RealPlayer, Opera, Java, Flash та інших.</description>
 		<description xml:lang="zh_CN">openSUSE 10.3 非开源软件官方安装源，其中软件由 openSUSE 团队维持，包括 RealPlayer、Opera、Java、Flash 以及更多。</description>
 		<description xml:lang="zh_TW">由 openSUSE 團隊維護之非開放原始碼軟體的官方 openSUSE 10.3 套件庫，包含了 RealPlayer, Opera, Java, Flash 以及其他更多軟體。</description>
-		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
+		<url>http://download.opensuse.org/distribution/10.3/repo/non-oss/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
 		<name>Main Repository (DEBUG)</name>
@@ -169,7 +169,7 @@
 		<description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 10.3. Тільки для експертів.</description>
 		<description xml:lang="zh_CN">此安装源对希望使用 openSUSE 10.3 调试程序的人员有用。仅供专家。</description>
 		<description xml:lang="zh_TW">這個套件庫對想要測試 openSUSE 10.3 應用程式非常有用。僅提供專家使用。</description>
-		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>
+		<url>http://download.opensuse.org/distribution/10.3/repo/debug/</url>
 	    </repository>
 
 	</repositories>
