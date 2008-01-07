@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
+    <group distversion="openSUSE Main Repository">
+	<repositories>
+
+	    <repository recommended="true" format="yast">
+		<name>Main Repository (OSS)</name>
+		<name xml:lang="cs">Hlavní repozitář (OSS)</name>
+		<name xml:lang="da">Hovedsoftwarekilde (OSS)</name>
+		<name xml:lang="de">Haupt-Repository (Opensource Software - OSS)</name>
+		<name xml:lang="es">Repositorio principal (OSS)</name>
+		<name xml:lang="fi">Pääasennuslähde (OSS)</name>
+		<name xml:lang="fr">Dépôt principal (OSS)</name>
+		<name xml:lang="hr">Glavni repozitorij (OSS)</name>
+		<name xml:lang="hu">Fő telepítési forrás (OSS)</name>
+		<name xml:lang="it">Sorgente di installazione (OSS)</name>
+		<name xml:lang="ja">メインリポジトリ (オープンソース)</name>
+		<name xml:lang="km">ឃ្លាំង​ចម្បង (កម្មវិធី​កូដ​ចំហ)</name>
+		<name xml:lang="nl">Hoofd-installatiebron (opensource)</name>
+		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਓਪਨ-ਸੋਰਸ)</name>
+		<name xml:lang="pt">Repositório Principal (OSS)</name>
+		<name xml:lang="pt_BR">Repositório Principal (OSS)</name>
+		<name xml:lang="ro">Sursă de instalare principală (OSS)</name>
+		<name xml:lang="ru">Основной репозитарий (OSS)</name>
+		<name xml:lang="sk">Hlavný repozitár (OSS)</name>
+		<name xml:lang="uk">Головне сховище (ВПЗ)</name>
+		<name xml:lang="zh_CN">主安装源 (OSS)</name>
+		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
+		<summary>Main repository of openSUSE 11.0 including only Open Source Software</summary>
+		<description>The big Open Source Software (OSS) repository for openSUSE 11.0, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+		<url>http://download.opensuse.org/distribution/SL-OSS-factory/inst-source/</url>
+	    </repository>
+	    <repository recommended="true" format="yast">
+		<name>Main Repository (NON-OSS)</name>
+		<name xml:lang="cs">Hlavní repozitář (NON-OSS)</name>
+		<name xml:lang="da">Hovedsoftwarekilde (NON-OSS)</name>
+		<name xml:lang="de">Haupt-Repository (Nicht-OSS)</name>
+		<name xml:lang="es">Repositorio principal (NON-OSS)</name>
+		<name xml:lang="fi">Pääasennuslähde (NON-OSS)</name>
+		<name xml:lang="fr">Dépôt principal (NON-OSS)</name>
+		<name xml:lang="hr">Glavni repozitorij (NON-OSS)</name>
+		<name xml:lang="hu">Elsődleges telepítési forrás (NON-OSS)</name>
+		<name xml:lang="it">Sorgente di installazione principale (NON-OSS)</name>
+		<name xml:lang="ja">メインリポジトリ (非オープンソース)</name>
+		<name xml:lang="km">ឃ្លាំង​ចម្បង (មិនមែន​​កម្មវិធី​កូដ​ចំហ)</name>
+		<name xml:lang="nb">Hovedarkiv (NON-OSS)</name>
+		<name xml:lang="nl">Hoofd-installatiebron (niet-opensource)</name>
+		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਗ਼ੈਰ-ਓਪਨ-ਸੋਰਸ)</name>
+		<name xml:lang="pt">Repositório Principal (NON-OSS)</name>
+		<name xml:lang="pt_BR">Repositório Principal (NON-OSS)</name>
+		<name xml:lang="ro">Sursă de instalare principală (NON-OSS)</name>
+		<name xml:lang="ru">Основной репозитарий (NON-OSS)</name>
+		<name xml:lang="sk">Hlavný repozitár (NON-OSS)</name>
+		<name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
+		<name xml:lang="zh_CN">主安装源 (NON-OSS)</name>
+		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
+		<summary>Non-Open Source Software Addon repository for openSUSE 11.0</summary>
+		<description>The official openSUSE 11.0 repository for all Non-Open Source Software maintained by the openSUSE team, including RealPlayer, Opera, Java, Flash, and more.</description>
+		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
+	    </repository>
+	    <repository recommended="false" format="yast">
+		<name>Main Repository (DEBUG)</name>
+		<name xml:lang="cs">Hlavní repozitář (DEBUG)</name>
+		<name xml:lang="da">Hovedsoftwarekilde (DEBUG)</name>
+		<name xml:lang="de">Haupt-Repository (DEBUG)</name>
+		<name xml:lang="es">Repositorio principal (DEBUG)</name>
+		<name xml:lang="fi">Pääasennuslähde (Debug)</name>
+		<name xml:lang="fr">Dépôt principal (DEBUG)</name>
+		<name xml:lang="hr">Glavni repozitorij (DEBUG)</name>
+		<name xml:lang="hu">Elsődleges telepítési forrás (debug)</name>
+		<name xml:lang="it">Sorgente di installazione principale (Debug)</name>
+		<name xml:lang="ja">メインリポジトリ (デバッグ)</name>
+		<name xml:lang="km">ឃ្លាំង​ចម្បង (បំបាត់​កំហុស)</name>
+		<name xml:lang="nb">Hovedarkiv (DEBUG)</name>
+		<name xml:lang="nl">Hoofd-installatiebron (debuginformatie)</name>
+		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਡੀਬੱਗ)</name>
+		<name xml:lang="pt">Repositório Principal (DEBUG)</name>
+		<name xml:lang="pt_BR">Repositório Principal (DEBUG)</name>
+		<name xml:lang="ro">Sursă de instalare principală (DEBUG)</name>
+		<name xml:lang="ru">Основной репозитарий (DEBUG)</name>
+		<name xml:lang="sk">Hlavný repozitár (debug)</name>
+		<name xml:lang="uk">Головне сховище (DEBUG)</name>
+		<name xml:lang="zh_CN">主安装源 (DEBUG 调试用)</name>
+		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
+		<summary>Main repository of openSUSE 11.0 including the debuginfo packages</summary>
+		<description>This repository is useful for those that want to debug applications on openSUSE 11.0. For experts only.</description>
+		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>
+	    </repository>
+
+	</repositories>
+    </group>
+</metapackage>
