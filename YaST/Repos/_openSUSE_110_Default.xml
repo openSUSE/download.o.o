@@ -27,7 +27,13 @@
 		<name xml:lang="zh_CN">主安装源 (OSS)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 11.0 including only Open Source Software</summary>
+		<summary xml:lang="fr">Dépôt principal d'openSUSE 11.0 contenant seulement les logiciels Open Source</summary>
+		<summary xml:lang="hu">Elsődleges, csak nyílt forrású csomagokat tartalmazó openSUSE 11.0 telepítési forrás</summary>
+		<summary xml:lang="pt_BR">Repositório principal do openSUSE 11.0 inclui apenas Softwares de Código Aberto</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 11.0, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+		<description xml:lang="fr">Le gros dépôt de logiciels Open Sources (OSS) pour openSUSE 11.0 vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (A cause de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active est fortement recommandé dans le cas où vous voulez y acceder au moment de l'installation.)</description>
+		<description xml:lang="hu">Hatalmas nyílt forrású telepítési forrás openSUSE 11.0 verzióhoz, amelyen keresztül több száz olyan csomaghoz férhet hozzá, amelyet az openSUSE csapat tart karban. (A telepítési forrás méretére való tekintettel, ennek hozzáadása eltarthat egy ideig. 512 MB memória vagy a SWAP partíció engedélyezése mindenképpen szükséges, amennyiben a telepítési forrást az operációs rendszer telepítése közben kívánja elérni.)</description>
+		<description xml:lang="pt_BR">O grande repositório OSS (Open Source Software - Softwares de Código Aberto) para o openSUSE 11.0, dá a você acesso a milhares de pacotes mantidos pela equipe openSUSE. (Devido ao tamanho do repositório, adicioná-lo pode levar algum tempo. 512 MB de memória RAM ou uma partição SWAP habilitada são altamente recomendados no cao de você querer acessar esse repositório no momento da instalação.)</description>
 		<url>http://download.opensuse.org/distribution/SL-OSS-factory/inst-source/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
@@ -55,7 +61,13 @@
 		<name xml:lang="zh_CN">主安装源 (NON-OSS)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 11.0</summary>
+		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 11.0</summary>
+		<summary xml:lang="hu">Nem nyílt forrású szoftverek telepítési forrása openSUSE 11.0 verzióhoz</summary>
+		<summary xml:lang="pt_BR">Repositório Adicional de Sotwares que Não Tem o Código Aberto para o openSUSE 11.0</summary>
 		<description>The official openSUSE 11.0 repository for all Non-Open Source Software maintained by the openSUSE team, including RealPlayer, Opera, Java, Flash, and more.</description>
+		<description xml:lang="fr">Dépôt officiel d'openSUSE 11.0 pour tous les logiciels Non-Open Source maintenu par l'équipe d'openSUSE, il contient RealPlayer, Opera, Java, Flash, et bien d'autres.</description>
+		<description xml:lang="hu">Hivatalos nem nyílt forrású komponenseket (pl. Realplayer, Opera, Java, Flash) tartalmazó openSUSE 11.0 telepítési forrás.</description>
+		<description xml:lang="pt_BR">O repositório oficial do openSUSE 11.0 para todos os Softwares que Não Tem o Código Aberto (NON-OSS - Non-Open Source Software) mantido pela equipe openSUSE, incluindo o RealPlayer, o Opera, o Java, o Flash, e mais.</description>
 		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
@@ -83,7 +95,13 @@
 		<name xml:lang="zh_CN">主安装源 (DEBUG 调试用)</name>
 		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 11.0 including the debuginfo packages</summary>
+		<summary xml:lang="fr">Dépôt principal d'openSUSE 11.0 contenant les paquets debuginfo</summary>
+		<summary xml:lang="hu">Elsődleges, debuginfo csomagokat tartalmazó openSUSE 11.0 telepítési forrás</summary>
+		<summary xml:lang="pt_BR">Repositório principal do openSUSE 11.0 incluindo pacotes debuginfo</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 11.0. For experts only.</description>
+		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent deboguer des applications sous openSUSE 11.0. Pour experts seulement.</description>
+		<description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik openSUSE 11.0 verzión alkalmazások hibakeresését végzik.</description>
+		<description xml:lang="pt_BR">Este repositório é util para aqueles que querem depurar aplicativos no openSUSE 11.0. Para especialistas somente.</description>
 		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>
 	    </repository>
 
