@@ -16,6 +16,7 @@
 		<name xml:lang="it">Sorgente di installazione (OSS)</name>
 		<name xml:lang="ja">メインリポジトリ (オープンソース)</name>
 		<name xml:lang="km">ឃ្លាំង​ចម្បង (កម្មវិធី​កូដ​ចំហ)</name>
+		<name xml:lang="ko">주 저장소 (OSS)</name>
 		<name xml:lang="nl">Hoofd-installatiebron (opensource)</name>
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਓਪਨ-ਸੋਰਸ)</name>
 		<name xml:lang="pt">Repositório Principal (OSS)</name>
@@ -24,16 +25,39 @@
 		<name xml:lang="ru">Основной репозитарий (OSS)</name>
 		<name xml:lang="sk">Hlavný repozitár (OSS)</name>
 		<name xml:lang="uk">Головне сховище (ВПЗ)</name>
+		<name xml:lang="wa">Mwaisse depot (OSS)</name>
 		<name xml:lang="zh_CN">主安装源 (OSS)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 11.0 including only Open Source Software</summary>
+		<summary xml:lang="cs">Hlavní repozitář openSUSE 11.0 obsahující pouze opensource software</summary>
+		<summary xml:lang="es">Repositorio principal de openSUSE 11.0 que incluye sólo software libre</summary>
+		<summary xml:lang="fi">openSUSE 11.0 perusasennuslähde sisältää vain vapaan lähdekoodin ohjelmia</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 11.0 contenant seulement les logiciels Open Source</summary>
 		<summary xml:lang="hu">Elsődleges, csak nyílt forrású csomagokat tartalmazó openSUSE 11.0 telepítési forrás</summary>
+		<summary xml:lang="it">Sorgente di installazione principale di openSUSE 11.0 che include solo software Open Source</summary>
+		<summary xml:lang="ja">オープンソースソフトウエアだけを含む openSUSE 11.0 のメインリポジトリ</summary>
+		<summary xml:lang="ko">오픈 소스 소프트웨어가 포함 되어 있는 오픈수세 11.0 의 메인 저장소</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11, met alleen opensource-software</summary>
+		<summary xml:lang="pt">Repositório principal do openSUSE 11.0 incluindo apenas software de código aberto</summary>
 		<summary xml:lang="pt_BR">Repositório principal do openSUSE 11.0 inclui apenas Softwares de Código Aberto</summary>
+		<summary xml:lang="sk">Hlavný repozitár pre openSUSE 11.0, ktorý obsahuje výlučne iba programy s verejne dostupným zdrojovým kódom (Open Source Software)</summary>
+		<summary xml:lang="uk">Головне сховище openSUSE 11.0, яке містить лише ПЗ з відкритим кодом</summary>
+		<summary xml:lang="zh_CN">openSUSE 11.0 的主安装源，仅仅包含开源软件</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 11.0, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+		<description xml:lang="cs">Velký repozitář s opensource softwarem pro openSUSE 11.0. Obsahuje tisíce balíků spravovaných týmem openSUSE. (Vzhledem k velikosti může přidání tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní odkládací oddíl.) </description>
+		<description xml:lang="es">El gran repositorio de software libre (OSS) para openSUSE 11.0, le da acceso a miles de paquetes mantenidos por el equipo de openSUSE. (Debido al gran tamaño del repositorio, añadirlo puede tardar algo de tiempo. Es altamente recomendable disponer de 512 MB de RAM o una partición de intercambio activa si quiere habilitar este repositorio durante la instalación)</description>
+		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 11.0:lle, josta löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi, lisääminen saattaa olla aikaa vievää. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltuja jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
 		<description xml:lang="fr">Le gros dépôt de logiciels Open Sources (OSS) pour openSUSE 11.0 vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (A cause de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active est fortement recommandé dans le cas où vous voulez y acceder au moment de l'installation.)</description>
 		<description xml:lang="hu">Hatalmas nyílt forrású telepítési forrás openSUSE 11.0 verzióhoz, amelyen keresztül több száz olyan csomaghoz férhet hozzá, amelyet az openSUSE csapat tart karban. (A telepítési forrás méretére való tekintettel, ennek hozzáadása eltarthat egy ideig. 512 MB memória vagy a SWAP partíció engedélyezése mindenképpen szükséges, amennyiben a telepítési forrást az operációs rendszer telepítése közben kívánja elérni.)</description>
+		<description xml:lang="it">La grande sorgente di installazione di software Open Source (OSS) di openSUSE 11.0, che fornisce l'accesso a migliaia di pacchetti mantenuti dal team openSUSE. (A causa delle dimensioni della sorgente di installazione, la sua aggiunta potrebbe richiedere un po' di tempo. Si consiglia fortemente di utilizzare un sistema con almeno 512MB di RAM o con una partizione di SWAP attiva qualora si desideri avere accesso a questa sorgente durante l'installazione)</description>
+		<description xml:lang="ja">何千ものパッケージを含む openSUSE チーム管理の openSUSE 11.0 用の巨大なオープンソースソフトウエアリポジトリ (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。インストールの際にリポジトリにアクセスする場合、512 MB の RAM もしくはスワップの利用を強くお勧めします。)</description>
+		<description xml:lang="ko">오픈수세 11.0의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유지 관리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시간이 좀 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)</description>
+		<description xml:lang="nl">De grote opensource-installatiebron van openSUSE 11.0 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 mb RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+		<description xml:lang="pt">O grande repositório Software de Código Aberto (OSS) para o openSUSE 11.0, dá-lhe acesso a centenas de pacotes mantidos pela equipa do openSUSE. (Devido ao tamanho do repositório, ao adicioná-lo poderá levar algum tempo. É extremamente recomendado que tenha 512 MB de RAM ou uma partição SWAP activada no caso de querer aceder a este repositório durante o processo de instalação.)</description>
 		<description xml:lang="pt_BR">O grande repositório OSS (Open Source Software - Softwares de Código Aberto) para o openSUSE 11.0, dá a você acesso a milhares de pacotes mantidos pela equipe openSUSE. (Devido ao tamanho do repositório, adicioná-lo pode levar algum tempo. 512 MB de memória RAM ou uma partição SWAP habilitada são altamente recomendados no cao de você querer acessar esse repositório no momento da instalação.)</description>
+		<description xml:lang="sk">Veľký repozitár Open Source Software (OSS), t.j. softvér s verejne prístupným zdrojovým kódom, pre openSUSE 11.0. Dá vám prístup k tisícom balíkom, o ktoré sa stará openSUSE tím. (Ak chcete pridať tento repozitár ako inštalačný zdroj, doporučujeme mať 512 MB operačnej pamäte alebo aktivovaný odkladací diskový oddiel swap kvôli jeho obrovskej veľkosti. Jeho pridanie potrvá istý čas.)</description>
+		<description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE 11.0, яке надає вам доступ до тисяч пакунків, які підтримуються командою openSUSE. (Через те, що сховище має величезний розмір, його додавання може тривати довго. Рекомендовано мати 512 МБ операційної пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під час встановлення системи.)</description>
+		<description xml:lang="zh_CN">openSUSE 11.0 开源软件（OSS）安装源，提供 openSUSE 开发团队维护的数千个软件包。（由于此安装源体积庞大，添加它可能需要一些时间。如果您想在安装过程中使用它，推荐配置为 512 MB 内存并开启 SWAP 分区。）</description>
 		<url>http://download.opensuse.org/distribution/SL-OSS-factory/inst-source/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
@@ -49,6 +73,7 @@
 		<name xml:lang="it">Sorgente di installazione principale (NON-OSS)</name>
 		<name xml:lang="ja">メインリポジトリ (非オープンソース)</name>
 		<name xml:lang="km">ឃ្លាំង​ចម្បង (មិនមែន​​កម្មវិធី​កូដ​ចំហ)</name>
+		<name xml:lang="ko">주 저장소 (NON-OSS)</name>
 		<name xml:lang="nb">Hovedarkiv (NON-OSS)</name>
 		<name xml:lang="nl">Hoofd-installatiebron (niet-opensource)</name>
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਗ਼ੈਰ-ਓਪਨ-ਸੋਰਸ)</name>
@@ -58,16 +83,40 @@
 		<name xml:lang="ru">Основной репозитарий (NON-OSS)</name>
 		<name xml:lang="sk">Hlavný repozitár (NON-OSS)</name>
 		<name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
+		<name xml:lang="wa">Mwaisse depot (NÉN-OSS)</name>
 		<name xml:lang="zh_CN">主安装源 (NON-OSS)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 11.0</summary>
+		<summary xml:lang="cs">Repozitář s ne-opensource softwarem pro openSUSE 11.0</summary>
+		<summary xml:lang="es">Repositorio complementario de software no libre de openSUSE 11.0</summary>
+		<summary xml:lang="fi">Ei avoimen lähdekoodin lisäasennuslähde openSUSE 11.0:lle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 11.0</summary>
 		<summary xml:lang="hu">Nem nyílt forrású szoftverek telepítési forrása openSUSE 11.0 verzióhoz</summary>
+		<summary xml:lang="it">Sorgente di installazione del software addizionale Non Open Source per openSUSE 11.0</summary>
+		<summary xml:lang="ja">オープンソースでないパッケージを含む openSUSE 11.0 の追加リポジトリ</summary>
+		<summary xml:lang="ko">비 오픈 소스 소프트웨어가 포함되어 있는 오픈수세 11.0 저장소</summary>
+		<summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE 11.0</summary>
+		<summary xml:lang="pt">Repositório de software adicional de código não-aberto para o openSUSE 11.0</summary>
 		<summary xml:lang="pt_BR">Repositório Adicional de Sotwares que Não Tem o Código Aberto para o openSUSE 11.0</summary>
+		<summary xml:lang="sk">Doplnkový repozitár pre openSUSE 11.0 so softvérom, ktorý má neverejný zdrojový kód</summary>
+		<summary xml:lang="uk">Додаткове сховище openSUSE 11.0, яке містить ПЗ з закритим кодом</summary>
+		<summary xml:lang="zh_CN">openSUSE 11.0 非开源软件附加安装源</summary>
 		<description>The official openSUSE 11.0 repository for all Non-Open Source Software maintained by the openSUSE team, including RealPlayer, Opera, Java, Flash, and more.</description>
+		<description xml:lang="cs">Oficální repozitář openSUSE 11.0 pro software šířený pod non-opensource licencemi spravovaný týmem openSUSE; včetně RealPlayeru, Opery, Javy, Flashe a dalších programů.</description>
+		<description xml:lang="es">El repositorio oficial de openSUSE 11.0 para todo el software de código fuente no abierto mantenido por el equipo de openSUSE, incluye RealPlayer, Opera, Java, Flash, y más.</description>
+		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE 11.0 asennuslähde kaikille ei-vapaan lähdekoodin ohjelmistoille, mukaan lukien RealPlayer, Opera, Java, Flash, ja niin edelleen.</description>
 		<description xml:lang="fr">Dépôt officiel d'openSUSE 11.0 pour tous les logiciels Non-Open Source maintenu par l'équipe d'openSUSE, il contient RealPlayer, Opera, Java, Flash, et bien d'autres.</description>
 		<description xml:lang="hu">Hivatalos nem nyílt forrású komponenseket (pl. Realplayer, Opera, Java, Flash) tartalmazó openSUSE 11.0 telepítési forrás.</description>
+		<description xml:lang="it">La sorgente di installazione di openSUSE 11.0 per tutto il software non Open Source mantenuto dalla comunità openSUSE, inclusi RealPlayer, Opera, Java, Flash e altro.</description>
+		<description xml:lang="ja">RealPlayer, Opera, Java, Flash などの非オープンソースソフトウエアを含む openSUSE チーム管理の openSUSE 11.0 公式リポジトリ</description>
+		<description xml:lang="ko">오픈수세 팀에 의해 유지, 관리되는 비 오픈 소스 소프트웨어(리얼 플레이어, 오페라, 자바, 플래시 등 기타)로 된 공식 오픈수세 11.0 저장소 입니다.</description>
+		<description xml:lang="nl">De officiële openSUSE 11.0-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals RealPlayer, Opera, Flash, Java, etc.</description>
+		<description xml:lang="pt">O repositório oficial do openSUSE 11.0 de todo o software de código não-aberto mantido pela equipa do openSUSE, incluindo o RealPlayer, Opera, Java, Flash e mais.</description>
 		<description xml:lang="pt_BR">O repositório oficial do openSUSE 11.0 para todos os Softwares que Não Tem o Código Aberto (NON-OSS - Non-Open Source Software) mantido pela equipe openSUSE, incluindo o RealPlayer, o Opera, o Java, o Flash, e mais.</description>
+		<description xml:lang="sk">Oficiálny repozitár openSUSE 11.0 so softvérom, ku ktorému sa neposkytujú zdrojové kódy. Stará sa oň openSUSE tím. Obsahuje RealPlayer, Operu, Javu, Flash, a ďalšie.</description>
+		<description xml:lang="uk">Офіційне сховище openSUSE 11.0 для всіх програм з закритим кодом, які підтримуються командою openSUSE: RealPlayer, Opera, Java, Flash та інших.</description>
+		<description xml:lang="wa">L' oficire depot d' openSUSE 11.0 po tos les Programes Nén Libes Sourdants mintnous pa l' ekipe d' openSUSE, di kî RealPlayer, Opera, Java, Flash eyet co ds ôtes.</description>
+		<description xml:lang="zh_CN">openSUSE 11.0 非开源软件官方安装源，其中软件由 openSUSE 团队维持，包括 RealPlayer、Opera、Java、Flash 以及更多。</description>
 		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
@@ -83,6 +132,7 @@
 		<name xml:lang="it">Sorgente di installazione principale (Debug)</name>
 		<name xml:lang="ja">メインリポジトリ (デバッグ)</name>
 		<name xml:lang="km">ឃ្លាំង​ចម្បង (បំបាត់​កំហុស)</name>
+		<name xml:lang="ko">주 저장소 (디버그)</name>
 		<name xml:lang="nb">Hovedarkiv (DEBUG)</name>
 		<name xml:lang="nl">Hoofd-installatiebron (debuginformatie)</name>
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਡੀਬੱਗ)</name>
@@ -92,16 +142,39 @@
 		<name xml:lang="ru">Основной репозитарий (DEBUG)</name>
 		<name xml:lang="sk">Hlavný repozitár (debug)</name>
 		<name xml:lang="uk">Головне сховище (DEBUG)</name>
+		<name xml:lang="wa">Mwaisse depot (DISBUG)</name>
 		<name xml:lang="zh_CN">主安装源 (DEBUG 调试用)</name>
 		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 11.0 including the debuginfo packages</summary>
+		<summary xml:lang="cs">Hlavní repozitář openSUSE 11.0 obsahující debuginfo balíčky</summary>
+		<summary xml:lang="es">Repositorio principal de openSUSE 11.0 que incluyen los paquetes debuginfo</summary>
+		<summary xml:lang="fi">openSUSE 11.0 debuginfo-paketit perusasennuslähteen paketeille</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 11.0 contenant les paquets debuginfo</summary>
 		<summary xml:lang="hu">Elsődleges, debuginfo csomagokat tartalmazó openSUSE 11.0 telepítési forrás</summary>
+		<summary xml:lang="it">Sorgente di installazione principale di openSUSE 11.0 che comprende i pacchetti debuginfo</summary>
+		<summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 11.0 のメインリポジトリ</summary>
+		<summary xml:lang="ko">디버그정보 패키지가 포함되어 있는 오픈수세 11.0의 메인 저장소</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11.0, met debuginfo-pakketten</summary>
+		<summary xml:lang="pt">Repositório principal do openSUSE 11.0 incluindo pacotes debuginfo</summary>
 		<summary xml:lang="pt_BR">Repositório principal do openSUSE 11.0 incluindo pacotes debuginfo</summary>
+		<summary xml:lang="sk">Hlavný repozitár pre openSUSE 11.0, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
+		<summary xml:lang="uk">Головне сховище openSUSE 11.0, яке містить пакунки debuginfo</summary>
+		<summary xml:lang="zh_CN">openSUSE 11.0 主安装源包含调试信息包</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 11.0. For experts only.</description>
+		<description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE 11.0. Určeno pouze pro experty.</description>
+		<description xml:lang="es">Este repositorio es útil para aquellos que quieran depurar aplicaciones en openSUSE 11.0. Sólo para expertos.</description>
+		<description xml:lang="fi">Tämä asennuslähde on käytännöllinen niille jotka tahtovat debugata ohjelmistoja openSUSE 11.0:ssa. Vain asiantuntijoille.</description>
 		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent deboguer des applications sous openSUSE 11.0. Pour experts seulement.</description>
 		<description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik openSUSE 11.0 verzión alkalmazások hibakeresését végzik.</description>
+		<description xml:lang="it">Questa sorgente di installazione è utile per coloro che desiderano effettuare il debug delle applicazioni con openSUSE 11.0. Solo per esperti.</description>
+		<description xml:lang="ja">このリポジトリは openSUSE 11.0 のアプリケーションをデバッグする際に便利です。熟練者向けです。</description>
+		<description xml:lang="ko">이 오픈수세 11.0 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)</description>
+		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's op openSUSE 11.0 willen opsporen. Alleen voor ervaren gebruikers.</description>
+		<description xml:lang="pt">Este repositório é útil para aqueles que desejam depurar as aplicações no openSUSE 11.0. Apenas para experientes.</description>
 		<description xml:lang="pt_BR">Este repositório é util para aqueles que querem depurar aplicativos no openSUSE 11.0. Para especialistas somente.</description>
+		<description xml:lang="sk">Tento repozitár je potrebný pre ľudí, ktorý chcú ladiť programy pre openSUSE 11.0. Len pre expertov.</description>
+		<description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 11.0. Тільки для знавців.</description>
+		<description xml:lang="zh_CN">此安装源对希望使用 openSUSE 11.0 调试程序的人员有用。仅供专家。</description>
 		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>
 	    </repository>
 

@@ -16,6 +16,7 @@
 		<name xml:lang="it">Sorgente di installazione (OSS)</name>
 		<name xml:lang="ja">メインリポジトリ (オープンソース)</name>
 		<name xml:lang="km">ឃ្លាំង​ចម្បង (កម្មវិធី​កូដ​ចំហ)</name>
+		<name xml:lang="ko">주 저장소 (OSS)</name>
 		<name xml:lang="nl">Hoofd-installatiebron (opensource)</name>
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਓਪਨ-ਸੋਰਸ)</name>
 		<name xml:lang="pt">Repositório Principal (OSS)</name>
@@ -24,6 +25,7 @@
 		<name xml:lang="ru">Основной репозитарий (OSS)</name>
 		<name xml:lang="sk">Hlavný repozitár (OSS)</name>
 		<name xml:lang="uk">Головне сховище (ВПЗ)</name>
+		<name xml:lang="wa">Mwaisse depot (OSS)</name>
 		<name xml:lang="zh_CN">主安装源 (OSS)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 10.3 including only Open Source Software</summary>
@@ -37,6 +39,7 @@
 		<summary xml:lang="it">Sorgente di installazione principale di openSUSE 10.3 che include solo software Open Source</summary>
 		<summary xml:lang="ja">オープンソースソフトウエアだけを含む openSUSE 10.3 のメインリポジトリ</summary>
 		<summary xml:lang="km">ឃ្លាំង​ចម្បង​របស់​អូផឹនស៊ូស៊ី ១០.៣ រួម​មាន​តែ​កម្មវិធី​កូដ​ចំហ​​ប៉ុណ្ណោះ</summary>
+		<summary xml:lang="ko">오픈 소스 소프트웨어(OSS)만 포함하고 있는 오픈수세 10.3의 주 저장소</summary>
 		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 10.3 met alleen opensource-software</summary>
 		<summary xml:lang="pt">Repositório principal do openSUSE 10.3 incluindo apenas software de código aberto</summary>
 		<summary xml:lang="pt_BR">Repositório principal do openSUSE 10.3 inclui apenas Softwares de Código Aberto</summary>
@@ -57,6 +60,7 @@
 		<description xml:lang="it">La grande sorgente di installazione di software Open Source (OSS) di openSUSE 10.3, che fornisce l'accesso a migliaia di pacchetti mantenuti dal team openSUSE. (A causa delle dimensioni della sorgente di installazione, la sua aggiunta potrebbe richiedere un po' di tempo. Si consiglia fortemente di utilizzare un sistema con almeno 512MB di RAM o con una partizione di SWAP attiva qualora si desideri avere accesso a questa sorgente durante l'installazione)</description>
 		<description xml:lang="ja">openSUSE チームが管理する何千ものパッケージを含む openSUSE 10.3 用の巨大なオープンソースソフトウエアリポジトリ (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。インストールの際にリポジトリにアクセスする場合、512 MB の RAM とスワップの利用を強くお勧めします。)</description>
 		<description xml:lang="km">ឃ្លាំង​កម្មវិធី​កូដ​ចំហ​ដ៏ធំ​មួយ​របស់​អូផឹន​ស៊ូស៊ី ១០.៣ ដោយ​ផ្ដល់​​ឲ្យ​អ្នក​នូវ​ការ​ចូល​ដំណើរការ​កញ្ចប់​រាប់ពាន់​ដែល​បានថែទាំ​ដោយ​ក្រុម​អូផឹន​ស៊ូស៊ី ។ (អាស្រ័យ​លើ​ទំហំ​របស់​ឃ្លាំង ការ​បន្ថែម​វា​អាច​ចំណាយ​ពេល​មួយ​រយៈ ។ ​បាន​ផ្ដល់​អនុសាសន៍​ឲ្យ​មាន​សតិ​​ន​ទំហំ ៥១២ មេកាបៃ ឬ​បាន​បើក​ភាគ​ថាស​ស្វ ក្នុង​ករណី​ដែលអ្នក​ចង់​ចូល​ដំណើរការ​ឃ្លាំង​នេះ​នៅ​ពេល​ដំឡើង ។.)</description>
+		<description xml:lang="ko">오픈수세 10.3의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유지 관리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시간이 좀 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)</description>
 		<description xml:lang="nl">De grote opensource-installatiebron van openSUSE 10.3 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 mb RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
 		<description xml:lang="pt">O grande repositório Software de Código Aberto (OSS) para o openSUSE 10.3, dá-lhe acesso a centenas de pacotes mantidos pela equipa do openSUSE. (Devido ao tamanho do repositório, ao adicioná-lo poderá levar algum tempo. É extremamente recomendado que tenha 512 MB de RAM ou uma partição SWAP activada no caso de querer aceder a este repositório durante o processo de instalação.)</description>
 		<description xml:lang="pt_BR">O grande repositório OSS (Open Source Software - Softwares de Código Aberto) para o openSUSE 10.3, dá a você acesso a milhares de pacotes mantidos pela equipe openSUSE. (Devido ao tamanho do repositório, adicioná-lo pode levar algum tempo. 512 MB de memória RAM ou uma partição SWAP habilitada são altamente recomendados no cao de você querer acessar esse repositório no momento da instalação.)</description>
@@ -82,6 +86,7 @@
 		<name xml:lang="it">Sorgente di installazione principale (NON-OSS)</name>
 		<name xml:lang="ja">メインリポジトリ (非オープンソース)</name>
 		<name xml:lang="km">ឃ្លាំង​ចម្បង (មិនមែន​​កម្មវិធី​កូដ​ចំហ)</name>
+		<name xml:lang="ko">주 저장소 (NON-OSS)</name>
 		<name xml:lang="nb">Hovedarkiv (NON-OSS)</name>
 		<name xml:lang="nl">Hoofd-installatiebron (niet-opensource)</name>
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਗ਼ੈਰ-ਓਪਨ-ਸੋਰਸ)</name>
@@ -91,6 +96,7 @@
 		<name xml:lang="ru">Основной репозитарий (NON-OSS)</name>
 		<name xml:lang="sk">Hlavný repozitár (NON-OSS)</name>
 		<name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
+		<name xml:lang="wa">Mwaisse depot (NÉN-OSS)</name>
 		<name xml:lang="zh_CN">主安装源 (NON-OSS)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 10.3</summary>
@@ -104,6 +110,7 @@
 		<summary xml:lang="it">Sorgente di installazione del software addizionale Non Open Source per openSUSE 10.3</summary>
 		<summary xml:lang="ja">オープンソースでないパッケージを含む openSUSE 10.3 の追加リポジトリ</summary>
 		<summary xml:lang="km">ឃ្លាំង​បន្ថែម​របស់​កម្មវិធី​មិនមែន​កូដ​ចំហ​សម្រាប់​អូផឹន​ស៊ូស៊ី ១០.៣</summary>
+		<summary xml:lang="ko">비 오픈 소스 소프트웨어가 포함된 오픈수세 10.3 저장소</summary>
 		<summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE 10.3</summary>
 		<summary xml:lang="pt">Repositório de software adicional de código não-aberto para o openSUSE 10.3</summary>
 		<summary xml:lang="pt_BR">Repositório Adicional de Sotwares que Não Tem o Código Aberto para o openSUSE 10.3</summary>
@@ -124,6 +131,7 @@
 		<description xml:lang="it">La sorgente di installazione di openSUSE 10.3 per tutto il software non Open Source mantenuto dalla comunità openSUSE, inclusi RealPlayer, Opera, Java, Flash e altro.</description>
 		<description xml:lang="ja">openSUSE チームが管理する RealPlayer 、 Opera 、 Java 、 Flash などの非オープンソースソフトウエアを含む openSUSE 10.3 公式リポジトリ</description>
 		<description xml:lang="km">ឃ្លាំង​អូផឹន​ស៊ូស៊ី ១០.៣ ជា​ផ្លូវការ​សម្រាប់​កម្មវិធី​មិនមែន​កូដ​ចំហ ដែល​បានថែទាំ​ដោយ​ក្រុម​អូផឹនស៊ូស៊ី រួម​មាន RealPlayer, Opera, Java, Flash និង​អ្វីៗ​​ជា​ច្រើន​ទៀត ។</description>
+		<description xml:lang="ko">오픈수세 팀에 의해 유지, 관리되는 비 오픈 소스 소프트웨어(리얼 플레이어, 오페라, 자바, 플래시 등 기타)로 된 공식 오픈수세 10.3 저장소 입니다.</description>
 		<description xml:lang="nl">De officiële openSUSE 10.3-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals RealPlayer, Opera, Flash, Java, etc.</description>
 		<description xml:lang="pt">O repositório oficial do openSUSE 10.3 de todo o software de código não-aberto mantido pela equipa do openSUSE, incluindo o RealPlayer, Opera, Java, Flash e mais.</description>
 		<description xml:lang="pt_BR">O repositório oficial do openSUSE 10.3 para todos os Softwares Sem Codigo Aberto (NON-OSS - Non-Open Source Software) mantido pela equipe openSUSE, incluindo o RealPlayer, o Opera, o Java, o Flash, e mais.</description>
@@ -148,6 +156,7 @@
 		<name xml:lang="it">Sorgente di installazione principale (Debug)</name>
 		<name xml:lang="ja">メインリポジトリ (デバッグ)</name>
 		<name xml:lang="km">ឃ្លាំង​ចម្បង (បំបាត់​កំហុស)</name>
+		<name xml:lang="ko">주 저장소 (디버그)</name>
 		<name xml:lang="nb">Hovedarkiv (DEBUG)</name>
 		<name xml:lang="nl">Hoofd-installatiebron (debuginformatie)</name>
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਡੀਬੱਗ)</name>
@@ -157,6 +166,7 @@
 		<name xml:lang="ru">Основной репозитарий (DEBUG)</name>
 		<name xml:lang="sk">Hlavný repozitár (debug)</name>
 		<name xml:lang="uk">Головне сховище (DEBUG)</name>
+		<name xml:lang="wa">Mwaisse depot (DISBUG)</name>
 		<name xml:lang="zh_CN">主安装源 (DEBUG 调试用)</name>
 		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 10.3 including the debuginfo packages</summary>
@@ -170,6 +180,7 @@
 		<summary xml:lang="it">Sorgente di installazione principale di openSUSE 10.3 che comprende i pacchetti debuginfo</summary>
 		<summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 10.3 のメインリポジトリ</summary>
 		<summary xml:lang="km">ឃ្លាំង​ចម្បង​របស់​អូផឹន​ស៊ូស៊ី ១០.៣ រួម​មាន​កញ្ចប់​ debuginfo</summary>
+		<summary xml:lang="ko">디버그 패키지만 포함하고 있는 오픈수세 10.3의 주 저장소</summary>
 		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 10.3 met debuginfo-pakketten</summary>
 		<summary xml:lang="pt">Repositório principal do openSUSE 10.3 incluindo pacotes debuginfo</summary>
 		<summary xml:lang="pt_BR">Repositório principal do openSUSE 10.3 incluindo pacotes debuginfo</summary>
@@ -183,13 +194,14 @@
 		<description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE 10.3. Určeno pouze pro experty.</description>
 		<description xml:lang="da">Softwarekilden er nyttig for dem der ønsker at fejlsøge programmer på openSUSE 10.3. Kun for eksperter.</description>
 		<description xml:lang="de">Diese Paketquelle ist sinnvoll für alle die Anwendungen auf openSUSE 10.3 debuggen wollen. Nur für Experten.</description>
-		<description xml:lang="es">Este repositorio es útil para aquellos que quieran depurar aplicaciones en openSUSE 10.3</description>
+		<description xml:lang="es">Este repositorio es útil para aquellos que quieran depurar aplicaciones en openSUSE 10.3. Sólo para expertos.</description>
 		<description xml:lang="fi">Tämä asennuslähde on käytännöllinen niille jotka tahtovat debugata ohjelmistoja openSUSE 10.3:ssa. Vain asiantuntijoille.</description>
 		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent deboguer des applications sous openSUSE 10.3. Pour experts seulement.</description>
 		<description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik alkalmazások hibakeresését végzik.</description>
 		<description xml:lang="it">Questa sorgente di installazione è utile per coloro che desiderano effettuare il debug delle applicazioni con openSUSE 10.3. Solo per esperti.</description>
 		<description xml:lang="ja">このリポジトリは openSUSE 10.3 のアプリケーションをデバッグする際に便利です。熟練者向けです。</description>
 		<description xml:lang="km">ឃ្លាំង​នេះ​មាន​ប្រយោជន៍​សម្រាប់​អ្វី​ដែល​អ្នក​ចង់​បំបាត់​កំហុស​កម្មវិធី​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១០.៣ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​ប៉ុណ្ណោះ ។</description>
+		<description xml:lang="ko">이 오픈수세 10.3 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)</description>
 		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's willen opsporen. Alleen voor ervaren gebruikers.</description>
 		<description xml:lang="pt">Este repositório é útil para aqueles que desejam depurar as aplicações no openSUSE 10.3. Apenas para experientes.</description>
 		<description xml:lang="pt_BR">Este repositório é util para aqueles que querem depurar aplicativos no openSUSE 10.3. Para especialistas somente.</description>
