@@ -12,6 +12,7 @@
 		<name xml:lang="es">Repositorio principal (OSS)</name>
 		<name xml:lang="fi">Pääasennuslähde (OSS)</name>
 		<name xml:lang="fr">Dépôt principal (OSS)</name>
+		<name xml:lang="gl">Repositorio Principal (OSS)</name>
 		<name xml:lang="hr">Glavni repozitorij (OSS)</name>
 		<name xml:lang="hu">Fő telepítési forrás (OSS)</name>
 		<name xml:lang="it">Sorgente di installazione (OSS)</name>
@@ -38,6 +39,7 @@
 		<summary xml:lang="es">Repositorio principal de openSUSE 10.3 que incluye sólo software de código abierto</summary>
 		<summary xml:lang="fi">openSUSE 10.3 perusasennuslähde sisältää vain vapaan lähdekoodin ohjelmia</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 10.3 contenant seulement les logiciels Open Source</summary>
+		<summary xml:lang="gl">Repositorio principal de openSUSE 10.3 que inclúe só Software de Código Aberto</summary>
 		<summary xml:lang="hu">Elsődleges, csak nyílt forrású csomagokat tartalmazó openSUSE 10.3 telepítése forrás</summary>
 		<summary xml:lang="it">Sorgente di installazione principale di openSUSE 10.3 che include solo software Open Source</summary>
 		<summary xml:lang="ja">オープンソースソフトウエアだけを含む openSUSE 10.3 のメインリポジトリ</summary>
@@ -61,6 +63,7 @@
 		<description xml:lang="es">El enorme repositorio software de código abierto (OSS) para openSUSE 10.3 le da acceso a miles de paquetes mantenidos por el equipo de openSUSE (debido al tamaño del repositorio, añadirlo puede llevar algo de tiempo. Es altamente recomendable disponer de 512 MB de RAM o una partición de intercambio activa si quiere habilitar este repositorio durante la instalación.)</description>
 		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 10.3:lle, josta löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi sen lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
 		<description xml:lang="fr">Le gros dépôt de logiciels Open Sources (OSS) pour openSUSE 10.3 vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (A cause de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active est fortement recommandé dans le cas où vous voulez y acceder au moment de l'installation.)</description>
+		<description xml:lang="gl">O gran repositorio de Software de Código Aberto (OSS) para openSUSE 10.3, dalle acceso a milleiros de paquetes mantidos polo equipo de openSUSE. (Debido ó tamaño do repositorio, engadilo podería levar algún tempo. É moi recomendable ter 512 MB de RAM ou ter activada a partición de intercambio ou SWAP se desexa acceder a este repositorio á hora de instalar.)</description>
 		<description xml:lang="hu">Hatalmas nyílt forrású telepítési forrás openSUSE 10.3-hoz, amelyen keresztül több száz olyan csomaghoz férhet hozzá, amelyet az openSUSE csapat tart karban. (A telepítési forrás méretére való tekintettel, ennek hozzáadása eltarthat egy ideig. 512 MB memória vagy a SWAP partíció engedélyezése mindenképpen szükséges, amennyiben a telepítési forrást az operációs rendszer telepítése közben kívánja elérni.)</description>
 		<description xml:lang="it">La grande sorgente di installazione di software Open Source (OSS) di openSUSE 10.3, che fornisce l'accesso a migliaia di pacchetti mantenuti dal team openSUSE. (A causa delle dimensioni della sorgente di installazione, la sua aggiunta potrebbe richiedere un po' di tempo. Si consiglia fortemente di utilizzare un sistema con almeno 512MB di RAM o con una partizione di SWAP attiva qualora si desideri avere accesso a questa sorgente durante l'installazione)</description>
 		<description xml:lang="ja">openSUSE チームが管理する何千ものパッケージを含む openSUSE 10.3 用の巨大なオープンソースソフトウエアリポジトリ (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。インストールの際にリポジトリにアクセスする場合、512 MB の RAM とスワップの利用を強くお勧めします。)</description>
@@ -88,6 +91,7 @@
 		<name xml:lang="es">Repositorio principal (NON-OSS)</name>
 		<name xml:lang="fi">Pääasennuslähde (NON-OSS)</name>
 		<name xml:lang="fr">Dépôt principal (NON-OSS)</name>
+		<name xml:lang="gl">Repositorio Principal (NON-OSS)</name>
 		<name xml:lang="hr">Glavni repozitorij (NON-OSS)</name>
 		<name xml:lang="hu">Elsődleges telepítési forrás (NON-OSS)</name>
 		<name xml:lang="it">Sorgente di installazione principale (NON-OSS)</name>
@@ -115,6 +119,7 @@
 		<summary xml:lang="es">Repositorio complementario de software de código no abierto de openSUSE 10.3</summary>
 		<summary xml:lang="fi">Ei avoimen lähdekoodin lisäasennuslähde openSUSE 10.3:lle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 10.3</summary>
+		<summary xml:lang="gl">Repositorio de Complementos de Software que non son de Código Aberto para openSUSE 10.3</summary>
 		<summary xml:lang="hu">Nem nyílt forrású szoftverek telepítési forrása openSUSE 10.3-hoz</summary>
 		<summary xml:lang="it">Sorgente di installazione del software addizionale Non Open Source per openSUSE 10.3</summary>
 		<summary xml:lang="ja">オープンソースでないパッケージを含む openSUSE 10.3 の追加リポジトリ</summary>
@@ -138,6 +143,7 @@
 		<description xml:lang="es">El repositorio oficial de openSUSE 10.3 para todo el software de código fuente no abierto mantenido por el equipo de openSUSE y que incluye RealPlayer, Opera, Java, Flash y más.</description>
 		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE 10.3-asennuslähde kaikille ei-avoimen lähdekoodin ohjelmistoille, mukaanlukien RealPlayer, Opera, Java, Flash ja niin edelleen.</description>
 		<description xml:lang="fr">Dépôt officiel d'openSUSE 10.3 pour tous les logiciels Non-Open Source maintenu par l'équipe d'openSUSE, il contient RealPlayer, Opera, Java, Flash, et bien d'autres.</description>
+		<description xml:lang="gl">O repositorio oficial de openSUSE 10.3 para todo o software que non é de código aberto mantido polo equipo de openSUSE, incluindo a RealPlayer, Opera, Java, Flash, e máis.</description>
 		<description xml:lang="hu">Hivatalos nem nyílt forrású komponenseket (pl. Realplayer, Opera, Java, Flash) tartalmazó openSUSE 10.3 telepítési könyvtár.</description>
 		<description xml:lang="it">La sorgente di installazione di openSUSE 10.3 per tutto il software non Open Source mantenuto dalla comunità openSUSE, inclusi RealPlayer, Opera, Java, Flash e altro.</description>
 		<description xml:lang="ja">openSUSE チームが管理する RealPlayer 、 Opera 、 Java 、 Flash などの非オープンソースソフトウエアを含む openSUSE 10.3 公式リポジトリ</description>
@@ -164,6 +170,7 @@
 		<name xml:lang="es">Repositorio principal (DEBUG)</name>
 		<name xml:lang="fi">Pääasennuslähde (Debug)</name>
 		<name xml:lang="fr">Dépôt principal (DEBUG)</name>
+		<name xml:lang="gl">Repositorio Principal (DEPURACIÓN)</name>
 		<name xml:lang="hr">Glavni repozitorij (DEBUG)</name>
 		<name xml:lang="hu">Elsődleges telepítési forrás (debug)</name>
 		<name xml:lang="it">Sorgente di installazione principale (Debug)</name>

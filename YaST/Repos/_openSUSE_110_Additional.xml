@@ -136,6 +136,7 @@
         <description xml:lang="es">Repositorio de XFCE en openSUSE Build Service que le proporciona la última versión, no soportada, del software y entorno de escritorio XFCE.</description>
         <description xml:lang="fi">openSUSE build servicen XFCE-asennuslähde, joka tarjoaa tukemattoman, mutta viimeisimmän version XFCE-työpöydästä ja ohjelmistoista.</description>
         <description xml:lang="fr">Le dépôt XFCE de l'openSUSE Build Service qui vous fournit la dernière version, non supportée, du bureau et des logiciels XFCE.</description>
+        <description xml:lang="gl">O repositorio de XFCE do Servizo de Construcción de openSUSE, que lle proporciona a última, pero non soportada, versión do software e do contorno de escritorio XFCE.</description>
         <description xml:lang="hu">Az openSUSE Build Service XFCE telepítési forrása, amely a nem támogatott, de a legfrissebb XFCE grafikus környezet csomagjait tartalmazza.</description>
         <description xml:lang="it">La sorgente di installazione di XFCE nel Build Service di openSUSE. Fornisce l'ultima versione non supportata dell'ambiente desktop XFCE e del relativo software.</description>
         <description xml:lang="ja">公式にはサポートされていない最新版の XFCE デスクトップ環境とソフトウエアの openSUSE リポジトリ</description>
@@ -412,6 +413,7 @@
         <name xml:lang="es">BuildService de openSUSE - Revisiones CVS de Wine</name>
         <name xml:lang="fi">openSUSE BuildService - Wine CVS Builds</name>
         <name xml:lang="fr">openSUSE BuildService - Wine CVS Builds</name>
+        <name xml:lang="gl">Servizo de Construcción de openSUSE - Construccións do CVS de Wine</name>
         <name xml:lang="hr">openSUSE BuildService - Wine CVS Builds</name>
         <name xml:lang="hu">openSUSE BuildService - Wine fejlesztői verzió</name>
         <name xml:lang="it">openSUSE BuildService - Versioni CVS di Wine</name>
@@ -483,59 +485,32 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Games</name>
-        <name xml:lang="ar">اوبن سوزي تبني خدمات الالعاب</name>
-        <name xml:lang="cs">openSUSE BuildService - Hry</name>
-        <name xml:lang="da">openSUSE BuildService - spil</name>
-        <name xml:lang="de">openSUSE BuildService - Spiele</name>
-        <name xml:lang="es">BuildService de openSUSE - Juegos</name>
-        <name xml:lang="fi">openSUSE BuildService - Games</name>
-        <name xml:lang="fr">openSUSE BuildService - Jeux</name>
-        <name xml:lang="gl">Servizo de Construcción de openSUSE - Xogos</name>
-        <name xml:lang="hr">openSUSE BuildService - Igre</name>
-        <name xml:lang="hu">openSUSE BuildService - Játékok</name>
-        <name xml:lang="it">openSUSE BuildService - Games</name>
-        <name xml:lang="ja">openSUSE ビルドサービス - ゲーム</name>
-        <name xml:lang="km">openSUSE BuildService - ល្បែង</name>
-        <name xml:lang="ko">오픈수세 빌드서비스 - 게임</name>
-        <name xml:lang="nb">openSUSE BuildService - Spill</name>
-        <name xml:lang="nl">openSUSE BuildService - Spellen</name>
-        <name xml:lang="pa">ਓਪਨ-ਸੂਸੇ ਬਲਿਡ ਸਰਵਿਸ - ਖੇਡਾਂ </name>
-        <name xml:lang="pl">openSUSE BuildService - Gry</name>
-        <name xml:lang="pt">openSUSE BuildService - Jogos</name>
-        <name xml:lang="pt_BR">openSUSE BuildService - Jogos</name>
-        <name xml:lang="ro">openSUSE BuildService - Jocuri</name>
-        <name xml:lang="ru">openSUSE BuildService - Игры</name>
-        <name xml:lang="sk">openSUSE BuildService - Hry</name>
-        <name xml:lang="uk">Служба складання пакунків openSUSE - Ігри</name>
-        <name xml:lang="wa">openSUSE BuildService - Djeus</name>
-        <name xml:lang="zh_CN">openSUSE 包构建服务 - 游戏</name>
-        <name xml:lang="zh_TW">openSUSE BuildService - 遊戲 </name>
-        <summary>A collection of games</summary>
+        <summary>A collection of action games</summary>
         <summary xml:lang="ar">مجموعة من العاب الاثارة</summary>
-        <summary xml:lang="cs">Sbírka her</summary>
-        <summary xml:lang="da">En samling af spil</summary>
-        <summary xml:lang="de">Eine Sammlung von Spielen</summary>
-        <summary xml:lang="es">Colección de juegos</summary>
+        <summary xml:lang="cs">Sbírka akčních her</summary>
+        <summary xml:lang="da">En samling af action-spil</summary>
+        <summary xml:lang="de">Eine Sammlung von Action-Spielen</summary>
+        <summary xml:lang="es">Colección de juegos de acción</summary>
         <summary xml:lang="fi">Kokoelma toimintapelejä</summary>
-        <summary xml:lang="fr">Une collection de jeux</summary>
-        <summary xml:lang="gl">Unha colección de xogos</summary>
-        <summary xml:lang="hr">Kolekcija igrica</summary>
+        <summary xml:lang="fr">Une collection de jeux d'action</summary>
+        <summary xml:lang="gl">Unha colección de xogos de acción</summary>
+        <summary xml:lang="hr">Kolekcija akcijskih igrica</summary>
         <summary xml:lang="hu">Ügyességi játékok</summary>
-        <summary xml:lang="it">Una collezione di giochi</summary>
+        <summary xml:lang="it">Una collezione di giochi d'azione</summary>
         <summary xml:lang="ja">アクションゲーム集</summary>
         <summary xml:lang="km">បណ្ដុំ​ល្បែង​សកម្មភាព</summary>
         <summary xml:lang="ko">액션 게임 모음</summary>
-        <summary xml:lang="nb">En samling med spill</summary>
-        <summary xml:lang="nl">Een verzameling spellen.</summary>
+        <summary xml:lang="nb">En samling med actionspill</summary>
+        <summary xml:lang="nl">Een verzameling actiespellen.</summary>
         <summary xml:lang="pa">ਖੇਡਾਂ ਦਾ ਵੱਡਾ ਭੰਡਾਰ ਹੈ।</summary>
-        <summary xml:lang="pl">Zestaw gier</summary>
-        <summary xml:lang="pt">Uma colecção de jogos</summary>
-        <summary xml:lang="pt_BR">Uma coleção de jogos</summary>
-        <summary xml:lang="ro">Colecţie de jocuri</summary>
-        <summary xml:lang="ru">Коллекция игр.</summary>
-        <summary xml:lang="sk">Zbierka hier</summary>
+        <summary xml:lang="pl">Zestaw gier akcji</summary>
+        <summary xml:lang="pt">Uma colecção de jogos de acção</summary>
+        <summary xml:lang="pt_BR">Uma coleção de jogos de ação</summary>
+        <summary xml:lang="ro">Colecţie de jocuri de acţiune</summary>
+        <summary xml:lang="ru">Коллекция игр-стрелялок.</summary>
+        <summary xml:lang="sk">Zbierka akčných hier</summary>
         <summary xml:lang="uk">Збірка ігор</summary>
-        <summary xml:lang="wa">On ramexhnaedje di djeus</summary>
+        <summary xml:lang="wa">On ramexhnaedje di djeus d' accion</summary>
         <summary xml:lang="zh_CN">动作游戏集合</summary>
         <summary xml:lang="zh_TW">一個動作遊戲的集合</summary>
         <description>Contains several action games including Open Arena (shoot 'em up), Flight Gear (flight simulator) and Torcs (3D racing simulator).</description>
@@ -546,6 +521,7 @@
         <description xml:lang="es">Contiene varios juegos de acción, incluyendo Open Arena (disparos), Flight Gear (simulador de vuelo) y Torcs (simulador de carreras en 3D).</description>
         <description xml:lang="fi">Sisältää useita toimintapelejä mukaanlukien Open Arena (ammuntapeli), Flight Gear (lentosimulaattori) ja Torcs (3D rata-ajo simulaattori).</description>
         <description xml:lang="fr">Contient plusieurs jeux d'action dont Open Arena (shoot 'em up), Flight Gear (simulateur de vol) et Torcs (simulateur de course en 3D).</description>
+        <description xml:lang="gl">Contén varios xogos de acción incluíndo a Open Arena (de disparar), Flight Gear (simulación de voo) e Torcs (simulador de carreiras 3D).</description>
         <description xml:lang="hu">Néhány olyan ügyességi játék, mint az Open Arena (lövöldözős), Flight Gear (repülőgép-szimulátor) vagy a Torcs (3D versenyszimulátor).</description>
         <description xml:lang="it">Contiene molti giochi di azione tra cui Open Arena, Flight Gear (simulatore di volo) e Torcs (simulatore 3D di racing).</description>
         <description xml:lang="ja">Open Arena (シューティングゲーム) や Flight Gear (フライトシミュレータ)、 Torcs (3Dレーシングシミュレータ) などのアクションゲームがあります。</description>
@@ -704,11 +680,12 @@
         <description>Provides up-to-date builds of QEMU, a generic and open source machine emulator and virtualizer.</description>
         <description xml:lang="ar">يوفر آخر اصدارات QEMU والمحاكيات مفتوحة المصدر و virtualizer</description>
         <description xml:lang="cs">Obsahuje aktuální verzi QEMU, opensource emulátoru a virtualizačního nástroje.</description>
-        <description xml:lang="da">Leverer ajourførte pakker af Qemu til generisk og open source maskine-efterligning og -virtualisering.</description>
+        <description xml:lang="da">Leverer ajourførte pakker af Qemu - generisk og open source maskin-emulator og -virtualisering.</description>
         <description xml:lang="de">Stellt aktuelle Pakete von QEMU bereit, einem generischen und Open Source Maschinen Emulator und Virtualisierer.</description>
         <description xml:lang="es">Proporciona revisiones actualizadas de QEMU, un emulador genérico de código fuente abierto con capacidades de virtualización.</description>
         <description xml:lang="fi">Tarjoaa ajan tasalla olevat QEMU-paketit, geneerisen vapaan lähdekoodin laite-emulaattorin ja virtuaalisoijan.</description>
         <description xml:lang="fr">Fournit les versions à jour de Qemu, un émulateur et virtualiseur générique et opensource.</description>
+        <description xml:lang="gl">Proporciona construccións actualizadas de QEMU, un emulador de máquinas e virtualizador xenérico e de código aberto.</description>
         <description xml:lang="hu">A QEMU legfrissebb verzióját tartalmazza, amely egy általános nyílt forrású emulátor és virtualizációs alkalmazás.</description>
         <description xml:lang="it">Fornisce versioni aggiornate di QEMU, un emulatore di macchine e virtualizzatore open source.</description>
         <description xml:lang="ja">汎用的なエミュレータ／仮想化ソフトウエア QEMU の最新ビルドを提供しています。</description>
@@ -718,7 +695,7 @@
         <description xml:lang="nl">Levert de nieuwste versies van QEMU, een generieke en opensource computer-emulator en -virtualisatie.</description>
         <description xml:lang="pl">Zawiera najnowsze kompilacje QEMU, otwartego emulatora i wirtualizatora komputera.</description>
         <description xml:lang="pt">Fornece construções actualizadas do QEMU, um virtualizador e  uma máquina emuladora de código aberto e genérica.</description>
-        <description xml:lang="pt_BR">Provê compilações atualizadas do QEMU, um emulador de máquina e virtualizador genérico de código aberto.</description>
+        <description xml:lang="pt_BR">Fornece compilações atualizadas do QEMU, um emulador de máquina e virtualizador genérico de código aberto.</description>
         <description xml:lang="ro">Furnizează build-uri actuale QEMU, un emulator şi virtualizator generic open source.</description>
         <description xml:lang="ru">Предоставляет современные сборки QEMU, основного эмулятора компьютера и виртуализатора с открытым кодом.</description>
         <description xml:lang="sk">Poskytuje aktuálne verzie programu QEMU - všeobecný emulátor počitača a virtalizačný nástroj, ktorý má otvorený zdrojový kód</description>
@@ -783,11 +760,12 @@
         <description>Provides up-to-date builds of VirtualBox, a general-purpose open-source full virtualizer for x86 hardware.</description>
         <description xml:lang="ar">يوفر أحدث اصدارات الصندوق التخيلي ،ومحاكي كامل مفتوحه المصدر للاغراض العامة لاجهزة x86</description>
         <description xml:lang="cs">Obsahuje aktuální verzi VirtualBoxu, opensource nástroje pro virtualizaci x86 hardwaru.</description>
-        <description xml:lang="da">Leverer ajourførte pakker af VirtualBox, en almennyttig open source fuld virtualisering til x86-hardware.</description>
+        <description xml:lang="da">Leverer ajourførte pakker af VirtualBox, en open source fuld virtualisering for x86-hardware til generelle formål.</description>
         <description xml:lang="de">Stellt aktuelle Pakete von VirtualBox bereit, einem Open Source Virtualisierer von x86 Hardware.</description>
         <description xml:lang="es">Proporciona revisiones actualizadas de VirtualBox, un completo sistema de virtualización de propósito general y de código abierto para hardware x86.</description>
         <description xml:lang="fi">Tarjoaa ajan tasalla olevat Virtualbox-paketit. Virtualbox on vapaan lähdekoodin yleiskäyttöinen täysvirtualisoija x86-laitteistolle.</description>
         <description xml:lang="fr">Fournit les versions à jour de VirtualBox, un virtualiseur complet opensource pour utilisation générale pour système x86</description>
+        <description xml:lang="gl">Proporciona construccións actualizadas de VirtualBox, un virtualizador completo de propósito xeral e de código aberto para hardware x86.</description>
         <description xml:lang="hu">A Virtualbox legfrissebb verzióját tartalmazza, amely egy x86-os architektúrára készített, általános felhasználású, nyílt forrású virtualizációs alkalmazás.</description>
         <description xml:lang="it">Fornisce versioni aggiornate di VirtualBox, un software di virtualizzazione completo, multiuso e open-source per la piattaforma x86.</description>
         <description xml:lang="ja">x86ハードウエア向けの完全仮想化ソフトウエア VirtualBox の最新版を提供しています。</description>
@@ -1133,7 +1111,7 @@
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:Community</name>
         <name xml:lang="ar">اوبن سوزي تبني خدمات لمجتمع KDE</name>
-        <name xml:lang="cs">openSUSE BuildService - KDE:Community</name>
+        <name xml:lang="cs">penSUSE BuildService - KDE:Community</name>
         <name xml:lang="da">openSUSE BuildService - KDE:Community</name>
         <name xml:lang="de">openSUSE BuildService - KDE:Community</name>
         <name xml:lang="es">BuildService de openSUSE - KDE:Comunidad</name>
