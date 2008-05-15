@@ -35,7 +35,7 @@
 		<summary xml:lang="ar">المستودع الرئيسي الأوبن سوزي 10.3 يحتوي المصادر المفتوحة فقط</summary>
 		<summary xml:lang="cs">Hlavní repozitář openSUSE 10.3 obsahující pouze opensource software</summary>
 		<summary xml:lang="da">Hovedsoftwarekilden for openSUSE 10.3 som kun inkluderer open source software</summary>
-		<summary xml:lang="de">Haupt-Repository von openSUSE 10.3 das nur Open Source Software enthält</summary>
+		<summary xml:lang="de">Haupt-Repository von openSUSE das nur Open Source Software enthält</summary>
 		<summary xml:lang="es">Repositorio principal de openSUSE 10.3 que incluye sólo software de código abierto</summary>
 		<summary xml:lang="fi">openSUSE 10.3 perusasennuslähde sisältää vain vapaan lähdekoodin ohjelmia</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 10.3 contenant seulement les logiciels Open Source</summary>
@@ -59,7 +59,7 @@
 		<description xml:lang="ar">مستودع البرمجيات المفتوحه المصادر (OSS) الكبرى  لاوبن سوزي 10،3 ، تتيح لك الوصول الى الالاف من الاحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، مضيفا انها قد تستغرق بعض الوقت. 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم  SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)</description>
 		<description xml:lang="cs">Velký repozitář s opensource softwarem pro openSUSE 10.3. Obsahuje tisíce balíků spravovaných týmem openSUSE. (Vzhledem k velikosti může přidání tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete přistupovat během instalace, doporučujeme minimál,ně 512 MB RAM nebo aktivní odkládací oddíl.) </description>
 		<description xml:lang="da">Den store open source softwarekilde (OSS) til openSUSE 10.3, som giver dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. 512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have adgang til denne softwarekilde under installation.)</description>
-		<description xml:lang="de">Die große Open Source Software (OSS) Paketquelle für openSUSE 10.3 welche Ihnen Zugriff auf tausende vom openSUSE Team verwaltete Pakete gibt. (Aufgrund der Größe der Paketquelle kann das Hinzufügen eine Zeit dauern. 512MB RAM oder eine aktivierte SWAP Partition sind dringend empfohlen für den Fall dass Sie auf diese Paketquelle während der Installation zugreifen wollen.</description>
+		<description xml:lang="de">Das große Open Source Software (OSS) Repository für openSUSE, welches Ihnen Zugriff auf tausende vom openSUSE Team verwaltete Pakete gibt. (Aufgrund der Größe des Repositorys kann das Hinzufügen einige Zeit dauern. 512MB RAM oder eine aktivierte SWAP Partition sind dringend empfohlen für den Fall, dass Sie auf dieses Reposiotry während der Installation zugreifen wollen.</description>
 		<description xml:lang="es">El enorme repositorio software de código abierto (OSS) para openSUSE 10.3 le da acceso a miles de paquetes mantenidos por el equipo de openSUSE (debido al tamaño del repositorio, añadirlo puede llevar algo de tiempo. Es altamente recomendable disponer de 512 MB de RAM o una partición de intercambio activa si quiere habilitar este repositorio durante la instalación.)</description>
 		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 10.3:lle, josta löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi sen lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
 		<description xml:lang="fr">Le gros dépôt de logiciels Open Sources (OSS) pour openSUSE 10.3 vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (A cause de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active est fortement recommandé dans le cas où vous voulez y acceder au moment de l'installation.)</description>
@@ -115,7 +115,7 @@
 		<summary xml:lang="ar">مستودع الأوبن سوزي 10.3 يحتوي حزم واضافات غير مفتوحة المصدر</summary>
 		<summary xml:lang="cs">Repozitář s ne-opensource softwarem pro openSUSE 10.3</summary>
 		<summary xml:lang="da">Ikke-open source software tillægssoftwarekilde for openSUSE 10.3</summary>
-		<summary xml:lang="de">Zusätzliche Nicht-Open Source Software Paketquelle für openSUSE 10.3</summary>
+		<summary xml:lang="de">Zusätzliches, "Nicht-Open Source" Software Repository für openSUSE.</summary>
 		<summary xml:lang="es">Repositorio complementario de software de código no abierto de openSUSE 10.3</summary>
 		<summary xml:lang="fi">Ei avoimen lähdekoodin lisäasennuslähde openSUSE 10.3:lle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 10.3</summary>
@@ -139,9 +139,9 @@
 		<description xml:lang="ar">المستودع الرئيسي لأوبن سوزي 10،3 للبرمجيات غير مفتوحه المصدر التي يؤمنها فريق الأوبن سوزي منها  RealPlayer ، الاوبرا ، جافا ، فلاش بلير ، واكثر</description>
 		<description xml:lang="cs">Oficální repozitář openSUSE 10.3 pro software šířený pod non-opensource licencemi spravovaný týmem openSUSE; včetně RealPlayeru, Opery, Javy, Flashe a dalších programů.</description>
 		<description xml:lang="da">Den officielle openSUSE 10.3 softwarekilde for al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer RealPlayer, Opera, Java, Flash og mere.</description>
-		<description xml:lang="de">Die offizielle openSUSE 10.3 Paketquelle für alle Nicht-Open Source Software die vom openSUSE Team verwaltet wird. Sie enthält RealPlayer, Opera, Java, Flash und mehr.</description>
+		<description xml:lang="de">Das offizielle openSUSE Repository für alle Nicht-Open Source Software, die vom openSUSE Team verwaltet wird. Sie enthält RealPlayer, Opera, Java, Flash und mehr.</description>
 		<description xml:lang="es">El repositorio oficial de openSUSE 10.3 para todo el software de código fuente no abierto mantenido por el equipo de openSUSE y que incluye RealPlayer, Opera, Java, Flash y más.</description>
-		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE 10.3-asennuslähde kaikille ei-avoimen lähdekoodin ohjelmistoille, mukaanlukien RealPlayer, Opera, Java, Flash ja niin edelleen.</description>
+		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE 10.3 -asennuslähde kaikille suljetun lähdekoodin ohjelmistoille, esimerkiksi RealPlayer, Opera, Java ja Flash.</description>
 		<description xml:lang="fr">Dépôt officiel d'openSUSE 10.3 pour tous les logiciels Non-Open Source maintenu par l'équipe d'openSUSE, il contient RealPlayer, Opera, Java, Flash, et bien d'autres.</description>
 		<description xml:lang="gl">O repositorio oficial de openSUSE 10.3 para todo o software que non é de código aberto mantido polo equipo de openSUSE, incluindo a RealPlayer, Opera, Java, Flash, e máis.</description>
 		<description xml:lang="hu">Hivatalos nem nyílt forrású komponenseket (pl. Realplayer, Opera, Java, Flash) tartalmazó openSUSE 10.3 telepítési könyvtár.</description>
@@ -152,7 +152,7 @@
 		<description xml:lang="nl">De officiële openSUSE 10.3-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals RealPlayer, Opera, Flash, Java, etc.</description>
 		<description xml:lang="pl">Oficjalne repozytorium openSUSE 10.3, które zawiera pakiety z zamkniętym oprogramowaniem utrzymywane porzez zespół openSUSE. Zawiera programy takie jak RealPlayer, Opera, Java, Flash i inne.</description>
 		<description xml:lang="pt">O repositório oficial do openSUSE 10.3 de todo o software de código não-aberto mantido pela equipa do openSUSE, incluindo o RealPlayer, Opera, Java, Flash e mais.</description>
-		<description xml:lang="pt_BR">O repositório oficial do openSUSE 10.3 para todos os Softwares Sem Codigo Aberto (NON-OSS - Non-Open Source Software) mantido pela equipe openSUSE, incluindo o RealPlayer, Opera, Java, Flash e mais.</description>
+		<description xml:lang="pt_BR">O repositório oficial do openSUSE 10.3 para todos os Softwares Sem Código Aberto (NON-OSS - Non-Open Source Software) mantido pela equipe openSUSE, incluindo o RealPlayer, Opera, Java, Flash e mais.</description>
 		<description xml:lang="ro">Sursa de instalare oficială openSUSE 10.3 pentru tot software-ul Non-Open Source întreţinut de echipa openSUSE, inclusiv RealPlayer, Opera, Java, Flash şi multe altele.</description>
 		<description xml:lang="ru">Официальный репозитарий openSUSE 10.3 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включающего RealPlayer, Opera, Java, Flash и многое другое.</description>
 		<description xml:lang="sk">Oficiálny repozitár openSUSE 10.3 so softvérom, ku ktorému sa neposkytujú zdrojové kódy. Stará sa oň openSUSE tím. Obsahuje RealPlayer, Operu, Javu, Flash, a ďalšie.</description>
@@ -194,7 +194,7 @@
 		<summary xml:lang="ar">المستودع الرئيسي الأوبن سوزي 10.3 يحتوي حزم تصحيح الاخطاء</summary>
 		<summary xml:lang="cs">Hlavní repozitář openSUSE včetně debuginfo balíčků</summary>
 		<summary xml:lang="da">Hovedsoftwarekilde for openSUSE 10.3 som inkluderer debuginfo-pakker</summary>
-		<summary xml:lang="de">Haupt-Repository von openSUSE 10.3 das debuginfo Pakete enthält</summary>
+		<summary xml:lang="de">Haupt-Repository von openSUSE welches debuginfo Pakete enthält.</summary>
 		<summary xml:lang="es">Repositorio principal de openSUSE 10.3 que incluye los paquetes debuginfo</summary>
 		<summary xml:lang="fi">openSUSE 10.3 debuginfo-paketit perusasennuslähteen paketeille</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 10.3 contenant les paquets debuginfo</summary>
@@ -203,7 +203,7 @@
 		<summary xml:lang="it">Sorgente di installazione principale di openSUSE 10.3 che comprende i pacchetti debuginfo</summary>
 		<summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 10.3 のメインリポジトリ</summary>
 		<summary xml:lang="km">ឃ្លាំង​ចម្បង​របស់​អូផឹន​ស៊ូស៊ី ១០.៣ រួម​មាន​កញ្ចប់​ debuginfo</summary>
-		<summary xml:lang="ko">디버그 패키지만 포함하고 있는 오픈수세 10.3의 주 저장소</summary>
+		<summary xml:lang="ko">디버그 꾸러미만 포함하고 있는 오픈수세 10.3의 주 저장소</summary>
 		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 10.3 met debuginfo-pakketten</summary>
 		<summary xml:lang="pl">Główne repozytorium openSUSE 10.3 zawierające tylko pakiety typu debuginfo</summary>
 		<summary xml:lang="pt">Repositório principal do openSUSE 10.3 incluindo pacotes debuginfo</summary>
@@ -218,7 +218,7 @@
 		<description xml:lang="ar">هذا المستودع مفيد للخبراء فقط للتصحيح على تطبيقات اوبن سوزي 10،3</description>
 		<description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE 10.3. Určeno pouze pro experty.</description>
 		<description xml:lang="da">Softwarekilden er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE 10.3. Kun for eksperter.</description>
-		<description xml:lang="de">Diese Paketquelle ist sinnvoll für alle die Anwendungen auf openSUSE 10.3 debuggen wollen. Nur für Experten.</description>
+		<description xml:lang="de">Dieses Repository ist sinnvoll für alle Anwender, die Fehler in Anwendungen auf openSUSE untersuchen wollen. Nur für Experten.</description>
 		<description xml:lang="es">Este repositorio es útil para aquéllos que quieran depurar aplicaciones en openSUSE 10.3. Sólo para expertos.</description>
 		<description xml:lang="fi">Tämä asennuslähde on käytännöllinen niille, jotka tahtovat debugata ohjelmistoja openSUSE 10.3:ssa. Vain asiantuntijoille.</description>
 		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent deboguer des applications sous openSUSE 10.3. Pour experts seulement.</description>
@@ -231,7 +231,7 @@
 		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's willen opsporen. Alleen voor ervaren gebruikers.</description>
 		<description xml:lang="pl">Repozytorium to przydaje się, gdy trzeba śledzić awarie aplikacji openSUSE 10.3. Tylko dla zaawansowanych.</description>
 		<description xml:lang="pt">Este repositório é útil para aqueles que desejam depurar as aplicações no openSUSE 10.3. Apenas para experientes.</description>
-		<description xml:lang="pt_BR">Este repositório é util para aqueles que querem depurar aplicativos no openSUSE 10.3. Somente para usuários avançados.</description>
+		<description xml:lang="pt_BR">Este repositório é útil para aqueles que querem depurar aplicativos no openSUSE 10.3. Somente para usuários avançados.</description>
 		<description xml:lang="ro">Această sursă de instalare este utilă pentru cei ce doresc să depaneze aplicaţii sub openSUSE 10.3. Destinată doar experţilor.</description>
 		<description xml:lang="ru">Этот репозитарий полезен для тех, кто хочет отлаживать приложения на openSUSE 10.3. Только для экспертов.</description>
 		<description xml:lang="sk">Tento repozitár je potrebný pre ľudí, ktorý chcú ladiť programy pre openSUSE 10.3. Len pre expertov.</description>
