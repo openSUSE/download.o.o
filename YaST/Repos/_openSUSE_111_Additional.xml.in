@@ -4,101 +4,121 @@
 <metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
   <group distversion="openSUSE Build Service">
     <repositories>
+      <!-- repository recommended="false" format="yast">
+        <_name>Main Repository (Sources)</_name>
+        <_summary>Main repository of openSUSE 11.0 (Source packages)</_summary>
+        <_description>The repository of all source packages in openSUSE 11.0. For experts only.</_description>
+        <url>http://download.opensuse.org/distribution/11.0/repo/src-oss/suse/</url>
+      </repository -->
+      <repository recommended="false" format="rpm-md">
+        <_name>Main Update Repository</_name>
+        <_summary>Repository for official updates to 11.0</_summary>
+        <_description>In this repository you find security and maintenance updates to openSUSE 11.0.</_description>
+        <url>http://download.opensuse.org/update/11.0/</url>
+      </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - XFCE</_name>
         <_summary>Latest XFCE release</_summary>
         <_description>The XFCE repository in the openSUSE Build Service, which provides you with the unsupported but latest version of the XFCE desktop environment and software.</_description>
-        <url>http://download.opensuse.org/repositories/X11:/xfce/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/X11:/xfce/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - X11:XGL</_name>
         <_summary>Latest Compiz release</_summary>
         <_description>This repository contains the latest software that brings you composite effects and technology. It includes Xgl, Compiz, and Compiz Fusion packages maintained by the openSUSE Community.</_description>
-        <url>http://download.opensuse.org/repositories/X11:/XGL/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/</url>
       </repository>
+<!-- controversial
+      <repository recommended="false" format="rpm-md">
+        <_name>openSUSE BuildService - xorg73</_name>
+        <_summary>Latest Xorg 7.3 release</_summary>
+        <_description>Provides you with the latest version of the Xorg (display server) 7.3. This repository will change and can break frequently; for experts only.</_description>
+        <url>http://download.opensuse.org/repositories/xorg73/openSUSE_Factory/</url>
+      </repository>
+-->
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - OpenOffice.org</_name>
         <_summary>Latest stable OpenOffice.org release</_summary>
         <_description>Provides you with the latest stable version of OpenOffice.org, the Office suite that openSUSE uses.</_description>
-        <url>http://download.opensuse.org/repositories/OpenOffice.org:/STABLE/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/OpenOffice.org:/STABLE/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Mozilla</_name>
         <_summary>Most recent builds of Mozilla Software like Firefox</_summary>
         <_description>Containing the latest releases of all Mozilla software, such as the popular Thunderbird (mail client), Firefox and SeaMonkey (web browsers). </_description>
-        <url>http://download.opensuse.org/repositories/mozilla/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/mozilla/SUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Wine CVS Builds</_name>
         <_summary>Snapshots of Wine CVS</_summary>
         <_description>Wine is an Open Source implementation of the Windows API, so it allows you to run some Windows applications in openSUSE. This repository provides the latest CVS (development) snapshot packages of Wine.</_description>
-        <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Games</_name>
         <_summary>A collection of action games</_summary>
         <_description>Contains several action games including Open Arena (shoot 'em up), Flight Gear (flight simulator) and Torcs (3D racing simulator). </_description>
-        <url>http://download.opensuse.org/repositories/games/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/games/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Drivers for webcams</_name>
         <_summary>Recent drivers for webcams</_summary>
         <_description>Contains recent drivers for hundreds of different webcams.</_description>
-        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Virtualization (QEMU)</_name>
         <_summary>Latest builds of Qemu</_summary>
         <_description>Provides up-to-date builds of QEMU, a generic and open source machine emulator and virtualizer. </_description>
-        <url>http://download.opensuse.org/repositories/Virtualization:/Qemu/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/Virtualization:/Qemu/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Virtualization (VirtualBox)</_name>
         <_summary>Latest builds of Virtualbox</_summary>
         <_description>Provides up-to-date builds of VirtualBox, a general-purpose open-source full virtualizer for x86 hardware.</_description>
-        <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - PHP</_name>
         <_summary>Latest updates for PHP software</_summary>
         <_description>Provides the latest packages and multiple-version builds of PHP software.</_description>
-        <url>http://download.opensuse.org/repositories/server:/php/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/server:/php/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Database</_name>
         <_summary>Latest updates for database software</_summary>
         <_description>Latest updates for database software including Firebird and MySQL.</_description>
-        <url>http://download.opensuse.org/repositories/server:/database/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/server:/database/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Mail Server</_name>
         <_summary>Latest updates for postfix, exim and tools around them.</_summary>
         <_description>Providing the latest updates for postfix, exim and tools around them.</_description>
-        <url>http://download.opensuse.org/repositories/server:/mail/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/server:/mail/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - KDE:Backports</_name>
         <_summary>Backports of KDE applications</_summary>
         <_description>Updates to the KDE software that is shipped with the distribution (backports).</_description>
-        <url>http://download.opensuse.org/repositories/KDE:/Backports/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/KDE:/Backports/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - KDE:Community</_name>
         <_summary>Community repository for KDE</_summary>
         <_description>Provides additional KDE software maintained by the openSUSE KDE community. This includes filelight, d3lphin, kooldock, and much more.</_description>
-        <url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - GNOME:STABLE</_name>
         <_summary>Backport of latest stable GNOME</_summary>
         <_description>This provides the latest stable, unsupported release of GNOME for openSUSE 11.0.</_description>
-        <url>http://download.opensuse.org/repositories/GNOME:/STABLE/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/GNOME:/STABLE/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - GNOME:Community</_name>
         <_summary>Community repository for GNOME</_summary>
         <_description>Updates to the GNOME software that is shipped with the distribution (backports).</_description>
-        <url>http://download.opensuse.org/repositories/GNOME:/Community/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/GNOME:/Community/openSUSE_Factory/</url>
       </repository>
     </repositories>
   </group>
