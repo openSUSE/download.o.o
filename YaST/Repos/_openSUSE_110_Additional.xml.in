@@ -89,6 +89,12 @@
         <url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_11.0/</url>
       </repository>
       <repository recommended="false" format="yast">
+        <_name>openSUSE BuildService - KDE4:Factory:Desktop</_name>
+        <_summary>Latest KDE4 Builds</_summary>
+        <_description>Updates the KDE4 desktop to the latest version (not necessarly stable)</_description>
+        <url>http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/</url>
+      </repository>
+      <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - GNOME:STABLE</_name>
         <_summary>Backport of latest stable GNOME</_summary>
         <_description>This provides the latest stable, unsupported release of GNOME for openSUSE 11.0.</_description>

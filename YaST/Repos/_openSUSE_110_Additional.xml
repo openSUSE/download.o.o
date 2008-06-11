@@ -559,7 +559,7 @@
         <description xml:lang="wa">Des moenneus nén vîs s' î trovèt po sacwantès webcams.</description>
         <description xml:lang="zh_CN">包含上百种网络摄像头的最新驱动。</description>
         <description xml:lang="zh_TW">包含了數百種網路攝影機的最新驅動程式。</description>
-        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_11.0/</url>
+        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_11.0_Update/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Virtualization (QEMU)</name>
@@ -1141,6 +1141,12 @@
         <description xml:lang="zh_CN">提供 openSUSE KDE 社区维护的附加 KDE 软件。包括 filelight、d3lphin、kooldock 以及更多。</description>
         <description xml:lang="zh_TW">提供了由 openSUSE KDE 社群維護的額外 KDE 軟體。包含了 filelight, d3lphin, kooldock 以及其他更多軟體。</description>
         <url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_11.0/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>openSUSE BuildService - KDE4:Factory:Desktop</name>
+        <summary>Latest KDE4 Builds</summary>
+        <description>Updates the KDE4 desktop to the latest version (not necessarly stable)</description>
+        <url>http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:STABLE</name>
