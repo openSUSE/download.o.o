@@ -120,6 +120,12 @@
         <_description>Updates to the GNOME software that is shipped with the distribution (backports).</_description>
         <url>http://download.opensuse.org/repositories/GNOME:/Community/openSUSE_Factory/</url>
       </repository>
+      <repository recommended="false" format="yast">
+        <_name>openSUSE BuildService - Mono:Community</_name>
+        <_summary>Community repository for Mono applications</_summary>
+        <_description>Updates and Additions of applications written in Mono.</_description>
+        <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_11.0/</url>
+      </repository>
     </repositories>
   </group>
 </metapackage>
