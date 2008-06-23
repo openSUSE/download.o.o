@@ -420,6 +420,7 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Games</name>
+        <name xml:lang="ko">오픈수세 빌드서비스 - 게임</name>
         <name xml:lang="pl">openSUSE BuildService - Gry</name>
         <summary>A collection of action games</summary>
         <summary xml:lang="ar">مجموعة من العاب الاثارة</summary>
@@ -1144,8 +1145,11 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE4:Factory:Desktop</name>
+        <name xml:lang="ko">오픈수세 빌드서비스 - KDE:Factory:데스크탑</name>
         <summary>Latest KDE4 Builds</summary>
+        <summary xml:lang="ko">최신 KDE4 빌드</summary>
         <description>Updates the KDE4 desktop to the latest version (not necessarly stable)</description>
+        <description xml:lang="ko">KDE4 데스크탑을 최신버전으로 업데이트(not necessarly stable)</description>
         <url>http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/</url>
       </repository>
       <repository recommended="false" format="yast">
@@ -1312,6 +1316,13 @@
         <description xml:lang="zh_TW">更新到發行版本搭載的 GNOME 軟體(回溯支援)。</description>
         <url>http://download.opensuse.org/repositories/GNOME:/Community/openSUSE_11.0/</url>
       </repository>
+      <repository recommended="false" format="yast">
+        <name>openSUSE BuildService - Mono:Community</name>
+        <summary>Community repository for Mono applications</summary>
+        <description>Updates and Additions of applications written in Mono.</description>
+        <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_11.0/</url>
+      </repository>
+
     </repositories>
   </group>
 </metapackage>
