@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- Main Repositories for openSUSE 11.0
+<!-- Main Repositories for openSUSE 11.1
      These are maintained by Stephan Kulow <coolo@suse.de> -->
 <metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
     <group distversion="openSUSE Main Repository">
@@ -7,10 +7,10 @@
 
 	    <repository recommended="true" format="yast">
 		<_name>Main Repository (OSS)</_name>
-		<_summary>Main repository of openSUSE 11.0 including only
+		<_summary>Main repository of openSUSE 11.1 including only
 		Open Source Software</_summary>
 		<_description>The big Open Source Software (OSS) repository
-		for openSUSE 11.0, giving you access to thousands of
+		for openSUSE 11.1, giving you access to thousands of
 		packages maintained by the openSUSE team. (Due to the size of
 		the repository, adding it may take some time. 512 MB of RAM
 		or an enabled SWAP partition are highly recommended in case
@@ -20,8 +20,8 @@
 	    </repository>
 	    <repository recommended="true" format="yast">
 		<_name>Main Repository (NON-OSS)</_name>
-		<_summary>Non-Open Source Software Addon repository for openSUSE 11.0</_summary>
-		<_description>The official openSUSE 11.0 repository for all
+		<_summary>Non-Open Source Software Addon repository for openSUSE 11.1</_summary>
+		<_description>The official openSUSE 11.1 repository for all
 		Non-Open Source Software maintained by the openSUSE team,
 		including RealPlayer, Opera, Java, Flash, and
 		more.</_description>
@@ -29,8 +29,8 @@
 	    </repository>
 	    <repository recommended="false" format="yast">
 		<_name>Main Repository (DEBUG)</_name>
-		<_summary>Main repository of openSUSE 11.0 including the debuginfo packages</_summary>
-		<_description>This repository is useful for those that want to debug applications on openSUSE 11.0. For experts only.</_description>
+		<_summary>Main repository of openSUSE 11.1 including the debuginfo packages</_summary>
+		<_description>This repository is useful for those that want to debug applications on openSUSE 11.1. For experts only.</_description>
 		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>
 	    </repository>
 
