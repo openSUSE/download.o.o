@@ -426,11 +426,13 @@
         <name xml:lang="fr">openSUSE BuildService - Jeux</name>
         <name xml:lang="hu">openSUSE BuildService - Játékok</name>
         <name xml:lang="ja">openSUSE ビルドサービス - ゲーム</name>
+        <name xml:lang="km">openSUSE BuildService - ល្បែង</name>
         <name xml:lang="ko">오픈수세 빌드서비스 - 게임</name>
         <name xml:lang="pl">openSUSE BuildService - Gry</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Jogos</name>
         <name xml:lang="ru">openSUSE BuildService - Игры</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Ігри</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - 游戏</name>
         <summary>A collection of action games</summary>
         <summary xml:lang="ar">مجموعة من العاب الاثارة</summary>
         <summary xml:lang="cs">Sbírka akčních her</summary>
@@ -1160,10 +1162,13 @@
         <name xml:lang="fr">openSUSE BuildService - KDE4:Factory:Desktop</name>
         <name xml:lang="hu">openSUSE BuildService - KDE4:Fejlesztői változat</name>
         <name xml:lang="ja">openSUSE ビルドサービス - KDE4:ファクトリ:デスクトップ</name>
+        <name xml:lang="km">openSUSE BuildService - KDE4:Factory:Desktop</name>
         <name xml:lang="ko">오픈수세 빌드서비스 - KDE:Factory:데스크탑</name>
+        <name xml:lang="pl">openSUSE BuildService - KDE Factory:Pulpit</name>
         <name xml:lang="pt_BR">openSUSE BuildService - KDE4:desenvolvimento:desktop</name>
         <name xml:lang="ru">openSUSE BuildService - KDE4:Factory:Desktop</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - KDE4:Factory:Desktop</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - KDE4:Factory:Desktop</name>
         <summary>Latest KDE4 Builds</summary>
         <summary xml:lang="cs">Poslední verze KDE4</summary>
         <summary xml:lang="de">Neueste KDE4-Builds</summary>
@@ -1171,10 +1176,13 @@
         <summary xml:lang="fr">Dernières versions de KDE4</summary>
         <summary xml:lang="hu">Legfrissebb KDE4</summary>
         <summary xml:lang="ja">KDE4 の最新ビルド</summary>
+        <summary xml:lang="km">ស្ថាបនា KDE4 ចុង​ក្រោយ​បំផុត</summary>
         <summary xml:lang="ko">최신 KDE4 빌드</summary>
+        <summary xml:lang="pl">Najnowsze kompilacje KDE4</summary>
         <summary xml:lang="pt_BR">Compilações mais recentes do KDE4</summary>
         <summary xml:lang="ru">Последние сборки KDE4</summary>
         <summary xml:lang="uk">Найновіші версії KDE4</summary>
+        <summary xml:lang="zh_CN">最新的 KDE4</summary>
         <description>Updates the KDE4 desktop to the latest version (not necessarly stable)</description>
         <description xml:lang="cs">Aktualizovat prostředí KDE4 na nejnovější verzi (nemusí být stabilní)</description>
         <description xml:lang="de">Aktualisiert (Update) den KDE4-Desktop auf die neueste Version (nicht notwendigerweise stabil)</description>
@@ -1182,10 +1190,13 @@
         <description xml:lang="fr">Met à jour le bureau KDE4 vers la dernière version (pas nécessairement stable)</description>
         <description xml:lang="hu">KDE4 alkalmazások frissítése a legfrissebb verzióra (nem biztos, hogy stabil)</description>
         <description xml:lang="ja">KDE4 デスクトップを最新バージョンに更新 (必ずしも安定していません)</description>
+        <description xml:lang="km">ធ្វើ​ឲ្យ​ផ្ទៃតុ KDE4 ទាន់សម័យ​ទៅ​កំណែ​ថ្មី​បំផុត (មិន​មែន​ស្ថិតស្ថេរ​ទេ)</description>
         <description xml:lang="ko">KDE4 데스크탑을 최신버전으로 업데이트(not necessarly stable)</description>
+        <description xml:lang="pl">Aktualizacje pulpitu KDE4 do najnowszych wersji (mogą być niestabilne)</description>
         <description xml:lang="pt_BR">Atualiza a área de trabalho do KDE4 para a última versão (não necessáriamente estável)</description>
         <description xml:lang="ru">Обновляет рабочий стол KDE4 до последней версии (не обязательно стабильной)</description>
         <description xml:lang="uk">Оновлює стільницю KDE4 до найновішої версії (можливо, нестабільної)</description>
+        <description xml:lang="zh_CN">更新 KDE4 桌面到最新版本（不保证稳定）</description>
         <url>http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/</url>
       </repository>
       <repository recommended="false" format="yast">
@@ -1360,10 +1371,13 @@
         <name xml:lang="fr">openSUSE BuildService - Mono:Community</name>
         <name xml:lang="hu">openSUSE BuildService - Mono:Közösség</name>
         <name xml:lang="ja">openSUSE ビルドサービス - Mono:コミュニティ</name>
+        <name xml:lang="km">openSUSE BuildService - Mono:Community</name>
         <name xml:lang="ko">오픈수세 빌드서비스 - Mono:커뮤니티</name>
+        <name xml:lang="pl">openSUSE BuildService - Społeczność Mono</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Mono:comunidade</name>
         <name xml:lang="ru">openSUSE BuildService - Mono:Community</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Mono:Community</name>
+        <name xml:lang="zh_CN">openSUSE 包构建服务 - Mono:Community</name>
         <summary>Community repository for Mono applications</summary>
         <summary xml:lang="cs">Komunitní repozitář s MONO aplikacemi</summary>
         <summary xml:lang="de">Gemeinschafts-Repository für Mono-Anwendungen</summary>
@@ -1371,10 +1385,13 @@
         <summary xml:lang="fr">Dépôt de la communauté pour les applications Mono</summary>
         <summary xml:lang="hu">Mono alkalmazások közösségi telepítési forrása</summary>
         <summary xml:lang="ja">Mono アプリケーション向けのコミュニティリポジトリ</summary>
+        <summary xml:lang="km">ឃ្លាំង​សហគមន៍​សម្រាប់​កម្មវិធី​តែ​មួយ</summary>
         <summary xml:lang="ko">Mono 응용프료그램용 커뮤니티 저장소</summary>
+        <summary xml:lang="pl">Repozytoria społeczności dla aplikacji Mono</summary>
         <summary xml:lang="pt_BR">Repositório da comunidade para aplicativos em Mono</summary>
         <summary xml:lang="ru">Репозиторий сообщества для приложений Mono</summary>
         <summary xml:lang="uk">Громадське сховище для програм Mono</summary>
+        <summary xml:lang="zh_CN">Mono 应用程序社区安装源</summary>
         <description>Updates and Additions of applications written in Mono.</description>
         <description xml:lang="cs">Aktualizace a rozšíření pro aplikace naprogramované v jazyku Mono.</description>
         <description xml:lang="de">Aktualisierungen (Update) und Erweiterungen von in Mono geschriebenen Anwendungen.</description>
@@ -1382,10 +1399,13 @@
         <description xml:lang="fr">Mises à jour et ajouts d'applications écrites en Mono.</description>
         <description xml:lang="hu">Frissítések és kiegészítések Monoban írt alkalmazásokhoz.</description>
         <description xml:lang="ja">Mono で書かれたアプリケーションの更新と追加</description>
+        <description xml:lang="km">ភាព​ទាន់សម័យ និង​ការ​បន្ថែម​កម្មវិធី​ដែល​បាន​សរសេរ​នៅ​ក្នុង Mono ។</description>
         <description xml:lang="ko">Mono 에서 응용프로그램 업데이트 및 추가사항을 기록합니다.</description>
+        <description xml:lang="pl">Aktualizacje i dodatkowe aplikacje napisane w Mono.</description>
         <description xml:lang="pt_BR">Atualizações e adicionais de aplicativos escritos no Mono.</description>
         <description xml:lang="ru">Обновления и дополнения для приложений, написанных на Mono.</description>
         <description xml:lang="uk">Оновлення і додатки для програм написаних на Mono.</description>
+        <description xml:lang="zh_CN">用 Mono 编写的更新和附加程序</description>
         <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_11.0/</url>
       </repository>
 
