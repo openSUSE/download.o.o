@@ -16,7 +16,7 @@
 		or an enabled SWAP partition are highly recommended in case
 		you want to access this repository at installation time.)
 		 </_description>
-		<url>http://download.opensuse.org/distribution/SL-OSS-factory/inst-source/</url>
+		<url>http://download.opensuse.org/distribution/11.1/repo/oss/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
 		<_name>Main Repository (NON-OSS)</_name>
@@ -25,13 +25,13 @@
 		Non-Open Source Software maintained by the openSUSE team,
 		including RealPlayer, Opera, Java, Flash, and
 		more.</_description>
-		<url>http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/</url>
+		<url>http://download.opensuse.org/distribution/11.1/repo/non-oss/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
 		<_name>Main Repository (DEBUG)</_name>
 		<_summary>Main repository of openSUSE 11.1 including the debuginfo packages</_summary>
 		<_description>This repository is useful for those that want to debug applications on openSUSE 11.1. For experts only.</_description>
-		<url>http://download.opensuse.org/distribution/SL-OSS-factory-debug/inst-source-debug/</url>
+		<url>http://download.opensuse.org/distribution/11.1/repo/debug/</url>
 	    </repository>
 
 	</repositories>
