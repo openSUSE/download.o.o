@@ -50,6 +50,7 @@
 		<summary xml:lang="ko">오픈 소스 소프트웨어(OSS)만 포함하고 있는 오픈수세 10.3의 주 저장소</summary>
 		<summary xml:lang="nb">Hovedarkiv for openSUSE 10.3 som kun inneholder programvare med åpen kildekode</summary>
 		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 10.3 met alleen opensource-software</summary>
+		<summary xml:lang="pa">ਓਪਨਸੂਸੇ 10.3 ਦੀ ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ, ਜਿਸ ਵਿੱਚ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਹਨ</summary>
 		<summary xml:lang="pl">Główne repozytorium openSUSE 10.3 zawierające tylko oprogramowanie na wolnych licencjach</summary>
 		<summary xml:lang="pt">Repositório principal do openSUSE 10.3 incluindo apenas software de código aberto</summary>
 		<summary xml:lang="pt_BR">O repositório principal do openSUSE 10.3 inclui apenas softwares de código aberto</summary>
@@ -77,6 +78,7 @@
 		<description xml:lang="ko">오픈수세 10.3의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유지 관리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시간이 좀 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)</description>
 		<description xml:lang="nb">Det store arkivet for åpen kildekode (OSS) for openSUSE 10.3 gir deg tilgang til tusenvis av pakker som vedlikeholdes av openSUSE--gruppen. (På grunn av størrelsen kan det ta en stund å legge til arkivet (512 MB RAM eller en aktivert veksleminnepartisjon anbefales sterkt hvis du ønsker tilgang til dette arkivet under installasjonen).</description>
 		<description xml:lang="nl">De grote opensource-installatiebron van openSUSE 10.3 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 mb RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+		<description xml:lang="pa">ਓਪਨਸੂਸੇ 10.3 ਲਈ ਵੱਡੀ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ (OSS) ਰਿਪੋਜ਼ਟਰੀ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਓਪਨ ਸੂਸੇ ਟੀਮ ਦੇ ਪਰਬੰਧ ਅਧੀਨ ਰੱਖੇ ਹਜ਼ਾਰਾਂ ਪੈਕੇਜ ਲਈ ਪਹੁੰਚ ਦਿੰਦੀ ਹੈ। (ਰਿਪੋਜ਼ਟਰੀ ਦੇ ਸਾਈਜ਼ ਕਰਕੇ, ਇਸ ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਕੁਝ ਸਮਾਂ ਲੱਗ ਸਕਦਾ ਹੈ। 512 MB  ਰੈਮ (RAM) ਜਾਂ ਚਾਲੂ ਕੀਤਾ ਸਵੈਪ (SWAP) ਭਾਗ ਦੀ ਜ਼ੋਰਦਾਰ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ, ਜੇ ਤੁਸੀਂ ਇੰਸਟਾਲੇਸ਼ਨ ਦੇ ਦੌਰਾਨ ਹੀ ਇਹ ਰਿਪੋਜ਼ਟਰੀ ਦੀ ਵਰਤੋਂ ਕਰਨੀ।</description>
 		<description xml:lang="pl">Wielkie repozytorium open source (OSS) dla openSUSE 10.3, które zawiera tysiące pakietów utrzymywanych przez zespół openSUSE. (Z racji rozmiarów dodanie tego repozytorium może zająć trochę czasu. Zalecane jest posiadanie 512MB pamięci RAM lub włączenie partycja wymiany, jeśli repozytorium to ma być użyte podczas instalacji ).</description>
 		<description xml:lang="pt">O grande repositório Software de Código Aberto (OSS) para o openSUSE 10.3, dá-lhe acesso a centenas de pacotes mantidos pela equipa do openSUSE. (Devido ao tamanho do repositório, ao adicioná-lo poderá levar algum tempo. É extremamente recomendado que tenha 512 MB de RAM ou uma partição SWAP activada no caso de querer aceder a este repositório durante o processo de instalação.)</description>
 		<description xml:lang="pt_BR">O grande repositório OSS (Open Source Software - software de código aberto) para o openSUSE 10.3, dá a você acesso a milhares de pacotes mantidos pela equipe openSUSE. (Devido ao tamanho do repositório, adicioná-lo pode levar algum tempo. 512 MB de memória RAM ou uma partição SWAP habilitada são altamente recomendados no caso de você querer acessar esse repositório no momento da instalação.)</description>
@@ -138,6 +140,7 @@
 		<summary xml:lang="ko">비 오픈 소스 소프트웨어가 포함된 오픈수세 10.3 저장소</summary>
 		<summary xml:lang="nb">Tilleggsarkiv med programvare uten åpen kildekode for openSUSE 10.3</summary>
 		<summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE 10.3</summary>
+		<summary xml:lang="pa">ਓਪਨਸੂਸੇ 10.3 ਲਈ ਗ਼ੈਰ-ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰਾਂ ਲਈ ਐਡ-ਆਨ ਰਿਪੋਜ਼ਟਰੀ</summary>
 		<summary xml:lang="pl">Repozytorium zamkniętych dodatków dla openSUSE 10.3</summary>
 		<summary xml:lang="pt">Repositório de software adicional de código não-aberto para o openSUSE 10.3</summary>
 		<summary xml:lang="pt_BR">O repositório complementar de softwares sem o código aberto para o openSUSE 10.3</summary>
@@ -165,6 +168,7 @@
 		<description xml:lang="ko">오픈수세 팀에 의해 유지, 관리되는 비 오픈 소스 소프트웨어(리얼 플레이어, 오페라, 자바, 플래시 등 기타)로 된 공식 오픈수세 10.3 저장소 입니다.</description>
 		<description xml:lang="nb">Det offisielle openSUSE 10.3-arkivet for all programvare uten åpen kildekode programvare vedlikeholdes av openSUSE-gruppen, og inneholder blant annet RealPlayer, Opera, Java, Flash og mye mer.</description>
 		<description xml:lang="nl">De officiële openSUSE 10.3-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals RealPlayer, Opera, Flash, Java, etc.</description>
+		<description xml:lang="pa">ਆਫੀਸ਼ਲ ਓਪਨ-ਸੂਸੇ 10.3 ਰਿਪੋਜ਼ਟਰੀ, ਜਿਸ ਵਿੱਚ ਗ਼ੈਰ-ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰਾਂ ਨੂੰ ਓਪਨਸੂਸੇ ਟੀਮ ਵਲੋਂ ਪਰਬੰਧ ਅਧੀਨ ਰੱਖਿਆ ਜਾਂਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਰੀਅਲਪਲੇਅਰ, ਓਪੇਰਾ, ਜਾਵਾ, ਫਲੈਸ਼ ਅਤੇ ਹੋਰ ਸ਼ਾਮਲ ਹਨ।</description>
 		<description xml:lang="pl">Oficjalne repozytorium openSUSE 10.3, które zawiera pakiety z zamkniętym oprogramowaniem utrzymywane porzez zespół openSUSE. Zawiera programy takie jak RealPlayer, Opera, Java, Flash i inne.</description>
 		<description xml:lang="pt">O repositório oficial do openSUSE 10.3 de todo o software de código não-aberto mantido pela equipa do openSUSE, incluindo o RealPlayer, Opera, Java, Flash e mais.</description>
 		<description xml:lang="pt_BR">O repositório oficial do openSUSE 10.3 para todos os softwares sem o código aberto (NON-OSS - Non-Open Source Software) mantido pela equipe openSUSE, incluindo o RealPlayer, Opera, Java, Flash e mais.</description>
@@ -225,6 +229,7 @@
 		<summary xml:lang="ko">디버그 꾸러미만 포함하고 있는 오픈수세 10.3의 주 저장소</summary>
 		<summary xml:lang="nb">Hovedarkiv for openSUSE 10.3 som inneholder pakker med feilsøkingsinformasjon</summary>
 		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 10.3 met debuginfo-pakketten</summary>
+		<summary xml:lang="pa">ਓਪਨਸੂਸੇ 10.3 ਲਈ ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ, ਜਿਸ ਵਿੱਚ debuginfo ਪੈਕੇਜ ਸ਼ਾਮਲ ਹਨ</summary>
 		<summary xml:lang="pl">Główne repozytorium openSUSE 10.3 zawierające tylko pakiety typu debuginfo</summary>
 		<summary xml:lang="pt">Repositório principal do openSUSE 10.3 incluindo pacotes debuginfo</summary>
 		<summary xml:lang="pt_BR">O repositório principal do openSUSE 10.3 incluindo pacotes debuginfo</summary>
@@ -252,6 +257,7 @@
 		<description xml:lang="ko">이 오픈수세 10.3 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)</description>
 		<description xml:lang="nb">Dette arkivet er nyttig hvis du vil feilsøke programmer på openSUSE 10.3. Kun for avanserte brukere.</description>
 		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's willen opsporen. Alleen voor ervaren gebruikers.</description>
+		<description xml:lang="pa">ਇਹ ਰਿਪੋਜ਼ਟਰੀ ਉਨ੍ਹਾਂ ਲਈ ਫਾਇਦੇਮੰਦ ਹੈ, ਜੋ ਕਿ ਓਪਨਸੂਸੇ 10.3 ਉੱਤੇ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਡੀਬੱਗ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹਨ। ਕੇਵਲ ਮਾਹਰਾਂ ਲਈ ਹੈ।</description>
 		<description xml:lang="pl">Repozytorium to przydaje się, gdy trzeba śledzić awarie aplikacji openSUSE 10.3. Tylko dla zaawansowanych.</description>
 		<description xml:lang="pt">Este repositório é útil para aqueles que desejam depurar as aplicações no openSUSE 10.3. Apenas para experientes.</description>
 		<description xml:lang="pt_BR">Este repositório é útil para aqueles que querem depurar aplicativos no openSUSE 10.3. Somente para usuários avançados.</description>
