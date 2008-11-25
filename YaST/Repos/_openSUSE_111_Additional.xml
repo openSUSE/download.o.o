@@ -2,7 +2,40 @@
 <metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
   <group distversion="openSUSE Build Service">
     <repositories>
-      
+      <repository recommended="false" format="yast">
+        <name>Main Repository (Sources)</name>
+        <name xml:lang="ar">مستودع رئيسي ( مصادر )</name>
+        <name xml:lang="cs">Hlavní repozitář (zdroje)</name>
+        <name xml:lang="da">Hovedsoftwarekilde (kildekoder)</name>
+        <name xml:lang="de">Haupt-Repository (Quellen)</name>
+        <name xml:lang="es">Repositorio Principal (fuentes) </name>
+        <name xml:lang="fi">Pääasennuslähde (lähdekoodit)</name>
+        <name xml:lang="fr">Dépôt principal (Sources)</name>
+        <name xml:lang="gl">Repositorio Principal (Fontes)</name>
+        <name xml:lang="hr">Glavni repozitorij (programski kod)</name>
+        <name xml:lang="hu">Elsődleges telepítési forrás (források)</name>
+        <name xml:lang="it">Sorgente di installazione principale (Sorgenti)</name>
+        <name xml:lang="ja">メインリポジトリ (ソース)</name>
+        <name xml:lang="km">ឃ្លាំង​ចម្បង (ប្រភព)</name>
+        <name xml:lang="ko">주 저장소 (소스)</name>
+        <name xml:lang="nb">Hovedarkiv (Kilder)</name>
+        <name xml:lang="nl">Hoofd-installatiebron (broncode)</name>
+        <name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਸਰੋਤ)</name>
+        <name xml:lang="pl">Repozytorium główne (pakiety źródłowe)</name>
+        <name xml:lang="pt">Repositório Principal (Fontes)</name>
+        <name xml:lang="pt_BR">Repositório principal (fontes)</name>
+        <name xml:lang="ro">Sursă de instalare principală (cod sursă)</name>
+        <name xml:lang="ru">Основной репозиторий (Исходные коды)</name>
+        <name xml:lang="sk">Hlavný repozitár (zdrojové kódy)</name>
+        <name xml:lang="sv">Huvudförråd (Källkod)</name>
+        <name xml:lang="uk">Головне сховище (джерела)</name>
+        <name xml:lang="wa">Mwaisse depot (Sourdants)</name>
+        <name xml:lang="zh_CN">主安装源(源代码)</name>
+        <name xml:lang="zh_TW">主要套件庫 (原碼)</name>
+        <summary>Main repository of openSUSE 11.1 (Source packages)</summary>
+        <description>The repository of all source packages in openSUSE 11.1. For experts only.</description>
+        <url>http://download.opensuse.org/source/distribution/11.1/repo/oss/</url>
+      </repository>
       <repository recommended="false" format="rpm-md">
         <name>Main Update Repository</name>
         <name xml:lang="ar">مستودع التحديث الرئيسي</name>
