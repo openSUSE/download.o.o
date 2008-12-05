@@ -30,6 +30,7 @@
 		<name xml:lang="ru">Основной репозиторий (OSS)</name>
 		<name xml:lang="sk">Hlavný repozitár (OSS)</name>
 		<name xml:lang="sv">Huvudförrådet (OSS)</name>
+		<name xml:lang="th">คลังแพกเกจหลัก (ซอฟต์แวร์เสรี)</name>
 		<name xml:lang="uk">Головне сховище (ВПЗ)</name>
 		<name xml:lang="wa">Mwaisse depot (OSS)</name>
 		<name xml:lang="zh_CN">主安装源 (OSS)</name>
@@ -58,6 +59,7 @@
 		<summary xml:lang="ru">Основной репозиторий openSUSE 10.3, включающий только программное обеспечение с открытым кодом</summary>
 		<summary xml:lang="sk">Hlavný repozitár pre openSUSE 10.3, ktorý obsahuje výlučne iba programy s verejne dostupným zdrojovým kódom (Open Source Software)</summary>
 		<summary xml:lang="sv">Huvudförrådet för openSUSE 10.3, innehåller enbart open source-mjukvara</summary>
+		<summary xml:lang="th">คลังแพกเกจหลักของ openSUSE 10.3 ที่รวมไว้เฉพาะซอฟต์แวร์เสรีเท่านั้น</summary>
 		<summary xml:lang="uk">Головне сховище openSUSE 10.3, яке містить тільки ПЗ з відкритим кодом</summary>
 		<summary xml:lang="wa">Mwaisse depot d' openSUSE 10.3 avou ki des programes libes</summary>
 		<summary xml:lang="zh_CN">openSUSE 10.3 的主安装源，仅仅包含开源软件</summary>
@@ -86,6 +88,7 @@
 		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 10.3, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозитарию во время установки, очень рекомендуется 512 Мб RAM или включённый раздел подкачки.)</description>
 		<description xml:lang="sk">Veľký repozitár Open Source Software (OSS), t.j. softvér s verejne prístupným zdrojovým kódom, pre openSUSE 10.3. Dá vám prístup k tisícom balíkom, o ktoré sa stará openSUSE tím. (Ak chcete pridať tento repozitár ako inštalačný zdroj, doporučujeme mať 512 MB operačnej pamäte alebo aktivovaný odkladací diskový oddiel swap kvôli jeho obrovskej veľkosti. Jeho pridanie potrvá istý čas.)</description>
 		<description xml:lang="sv">Det stora Open Source Software (OSS) förrådet för openSUSE 10.3 som ger dig åtkomst till tusentals paket underhållna av openSUSE-teamet. (På grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB RAM eller en SWAP-partition är mycket rekommenderat om du vill ha tillgång till detta förråd under installationen.)</description>
+		<description xml:lang="th">คลังแพกเกจขนาดใหญ่ของซอฟต์แวร์เสรี (Open Source Software- OSS) สำหรับ openSUSE 10.3, โดยให้คุณได้เข้าถึงแพกเกจหลายพันตัวที่ถูกดูแลอยู่โดยทีม openSUSE (และเนื่องจากขนาดของคลังแพกเกจที่ค่อนข้างใหญ่ จึงอาจทำให้การเพิ่มคลังแพกเกจนี้ไว้ใช้งานอาจใช้เวลานานพอสมควร ดังนั้นในกรณีที่คุณต้องการเพิ่มคลังแพกเกจนี้ไว้ใช้ จึงขอแนะนำให้ใช้เครื่องที่มีหน่วยความจำขั้นต่ำ 512 เมกะไบต์ขึ้นไป และให้ทำการเปิดใช้งานพาร์ทิชันสวอปด้วย)</description>
 		<description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE 10.3, яке надає вам доступ до тисяч пакунків, які підтримуються командою openSUSE. (Через те, що сховище має величезний розмір, його додавання може зайняти багато часу. Рекомендовано мати 512 МБ операційної пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під час встановлення системи.)</description>
 		<description xml:lang="wa">Li grand depot des Libes Programes (OSS) pos openSUSE 10.3, vos dene accès a des meyes di pacaedjes mintnous pa l' ekipe d' openSUSE. (A cåze del grandeu do depout, li radjouter pôreut prinde do tins. 512 MB di RAM ou ene pårticion SWAP en alaedje sont foirt ricmandés si vs voloz awè accès a c' depot tins l' astalaedje.)</description>
 		<description xml:lang="zh_CN">openSUSE 10.3 开源软件（OSS）安装源，提供 openSUSE 开发团队维护的数千个软件包。（由于此安装源体积庞大，添加它可能需要一些时间。如果您想在安装过程中使用它，推荐配置为 512 MB 内存并开启 SWAP 分区。）</description>
@@ -120,6 +123,7 @@
 		<name xml:lang="ru">Основной репозиторий (NON-OSS)</name>
 		<name xml:lang="sk">Hlavný repozitár (NON-OSS)</name>
 		<name xml:lang="sv">Huvudförrådet (NON-OSS)</name>
+		<name xml:lang="th">คลังแพกเกจหลัก (ซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี)</name>
 		<name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
 		<name xml:lang="wa">Mwaisse depot (NÉN-OSS)</name>
 		<name xml:lang="zh_CN">主安装源 (NON-OSS)</name>
@@ -148,6 +152,7 @@
 		<summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE 10.3</summary>
 		<summary xml:lang="sk">Doplnkový repozitár pre openSUSE 10.3 so softvérom, ktorý má neverejný zdrojový kód</summary>
 		<summary xml:lang="sv">Icke-open source tilläggsförråd för openSUSE 10.3</summary>
+		<summary xml:lang="th">คลังแพกเกจเสริมของซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี สำหรับ openSUSE 10.3</summary>
 		<summary xml:lang="uk">Додаткове сховище openSUSE 10.3, яке містить ПЗ з закритим кодом</summary>
 		<summary xml:lang="wa">Depot d' programes nén libes di rawete po openSUSE 10.3</summary>
 		<summary xml:lang="zh_CN">openSUSE 10.3 非开源软件附加安装源</summary>
@@ -176,6 +181,7 @@
 		<description xml:lang="ru">Официальный репозиторий openSUSE 10.3 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включающего RealPlayer, Opera, Java, Flash и многое другое.</description>
 		<description xml:lang="sk">Oficiálny repozitár openSUSE 10.3 so softvérom, ku ktorému sa neposkytujú zdrojové kódy. Stará sa oň openSUSE tím. Obsahuje RealPlayer, Operu, Javu, Flash, a ďalšie.</description>
 		<description xml:lang="sv">Det officiella openSUSE 10.3 förrådet för all icke-open source mjukvara som underhålls av openSUSE-teamet. Inkluderar RealPlayer, Opera, Java, Flash med mera.</description>
+		<description xml:lang="th">คลังแพกเกจอย่างเป็นทางการของ openSUSE 10.3 ที่จัดเก็บซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์แบบเสรี และดูแลโดยทีมงานของ openSUSE ซึ่งซอฟต์แวร์เหล่านี้ยังรวมไปถึง RealPlayer, Opera, Java, Flash, และอื่น ๆ อีกมากมายด้วย</description>
 		<description xml:lang="uk">Офіційне сховище openSUSE 10.3 для всіх програм з закритим кодом, які підтримуються командою openSUSE: RealPlayer, Opera, Java, Flash та інших.</description>
 		<description xml:lang="wa">L' oficire depot d' openSUSE 10.3 po tos les Programes Nén Libes Sourdants mintnous pa l' ekipe d' openSUSE, di kî RealPlayer, Opera, Java, Flash eyet co ds ôtes.</description>
 		<description xml:lang="zh_CN">openSUSE 10.3 非开源软件官方安装源，其中软件由 openSUSE 团队维持，包括 RealPlayer、Opera、Java、Flash 以及更多。</description>
@@ -209,6 +215,7 @@
 		<name xml:lang="ru">Основной репозиторий (DEBUG)</name>
 		<name xml:lang="sk">Hlavný repozitár (debug)</name>
 		<name xml:lang="sv">Huvudförrådet (DEBUG)</name>
+		<name xml:lang="th">คลังแพกเกจหลัก (แพกเกจดีบั๊ก)</name>
 		<name xml:lang="uk">Головне сховище (DEBUG)</name>
 		<name xml:lang="wa">Mwaisse depot (DISBUG)</name>
 		<name xml:lang="zh_CN">主安装源 (DEBUG 调试用)</name>
@@ -237,6 +244,7 @@
 		<summary xml:lang="ru">Основной репозиторий openSUSE 10.3, включающий пакеты debuginfo</summary>
 		<summary xml:lang="sk">Hlavný repozitár pre openSUSE 10.3, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
 		<summary xml:lang="sv">Huvudförrådet för openSUSE 10.3, innehåller debuginfo-paketeten </summary>
+		<summary xml:lang="th">คลังแพกเกจหลักของ openSUSE 10.3 ที่รวมไว้แพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย</summary>
 		<summary xml:lang="uk">Головне сховище openSUSE 10.3, яке містить пакунки debuginfo</summary>
 		<summary xml:lang="wa">Mwaisse depot d' openSUSE 10.3 avou les pacaedjes d' informåcion d' disbugaedje</summary>
 		<summary xml:lang="zh_CN">openSUSE 10.3 主安装源包含调试信息包</summary>
@@ -265,6 +273,7 @@
 		<description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 10.3. Только для экспертов.</description>
 		<description xml:lang="sk">Tento repozitár je potrebný pre ľudí, ktorý chcú ladiť programy pre openSUSE 10.3. Len pre expertov.</description>
 		<description xml:lang="sv">Detta förråd är användbart för dem som vill avlusa programvara i openSUSE 10.3. Enbart för experter.</description>
+		<description xml:lang="th">คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 10.3 ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น</description>
 		<description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 10.3. Тільки для експертів.</description>
 		<description xml:lang="wa">Ci depot est ahessåve po les cis k' volèt disbuguer les programes so openSUSE 10.3. Ki po les spepieus.</description>
 		<description xml:lang="zh_CN">此安装源对希望使用 openSUSE 10.3 调试程序的人员有用。仅供专家。</description>
