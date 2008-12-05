@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<!-- Additional Repositories for openSUSE 11.1
+<!-- Additional Repositories for openSUSE 11.2
      These are maintained by Stephan Kulow <coolo@suse.de> -->
 <metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
   <group distversion="openSUSE Build Service">
     <repositories>
-      <!-- repository recommended="false" format="yast">
+      <repository recommended="false" format="yast">
         <_name>Main Repository (Sources)</_name>
-        <_summary>Main repository of openSUSE 11.1 (Source packages)</_summary>
-        <_description>The repository of all source packages in openSUSE 11.1. For experts only.</_description>
-        <url>http://download.opensuse.org/distribution/11.1/repo/src-oss/suse/</url>
-      </repository -->
+        <_summary>Main repository of openSUSE 11.2 (Source packages)</_summary>
+        <_description>The repository of all source packages in openSUSE 11.2. For experts only.</_description>
+        <url>http://download.opensuse.org/source/distribution/11.2/repo/oss/</url>
+      </repository>
       <repository recommended="false" format="rpm-md">
         <_name>Main Update Repository</_name>
-        <_summary>Repository for official updates to 11.1</_summary>
-        <_description>In this repository you find security and maintenance updates to openSUSE 11.1.</_description>
-        <url>http://download.opensuse.org/update/11.1/</url>
+        <_summary>Repository for official updates to 11.2</_summary>
+        <_description>In this repository you find security and maintenance updates to openSUSE 11.2.</_description>
+        <url>http://download.opensuse.org/update/11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - XFCE</_name>
@@ -111,7 +111,7 @@
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - GNOME:STABLE</_name>
         <_summary>Backport of latest stable GNOME</_summary>
-        <_description>This provides the latest stable, unsupported release of GNOME for openSUSE 11.1.</_description>
+        <_description>This provides the latest stable, unsupported release of GNOME for openSUSE 11.2.</_description>
         <url>http://download.opensuse.org/repositories/GNOME:/STABLE/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
