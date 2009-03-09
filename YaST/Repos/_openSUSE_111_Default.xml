@@ -56,6 +56,7 @@
 		<summary xml:lang="pt_BR">O repositório principal do openSUSE 11.1 inclui apenas softwares de código aberto</summary>
 		<summary xml:lang="ro">Sursă de instalare principală openSUSE 11.1 ce conține doar software Open Source</summary>
 		<summary xml:lang="ru">Основной репозиторий openSUSE 11.1, включающий только программное обеспечение с открытым кодом</summary>
+		<summary xml:lang="sk">Hlavný repozitár pre openSUSE 11.1, ktorý obsahuje výlučne iba programy s verejne dostupným zdrojovým kódom (Open Source Software)</summary>
 		<summary xml:lang="sv">Huvudförrådet för openSUSE 11.1, innehåller enbart open source-mjukvara</summary>
 		<summary xml:lang="th">คลังแพกเกจหลักของ openSUSE 11.1 ที่รวมไว้เฉพาะซอฟต์แวร์เสรีเท่านั้น</summary>
 		<summary xml:lang="uk">Головне сховище openSUSE 11.1, яке містить лише ПЗ з відкритим кодом</summary>
@@ -83,6 +84,7 @@
 		<description xml:lang="pt_BR">O grande repositório OSS (Open Source Software - software de código aberto) para o openSUSE 11.1, dá a você acesso a milhares de pacotes mantidos pela equipe openSUSE. (Devido ao tamanho do repositório, adicioná-lo pode levar algum tempo. 512 MB de memória RAM ou uma partição SWAP habilitada são altamente recomendados no caso de você querer acessar esse repositório no momento da instalação.)</description>
 		<description xml:lang="ro">Sursa principală de instalare de programe open source pentru openSUSE 11.1, care vă oferă acces la mii de pachete întreținute de echipa openSUSE. (Datorită dimensiunii, adăugarea ei poate dura. 512 MB de RAM sau o partiție SWAP activă sunt călduros recomandate dacă doriți să accesați această sursă la instalare.)</description>
 		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 11.1, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 Мб RAM или включённый раздел подкачки.)</description>
+		<description xml:lang="sk">Veľký repozitár Open Source Software (OSS), t.j. softvér s verejne prístupným zdrojovým kódom, pre openSUSE 11.1. Dá vám prístup k tisícom balíkom, o ktoré sa stará openSUSE tím. (Ak chcete pridať tento repozitár ako inštalačný zdroj, doporučujeme mať 512 MB operačnej pamäte alebo aktivovaný odkladací diskový oddiel swap kvôli jeho obrovskej veľkosti. Jeho pridanie potrvá istý čas.)</description>
 		<description xml:lang="sv">Det stora Open Source Software (OSS) förrådet för openSUSE 11.1 som ger dig åtkomst till tusentals paket underhållna av openSUSE-teamet. (På grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB RAM eller en SWAP-partition är mycket rekommenderat om du vill ha tillgång till detta förråd under installationen.)</description>
 		<description xml:lang="th">คลังแพกเกจขนาดใหญ่ของซอฟต์แวร์เสรี (Open Source Software- OSS) สำหรับ openSUSE 11.1, โดยให้คุณได้เข้าถึงแพกเกจหลายพันตัวที่ถูกดูแลอยู่โดยทีม openSUSE (และเนื่องจากขนาดของคลังแพกเกจที่ค่อนข้างใหญ่ จึงอาจทำให้การเพิ่มคลังแพกเกจนี้ไว้ใช้งานอาจใช้เวลานานพอสมควร ดังนั้นในกรณีที่คุณต้องการเพิ่มคลังแพกเกจนี้ไว้ใช้ จึงขอแนะนำให้ใช้เครื่องที่มีหน่วยความจำขั้นต่ำ 512 เมกะไบต์ขึ้นไป และให้ทำการเปิดใช้งานพาร์ทิชันสวอปด้วย)</description>
 		<description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE 11.1, яке надає вам доступ до тисяч пакунків, які підтримуються командою openSUSE. (Через те, що сховище має величезний розмір, його додавання може тривати довго. Рекомендовано мати 512 МБ операційної пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під час встановлення системи.)</description>
@@ -131,7 +133,7 @@
 		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 11.1:lle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 11.1</summary>
 		<summary xml:lang="gl">Repositorio de Complementos de Software que non son de Código Aberto para openSUSE 11.1</summary>
-		<summary xml:lang="hu">Nem nyílt forrású szoftverek telepítési forrása openSUSE 11.1 verzióhoz</summary>
+		<summary xml:lang="hu">Zárt forrású szoftverek telepítési forrása openSUSE 11.1 verzióhoz</summary>
 		<summary xml:lang="it">Sorgente di installazione del Software Non Open Source per openSUSE 11.1</summary>
 		<summary xml:lang="ja">オープンソースでないパッケージを含む openSUSE 11.1 の追加リポジトリ</summary>
 		<summary xml:lang="km">ឃ្លាំង​បន្ថែម​របស់​កម្មវិធី​មិនមែន​កូដ​ចំហ​សម្រាប់​អូផឹន​ស៊ូស៊ី ១១.១</summary>
@@ -144,6 +146,7 @@
 		<summary xml:lang="pt_BR">Repositório complementar de softwares sem o código aberto para o openSUSE 11.1</summary>
 		<summary xml:lang="ro">Sursă de instalare suplimentară pentru openSUSE 11.1 cu programe care nu sunt open source</summary>
 		<summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE 11.1</summary>
+		<summary xml:lang="sk">Doplnkový repozitár pre openSUSE 11.1 so softvérom, ktorý má neverejný zdrojový kód</summary>
 		<summary xml:lang="sv">Icke-open source tilläggsförråd för openSUSE 11.1</summary>
 		<summary xml:lang="th">คลังแพกเกจเสริมของซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี สำหรับ openSUSE 11.1</summary>
 		<summary xml:lang="uk">Додаткове сховище openSUSE 11.1, яке містить ПЗ з закритим кодом</summary>
@@ -151,6 +154,29 @@
 		<summary xml:lang="zh_CN">openSUSE 11.1 非开源软件附加安装源</summary>
 		<summary xml:lang="zh_TW">openSUSE 11.1 的非開放原碼軟體附加套件庫</summary>
 		<description>The official openSUSE 11.1 repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
+		<description xml:lang="cs">Oficální repozitář openSUSE 11.1 pro software šířený pod non-opensource licencemi spravovaný týmem openSUSE; včetně Opery, Javy, Flashe a dalších programů.</description>
+		<description xml:lang="da">Den officielle openSUSE 11.1 softwarekilde for al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer Opera, Java, Flash og mere.</description>
+		<description xml:lang="de">Das offizielle openSUSE 11.1-Repository für 'Nicht-Open Source-Software', die vom openSUSE-Team verwaltet wird, einschließlich Opera, Java, Flash, etc.</description>
+		<description xml:lang="es">El repositorio oficial de openSUSE 11.1 para todo el software de código fuente no abierto mantenido por el equipo de openSUSE y que incluye Opera, Java, Flash y más.</description>
+		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä asennuslähde, joka sisältää suljetun lähdekoodin ohjelmistoja openSUSE 11.1:lle, esimerkiksi Opera, Java, Flash ja niin edelleen.</description>
+		<description xml:lang="fr">Le dépôt officiel d'openSUSE 11.1 pour tous les logiciels Non-Open Source maintenu par l'équipe d'openSUSE, il contient Opera, Java, Flash, et bien d'autres.</description>
+		<description xml:lang="gl">O repositorio oficial de openSUSE 11.1 para todo o software que non é de código aberto mantido polo equipo de openSUSE, incluíndo Opera, Java, Flash, e máis.</description>
+		<description xml:lang="hu">Hivatalos, zárt forrású komponenseket (pl. Realplayer, Opera, Java, Flash) tartalmazó openSUSE 11.1 telepítési forrás.</description>
+		<description xml:lang="it">La sorgente di installazione di openSUSE 11.1 per tutto il Software Non Open Source mantenuto dal team openSUSE, inclusi, Opera, Java, Flash e altro.</description>
+		<description xml:lang="ja">Opera, Java, Flash などの非オープンソースソフトウエアを含む、 openSUSE チーム管理の openSUSE 11.1 公式リポジトリ</description>
+		<description xml:lang="km">ឃ្លាំង​​អូផឹន​ស៊ូស៊ី ១១.១ ជា​ផ្លូវការ​សម្រាប់​កម្មវិធី​មិនមែន​កូដ​ចំហ ដែល​បាន​ថែទាំ​ដោយ​ក្រុម​អូផឹនស៊ូស៊ី រួម​មានOpera, Java, Flash និង​អ្វីៗ​​ជា​ច្រើន​ទៀត ។</description>
+		<description xml:lang="ko">오픈수세 팀이 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플래시 등)로 된 공식 오픈수세 11.1 저장소 입니다.</description>
+		<description xml:lang="nb">Det offisielle openSUSE 11.1-arkivet for all programvare uten åpen kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, Java, Flash og mye mer.</description>
+		<description xml:lang="nl">De officiële openSUSE 11.1 installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden, inclusief Opera, Java, Flash, etc.</description>
+		<description xml:lang="pl">Oficjalne repozytorium openSUSE 11.1, które zawiera pakiety z zamkniętym oprogramowaniem utrzymywane poprzez zespół openSUSE. Zawiera programy takie jak Opera, Java, Flash i inne.</description>
+		<description xml:lang="pt_BR">O repositório oficial do openSUSE 11.2 para todos os softwares sem o código aberto (NON-OSS - Non-Open Source Software) mantidos pela equipe openSUSE, incluindo o RealPlayer, Opera, Java, Flash e mais.</description>
+		<description xml:lang="ro">Sursa de instalare oficială a openSUSE 11.1 pentru toate programele non-open source menținute de echipa openSUSE, printre care RealPlayer, Opera, Java, Flash, etc.</description>
+		<description xml:lang="ru">Официальный репозиторий openSUSE 11.1 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Java, Flash и многое другое.</description>
+		<description xml:lang="sk">Oficiálny repozitár openSUSE 11.1 so softvérom, ku ktorému sa neposkytujú zdrojové kódy. Stará sa oň openSUSE tím. Obsahuje Operu, Javu, Flash, a ďalšie.</description>
+		<description xml:lang="th">คลังแพกเกจอย่างเป็นทางการของ openSUSE 11.1 ที่จัดเก็บซอฟต์แวร์ทั้งหมดที่ไม่ใช่ซอฟต์แวร์แบบเสรี และดูแลโดยทีมงานของ openSUSE ซึ่งซอฟต์แวร์เหล่านี้ยังรวมไปถึง Opera, Java, Flash, และอื่น ๆ อีกมากมาย</description>
+		<description xml:lang="uk">Офіційне сховище openSUSE 11.1 для всіх програм з закритим кодом, які підтримуються командою openSUSE: Opera, Java, Flash та інших.</description>
+		<description xml:lang="wa">L' oficire depot d' openSUSE 11.1 po tos les Programes Nén Libes Sourdants mintnous pa l' ekipe d' openSUSE, di kî Opera, Java, Flash eyet co ds ôtes.</description>
+		<description xml:lang="zh_TW">由 openSUSE 團隊維護之非開放原始碼軟體的官方 openSUSE 11.1 套件庫，包含了 Opera, Java, Flash 以及其他更多軟體。</description>
 		<url>http://download.opensuse.org/distribution/11.1/repo/non-oss/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
@@ -206,6 +232,7 @@
 		<summary xml:lang="pt_BR">O repositório principal do openSUSE 11.1 incluindo os pacotes debuginfo</summary>
 		<summary xml:lang="ro">Sursă principală a openSUSE 11.1 cu pachetele conținând informații de debug</summary>
 		<summary xml:lang="ru">Основной репозиторий openSUSE 11.1, включающий пакеты debuginfo</summary>
+		<summary xml:lang="sk">Hlavný repozitár pre openSUSE 11.1, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
 		<summary xml:lang="sv">Huvudförrådet för openSUSE 11.1, innehåller debuginfo-paketen</summary>
 		<summary xml:lang="th">คลังแพกเกจหลักของ openSUSE 11.1 ที่รวมไว้แพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย</summary>
 		<summary xml:lang="uk">Головне сховище openSUSE 11.1, яке містить пакунки debuginfo</summary>
@@ -233,6 +260,7 @@
 		<description xml:lang="pt_BR">Este repositório é útil para aqueles que querem depurar aplicativos no openSUSE 11.1. Somente para usuários avançados.</description>
 		<description xml:lang="ro">Această sursă de instalare este utilă celor care vor să facă debug pe openSUSE 11.1. Doar pentru experți.</description>
 		<description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 11.1. Только для экспертов.</description>
+		<description xml:lang="sk">Tento repozitár je potrebný pre ľudí, ktorí chcú ladiť programy pre openSUSE 11.1. Len pre expertov.</description>
 		<description xml:lang="sv">Detta förråd är användbart för dem som vill avlusa programvara i openSUSE 11.1. Enbart för experter.</description>
 		<description xml:lang="th">คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 11.1 ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น</description>
 		<description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 11.1. Тільки для знавців.</description>
