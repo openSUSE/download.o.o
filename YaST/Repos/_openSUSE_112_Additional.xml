@@ -145,7 +145,7 @@
         <description>In this repository you find security and maintenance updates to openSUSE 11.2.</description>
         <description xml:lang="cs">V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE 11.2.</description>
         <description xml:lang="da">På denne softwarekilde finder du sikkerheds- og vedligeholdelsesopdateringer til openSUSE 11.2.</description>
-        <description xml:lang="de">In diesem Repository finden Sie Sicherheits- und Unterhaltsaktualisierungen für openSUSE 11.2.</description>
+        <description xml:lang="de">In diesem Repository finden Sie Sicherheits- und Wartungsaktualisierungen für openSUSE 11.2.</description>
         <description xml:lang="es">En este repositorio se encuentran actualizaciones de seguridad y mantenimiento para openSUSE 11.2.</description>
         <description xml:lang="fi">Tästä asennuslähteestä löydät openSUSE 11.2:n tietoturva- ja ylläpitopäivityksiä.</description>
         <description xml:lang="fr">Dans ce dépôt, vous trouverez des mise à jour de sécurité et de maintenance pour openSUSE 11.2.</description>
@@ -322,7 +322,7 @@
         <description xml:lang="ar">هذا المستودع تحتوي على احدث البرمجيات التي تجلب لك المؤثرات  والتكنولوجيا. وهو يتضمن xgl ، compiz ، والانصهار compiz Fusion والحزم التي يحتفظ بها مجتمع اوبن سوزه</description>
         <description xml:lang="cs">Tento repozitář obsahuje nejnovější software pro kompozitní grafické technologie. Obsahuje balíky Xgl, Compiz a Compiz Fusion spravované komunitou openSUSE.</description>
         <description xml:lang="da">Denne softwarekilde indeholder det seneste software, som giver dig composite-effekter og -teknologi. Den inkluderer Xgl-, Compiz- og Compiz Fusion-pakker, vedligeholdt af openSUSE-fællesskabet.</description>
-        <description xml:lang="de">Dieses Repository enthält die neueste Software, die Ihnen Compositing-Effekte und -Technologien bringt. Enthalten sind Xgl, Compiz und Compiz Fusion-Pakete, unterhalten durch die openSUSE-Gemeinschaft.</description>
+        <description xml:lang="de">Dieses Repository enthält die neueste Software, die Ihnen Compositing-Effekte und -Technologien bringt. Enthalten sind Pakete für Xgl, Compiz und Compiz Fusion, betreut durch die openSUSE-Gemeinschaft.</description>
         <description xml:lang="es">Este repositorio contiene el último software que le proporciona efectos y tecnología composite. Incluye los paquetes de Xgl, Compiz y Compiz Fusion, mantenidos por la comunidad de OpenSUSE.</description>
         <description xml:lang="fi">Tämä asennuslähde sisältää uusimmat komposiittitehosteet ja -teknologiat tuovat ohjelmistot. Lähde sisältää openSUSE-yhteisön ylläpitämät Xgl-, Compiz-, ja Compiz Fusion -paketit.</description>
         <description xml:lang="fr">Ce dépôt contient la dernière version des logiciels qui vous apportent la technologie et les effets composites. Cela inclut les paquets Xgl, Compiz et Compiz Fusion maintenus par la communautée openSUSE.</description>
@@ -334,7 +334,7 @@
         <description xml:lang="ko">복합 효과와 기술에 대한 최신 소프트웨어(오픈수세 커뮤니티에서 관리하는 Xgl, Compiz, Compiz Fusion)가 들어 있습니다.</description>
         <description xml:lang="nb">Dette arkivet inneholder nyeste programvare som gir deg kompositt-effekter og -teknologi. Dette inkluderer Xgl, Compiz og Compiz Fusion-pakker som vedlikeholdes av openSUSE-fellesskapet.</description>
         <description xml:lang="nl">Deze bron bevat de nieuwste software voor composite-effecten en -technologie. Ze bevat onder anderen Xgl, Compiz en Compiz Fusion, onderhouden door de openSUSE-gemeenschap.</description>
-        <description xml:lang="pl">Repozytorium zawera najnowsze oprogramowanie efektów pulpitu. Zawiera pakiety Xgl, Compiz, Compiz Fusion przygotowywane przez społeczność openSUSE.</description>
+        <description xml:lang="pl">Repozytorium zawiera najnowsze oprogramowanie efektów pulpitu. Zawiera pakiety Xgl, Compiz, Compiz Fusion przygotowywane przez społeczność openSUSE.</description>
         <description xml:lang="pt">Este repositório contem o último softwre que lhe disponibiliza efeitos de composição e tecnologia. Incluí os pacotes Xgl, Compiz e o Compiz Fusion, mantidos pela comunidade openSUSE.</description>
         <description xml:lang="pt_BR">Este repositório contém o software mais recente que traz os efeitos de composição e tecnologia. Ele inclui os pacotes do Xgl, Compiz e do Compiz Fusion mantidos pela comunidade openSUSE.</description>
         <description xml:lang="ro">Această sursă furnizează ultimele software pentru efecte si tehnologie grafică. Conține pachetele Xgl, Compiz și Compiz Fusion întreținute de comunitatea openSUSE.</description>
@@ -538,7 +538,7 @@
         <name xml:lang="ar">اوبن سوزي تبني خدمات Wine لتشغيل برامج الوندوز</name>
         <name xml:lang="cs">openSUSE BuildService - Vývojové verze Wine</name>
         <name xml:lang="da">openSUSE BuildService - Wine CVS-builds</name>
-        <name xml:lang="de">openSUSE BuildService - Wine CVS-Pakete</name>
+        <name xml:lang="de">openSUSE BuildService - Wine-CVS-Pakete</name>
         <name xml:lang="es">BuildService de openSUSE - Revisiones CVS de Wine</name>
         <name xml:lang="fi">openSUSE BuildService - Wine CVS Builds</name>
         <name xml:lang="fr">openSUSE BuildService - Wine CVS Builds</name>
@@ -597,7 +597,7 @@
         <description xml:lang="ar">Wine  مفتوح المصدر لتنفيذ اوامر يندوز API ، بحيث انها تسمح لك تشغيل بعض تطبيقات ويندوز في اوبن سوزه. ويوفر هذا المستودع أحدث CVS وتطوير حزم Wine</description>
         <description xml:lang="cs">Wine je opensource implementace Windows API, kterí umožňuje spouštět některé Windows aplikace v systému openSUSE. Tento repozitář obsahuje balíky s nejnovějšími vývojovými verzemi Wine.</description>
         <description xml:lang="da">Wine er en open source implementation af Windows' API, så det tillader dig at køre visse Windows-programmer i openSUSE. Denne softwarekilde giver det seneste CVS (udvikling) øjebliksbillede-pakker af Wine.</description>
-        <description xml:lang="de">Wine ist eine Open Source-Implementation der Windows-API, sie erlaubt Ihnen einige Windows-Anwendungen in openSUSE auszuführen. Dieses Repository bietet Ihnen die neuesten CVS-Schnappschusspakete (Entwicklungsstadium) von Wine an.</description>
+        <description xml:lang="de">Wine ist eine Open-Source-Implementation der Windows-API, sie erlaubt Ihnen einige Windows-Anwendungen in openSUSE auszuführen. Dieses Repository bietet Ihnen die neuesten CVS-Schnappschusspakete (Entwicklungsstadium) von Wine an.</description>
         <description xml:lang="es">Wine es una implementación de código abierto de la API de Windows que le permite ejecutar algunas aplicaciones de Windows en openSUSE. Este repositorio le proporciona los paquetes de Wine de la última revisión disponible en el CVS (en desarrollo).</description>
         <description xml:lang="fi">Wine on avoimen lähdekoodin toteutus Windows API:sta. Joitakin Windows-sovelluksia voidaan suorittaa sen avulla openSUSEssa. Tämä asennuslähde tarjoaa viimeisimmät CVS (kehitys) -versiot Winestä.</description>
         <description xml:lang="fr">Wine est une implémentation opensource de l'API Windows. Il vous permet donc de lancer certaines applications Windows sous openSUSE. Ce dépôt fournit la dernière version CVS (développement) des paquets de Wine.</description>
@@ -873,7 +873,7 @@
         <description xml:lang="ar">يوفر آخر اصدارات QEMU والمحاكيات مفتوحة المصدر و virtualizer</description>
         <description xml:lang="cs">Obsahuje aktuální verzi QEMU, opensource emulátoru a virtualizačního nástroje.</description>
         <description xml:lang="da">Leverer ajourførte pakker af Qemu - generisk og open source maskine-emulator og -virtualisering.</description>
-        <description xml:lang="de">Stellt aktuelle Pakete von QEMU bereit, ein typischer und Open Source-Maschinenemulator und -virtualisierer.</description>
+        <description xml:lang="de">Stellt aktuelle Pakete von QEMU bereit, ein generischer und Open-Source-Maschinenemulator und -virtualisierer.</description>
         <description xml:lang="es">Proporciona revisiones actualizadas de QEMU, un emulador genérico de código fuente abierto con capacidades de virtualización.</description>
         <description xml:lang="fi">Tarjoaa ajan tasalla olevan avoimeen lähdekoodiin perustuvan QEMU-laite-emulaattorin ja virtualisoijan.</description>
         <description xml:lang="fr">Fournit les versions à jour de Qemu, un émulateur et virtualiseur générique et opensource.</description>
@@ -965,7 +965,7 @@
         <description xml:lang="ar">يوفر أحدث اصدارات الصندوق التخيلي ،ومحاكي كامل مفتوحه المصدر للاغراض العامة لاجهزة x86</description>
         <description xml:lang="cs">Obsahuje aktuální verzi VirtualBoxu, opensource nástroje pro virtualizaci x86 hardwaru.</description>
         <description xml:lang="da">Leverer ajourførte pakker af VirtualBox, en open source fuld virtualisering for x86-hardware til generelle formål.</description>
-        <description xml:lang="de">Stellt aktuelle Pakete von VirtualBox bereit, einem Allzweck-Open Source-Vollvirtualisierer für x86- Hardware.</description>
+        <description xml:lang="de">Stellt aktuelle Pakete von VirtualBox bereit, einem Allzweck-Open-Source-Vollvirtualisierer für x86-Hardware.</description>
         <description xml:lang="es">Proporciona revisiones actualizadas de VirtualBox, un completo sistema de virtualización de propósito general y de código abierto para hardware x86.</description>
         <description xml:lang="fi">Tarjoaa ajan tasalla olevat Virtualbox-paketit. Virtualbox on vapaan lähdekoodin yleiskäyttöinen täysvirtualisoija x86-laitteistolle.</description>
         <description xml:lang="fr">Fournit les versions à jour de VirtualBox, un virtualiseur complet opensource pour utilisation générale pour architecture x86</description>
@@ -1181,7 +1181,7 @@
         <name xml:lang="ar">اوبن سوزي تبني خدمات البريد</name>
         <name xml:lang="cs">openSUSE BuildService - Poštovní server</name>
         <name xml:lang="da">openSUSE BuildService - mailserver</name>
-        <name xml:lang="de">openSUSE BuildService - Mail Server</name>
+        <name xml:lang="de">openSUSE BuildService - Mail-Server</name>
         <name xml:lang="es">BuildService de openSUSE - Servidor de correo</name>
         <name xml:lang="fi">openSUSE BuildService - Mail Server</name>
         <name xml:lang="fr">openSUSE BuildService - Serveur Mail</name>
@@ -1212,7 +1212,7 @@
         <summary xml:lang="ar">آخر التحديثات postfix ، EXIM وادوات حولهم</summary>
         <summary xml:lang="cs">Poslední aktualizace pro postfix, exim a související nástroje.</summary>
         <summary xml:lang="da">Seneste opdateringer til postfix, exim og værktøjer omkring disse.</summary>
-        <summary xml:lang="de">Neueste Aktualisierungen für Postfix, Exim und Werkzeuge rund herum.</summary>
+        <summary xml:lang="de">Neueste Aktualisierungen für Postfix, Exim und dazugehörige Werkzeuge.</summary>
         <summary xml:lang="es">Últimas actualizaciones de postfix, exim y otras herramientas relacionadas.</summary>
         <summary xml:lang="fi">Uusimmat päivitykset postfixiin, eximiin ja niiden käyttämiin työkaluihin.</summary>
         <summary xml:lang="fr">Dernières mises à jour pour postfix, exim et les outils autour de ces logiciels.</summary>
@@ -1241,7 +1241,7 @@
         <description xml:lang="ar">تقدم لك آخر تحديث postfix, exim وادواتها</description>
         <description xml:lang="cs">Poskytuje nejnovější aktualizace pro postfix, exim a související nástroje.</description>
         <description xml:lang="da">Leverer de seneste opdateringer til postfix, exim og værktøjer omkring disse.</description>
-        <description xml:lang="de">Stellt die neuesten Aktualisierungen für Postfix, Exim und Werkzeuge rund herum zur Verfügung.</description>
+        <description xml:lang="de">Stellt die neuesten Aktualisierungen für Postfix, Exim und die dazugehörigen Werkzeuge zur Verfügung.</description>
         <description xml:lang="es">Provee las últimas actualizaciones de postfix, exim y otras herramientas relacionadas.</description>
         <description xml:lang="fi">Tarjoaa uusimmat päivitykset postfix- ja exim-sovelluksiin ja niiden käyttämiin työkaluihin. </description>
         <description xml:lang="fr">Fournit les dernières mises à jour pour postfix, exim et les outils autour de ceux-ci.</description>
@@ -1357,36 +1357,7 @@
         <url>http://download.opensuse.org/repositories/KDE:/Backports/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <name>openSUSE BuildService - KDE:Community</name>
-        <name xml:lang="ar">اوبن سوزي تبني خدمات لمجتمع KDE</name>
-        <name xml:lang="cs">openSUSE BuildService - KDE:Community</name>
-        <name xml:lang="da">openSUSE BuildService - KDE:Community</name>
-        <name xml:lang="de">openSUSE BuildService - KDE:Community</name>
-        <name xml:lang="es">BuildService de openSUSE - KDE:Comunidad</name>
-        <name xml:lang="fi">openSUSE BuildService - KDE:Community</name>
-        <name xml:lang="fr">openSUSE BuildService - KDE:Community</name>
-        <name xml:lang="gl">Servizo de Construcción de openSUSE - KDE:Comunidade</name>
-        <name xml:lang="hr">openSUSE BuildService - KDE:Zajednica</name>
-        <name xml:lang="hu">openSUSE BuildService - KDE:Közösség</name>
-        <name xml:lang="it">openSUSE BuildService - KDE:Community</name>
-        <name xml:lang="ja">openSUSE ビルドサービス - KDE:コミュニティ</name>
-        <name xml:lang="km">openSUSE BuildService - KDE ៖ សហគមន៍</name>
-        <name xml:lang="ko">오픈수세 빌드서비스 - KDE:커뮤니티</name>
-        <name xml:lang="nb">openSUSE BuildService - KDE-fellesskapet</name>
-        <name xml:lang="nl">openSUSE BuildService - KDE-gemeenschap</name>
-        <name xml:lang="pa">ਓਪਨ-ਸੂਸੇ ਬਲਿਡ-ਸਰਵਿਸ - KDE: ਕਮਿਊਨਟੀ</name>
-        <name xml:lang="pl">openSUSE BuildService - Społeczność KDE</name>
-        <name xml:lang="pt">openSUSE BuildService - KDE:Comunidade</name>
-        <name xml:lang="pt_BR">openSUSE BuildService - KDE:comunidade</name>
-        <name xml:lang="ro">openSUSE BuildService - KDE:Comunitate</name>
-        <name xml:lang="ru">openSUSE BuildService - KDE:Community</name>
-        <name xml:lang="sk">openSUSE BuildService - KDE:Community</name>
-        <name xml:lang="sv">openSUSE BuildService - KDE:Community</name>
-        <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - โปรแกรมแบบ KDE จากชุมชน</name>
-        <name xml:lang="uk">Служба складання пакунків openSUSE - KDE:Community</name>
-        <name xml:lang="wa">openSUSE BuildService - KDE:Comunålté</name>
-        <name xml:lang="zh_CN">openSUSE 包构建服务 - KDE:Community</name>
-        <name xml:lang="zh_TW">openSUSE BuildService - KDE:社群版</name>
+        <name>openSUSE BuildService - KDE:KDE4:Community</name>
         <summary>Community repository for KDE</summary>
         <summary xml:lang="ar">مخزن مجموعة كيدي</summary>
         <summary xml:lang="cs">Komunitní repozitář s KDE</summary>
@@ -1417,36 +1388,8 @@
         <summary xml:lang="wa">Depots del cominålté po KDE</summary>
         <summary xml:lang="zh_CN">KDE 社区安装源</summary>
         <summary xml:lang="zh_TW">KDE 的社群版套件庫</summary>
-        <description>Provides additional KDE software maintained by the openSUSE KDE community. This includes filelight, d3lphin, kooldock, and much more.</description>
-        <description xml:lang="ar">يوفر برمجيات كيدي التي يحتفظ بها مجتمع كيدي اوبن سوزه. ويشمل هذا filelight ، d3lphin ، kooldock ، واكثر بكثي</description>
-        <description xml:lang="cs">Obsahuje dodatečný software pro KDE udržovaný openSUSE KDE komunitou, mimo jiné filelight, d3lphin, kooldock a další.</description>
-        <description xml:lang="da">Leverer yderligere KDE-software vedligeholdt af openSUSEs KDE-fællesskab. Dette inkluderer filelight, d3lphin, kooldock og meget mere.</description>
-        <description xml:lang="de">Stellt zusätzliche, von der openSUSE-KDE-Gemeinschaft unterhaltene, KDE-Software zur Verfügung. Beinhaltet Filelight, D3lphin, Kooldock und viele mehr.</description>
-        <description xml:lang="es">Proporciona software adicional para KDE mantenido por la comunidad KDE de openSUSE. Incluye filelight, d3lphin, kooldock y muchos más.</description>
-        <description xml:lang="fi">Tarjoaa lisää KDE-ohjelmia openSUSEn KDE-yhteisöltä. Täältä löytyvät esimerkiksi filelight, d3lphin, kooldock ja paljon muita ohjelmia.</description>
-        <description xml:lang="fr">Fournit des logiciels KDE supplémentaires maintenus par la communauté KDE d'openSUSE, dont filelight, d3lphin, kooldock, et bien d'autres !</description>
-        <description xml:lang="gl">Proporciona software de KDE adicional mantido pola comunidade de KDE de openSUSE. Isto inclúe filelight, d3lphin, kooldock, e moito máis.</description>
-        <description xml:lang="hu">Olyan KDE csomagokat tartalmaz, amelyet az openSUSE KDE közösség tart karban, ilyen pl. a filelight, d3lphin, kooldock.</description>
-        <description xml:lang="it">Fornisce software aggiuntivo per KDE mantenuto dalla comunità KDE di openSUSE. Questo comprende filelight, d3lphin, kooldock e molto altro.</description>
-        <description xml:lang="ja">openSUSE KDE コミュニティによって管理されているKDEの追加用ソフトウエアを提供しています。たとえば filelight 、 d3lphin 、 kooldock などがあります。</description>
-        <description xml:lang="km">ផ្ដល់​នូវ​កម្មវិធី​របស់ KDE បន្ថែម​ដែល​បាន​ថែទាំ​ដោយ​សហគមន៍ openSUSE KDE  ។ វា​រួម​មាន filelight, d3lphin, kooldock និង​អ្វីៗ​ជា​ច្រើន​ទៀត ។</description>
-        <description xml:lang="ko">오픈수세 KDE 커뮤니티에서 관리하는 추가 KDE 소프트웨어(filelight, d3lphin, kooldock 같은 것) 제공.</description>
-        <description xml:lang="nb">Tilbyr tilleggsprogramvare for KDE som vedlikeholdes av openSUSE KDE-fellesskapet. Dette inkluderer filelight, d3lphin, kooldock, m.m.</description>
-        <description xml:lang="nl">Levert aanvullende KDE-software die onderhouden wordt door de openSUSE-gemeenschap. Dit is inclusief  filelight, d3lphin, kooldock en vele andere programma's.</description>
-        <description xml:lang="pa">ਹੋਰ ਕੇਡੀਈ ਸਾਫਟਵੇਅਰ ਦਿੰਦੀ ਹੈ, ਜੋ ਕਿ ਓਪਨ-ਸੂਸੇ ਕੇਡੀਈ ਕਮਿਊਨਟੀ ਵਲੋਂ ਸੰਭਾਲੀਆਂ ਜਾਂਦੀਆਂ ਹਨ। ਇਸ ਵਿੱਚ ਫਾਇਲ-ਲਾਈਟ, d3lphin, ਕੂਲਡੌਕ ਅਤੇ ਹੋਰ ਕਈ ਹਨ।</description>
-        <description xml:lang="pl">Zawiera dodatkowe oprogramowanie dla KDE, które przygotowywane jest przez społeczność KDE. Aplikacje to m.in. filelight, d3liphim kooldock i wiele więcej.</description>
-        <description xml:lang="pt">Fornece adicionalmente software KDE mantido pela comunidade KDE do openSUSE. Este incluí filelight, d3lphin, kooldock e muito mais.</description>
-        <description xml:lang="pt_BR">Fornece software complementar para o KDE mantido pela comunidade KDE do openSUSE. Isto inclui o filelight, o d3lphin, o kooldock e muito mais.</description>
-        <description xml:lang="ro">Oferă programe KDE adiționale, întreținute de comunitatea KDE openSUSE. Include filelight, d3lphin, kooldock și multe altele.</description>
-        <description xml:lang="ru">Предоставляет дополнительное программное обеспечение KDE, поддерживаемое сообществом KDE openSUSE. Оно включает filelight, d3lphin, kooldock и многое другое.</description>
-        <description xml:lang="sk">Poskytuje doplnkový softvér pre KDE, ktorý obhospodaruje openSUSE KDE komunita. Obsahuje filelight, d3lphin, kooldock, a veľa ďalších.</description>
-        <description xml:lang="sv">Tillhandahåller ytterligare KDE-mjukvara underhållen av openSUSE KDE community. Här hittar du filelight, d3lphin, kooldock och mycket mer.</description>
-        <description xml:lang="th">จัดเตรียมโปรแกรมต่าง ๆ แบบ KDE ซึ่งดูแลโดยชุมชน KDE ของ openSUSE ซึ่งรวมไปถึงโปรแกรม filelight, d3lphin, kooldock และอื่น ๆ อีกมากมาย ไว้ให้ได้เลือกใช้</description>
-        <description xml:lang="uk">Надає додаткове ПЗ KDE, яке підтримується спільнотою openSUSE KDE. Включає filelight, dоlphin, kooldock і багато інших.</description>
-        <description xml:lang="wa">Dene d' ôtes programes KDE mintnous pal cominålté KDE d' openSUSE. I gn a ddins filelight, d3lphin, kooldock et co pus.</description>
-        <description xml:lang="zh_CN">提供 openSUSE KDE 社区维护的附加 KDE 软件。包括 filelight、d3lphin、kooldock 以及更多。</description>
-        <description xml:lang="zh_TW">提供了由 openSUSE KDE 社群維護的額外 KDE 軟體。包含了 filelight, d3lphin, kooldock 以及其他更多軟體。</description>
-        <url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_Factory/</url>
+        <description>Provides additional KDE software maintained by the openSUSE KDE community.</description>
+        <url>http://download.opensuse.org/repositories/KDE:/KDE4:/Community/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:STABLE</name>
