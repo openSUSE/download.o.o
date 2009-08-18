@@ -95,10 +95,10 @@
         <url>http://download.opensuse.org/repositories/KDE:/Backports/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <_name>openSUSE BuildService - KDE:Community</_name>
+        <_name>openSUSE BuildService - KDE:KDE4:Community</_name>
         <_summary>Community repository for KDE</_summary>
-        <_description>Provides additional KDE software maintained by the openSUSE KDE community. This includes filelight, d3lphin, kooldock, and much more.</_description>
-        <url>http://download.opensuse.org/repositories/KDE:/Community/openSUSE_Factory/</url>
+        <_description>Provides additional KDE software maintained by the openSUSE KDE community.</_description>
+        <url>http://download.opensuse.org/repositories/KDE:/KDE4:/Community/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - GNOME:STABLE</_name>
