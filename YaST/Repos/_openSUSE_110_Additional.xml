@@ -24,7 +24,7 @@
         <name xml:lang="pa">ਓਪਨ-ਸੂਸੇ ਬਲਿਡ-ਸਰਵਿਸ - XFCE</name>
         <name xml:lang="pl">openSUSE BuildService - XFCE</name>
         <name xml:lang="pt">openSUSE BuildService - XFCE</name>
-        <name xml:lang="pt_BR">openSUSE BuildService - Xfce</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - XFCE</name>
         <name xml:lang="ro">openSUSE BuildService - XFCE</name>
         <name xml:lang="ru">openSUSE BuildService - XFCE</name>
         <name xml:lang="sk">openSUSE BuildService - XFCE</name>
@@ -74,7 +74,7 @@
         <description xml:lang="fr">Le dépôt XFCE de l'openSUSE Build Service qui vous fournit la dernière version, non supportée, du bureau et des logiciels XFCE.</description>
         <description xml:lang="gl">O repositorio de XFCE do Servizo de Construcción de openSUSE, que lle proporciona a última, pero non soportada, versión do software e do contorno de escritorio XFCE.</description>
         <description xml:lang="hu">Az openSUSE Build Service XFCE telepítési forrása, amely a nem támogatott, de a legfrissebb XFCE grafikus környezet csomagjait tartalmazza.</description>
-        <description xml:lang="it">La sorgente di installazione di XFCE nel Build Service di openSUSE. Fornisce l'ultima versione non supportata dell'ambiente desktop XFCE e del relativo software.</description>
+        <description xml:lang="it">Il repository di XFCE nel Build Service di openSUSE. Fornisce l'ultima versione non supportata dell'ambiente desktop XFCE e del relativo software.</description>
         <description xml:lang="ja">公式にはサポートされていない最新版の XFCE デスクトップ環境とソフトウエアの openSUSE リポジトリ</description>
         <description xml:lang="km">ឃ្លាំង XFCE នៅ​ក្នុង​សេវាស្ថាបនា​របស់​អូផឹនស៊ូស៊ី ដែល​ផ្ដល់​​ឲ្យ​អ្នក​នូវ​អ្វី​ដែល​មិនបានគាំទ្រ ប៉ុន្តែ​កំណែ​ចុងក្រោយ​បំផុត​របស់​បរិស្ថាន​ផ្ទៃតុ XFCE និង​កម្មវិធី ។</description>
         <description xml:lang="ko">XFCE 데스크탑 환경과 소프트웨어의 최신 버전을 제공하는 오픈수세 빌드 서비스의 XFCE 저장소 입니다.</description>
@@ -165,7 +165,7 @@
         <description xml:lang="fr">Ce dépôt contient la dernière version des logiciels qui vous apportent la technologie et les effets composites. Cela inclut les paquets Xgl, Compiz et Compiz Fusion maintenus par la communautée openSUSE.</description>
         <description xml:lang="gl">Este repositorio contén o último software que proporciona tecnoloxía e efectos de composición. Inclúe os paquetes Xgl, Compiz e Compiz Fusion mantidos pola Comunidade de openSUSE</description>
         <description xml:lang="hu">Ez a telepítési forrás tartalmazza az openSUSE közösség által karbantartott Xgl, Compiz és Compiz Fusion csomagok legfrissebb verzióit.</description>
-        <description xml:lang="it">Questa sorgente di installazione contiene il software più recente per gli effetti grafici e la tecnologia composite. Comprende i pacchetti di Xgl, Compiz e Compiz-Fusion mantenuti dalla comunità openSUSE.</description>
+        <description xml:lang="it">Questo repository contiene il software più recente per gli effetti grafici e la tecnologia composite. Comprende i pacchetti di Xgl, Compiz e Compiz-Fusion mantenuti dalla comunità openSUSE.</description>
         <description xml:lang="ja">このリポジトリでは openSUSE コミュニティが管理する Xgl 、 Compiz 、 Compiz Fusion などの様々な合成効果技術をもたらす最新のソフトウエアを提供しています。</description>
         <description xml:lang="km">ឃ្លាំង​នេះ​មាន​កម្មវិធី​កំណែ​ចុងក្រោយ​បំផុត ដែល​​នឹង​អនុញ្ញាត​ឲ្យ​ចងក្រង​បែបផែន និង​បច្ចេកវិទ្យា ។ វា​រួមមាន​ Xgl, Compiz និង Compiz កញ្ចប់​ដែល​បានថែទាំ​ដោយ​សហគមន៍​អូផឹន​ស៊ូស៊ី ។</description>
         <description xml:lang="ko">복합 효과와 기술에 대한 최신 소프트웨어(오픈수세 커뮤니티에서 관리하는 Xgl, Compiz, Compiz Fusion)가 들어 있습니다.</description>
@@ -244,7 +244,7 @@
         <summary xml:lang="sv">Senaste stabila OpenOfiice.org</summary>
         <summary xml:lang="th">โปรแกรมชุด OpenOffice.org รุ่นล่าสุด</summary>
         <summary xml:lang="uk">Найновіша стабільна версія OpenOffice.org</summary>
-        <summary xml:lang="wa">Dierinne sigure modêye d' OpenOffice.org</summary>
+        <summary xml:lang="wa">Dierinne sitocaesse modêye d' OpenOffice.org</summary>
         <summary xml:lang="zh_CN">最新 OpenOffice.org 稳定版本</summary>
         <summary xml:lang="zh_TW">最新釋出的穩定版 OpenOffice.org</summary>
         <description>Provides you with the latest stable version of OpenOffice.org, the Office suite that openSUSE uses.</description>
@@ -273,7 +273,7 @@
         <description xml:lang="sv">Tillhandahåller den senaste stabila versionen av OpenOffice.org, officepaketet openSUSE använder.</description>
         <description xml:lang="th">จัดเตรียมโปรแกรมชุด OpenOffice.org รุ่นล่าสุดไว้ให้คุณเลือกใช้งาน, โดยมันเป็นโปรแกรมชุดสำนักงานตัวหลักที่ openSUSE เลือกใช้</description>
         <description xml:lang="uk">Надає найновішу стабільну версію OpenOffice.org, офісного набору, який вживається в openSUSE.</description>
-        <description xml:lang="wa">Vos dene li dierinne sigure modêye d' OpenOffice.org, li shute burotike k' openSUSE eploye.</description>
+        <description xml:lang="wa">Vos dene li dierinne sitocaesse modêye d' OpenOffice.org, li shute burotike k' openSUSE eploye.</description>
         <description xml:lang="zh_CN">提供最新稳定版本的 OpenOffice.org，openSUSE 使用的办公套件。</description>
         <description xml:lang="zh_TW">提供您最新穩定版的 OpenOffice.org，openSUSE 使用的辦公室套裝軟體</description>
         <url>http://download.opensuse.org/repositories/OpenOffice.org:/STABLE/openSUSE_11.0/</url>
@@ -440,7 +440,7 @@
         <description xml:lang="fr">Wine est une implémentation opensource de l'API Windows. Il vous permet donc de lancer certaines applications Windows sous openSUSE. Ce dépôt fournit la dernière version CVS (développement) des paquets de Wine.</description>
         <description xml:lang="gl">Wine é unha implementación de Código Aberto da API de Windows, así que lle permite executar algunhas aplicacións de Windows en openSUSE. Este repositorio proporciona paquetes cas últimas capturas do CVS (desenvolvemento) de Wine.</description>
         <description xml:lang="hu">A Wine a Windows API nyílt forráskódú megvalósítása, amelynek segítségével windowsos alkalmazások futtathatók openSUSE környezetben. Ez a telepítési forrás tartalmazza a legfrissebb fejlesztői verziókat.</description>
-        <description xml:lang="it">Wine è una implementazione Open Source dell'API di Windows, che consente di eseguire alcune applicazioni Windows in openSUSE. Questa sorgente di installazione fornisce i pacchetti dell'ultima versione CVS (di sviluppo) di Wine.</description>
+        <description xml:lang="it">Wine è una implementazione Open Source dell'API di Windows, che consente di eseguire alcune applicazioni Windows in openSUSE. Questa repository fornisce i pacchetti dell'ultima versione CVS (di sviluppo) di Wine.</description>
         <description xml:lang="ja">Wine とは Windows API のオープンソース実装で、 openSUSE 上でいくつかの Windows アプリケーションが動作するようになります。このリポジトリでは最新のCVS (開発) 版の Wine スナップショットを提供しています。</description>
         <description xml:lang="km">Wine គឺ​ជា​​កម្មវិធី​ប្រភព​កូដ​ចំហ​របស់ Windows API ដូច្នេះ​វា​អនុញ្ញាត​ឲ្យ​អ្នក​រត់​កម្មវិធី​​របស់​វីនដូ​មួយ​ចំនួន​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ។ ឃ្លាំង​នេះ​ផ្ដល់​នូវ​​កញ្ចប់​រូបថត​អេក្រង់​របស់ CVS (ការ​អភិវឌ្ឍន៍) ចុង​ក្រោយ​បំផុត​របស់ Wine ។</description>
         <description xml:lang="ko">와인은 윈도우 API 의 오픈 소스 임플러멘테이션 입니다. 와인을 이용하여 오픈수세에서 윈도우 응용프로그램을 실행시킬 수 있습니다. 이 저장소는  와인의 최신의 CVS(개발) 스냅샷 꾸러미를 제공합니다.</description>
@@ -448,7 +448,7 @@
         <description xml:lang="nl">Wine is een opensource-implementatie van de Windows API. Deze maakt het mogelijk om enkele Windows-programma's op openSUSE te draaien. Deze bron bevat de laatste CVS (ontwikkeling) pakketten van Wine.</description>
         <description xml:lang="pl">Wine to otwarta implementacja Windows API, która pozwala uruchamiać niektóre programy Windows w openSUSE. Repozytorium zawiera najnowsze nieoficjalne pakiety Wine.</description>
         <description xml:lang="pt">O Wine é uma implementaçãode código aberto da API do Windows, dai poder correr aplicações Windows no openSUSE. Este repositório oferece os pacotes das últimas versões CVS (desenvolvimento) do Wine.</description>
-        <description xml:lang="pt_BR">O Wine é um implementação em código aberto da API do Windows, então ele permite a você executar alguns aplicativos do Windows no openSUSE. Este repositório fornece o snapshot CVS (desenvolvimento) mais recente de pacotes do Wine.</description>
+        <description xml:lang="pt_BR">O Wine é um implementação em código aberto da API do Windows, que permite a execução de alguns aplicativos do Windows no openSUSE. Este repositório fornece o snapshot CVS (desenvolvimento) mais recente de pacotes do Wine.</description>
         <description xml:lang="ro">Wine este o implementare cu sursă deschisă a API-urilor Windows, ce permit rularea anumitor aplicații Windows sub openSUSE. Această sursă furnizează ultimele pachete din serverul CVS (dezvoltare) ale Wine.</description>
         <description xml:lang="ru">Wine является реализацией Windows API с открытым кодом, так что она позволяет вам запускать некоторые приложения Windows в openSUSE. Этот репозиторий предоставляет пакеты с последними снимками CVS (разработки) Wine.</description>
         <description xml:lang="sk">Wine je slobodný softvér, ktorý implementuje API systému Windows do Linuxu. To vám umožní spúšťať niektoré windowsové aplikácie v openSUSE. Tento repozitár poskytuje balíky najnovšej (vývojovej) verzie Wine z CVS.</description>
@@ -1235,7 +1235,7 @@
         <summary xml:lang="gl">Repositorio da comunidade para KDE</summary>
         <summary xml:lang="hr">Repozitorij zajednice za KDE</summary>
         <summary xml:lang="hu">KDE alkalmazások közösségi telepítési forrása</summary>
-        <summary xml:lang="it">Sorgente di installazione della comunità per KDE</summary>
+        <summary xml:lang="it">Repository della comunità per KDE</summary>
         <summary xml:lang="ja">KDEのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​ចម្បង​សម្រាប់ KDE</summary>
         <summary xml:lang="ko">KDE 커뮤니티 저장소</summary>
@@ -1369,7 +1369,7 @@
         <description xml:lang="sv">Uppdaterar skrivbordet KDE4 till den senaste versionen (inte alltid stabilt)</description>
         <description xml:lang="th">ปรับรุ่นระบบพื้นที่ทำงาน KDE4 ให้เป็นรุ่นล่าสุด (ซึ่งไม่จำเป็นว่าจะต้องเสถียรหรือไม่)</description>
         <description xml:lang="uk">Оновлює стільницю KDE4 до найновішої версії (можливо, нестабільної)</description>
-        <description xml:lang="wa">Met a djoû l' sicribanne KDE4 viè l' dierinne modêye (nén todi sgur)</description>
+        <description xml:lang="wa">Met a djoû l' sicribanne KDE4 viè l' dierinne modêye (nén todi stocaesse)</description>
         <description xml:lang="zh_CN">更新 KDE4 桌面到最新版本（不保证稳定）</description>
         <description xml:lang="zh_TW">更新 KDE4 桌面到最新版本(不保證穩定)</description>
         <url>http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/</url>
@@ -1431,7 +1431,7 @@
         <summary xml:lang="sv">Bakåtportning av den senast stabila GNOME</summary>
         <summary xml:lang="th">แบ็คพอร์ตต่าง ๆ ของ GNOME รุ่นที่เสถียรล่าสุด</summary>
         <summary xml:lang="uk">Найновіший стабільний GNOME</summary>
-        <summary xml:lang="wa">Backport do dierin sgur GNOME</summary>
+        <summary xml:lang="wa">Backport do dierin stocaesse GNOME</summary>
         <summary xml:lang="zh_CN">最新稳定 GNOME 的后向移植</summary>
         <summary xml:lang="zh_TW">最新穩定版 GNOME 的回溯支援</summary>
         <description>This provides the latest stable, unsupported release of GNOME for openSUSE 11.0.</description>
@@ -1506,7 +1506,7 @@
         <summary xml:lang="gl">Repositorio da comunidade para GNOME</summary>
         <summary xml:lang="hr">Repozitorij zajednice za GNOME</summary>
         <summary xml:lang="hu">GNOME alkalmazások közösségi telepítési forrása</summary>
-        <summary xml:lang="it">Sorgente di installazione della comunità per GNOME</summary>
+        <summary xml:lang="it">Repository della comunità per GNOME</summary>
         <summary xml:lang="ja">GNOMEのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​សហគមន៍​សម្រាប់ GNOME</summary>
         <summary xml:lang="ko">그놈 커뮤니티 저장소</summary>
@@ -1596,7 +1596,7 @@
         <summary xml:lang="gl">Repositorio da comunidade para aplicacións Mono</summary>
         <summary xml:lang="hr">Repozitorij zajednice za Mono programe</summary>
         <summary xml:lang="hu">Mono alkalmazások közösségi telepítési forrása</summary>
-        <summary xml:lang="it">Sorgente di installazione della comunità per applicazioni Mono</summary>
+        <summary xml:lang="it">Repository della comunità per applicazioni Mono</summary>
         <summary xml:lang="ja">Mono アプリケーション向けのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​សហគមន៍​សម្រាប់​កម្មវិធី​តែ​មួយ</summary>
         <summary xml:lang="ko">Mono 응용프료그램용 커뮤니티 저장소</summary>
