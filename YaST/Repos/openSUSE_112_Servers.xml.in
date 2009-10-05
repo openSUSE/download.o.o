@@ -6,20 +6,20 @@
 
 	<!-- official openSUSE links -->
 	<item>
-	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_111_Default.xml</link>
+	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_112_Default.xml</link>
 	    <!-- to enable it during installation -->
 	    <installation_repo config:type="boolean">true</installation_repo>
 	    <official config:type="boolean">true</official>
 	</item>
 
 	<item>
-	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_111_Additional.xml</link>
+	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_112_Additional.xml</link>
 	    <official config:type="boolean">true</official>
 	</item>
 
 	<!-- Community links -->
 	<item>
-	    <link>http://opensuse-community.org/openSUSE_111_Community_Additional.xml</link>
+	    <link>http://opensuse-community.org/openSUSE_112_Community_Additional.xml</link>
 	    <official config:type="boolean">false</official>
         </item>
 
