@@ -1444,36 +1444,7 @@
         <url>http://download.opensuse.org/repositories/KDE:/KDE4:/Community/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <name>openSUSE BuildService - GNOME:STABLE</name>
-        <name xml:lang="ar">اوبن سوزي تبني خدمات GNOME المستقرة</name>
-        <name xml:lang="cs">openSUSE BuildService - GNOME:STABLE</name>
-        <name xml:lang="da">openSUSE BuildService - GNOME:STABLE</name>
-        <name xml:lang="de">openSUSE BuildService - GNOME:STABLE</name>
-        <name xml:lang="es">BuildService de openSUSE - GNOME:ESTABLE</name>
-        <name xml:lang="fi">openSUSE BuildService - GNOME:STABLE</name>
-        <name xml:lang="fr">openSUSE BuildService - GNOME:STABLE</name>
-        <name xml:lang="gl">Servizo de Construcción de openSUSE - GNOME:ESTABLE</name>
-        <name xml:lang="hu">openSUSE BuildService - GNOME:Stabil</name>
-        <name xml:lang="it">openSUSE BuildService - GNOME:STABLE</name>
-        <name xml:lang="ja">openSUSE ビルドサービス - GNOME:安定版</name>
-        <name xml:lang="ka">openSUSE BuildService - GNOME:სტაბილური</name>
-        <name xml:lang="km">openSUSE BuildService - GNOME ៖ ស្ថិតស្ថេរ</name>
-        <name xml:lang="ko">오픈수세 빌드서비스 - 그놈:안정</name>
-        <name xml:lang="nb">openSUSE BuildService - GNOME STABLE</name>
-        <name xml:lang="nl">openSUSE BuildService - GNOME-stabiel</name>
-        <name xml:lang="pa">ਓਪਨ-ਸੂਸੇ ਬਲਿਡ-ਸਰਵਿਸ - ਗਨੋਮ: ਸਟੇਬਲ</name>
-        <name xml:lang="pl">openSUSE BuildService - Stabilne GNOME</name>
-        <name xml:lang="pt">openSUSE BuildService - GNOME:ESTÁVEL</name>
-        <name xml:lang="pt_BR">openSUSE BuildService - GNOME:ESTÁVEL</name>
-        <name xml:lang="ro">openSUSE BuildService - GNOME:STABIL</name>
-        <name xml:lang="ru">openSUSE BuildService - GNOME:STABLE</name>
-        <name xml:lang="sk">openSUSE BuildService - GNOME:STABLE</name>
-        <name xml:lang="sv">openSUSE BuildService - GNOME:STABLE</name>
-        <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - โปรแกรมในชุด GNOME รุ่นเสถียร</name>
-        <name xml:lang="uk">Служба складання пакунків openSUSE - GNOME:STABLE</name>
-        <name xml:lang="wa">openSUSE BuildService - GNOME:SIGUR</name>
-        <name xml:lang="zh_CN">openSUSE 包构建服务 - GNOME:STABLE</name>
-        <name xml:lang="zh_TW">openSUSE BuildService - GNOME:穩定版</name>
+        <name>openSUSE BuildService - GNOME:STABLE:2.28</name>
         <summary>Backport of latest stable GNOME</summary>
         <summary xml:lang="ar">الرجوع إلى آخر جنوم مستقر</summary>
         <summary xml:lang="cs">Zpětný port nejnovější stabilní verze GNOME</summary>
@@ -1529,69 +1500,11 @@
         <description xml:lang="wa">Çouci dene li dierinne sigur mins nén sopoirtêye modêye di GNOME pos openSUSE 11.2.</description>
         <description xml:lang="zh_CN">为 openSUSE 11.2 提供最新的稳定版的GNOME，但没有官方支持。</description>
         <description xml:lang="zh_TW">這裡提供了最新穩定版，但沒有支援服務的 openSUSE 11.2 的 GNOME</description>
-        <url>http://download.opensuse.org/repositories/GNOME:/STABLE/openSUSE_11.2/</url>
+        <url>http://download.opensuse.org/repositories/GNOME:/STABLE:/2.28/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <name>openSUSE BuildService - GNOME:Community</name>
-        <name xml:lang="ar">اوبن سوزي تبني خدمات لمجتمع GNUME</name>
-        <name xml:lang="cs">openSUSE BuildService - GNOME:Community</name>
-        <name xml:lang="da">openSUSE BuildService - GNOME:Community</name>
-        <name xml:lang="de">openSUSE BuildService - GNOME:Community</name>
-        <name xml:lang="es">BuildService de openSUSE - GNOME:Comunidad</name>
-        <name xml:lang="fi">openSUSE BuildService - GNOME:Community</name>
-        <name xml:lang="fr">openSUSE BuildService - GNOME:Community</name>
-        <name xml:lang="gl">Servizo de Construcción de openSUSE - GNOME:Comunidade</name>
-        <name xml:lang="hr">openSUSE BuildService - GNOME:Zajednica</name>
-        <name xml:lang="hu">openSUSE BuildService - GNOME:Közösség</name>
-        <name xml:lang="it">openSUSE BuildService - GNOME:Community</name>
-        <name xml:lang="ja">openSUSE ビルドサービス - GNOME:コミュニティ</name>
-        <name xml:lang="km">openSUSE BuildService - GNOME ៖ សហគមន៍</name>
-        <name xml:lang="ko">오픈수세 빌드서비스 - 그놈:커뮤니티</name>
-        <name xml:lang="nb">openSUSE BuildService - GNOME-fellesskapet</name>
-        <name xml:lang="nl">openSUSE BuildService - GNOME-gemeenschap</name>
-        <name xml:lang="pa">ਓਪਨ-ਸੂਸੇ ਬਲਿਡ-ਸਰਵਿਸ - ਗਨੋਮ: ਕਮਿਊਨਟੀ</name>
-        <name xml:lang="pl">openSUSE BuildService - Społeczność GNOME</name>
-        <name xml:lang="pt">openSUSE BuildService - GNOME:Comunidade</name>
-        <name xml:lang="pt_BR">openSUSE BuildService - GNOME:comunidade</name>
-        <name xml:lang="ro">openSUSE BuildService - GNOME:Comunitate</name>
-        <name xml:lang="ru">openSUSE BuildService - GNOME:Community</name>
-        <name xml:lang="sk">openSUSE BuildService - GNOME:Community</name>
-        <name xml:lang="sv">openSUSE BuildService - GNOME:Community</name>
-        <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - โปรแกรมแบบ GNOME จากชุมชน</name>
-        <name xml:lang="uk">Служба складання пакунків openSUSE - GNOME:Community</name>
-        <name xml:lang="wa">openSUSE BuildService - GNOME:Cominålté</name>
-        <name xml:lang="zh_CN">openSUSE 包构建服务 - GNOME:Community</name>
-        <name xml:lang="zh_TW">openSUSE BuildService - GNOME:社群版</name>
-        <summary>Community repository for GNOME</summary>
-        <summary xml:lang="ar">مخزن مجموعة جنوم</summary>
-        <summary xml:lang="cs">Komunitní repozitář s GNOME</summary>
-        <summary xml:lang="da">Softwarekilde fra fællesskabet med GNOME</summary>
-        <summary xml:lang="de">Gemeinschafts-Repository für GNOME</summary>
-        <summary xml:lang="es">Repositorio de la comunidad para GNOME</summary>
-        <summary xml:lang="fi">GNOMEn yhteisöasennuslähde</summary>
-        <summary xml:lang="fr">Dépôt de la communauté pour GNOME</summary>
-        <summary xml:lang="gl">Repositorio da comunidade para GNOME</summary>
-        <summary xml:lang="hr">Repozitorij zajednice za GNOME</summary>
-        <summary xml:lang="hu">GNOME-alkalmazások közösségi telepítési forrása</summary>
-        <summary xml:lang="it">Repository della comunità per GNOME</summary>
-        <summary xml:lang="ja">GNOMEのコミュニティリポジトリ</summary>
-        <summary xml:lang="km">ឃ្លាំង​សហគមន៍​សម្រាប់ GNOME</summary>
-        <summary xml:lang="ko">그놈 커뮤니티 저장소</summary>
-        <summary xml:lang="nb">Fellesskapsarkiv for GNOME</summary>
-        <summary xml:lang="nl">Gemeenschapsbron voor GNOME</summary>
-        <summary xml:lang="pa">ਗਨੋਮ ਲਈ ਕਮਿਊਨਟੀ ਰਿਪੋਜ਼ਟਰੀ</summary>
-        <summary xml:lang="pl">Repozytoria społeczności dla GNOME</summary>
-        <summary xml:lang="pt">Repositório da comunidade para o GNOME</summary>
-        <summary xml:lang="pt_BR">Repositório da comunidade para o GNOME</summary>
-        <summary xml:lang="ro">Sursă de instalare a comunității pentru GNOME</summary>
-        <summary xml:lang="ru">Репозиторий сообщества для GNOME</summary>
-        <summary xml:lang="sk">Komunitný repozitár GNOME</summary>
-        <summary xml:lang="sv">Communityförråd för GNOME</summary>
-        <summary xml:lang="th">คลังแพกเกจของชุมชน GNOME</summary>
-        <summary xml:lang="uk">Громадські сховища для GNOME</summary>
-        <summary xml:lang="wa">Depots del cominålté po GNOME</summary>
-        <summary xml:lang="zh_CN">GNOME 社区安装源</summary>
-        <summary xml:lang="zh_TW">GNOME 的社群版套件庫</summary>
+        <name>openSUSE BuildService - GNOME:Apps</name>
+        <summary>Backports of GNOME applications</summary>
         <description>Updates to the GNOME software that is shipped with the distribution (backports).</description>
         <description xml:lang="ar">تحديث برمجيات  GNOME يتم شحنه مع التوزيع (backports)</description>
         <description xml:lang="cs">Aktualizace GNOME softwaru dodávaného s distribucí (zpětné porty).</description>
@@ -1621,7 +1534,7 @@
         <description xml:lang="wa">Met a djoû viè l' programe GNOME k' est dné dins l' distribucion (backports).</description>
         <description xml:lang="zh_CN">发行版中所带的 GNOME 软件的更新(后向移植)。</description>
         <description xml:lang="zh_TW">更新到發行版本搭載的 GNOME 軟體(回溯支援)。</description>
-        <url>http://download.opensuse.org/repositories/GNOME:/Community/openSUSE_11.2/</url>
+        <url>http://download.opensuse.org/repositories/GNOME:/Apps/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - Mono:Community</name>
