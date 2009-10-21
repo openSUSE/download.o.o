@@ -77,7 +77,7 @@
         <description xml:lang="it">Il repository di XFCE nel Build Service di openSUSE. Fornisce l'ultima versione non supportata dell'ambiente desktop XFCE e del relativo software.</description>
         <description xml:lang="ja">公式にはサポートされていない最新版の XFCE デスクトップ環境とソフトウエアの openSUSE リポジトリ</description>
         <description xml:lang="km">ឃ្លាំង XFCE នៅ​ក្នុង​សេវាស្ថាបនា​របស់​អូផឹនស៊ូស៊ី ដែល​ផ្ដល់​​ឲ្យ​អ្នក​នូវ​អ្វី​ដែល​មិនបានគាំទ្រ ប៉ុន្តែ​កំណែ​ចុងក្រោយ​បំផុត​របស់​បរិស្ថាន​ផ្ទៃតុ XFCE និង​កម្មវិធី ។</description>
-        <description xml:lang="ko">XFCE 데스크탑 환경과 소프트웨어의 최신 버전을 제공하는 오픈수세 빌드 서비스의 XFCE 저장소 입니다.</description>
+        <description xml:lang="ko">XFCE 데스크톱 환경과 소프트웨어의 최신 버전을 제공하는 오픈수세 빌드 서비스의 XFCE 저장소 입니다.</description>
         <description xml:lang="nb">XFCE-arkivet fra openSUSE Build Service, som tilbyr ikke-støttede, men oppdaterte utgaver av XFCE-skrivebordsmiljøet, samt tilhørende programvare.</description>
         <description xml:lang="nl">De XFCE-bron in de openSUSE Build Service. Deze levert u de niet-ondersteunde, maar nieuwste versie van de  XFCE Desktop Environment en -software.</description>
         <description xml:lang="pl">Repozytorium XFCE w openSUSE Build Service, które zawiera najnowsze nieoficjalne wersje środowiska XFCE.</description>
@@ -1234,7 +1234,7 @@
         <summary xml:lang="fr">Dépôt de la communauté pour KDE</summary>
         <summary xml:lang="gl">Repositorio da comunidade para KDE</summary>
         <summary xml:lang="hr">Repozitorij zajednice za KDE</summary>
-        <summary xml:lang="hu">KDE alkalmazások közösségi telepítési forrása</summary>
+        <summary xml:lang="hu">KDE-alkalmazások közösségi telepítési forrása</summary>
         <summary xml:lang="it">Repository della comunità per KDE</summary>
         <summary xml:lang="ja">KDEのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​ចម្បង​សម្រាប់ KDE</summary>
@@ -1299,7 +1299,7 @@
         <name xml:lang="it">openSUSE BuildService - KDE4:Factory:Desktop</name>
         <name xml:lang="ja">openSUSE ビルドサービス - KDE4:ファクトリ:デスクトップ</name>
         <name xml:lang="km">openSUSE BuildService - KDE4:Factory:Desktop</name>
-        <name xml:lang="ko">오픈수세 빌드서비스 - KDE:Factory:데스크탑</name>
+        <name xml:lang="ko">오픈수세 빌드서비스 - KDE:Factory:데스크톱</name>
         <name xml:lang="nb">openSUSE BuildService - KDE4:Factory:Desktop</name>
         <name xml:lang="nl">openSUSE Build-service - KDE4:Factory:Desktop</name>
         <name xml:lang="pa">ਓਪਨ-ਸੂਸੇ ਬਲਿਡ-ਸਰਵਿਸ - KDE:ਫੈਕਟਰੀ:ਡੈਸਕਟਾਪ</name>
@@ -1356,7 +1356,7 @@
         <description xml:lang="it">Aggiorna il desktop KDE4 all'ultima version (non necessariamente stabile)</description>
         <description xml:lang="ja">KDE4 デスクトップを最新バージョンに更新 (必ずしも安定していません)</description>
         <description xml:lang="km">ធ្វើ​ឲ្យ​ផ្ទៃតុ KDE4 ទាន់សម័យ​ទៅ​កំណែ​ថ្មី​បំផុត (មិន​មែន​ស្ថិតស្ថេរ​ទេ)</description>
-        <description xml:lang="ko">KDE4 데스크탑을 최신버전으로 업데이트(not necessarly stable)</description>
+        <description xml:lang="ko">KDE4 데스크톱을 최신버전으로 업데이트(not necessarly stable)</description>
         <description xml:lang="nb">Her kan du oppdatere KDE4-skrivebordet til nyeste versjon (ikke nødvendigvis en stabil versjon).</description>
         <description xml:lang="nl">Waardeert de KDE4-desktop op tot de laatste versie (niet noodzkelijk stabiel)</description>
         <description xml:lang="pa">KDE4 ਡੈਸਕਟਾਪ ਲਈ ਨਵੇਂ ਵਰਜਨ ਲਈ ਅੱਪਡੇਟ (ਜ਼ਰੂਰੀ ਨਹੀਂ ਕੀ ਸਟੇਬਲ ਹੀ)</description>
@@ -1505,7 +1505,7 @@
         <summary xml:lang="fr">Dépôt de la communauté pour GNOME</summary>
         <summary xml:lang="gl">Repositorio da comunidade para GNOME</summary>
         <summary xml:lang="hr">Repozitorij zajednice za GNOME</summary>
-        <summary xml:lang="hu">GNOME alkalmazások közösségi telepítési forrása</summary>
+        <summary xml:lang="hu">GNOME-alkalmazások közösségi telepítési forrása</summary>
         <summary xml:lang="it">Repository della comunità per GNOME</summary>
         <summary xml:lang="ja">GNOMEのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​សហគមន៍​សម្រាប់ GNOME</summary>
@@ -1623,7 +1623,7 @@
         <description xml:lang="fi">Mono-sovellusten päivityksiä ja lisäsovelluksia.</description>
         <description xml:lang="fr">Mises à jour et ajouts d'applications écrites en Mono.</description>
         <description xml:lang="gl">Actualizacións e Engadidos de aplicacións escritas en Mono.</description>
-        <description xml:lang="hu">Frissítések és kiegészítések Monoban írt alkalmazásokhoz.</description>
+        <description xml:lang="hu">Frissítések és kiegészítések Monóban írt alkalmazásokhoz.</description>
         <description xml:lang="it">Aggiornamenti ed Aggiunte alle applicazione scritte in Mono.</description>
         <description xml:lang="ja">Mono で書かれたアプリケーションの更新と追加</description>
         <description xml:lang="km">ភាព​ទាន់សម័យ និង​ការ​បន្ថែម​កម្មវិធី​ដែល​បាន​សរសេរ​នៅ​ក្នុង Mono ។</description>

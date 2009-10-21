@@ -51,6 +51,7 @@
 		<summary xml:lang="ko">오픈 소스 소프트웨어만 포함 되어 있는 오픈수세 11.2 의 주 저장소</summary>
 		<summary xml:lang="nb">Hovedarkiv for openSUSE 11.2 som kun inneholder programvare med åpen kildekode</summary>
 		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11.2, met alleen opensource-software</summary>
+		<summary xml:lang="pa">ਓਪਨ-ਸੂਸੇ ੧੧.੨ ਲਈ ਮੇਨ ਰਿਪੋਜ਼ਟਰੀ, ਜਿਸ ਵਿੱਚ ਕੇਵਲ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਹੀ ਹਨ</summary>
 		<summary xml:lang="pl">Główne repozytorium openSUSE 11.2 zawierające tylko oprogramowanie open source</summary>
 		<summary xml:lang="pt_BR">O repositório principal do openSUSE 11.2 inclui apenas softwares de código aberto</summary>
 		<summary xml:lang="ro">Sursă de instalare principală openSUSE 11.2 ce conține doar software Open Source</summary>
@@ -75,6 +76,7 @@
 		<description xml:lang="ko">오픈수세 11.2 의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유지 관리되는 규모가 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시간이 조금 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)</description>
 		<description xml:lang="nb">Det store arkivet for programvare med åpen kildekode (OSS) for openSUSE 11.2 gir deg tilgang til tusenvis av pakker som vedlikeholdes av openSUSE-gruppen. (På grunn av størrelsen kan det ta en stund å legge til arkivet (512 MB RAM eller en aktivert veksleminnepartisjon anbefales sterkt hvis du ønsker tilgang til dette arkivet under installasjonen).</description>
 		<description xml:lang="nl">De grote opensource-installatiebron van openSUSE 11.2 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 MB RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+		<description xml:lang="pa">ਓਪਨਸੂਸੇ 11.2 ਲਈ ਵੱਡੀ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ (OSS) ਰਿਪੋਜ਼ਟਰੀ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਓਪਨ ਸੂਸੇ ਟੀਮ ਦੇ ਪਰਬੰਧ ਅਧੀਨ ਰੱਖੇ ਹਜ਼ਾਰਾਂ ਪੈਕੇਜ ਲਈ ਪਹੁੰਚ ਦਿੰਦੀ ਹੈ। (ਰਿਪੋਜ਼ਟਰੀ ਦੇ ਸਾਈਜ਼ ਕਰਕੇ, ਇਸ ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਕੁਝ ਸਮਾਂ ਲੱਗ ਸਕਦਾ ਹੈ। 512 MB  ਰੈਮ (RAM) ਜਾਂ ਚਾਲੂ ਕੀਤਾ ਸਵੈਪ (SWAP) ਭਾਗ ਦੀ ਜ਼ੋਰਦਾਰ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ, ਜੇ ਤੁਸੀਂ ਇੰਸਟਾਲੇਸ਼ਨ ਦੇ ਦੌਰਾਨ ਹੀ ਇਹ ਰਿਪੋਜ਼ਟਰੀ ਦੀ ਵਰਤੋਂ ਕਰਨੀ।</description>
 		<description xml:lang="pl">Wielkie repozytorium Open Source Software (OSS) dla openSUSE 11.2, które zawiera tysiące pakietów utrzymywanych przez zespół openSUSE. (Z racji rozmiarów dodanie tego repozytorium może zająć trochę czasu. (Jeśli to repozytorium ma być użyte podczas instalacji, zalecane jest posiadanie 512MB pamięci RAM lub aktywnej partycji wymiany.)</description>
 		<description xml:lang="pt_BR">O grande repositório OSS (Open Source Software - software de código aberto) para o openSUSE 11.2, dá a você acesso a milhares de pacotes mantidos pela equipe openSUSE. (Devido ao tamanho do repositório, adicioná-lo pode levar algum tempo. 512 MB de memória RAM ou uma partição SWAP habilitada são altamente recomendados no caso de você querer acessar esse repositório no momento da instalação.)</description>
 		<description xml:lang="ro">Sursa principală de instalare de programe open source pentru openSUSE 11.2, care vă oferă acces la mii de pachete întreținute de echipa openSUSE. (Datorită dimensiunii, adăugarea ei poate dura. 512 MB de RAM sau o partiție SWAP activă sunt călduros recomandate dacă doriți să accesați această sursă la instalare.)</description>
@@ -133,6 +135,7 @@
 		<summary xml:lang="ko">비-오픈소스 소프트웨어가 들어있는 오픈수세 11.2  Add-on 저장소</summary>
 		<summary xml:lang="nb">Tilleggsarkiv med programvare uten åpen kildekode for openSUSE 11.2</summary>
 		<summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE 11.2</summary>
+		<summary xml:lang="pa">ਓਪਨ-ਸੂਸੇ ੧੧.੨ ਲਈ ਗ਼ੈਰ-ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਐਡ-ਆਨ ਰਿਪੋਜ਼ਟਰੀ</summary>
 		<summary xml:lang="pl">Repozytorium z dodatkowym oprogramowaniem non-open source dla openSUSE 11.2 </summary>
 		<summary xml:lang="pt_BR">Repositório complementar de softwares sem o código aberto para o openSUSE 11.2</summary>
 		<summary xml:lang="ro">Sursă de instalare suplimentară pentru openSUSE 11.2 cu programe care nu sunt open source</summary>
@@ -157,6 +160,7 @@
 		<description xml:lang="ko">오픈수세 팀에 의해 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플래시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다.</description>
 		<description xml:lang="nb">Det offisielle openSUSE 11.2-arkivet for all programvare uten åpen kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, Java, Flash og mye mer.</description>
 		<description xml:lang="nl">De officiële openSUSE 11.2-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals Opera, Flash, Java, etc.</description>
+		<description xml:lang="pa">ਸਭ ਗ਼ੈਰ-ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਵਾਸਤੇ ਆਫਿਸ਼ਲ ਓਪਨਸੂਸੇ ੧੧.੨ ਰਿਪੋਜ਼ਟਰੀ, ਜੋ ਕਿ ਓਪਨਸੂਸੇ ਟੀਮ ਵਲੋਂ ਸੰਭਾਲਿਆ ਜਾਂਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਓਪੇਰਾ, ਜਾਵਾ, ਫਲੈਸ਼ ਅਤੇ ਹੋਰ ਕਈ ਹਨ।</description>
 		<description xml:lang="pl">Oficjalne repozytorium openSUSE 11.2, które zawiera pakiety z zamkniętym oprogramowaniem utrzymywane przez zespół openSUSE. Zawiera programy takie jak Opera, Java, Flash i inne.</description>
 		<description xml:lang="pt_BR">O repositório oficial do openSUSE 11.2 para todos os softwares sem o código aberto (NON-OSS - Non-Open Source Software) mantido pela equipe openSUSE, incluindo o RealPlayer, Opera, Java, Flash e mais.</description>
 		<description xml:lang="ro">Sursa de instalare oficială a openSUSE 11.2 pentru toate programele non-open source menținute de echipa openSUSE, printre care RealPlayer, Opera, Java, Flash, etc.</description>
@@ -216,6 +220,7 @@
 		<summary xml:lang="ko">디버그정보 꾸러미가 들어있는 오픈수세 11.2 의 주 저장소</summary>
 		<summary xml:lang="nb">Hovedarkiv for openSUSE 11.2 som inneholder pakker med feilsøkingsinformasjon</summary>
 		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11.2, met debuginfo-pakketten</summary>
+		<summary xml:lang="pa">ਓਪਨ-ਸੂਸੇ ੧੧.੨ ਲਈ ਮੇਨ ਰਿਪੋਜ਼ਟਰੀ, ਜਿਸ ਵਿੱਚ debuginfo ਪੈਕੇਜ ਸ਼ਾਮਲ ਹਨ</summary>
 		<summary xml:lang="pl">Główne repozytorium openSUSE 11.2 zawierające pakiety debuginfo</summary>
 		<summary xml:lang="pt_BR">O repositório principal do openSUSE 11.2 incluindo os pacotes debuginfo</summary>
 		<summary xml:lang="ro">Sursă principală a openSUSE 11.1 cu pachetele conținând informații de debug</summary>
@@ -240,6 +245,7 @@
 		<description xml:lang="ko">이 오픈수세 11.2 저장소에는 전문가 전용의 유용한 디버그 응용프로그램이 들어있습니다.</description>
 		<description xml:lang="nb">Dette arkivet er nyttig hvis du vil feilsøke programmer på openSUSE 11.2. Kun for avanserte brukere.</description>
 		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's op openSUSE 11.2 willen opsporen. Alleen voor ervaren gebruikers.</description>
+		<description xml:lang="pa">ਇਹ ਰਿਪੋਜ਼ਟਰੀ ਤਾਂ ਹੀ ਫਾਇਦੇਮੰਦ ਹੈ, ਜੇ ਓਪਨਸੂਸੇ ੧੧.੨ ਵਾਸਤੇ ਡੀਬੱਗ ਐਪਲੀਕੇਸ਼ਨ ਚਾਹੀਦੇ ਹਨ। ਇਹ ਮਾਹਰ ਲਈ ਹੈ।</description>
 		<description xml:lang="pl">Repozytorium dla tych, którzy pragną debugować programy na openSUSE 11.2. Tylko dla zaawansowanych.</description>
 		<description xml:lang="pt_BR">Este repositório é útil para aqueles que querem depurar aplicativos no openSUSE 11.2. Somente para usuários avançados.</description>
 		<description xml:lang="ro">Această sursă de instalare este utilă celor care vor să facă debug pe openSUSE 11.2. Doar pentru experți.</description>

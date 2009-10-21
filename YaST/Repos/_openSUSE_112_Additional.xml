@@ -49,6 +49,7 @@
         <summary xml:lang="ko">오픈수세 11.2 주 저장소 (소스 꾸러미)</summary>
         <summary xml:lang="nb">Hovedarkiv for openSUSE 11.2 (kildepakker)</summary>
         <summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11.2 (broncodepakketten)</summary>
+        <summary xml:lang="pa">ਓਪਨ-ਸੂਸੇ ੧੧.੨ ਲਈ ਮੇਨ ਰਿਪੋਜ਼ਟਰੀ (ਸੋਰਸ ਪੈਕੇਜ)</summary>
         <summary xml:lang="pl">Główne repozytorium openSUSE 11.2 (Pakiety źródłowe)</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE 11.2 (pacotes fonte)</summary>
         <summary xml:lang="ro">Sursă principală openSUSE 11.2 (pachete sursă)</summary>
@@ -73,6 +74,7 @@
         <description xml:lang="ko">전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다.</description>
         <description xml:lang="nb">Arkiv for alle kildepakker til openSUSE 11.2. Bare for avanserte brukere.</description>
         <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE 11.2. Alleen voor ervaren gebruikers.</description>
+        <description xml:lang="pa">ਓਪਨਸੂਸੇ ੧੧.੨ ਵਿੱਚ ਸਭ ਸਰੋਤ ਪੈਕੇਜਾਂ ਲਈ ਰਿਪੋਜ਼ਟਰੀ। ਕੇਵਲ ਮਾਹਰਾਂ ਲਈ ਹੀ।</description>
         <description xml:lang="pl">Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 11.2. Tylko dla zaawansowanych.</description>
         <description xml:lang="pt_BR">O repositório de todos os pacotes fonte do openSUSE 11.2. Somente para usuários avançados.</description>
         <description xml:lang="ro">Sursă de instalare pentru toate pachetele sursă din openSUSE 11.2. Doar pentru experți.</description>
@@ -132,6 +134,7 @@
         <summary xml:lang="ko">11.2 공식 업데이트 저장소</summary>
         <summary xml:lang="nb">Arkiv for offisielle oppdateringer til 11.2</summary>
         <summary xml:lang="nl">Installatiebron met officiële opwaarderingen voor 11.2</summary>
+        <summary xml:lang="pa">੧੧.੨ ਲਈ ਆਫਿਸ਼ਲ ਅੱਪਡੇਟ ਵਾਸਤੇ ਰਿਪੋਜ਼ਟਰੀ</summary>
         <summary xml:lang="pl">Repozytorium oficjalnych aktualizacji dla systemu openSUSE 11.2</summary>
         <summary xml:lang="pt_BR">Repositório para as atualizações oficiais do 11.2</summary>
         <summary xml:lang="ro">Sursă de instalare pentru actualizările oficiale pentru 11.2</summary>
@@ -157,6 +160,7 @@
         <description xml:lang="ko">이 저장소에서 오픈수세 11.2 의 보안 및 필수 업데이트를 찾을 수 있습니다.</description>
         <description xml:lang="nb">I dette arkivet finner du sikkerhets- og vedlikeholdsoppdateringer til openSUSE 11.2.</description>
         <description xml:lang="nl">In deze bron vindt u veiligheids- en onderhoudsopwaarderingen voor openSUSE 11.2.</description>
+        <description xml:lang="pa">ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਵਿੱਚ ਤੁਸੀਂ ਓਪਨਸੂਸੇ ੧੧.੨ ਲਈ ਸੁਰੱਖਿਆ ਅਤੇ ਪਰਬੰਧ ਅੱਪਡੇਟ ਲੈ ਸਕਦੇ ਹੋ।</description>
         <description xml:lang="pl">To repozytorium zawiera aktualizacje i poprawki dla openSUSE 11.2.</description>
         <description xml:lang="pt_BR">Neste repositório você encontra atualizações de manutenção e segurança para o openSUSE 11.2.</description>
         <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 11.2.</description>
@@ -242,7 +246,7 @@
         <description xml:lang="it">Il repository di XFCE nel Build Service di openSUSE. Fornisce l'ultima versione non supportata dell'ambiente desktop XFCE e del relativo software.</description>
         <description xml:lang="ja">公式にはサポートされていない最新版の XFCE デスクトップ環境とソフトウエアの openSUSE リポジトリ</description>
         <description xml:lang="km">ឃ្លាំង XFCE នៅ​ក្នុង​សេវាស្ថាបនា​របស់​អូផឹនស៊ូស៊ី ដែល​ផ្ដល់​​ឲ្យ​អ្នក​នូវ​អ្វី​ដែល​មិនបានគាំទ្រ ប៉ុន្តែ​កំណែ​ចុងក្រោយ​បំផុត​របស់​បរិស្ថាន​ផ្ទៃតុ XFCE និង​កម្មវិធី ។</description>
-        <description xml:lang="ko">XFCE 데스크탑 환경과 소프트웨어의 최신 버전을 제공하는 오픈수세 빌드 서비스의 XFCE 저장소 입니다.</description>
+        <description xml:lang="ko">XFCE 데스크톱 환경과 소프트웨어의 최신 버전을 제공하는 오픈수세 빌드 서비스의 XFCE 저장소 입니다.</description>
         <description xml:lang="nb">XFCE-arkivet fra openSUSE Build Service, som tilbyr ikke-støttede, men oppdaterte utgaver av XFCE-skrivebordsmiljøet, samt tilhørende programvare.</description>
         <description xml:lang="nl">De XFCE-bron in de openSUSE Build Service. Deze levert u de niet-ondersteunde, maar nieuwste versie van de  XFCE Desktop Environment en -software.</description>
         <description xml:lang="pl">Repozytorium XFCE w openSUSE Build Service, które zawiera najnowsze nieoficjalne wersje środowiska XFCE.</description>
@@ -257,7 +261,7 @@
         <description xml:lang="wa">Li depot XFCE dins l' openSUSE Build Service, ki vs dene li modêye nén sopoirtêye, mins li dierinne, di l' evironmint et des programes do scribanne XFCE.</description>
         <description xml:lang="zh_CN">openSUSE 包构建服务中的 XFCE 安装源，提供不被官方支持的 XFCE 桌面环境和软件的最新版本。</description>
         <description xml:lang="zh_TW">在 openSUSE Build Service 上的 XFCE 套件庫，提供您沒有支援服務但最新版本的 XFCE 桌面環境與軟體。</description>
-        <url>http://download.opensuse.org/repositories/X11:/xfce/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/X11:/xfce/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - X11:Compiz</name>
@@ -346,7 +350,7 @@
         <description xml:lang="wa">I gn a dins c' depot ci l' dierin programe ki vs dene les efets eyet l' tecnolodjeye compôzite. I gn a ddins les pacaedjes d' Xgl, Compiz eyet Compiz Fusion mintnous pal cominålté d' openSUSE.</description>
         <description xml:lang="zh_CN">此安装源包含复合效果和复合技术相关的最新软件。有openSUSE 社区维护的 Xgl、Compiz 以及 Compiz Fusion 软件包。</description>
         <description xml:lang="zh_TW">這個套件庫包含帶給您創作特效與技術的最新軟體。它包含了由 openSUSE 社群維護的 Xgl, Compiz 以及 Compiz Fusion 套件。</description>
-        <url>http://download.opensuse.org/repositories/X11:/Compiz/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/X11:/Compiz/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - OpenOffice.org</name>
@@ -439,7 +443,7 @@
         <description xml:lang="wa">Vos dene li dierinne sitocaesse modêye d' OpenOffice.org, li shute burotike k' openSUSE eploye.</description>
         <description xml:lang="zh_CN">提供最新稳定版本的 OpenOffice.org，openSUSE 使用的办公套件。</description>
         <description xml:lang="zh_TW">提供您最新穩定版的 OpenOffice.org，openSUSE 使用的辦公室套裝軟體</description>
-        <url>http://download.opensuse.org/repositories/OpenOffice.org:/STABLE/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/OpenOffice.org:/STABLE/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Mozilla</name>
@@ -621,7 +625,7 @@
         <description xml:lang="wa">Wine est ene implemintåcion libe di l' API Windows, inis i vs permet d' enonder des programes Windows dins openSUSE. Ci depot dene les dierins pacaedjes d' egaloyaedje CVS (disvelopmint) di Wine.</description>
         <description xml:lang="zh_CN">Wine 是 Windows API 在开源界的实现，所以它可以让你在 openSUSE 中运行一些 Windows 程序。此安装源包含 wine 的最新 CVS（开发中）包。</description>
         <description xml:lang="zh_TW">Wine 是一個 Windows API 的開原作品，所以它允許您在 openSUSE 上執行某些 Windows 應用程式。這個套件庫提供了最新的 wine CVS (開發) 即時套件。</description>
-        <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Games</name>
@@ -712,7 +716,7 @@
         <description xml:lang="wa">Sacwants djeus d' accion s' î trovèt di kî gn a Open Arena (les saetchîz tertos), Flight Gear (forveyeu d' volêye) eyet Torcs (forveyeu d' coûsse d' oto e 3D)</description>
         <description xml:lang="zh_CN">包含众多动作游戏，比如 Open Arena (射击)，Flight Gear (飞行模拟器)和 Torcsi (3D 赛车)。</description>
         <description xml:lang="zh_TW">包含了數種動作遊戲包括 Open Arena (射擊)，Flight Gear (飛行模擬器) 和 Torcs (3D 競賽模擬器)。</description>
-        <url>http://download.opensuse.org/repositories/games/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/games/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Drivers for webcams</name>
@@ -805,7 +809,7 @@
         <description xml:lang="wa">Des moenneus nén vîs s' î trovèt po sacwantès webcams.</description>
         <description xml:lang="zh_CN">包含上百种网络摄像头的最新驱动。</description>
         <description xml:lang="zh_TW">包含了數百種網路攝影機的最新驅動程式。</description>
-        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Virtualization (QEMU)</name>
@@ -897,7 +901,7 @@
         <description xml:lang="wa">Dene les modêyes a djoû di QEMU, on libe emulateu eyet forvoeyeu d' éndjole djenerike.</description>
         <description xml:lang="zh_CN">提供最新的 QEMU，一个通用开源的计算机模拟程序和虚拟程序。</description>
         <description xml:lang="zh_TW">提供了最新版的 QEMU，一個通用的開放原始碼虛擬機器及模擬器。</description>
-        <url>http://download.opensuse.org/repositories/Virtualization:/Qemu/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/Virtualization:/Qemu/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Virtualization (VirtualBox)</name>
@@ -989,7 +993,7 @@
         <description xml:lang="wa">Dene les modêyes a djoû d' VirtualBox, on forvoeyeu libe-sourdant complet a uzaedje djenerå po l' éndjolreye x86.</description>
         <description xml:lang="zh_CN">提供最新的 VirtualBox，用于一般目的完整虚拟 x86 硬件的开源软件。</description>
         <description xml:lang="zh_TW">提供了最新版本的 VirtualBox，一個一般用途的開放原始碼 x86 硬體完整虛擬機器 </description>
-        <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - PHP</name>
@@ -1081,7 +1085,7 @@
         <description xml:lang="wa">Dene les dierins pacaedjes eyet les modêyes multi-modêye do programe PHP.</description>
         <description xml:lang="zh_CN">提供最新软件包和多个版本的 PHP 软件。</description>
         <description xml:lang="zh_TW">提供了 PHP 軟體最新的套件以及各種不同版本</description>
-        <url>http://download.opensuse.org/repositories/server:/php/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/server:/php/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Database</name>
@@ -1174,7 +1178,7 @@
         <description xml:lang="wa">Dierins metaedje a djoû po les programes di dnêyes avou dvins Firebird eyet MySQL.</description>
         <description xml:lang="zh_CN">数据库软件的最新更新，比如 Firebird 和 MySQL。</description>
         <description xml:lang="zh_TW">包含 Firebird 和 MySQL 資料庫軟體的最新更新版。</description>
-        <url>http://download.opensuse.org/repositories/server:/database/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/server:/database/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Mail Server</name>
@@ -1265,7 +1269,7 @@
         <description xml:lang="wa">Dene les dierins metaedjes a djoû po postfix, exim eyet les usteyes ki tournèt åtoû d' zels.</description>
         <description xml:lang="zh_CN">提供 postfix 和 exim 的最新更新，以及相关工具。</description>
         <description xml:lang="zh_TW">提供了 postfix, exim 和相關工具的最新更新版。</description>
-        <url>http://download.opensuse.org/repositories/server:/mail/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/server:/mail/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:Backports</name>
@@ -1354,7 +1358,7 @@
         <description xml:lang="wa">Met a djoû viè l' programe KDE k' est dné dins l' distribucion (backports).</description>
         <description xml:lang="zh_CN">发行版中所带的 KDE 软件的更新(后向移植)。</description>
         <description xml:lang="zh_TW">更新到發行版本搭載的 KDE 軟體(回溯支援)。</description>
-        <url>http://download.opensuse.org/repositories/KDE:/Backports/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/KDE:/Backports/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:KDE4:Community</name>
@@ -1389,7 +1393,7 @@
         <summary xml:lang="fr">Dépôt de la communauté pour KDE</summary>
         <summary xml:lang="gl">Repositorio da comunidade para KDE</summary>
         <summary xml:lang="hr">Repozitorij zajednice za KDE</summary>
-        <summary xml:lang="hu">KDE alkalmazások közösségi telepítési forrása</summary>
+        <summary xml:lang="hu">KDE-alkalmazások közösségi telepítési forrása</summary>
         <summary xml:lang="it">Repository della comunità per KDE</summary>
         <summary xml:lang="ja">KDEのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​ចម្បង​សម្រាប់ KDE</summary>
@@ -1431,7 +1435,7 @@
         <description xml:lang="uk">Надає додаткове ПЗ KDE, яке підтримується спільнотою openSUSE KDE.</description>
         <description xml:lang="wa">Dene d' ôtes programes KDE mintnous pal cominålté KDE d' openSUSE.</description>
         <description xml:lang="zh_TW">提供了由 openSUSE KDE 社群維護的額外 KDE 軟體。</description>
-        <url>http://download.opensuse.org/repositories/KDE:/KDE4:/Community/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/KDE:/KDE4:/Community/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:STABLE</name>
@@ -1508,6 +1512,7 @@
         <description xml:lang="ko">그놈에서 지원하지 않는 오픈수세 11.2 용 최신 안정판을 제공하고 있습니다.</description>
         <description xml:lang="nb">Her finner du den nyeste stabile versjonen av GNOME for openSUSE 11.2 (støttes ikke offisielt).</description>
         <description xml:lang="nl">Dit levert de nieuwste, stabiele, niet-ondersteunde uitgave van GNOME voor openSUSE 11.2.</description>
+        <description xml:lang="pa">ਓਪਨ-ਸੂਸੇ ੧੧.੨ ਲਈ ਗਨੋਮ ਦੇ ਸਭ ਤੋਂ ਨਵੇਂ ਸਟੇਬਲ, ਗ਼ੈਰ-ਮੱਦਦ ਪ੍ਰਾਪਤ ਰੀਲਿਜ਼ ਦਿੰਦੀ ਹੈ।</description>
         <description xml:lang="pl">Zawiera najnowsze stabilne, niewspierane wydanie GNOME dla openSUSE 11.2.</description>
         <description xml:lang="pt_BR">Este fornece o lançamento estável mais recente, não suportado, do GNOME para o openSUSE 11.2.</description>
         <description xml:lang="ro">Aceasta oferă ultima versiune stabilă, suportată de GNOME pentru openSUSE 11.2.</description>
@@ -1518,7 +1523,7 @@
         <description xml:lang="wa">Çouci dene li dierinne sigur mins nén sopoirtêye modêye di GNOME pos openSUSE 11.2.</description>
         <description xml:lang="zh_CN">为 openSUSE 11.2 提供最新的稳定版的GNOME，但没有官方支持。</description>
         <description xml:lang="zh_TW">這裡提供了最新穩定版，但沒有支援服務的 openSUSE 11.2 的 GNOME</description>
-        <url>http://download.opensuse.org/repositories/GNOME:/STABLE/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/GNOME:/STABLE/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:Community</name>
@@ -1561,7 +1566,7 @@
         <summary xml:lang="fr">Dépôt de la communauté pour GNOME</summary>
         <summary xml:lang="gl">Repositorio da comunidade para GNOME</summary>
         <summary xml:lang="hr">Repozitorij zajednice za GNOME</summary>
-        <summary xml:lang="hu">GNOME alkalmazások közösségi telepítési forrása</summary>
+        <summary xml:lang="hu">GNOME-alkalmazások közösségi telepítési forrása</summary>
         <summary xml:lang="it">Repository della comunità per GNOME</summary>
         <summary xml:lang="ja">GNOMEのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​សហគមន៍​សម្រាប់ GNOME</summary>
@@ -1610,7 +1615,7 @@
         <description xml:lang="wa">Met a djoû viè l' programe GNOME k' est dné dins l' distribucion (backports).</description>
         <description xml:lang="zh_CN">发行版中所带的 GNOME 软件的更新(后向移植)。</description>
         <description xml:lang="zh_TW">更新到發行版本搭載的 GNOME 軟體(回溯支援)。</description>
-        <url>http://download.opensuse.org/repositories/GNOME:/Community/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/GNOME:/Community/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - Mono:Community</name>
@@ -1679,7 +1684,7 @@
         <description xml:lang="fi">Mono-sovellusten päivityksiä ja lisäsovelluksia.</description>
         <description xml:lang="fr">Mises à jour et ajouts d'applications écrites en Mono.</description>
         <description xml:lang="gl">Actualizacións e Engadidos de aplicacións escritas en Mono.</description>
-        <description xml:lang="hu">Frissítések és kiegészítések Monoban írt alkalmazásokhoz.</description>
+        <description xml:lang="hu">Frissítések és kiegészítések Monóban írt alkalmazásokhoz.</description>
         <description xml:lang="it">Aggiornamenti ed Aggiunte alle applicazione scritte in Mono.</description>
         <description xml:lang="ja">Mono で書かれたアプリケーションの更新と追加</description>
         <description xml:lang="km">ភាព​ទាន់សម័យ និង​ការ​បន្ថែម​កម្មវិធី​ដែល​បាន​សរសេរ​នៅ​ក្នុង Mono ។</description>
@@ -1699,7 +1704,7 @@
         <description xml:lang="wa">Metaedjes a djoû eyet radjoutaedje di programes sicrîts e Mono.</description>
         <description xml:lang="zh_CN">用 Mono 编写的更新和附加程序</description>
         <description xml:lang="zh_TW">更新與其他用 Mono 撰寫的應用程式。</description>
-        <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_11.2/</url>
       </repository>
     </repositories>
   </group>

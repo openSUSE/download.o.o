@@ -49,6 +49,7 @@
         <summary xml:lang="ko">오픈수세 11.1 주 저장소 (소스 꾸러미)</summary>
         <summary xml:lang="nb">Hovedarkiv for openSUSE 11.1 (kildepakker)</summary>
         <summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11.1 (broncodepakketten)</summary>
+        <summary xml:lang="pa">ਓਪਨ-ਸੂਸੇ ੧੧.੧ ਲਈ ਮੇਨ ਰਿਪੋਜ਼ਟਰੀ (ਸੋਰਸ ਪੈਕੇਜ)</summary>
         <summary xml:lang="pl">Główne repozytorium openSUSE 11.1 (Pakiety źródłowe)</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE 11.1 (pacotes fonte)</summary>
         <summary xml:lang="ro">Sursă principală openSUSE 11.1 (pachete sursă)</summary>
@@ -74,6 +75,7 @@
         <description xml:lang="ko">전문가 전용 오픈수세 11.1 의 모든 소스 꾸러미 저장소</description>
         <description xml:lang="nb">Arkiv for alt av kildepakker i openSUSE 11.1. Bare for avanserte brukere.</description>
         <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE 11.1. Alleen voor ervaren gebruikers.</description>
+        <description xml:lang="pa">ਓਪਨਸੂਸੇ ੧੧.੧ ਵਿੱਚ ਸਭ ਸਰੋਤ ਪੈਕੇਜਾਂ ਲਈ ਰਿਪੋਜ਼ਟਰੀ। ਕੇਵਲ ਮਾਹਰਾਂ ਲਈ ਹੀ।</description>
         <description xml:lang="pl">Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 11.1. Tylko dla zaawansowanych.</description>
         <description xml:lang="pt_BR">O repositório de todos os pacotes fonte do openSUSE 11.1. Somente para usuários avançados.</description>
         <description xml:lang="ro">Sursă de instalare pentru toate pachetele sursă din openSUSE 11.1. Doar pentru experți.</description>
@@ -133,7 +135,7 @@
         <summary xml:lang="ko">11.1 공식 업데이트 저장소</summary>
         <summary xml:lang="nb">Arkiv for offisielle oppdateringer til 11.1</summary>
         <summary xml:lang="nl">Installatiebron met officiële opwaarderingen voor 11.1</summary>
-        <summary xml:lang="pa">11.1 ਲਈ ਆਫਿਸ਼ਲ ਅੱਪਡੇਟ ਵਾਸਤੇ ਰਿਪੋਜ਼ਟਰੀ</summary>
+        <summary xml:lang="pa">੧੧.੧ ਲਈ ਆਫਿਸ਼ਲ ਅੱਪਡੇਟ ਵਾਸਤੇ ਰਿਪੋਜ਼ਟਰੀ</summary>
         <summary xml:lang="pl">Repozytorium oficjalnych aktualizacji dla systemu openSUSE 11.1</summary>
         <summary xml:lang="pt">Repositório para actualizações oficiais do 11.1</summary>
         <summary xml:lang="pt_BR">Repositório para as atualizações oficiais do 11.1</summary>
@@ -251,7 +253,7 @@
         <description xml:lang="it">Il repository di XFCE nel Build Service di openSUSE. Fornisce l'ultima versione non supportata dell'ambiente desktop XFCE e del relativo software.</description>
         <description xml:lang="ja">公式にはサポートされていない最新版の XFCE デスクトップ環境とソフトウエアの openSUSE リポジトリ</description>
         <description xml:lang="km">ឃ្លាំង XFCE នៅ​ក្នុង​សេវាស្ថាបនា​របស់​អូផឹនស៊ូស៊ី ដែល​ផ្ដល់​​ឲ្យ​អ្នក​នូវ​អ្វី​ដែល​មិនបានគាំទ្រ ប៉ុន្តែ​កំណែ​ចុងក្រោយ​បំផុត​របស់​បរិស្ថាន​ផ្ទៃតុ XFCE និង​កម្មវិធី ។</description>
-        <description xml:lang="ko">XFCE 데스크탑 환경과 소프트웨어의 최신 버전을 제공하는 오픈수세 빌드 서비스의 XFCE 저장소 입니다.</description>
+        <description xml:lang="ko">XFCE 데스크톱 환경과 소프트웨어의 최신 버전을 제공하는 오픈수세 빌드 서비스의 XFCE 저장소 입니다.</description>
         <description xml:lang="nb">XFCE-arkivet fra openSUSE Build Service, som tilbyr ikke-støttede, men oppdaterte utgaver av XFCE-skrivebordsmiljøet, samt tilhørende programvare.</description>
         <description xml:lang="nl">De XFCE-bron in de openSUSE Build Service. Deze levert u de niet-ondersteunde, maar nieuwste versie van de  XFCE Desktop Environment en -software.</description>
         <description xml:lang="pl">Repozytorium XFCE w openSUSE Build Service, które zawiera najnowsze nieoficjalne wersje środowiska XFCE.</description>
@@ -1406,7 +1408,7 @@
         <summary xml:lang="fr">Dépôt de la communauté pour KDE</summary>
         <summary xml:lang="gl">Repositorio da comunidade para KDE</summary>
         <summary xml:lang="hr">Repozitorij zajednice za KDE</summary>
-        <summary xml:lang="hu">KDE alkalmazások közösségi telepítési forrása</summary>
+        <summary xml:lang="hu">KDE-alkalmazások közösségi telepítési forrása</summary>
         <summary xml:lang="it">Repository della comunità per KDE</summary>
         <summary xml:lang="ja">KDEのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​ចម្បង​សម្រាប់ KDE</summary>
@@ -1532,7 +1534,7 @@
         <description xml:lang="ko">그놈에서 지원하지 않는 오픈수세 11.1 용 최신 안정판을 제공하고 있습니다.</description>
         <description xml:lang="nb">Her finner du den nyeste stabile, versjonen av GNOME for openSUSE 11.1 (støttes ikke offisielt).</description>
         <description xml:lang="nl">Dit levert de nieuwste, stabiele, niet-ondersteunde uitgave van GNOME voor openSUSE 11.1.</description>
-        <description xml:lang="pa">ਓਪਨ-ਸੂਸੇ 11.1 ਲਈ ਗਨੋਮ ਦੇ ਸਭ ਤੋਂ ਨਵੇਂ ਸਟੇਬਲ, ਗ਼ੈਰ-ਮੱਦਦ ਪ੍ਰਾਪਤ ਰੀਲਿਜ਼ ਦਿੰਦੀ ਹੈ।</description>
+        <description xml:lang="pa">ਓਪਨ-ਸੂਸੇ ੧੧.੧ ਲਈ ਗਨੋਮ ਦੇ ਸਭ ਤੋਂ ਨਵੇਂ ਸਟੇਬਲ, ਗ਼ੈਰ-ਮੱਦਦ ਪ੍ਰਾਪਤ ਰੀਲਿਜ਼ ਦਿੰਦੀ ਹੈ।</description>
         <description xml:lang="pl">Zawiera najnowsze stabilne, niewspierane wydanie GNOME dla openSUSE 11.1.</description>
         <description xml:lang="pt">Fornece a última versão estável e não-oficial do GNOME para o openSUSE 11.1.</description>
         <description xml:lang="pt_BR">Este fornece o lançamento estável mais recente, não suportado, do GNOME para o openSUSE 11.1.</description>
@@ -1588,7 +1590,7 @@
         <summary xml:lang="fr">Dépôt de la communauté pour GNOME</summary>
         <summary xml:lang="gl">Repositorio da comunidade para GNOME</summary>
         <summary xml:lang="hr">Repozitorij zajednice za GNOME</summary>
-        <summary xml:lang="hu">GNOME alkalmazások közösségi telepítési forrása</summary>
+        <summary xml:lang="hu">GNOME-alkalmazások közösségi telepítési forrása</summary>
         <summary xml:lang="it">Repository della comunità per GNOME</summary>
         <summary xml:lang="ja">GNOMEのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​សហគមន៍​សម្រាប់ GNOME</summary>
@@ -1706,7 +1708,7 @@
         <description xml:lang="fi">Mono-sovellusten päivityksiä ja lisäsovelluksia.</description>
         <description xml:lang="fr">Mises à jour et ajouts d'applications écrites en Mono.</description>
         <description xml:lang="gl">Actualizacións e Engadidos de aplicacións escritas en Mono.</description>
-        <description xml:lang="hu">Frissítések és kiegészítések Monoban írt alkalmazásokhoz.</description>
+        <description xml:lang="hu">Frissítések és kiegészítések Monóban írt alkalmazásokhoz.</description>
         <description xml:lang="it">Aggiornamenti ed Aggiunte alle applicazione scritte in Mono.</description>
         <description xml:lang="ja">Mono で書かれたアプリケーションの更新と追加</description>
         <description xml:lang="km">ភាព​ទាន់សម័យ និង​ការ​បន្ថែម​កម្មវិធី​ដែល​បាន​សរសេរ​នៅ​ក្នុង Mono ។</description>
