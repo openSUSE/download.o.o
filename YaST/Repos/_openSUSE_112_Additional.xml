@@ -172,6 +172,12 @@
         <url>http://download.opensuse.org/update/11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
+        <name>Main Repository (Contrib)</name>
+        <summary>Repository for community contributions to 11.2</summary>
+        <description>Contrib project contains lots of useful additions to the main distribution by our community contributors. See http://en.opensuse.org/Contrib for details.</description>
+        <url>http://download.opensuse.org/repositories/openSUSE:/11.2:/Contrib/standard/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - XFCE</name>
         <name xml:lang="ar">اوبن سوزي تبني خدمات XFCE</name>
         <name xml:lang="cs">openSUSE BuildService - XFCE</name>
