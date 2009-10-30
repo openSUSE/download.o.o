@@ -20,6 +20,7 @@
 		<name xml:lang="ka">Main Repository (ღია პროგრამები)</name>
 		<name xml:lang="km">ឃ្លាំង​ចម្បង (កម្មវិធី​កូដ​ចំហ)</name>
 		<name xml:lang="ko">주 저장소 (OSS)</name>
+		<name xml:lang="lt">Pagrindinė saugykla (OSS - atvira)</name>
 		<name xml:lang="nb">Hovedarkiv (OSS)</name>
 		<name xml:lang="nl">Hoofd-installatiebron (opensource)</name>
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਓਪਨ-ਸੋਰਸ)</name>
@@ -72,7 +73,7 @@
 		<description xml:lang="es">El enorme repositorio de software de código abierto (OSS) para openSUSE 11.0 le da acceso a miles de paquetes mantenidos por el equipo de openSUSE (debido al tamaño del repositorio, añadirlo puede llevar algo de tiempo. Es altamente recomendable disponer de 512 MB de RAM o una partición de intercambio activa si quiere habilitar este repositorio durante la instalación.)</description>
 		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 11.0:lle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
 		<description xml:lang="fr">Le gros dépôt de logiciels Open Sources (OSS) pour openSUSE 11.0, vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (A cause de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active est fortement recommandé dans le cas où vous voulez y acceder au moment de l'installation.)</description>
-		<description xml:lang="gl">O gran repositorio de Software de Código Aberto (OSS) para openSUSE 11.0, dalle acceso a milleiros de paquetes mantidos polo equipo de openSUSE. (Debido ó tamaño do repositorio, engadilo podería levar algún tempo. É moi recomendable ter 512 MB de RAM ou ter activada a partición de intercambio ou SWAP se desexa acceder a este repositorio á hora de instalar.)</description>
+		<description xml:lang="gl">O gran repositorio de Software de Código Aberto (OSS) para openSUSE 11.0, dalle acceso a milleiros de paquetes mantidos polo equipo de openSUSE. (Debido ao tamaño do repositorio, engadilo podería levar algún tempo. É moi recomendable ter 512 MB de RAM ou ter activada a partición de intercambio ou SWAP se desexa acceder a este repositorio á hora de instalar.)</description>
 		<description xml:lang="hu">Hatalmas nyílt forrású telepítési forrás openSUSE 11.0 verzióhoz, amelyen keresztül több száz olyan csomaghoz férhet hozzá, amelyet az openSUSE csapat tart karban. (A telepítési forrás méretére való tekintettel, ennek hozzáadása eltarthat egy ideig. 512 MB memória vagy a SWAP partíció engedélyezése mindenképpen szükséges, amennyiben a telepítési forrást az operációs rendszer telepítése közben kívánja elérni.)</description>
 		<description xml:lang="it">Il grande repository di software Open Source (OSS) di openSUSE 11.0, che fornisce l'accesso a migliaia di pacchetti mantenuti dal team openSUSE. (A causa delle dimensioni del  repository, la sua aggiunta potrebbe richiedere un po' di tempo. Si consiglia fortemente di utilizzare un sistema con almeno 512MB di RAM o con una partizione di SWAP attiva qualora si desideri avere accesso a questo repository durante l'installazione)</description>
 		<description xml:lang="ja">openSUSE 11.0 向けの巨大なオープンソースのソフトウエアリポジトリ。 openSUSE チームによって管理されている何千ものパッケージにアクセスすることができます。 (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。インストールの際にリポジトリにアクセスする場合、512 MB の RAM とスワップの利用を強くお勧めします。)</description>
@@ -112,6 +113,7 @@
 		<name xml:lang="ka">Main Repository (დახურული პროგრამები)</name>
 		<name xml:lang="km">ឃ្លាំង​ចម្បង (មិនមែន​​កម្មវិធី​កូដ​ចំហ)</name>
 		<name xml:lang="ko">주 저장소 (NON-OSS)</name>
+		<name xml:lang="lt">Pagrindinė saugykla (NON-OSS - neatvira)</name>
 		<name xml:lang="nb">Hovedarkiv (NON-OSS)</name>
 		<name xml:lang="nl">Hoofd-installatiebron (niet-opensource)</name>
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਗ਼ੈਰ-ਓਪਨ-ਸੋਰਸ)</name>
@@ -135,7 +137,7 @@
 		<summary xml:lang="es">Repositorio complementario de software de código no abierto para openSUSE 11.0</summary>
 		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 11.0:lle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 11.0</summary>
-		<summary xml:lang="gl">Repositorio de Complementos de Software que non son de Código Aberto para openSUSE 11.0</summary>
+		<summary xml:lang="gl">Repositorio de complementos de software que non son de Código Aberto para openSUSE 11.0</summary>
 		<summary xml:lang="hu">Zárt forrású szoftverek telepítési forrása openSUSE 11.0 verzióhoz</summary>
 		<summary xml:lang="it">Repository del software addizionale Non Open Source per openSUSE 11.0</summary>
 		<summary xml:lang="ja">オープンソースでないパッケージを含む openSUSE 11.0 の追加リポジトリ</summary>
@@ -164,7 +166,7 @@
 		<description xml:lang="es">El repositorio oficial de openSUSE 11.0 para todo el software de código fuente no abierto mantenido por el equipo de openSUSE y que incluye RealPlayer, Opera, Java, Flash y más.</description>
 		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä asennuslähde, joka sisältää suljetun lähdekoodin ohjelmistoja, esimerkiksi RealPlayer, Opera, Java ja Flash.</description>
 		<description xml:lang="fr">Dépôt officiel d'openSUSE 11.0 pour tous les logiciels Non-Open Source maintenu par l'équipe d'openSUSE, il contient RealPlayer, Opera, Java, Flash, et bien d'autres.</description>
-		<description xml:lang="gl">O repositorio oficial de openSUSE 11.0 para todo o software que non é de código aberto mantido polo equipo de openSUSE, incluindo a RealPlayer, Opera, Java, Flash, e máis.</description>
+		<description xml:lang="gl">O repositorio oficial de openSUSE 11.0 para todo o software que non é de código aberto mantido polo equipo de openSUSE, incluíndo a RealPlayer, Opera, Java, Flash e máis.</description>
 		<description xml:lang="hu">Hivatalos, zárt forrású komponenseket (pl. Realplayer, Opera, Java, Flash) tartalmazó openSUSE 11.0 telepítési forrás.</description>
 		<description xml:lang="it">Il repository di openSUSE 11.0 per tutto il software non Open Source mantenuto dalla comunità openSUSE, inclusi RealPlayer, Opera, Java, Flash e altro.</description>
 		<description xml:lang="ja">RealPlayer, Opera, Java, Flash などの非オープンソースソフトウエアを含む openSUSE チーム管理の openSUSE 11.0 公式リポジトリ</description>
@@ -204,6 +206,7 @@
 		<name xml:lang="ka">Main Repository (გამართვის პაკეტები)</name>
 		<name xml:lang="km">ឃ្លាំង​ចម្បង (បំបាត់​កំហុស)</name>
 		<name xml:lang="ko">주 저장소 (디버그)</name>
+		<name xml:lang="lt">Pagrindinė saugykla (DEBUG - derinimui)</name>
 		<name xml:lang="nb">Hovedarkiv (DEBUG)</name>
 		<name xml:lang="nl">Hoofd-installatiebron (debuginformatie)</name>
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਡੀਬੱਗ)</name>
@@ -288,13 +291,14 @@
              <name xml:lang="es">Repositorio Principal de Actualizaciones</name>
              <name xml:lang="fi">Perusasennuslähde päivityksille</name>
              <name xml:lang="fr">Dépôt principal de mise à jour</name>
-             <name xml:lang="gl">Repositorio de Actualizacións Principal</name>
+             <name xml:lang="gl">Repositorio de actualizacións principal</name>
              <name xml:lang="hr">Glavni repozitorij za dogradnju</name>
              <name xml:lang="hu">Elsődleges frissítéseket tartalmazó telepítési forrás</name>
              <name xml:lang="it">Repository principale degli aggiornamenti</name>
              <name xml:lang="ja">メインアップデートリポジトリ</name>
              <name xml:lang="km">ឃ្លាំង​ធ្វើ​ឲ្យ​ទាន់សម័យ​ចម្បង</name>
              <name xml:lang="ko">주 업데이트 저장소</name>
+             <name xml:lang="lt">Pagrindinė atnaujinimų saugykla</name>
              <name xml:lang="nb">Hovedarkiv for oppdateringer</name>
              <name xml:lang="nl">Hoofd-opwaardeerbron</name>
              <name xml:lang="pa">ਮੇਨ ਅੱਪਡੇਟ ਰਿਪੋਜ਼ਟਰੀ</name>
