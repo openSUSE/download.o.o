@@ -29,12 +29,6 @@
         <url>http://download.opensuse.org/repositories/X11:/xfce/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <_name>openSUSE BuildService - X11:Compiz</_name>
-        <_summary>Latest Compiz release</_summary>
-        <_description>This repository contains the latest software that brings you composite effects and technology. It includes Xgl, Compiz, and Compiz Fusion packages maintained by the openSUSE Community.</_description>
-        <url>http://download.opensuse.org/repositories/X11:/Compiz/openSUSE_11.2/</url>
-      </repository>
-      <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - OpenOffice.org</_name>
         <_summary>Latest stable OpenOffice.org release</_summary>
         <_description>Provides you with the latest stable version of OpenOffice.org, the Office suite that openSUSE uses.</_description>
@@ -44,7 +38,7 @@
         <_name>openSUSE BuildService - Mozilla</_name>
         <_summary>Most recent builds of Mozilla Software like Firefox</_summary>
         <_description>Containing the latest releases of all Mozilla software, such as the popular Thunderbird (mail client), Firefox and SeaMonkey (web browsers). </_description>
-        <url>http://download.opensuse.org/repositories/mozilla/SUSE_Factory/</url>
+        <url>http://download.opensuse.org/repositories/mozilla/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Wine CVS Builds</_name>
@@ -65,12 +59,6 @@
         <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
-        <_name>openSUSE BuildService - Virtualization (QEMU)</_name>
-        <_summary>Latest builds of Qemu</_summary>
-        <_description>Provides up-to-date builds of QEMU, a generic and open source machine emulator and virtualizer. </_description>
-        <url>http://download.opensuse.org/repositories/Virtualization:/Qemu/openSUSE_11.2/</url>
-      </repository>
-      <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Virtualization (VirtualBox)</_name>
         <_summary>Latest builds of Virtualbox</_summary>
         <_description>Provides up-to-date builds of VirtualBox, a general-purpose open-source full virtualizer for x86 hardware.</_description>
@@ -87,12 +75,6 @@
         <_summary>Latest updates for database software</_summary>
         <_description>Latest updates for database software including Firebird and MySQL.</_description>
         <url>http://download.opensuse.org/repositories/server:/database/openSUSE_11.2/</url>
-      </repository>
-      <repository recommended="false" format="rpm-md">
-        <_name>openSUSE BuildService - Mail Server</_name>
-        <_summary>Latest updates for postfix, exim and tools around them.</_summary>
-        <_description>Providing the latest updates for postfix, exim and tools around them.</_description>
-        <url>http://download.opensuse.org/repositories/server:/mail/openSUSE_11.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - KDE:Backports</_name>
