@@ -52,7 +52,7 @@
 		<summary xml:lang="ko">오픈 소스 소프트웨어가 포함 되어 있는 오픈수세 11.0 의 메인 저장소</summary>
 		<summary xml:lang="lt">openSUSE 11.0 pagrindinė saugykla, turinti tik atviro kodo programinę įrangą</summary>
 		<summary xml:lang="nb">Hovedpakkebrønn for openSUSE 11.0 som kun inneholder programvare med åpen kildekode</summary>
-		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11, met alleen opensource-software</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11.0, met alleen opensource-software</summary>
 		<summary xml:lang="pa">ਓਪਨ-ਸੂਸੇ 11.0 ਲਈ ਮੇਨ ਰਿਪੋਜ਼ਟਰੀ, ਜਿਸ ਵਿੱਚ ਕੇਵਲ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਹੀ ਹਨ</summary>
 		<summary xml:lang="pl">Główne repozytorium openSUSE 11.0 zawierające tylko oprogramowanie open source</summary>
 		<summary xml:lang="pt">Repositório principal do openSUSE 11.0 incluindo apenas software de código aberto</summary>
@@ -163,7 +163,7 @@
 		<summary xml:lang="zh_TW">openSUSE 11.0 的非開原軟體附加套件庫</summary>
 		<description>The official openSUSE 11.0 repository for all Non-Open Source Software maintained by the openSUSE team, including RealPlayer, Opera, Java, Flash, and more.</description>
 		<description xml:lang="ar">المستودع الرئيسي لأوبن سوزي 11.0 للبرمجيات غير مفتوحه المصدر التي يؤمنها فريق الأوبن سوزي منها  RealPlayer ، الاوبرا ، جافا ، فلاش بلير ، واكثر</description>
-		<description xml:lang="cs">Oficální repozitář openSUSE 11.0 pro software šířený pod non-opensource licencemi spravovaný týmem openSUSE; včetně RealPlayeru, Opery, Javy, Flashe a dalších programů.</description>
+		<description xml:lang="cs">Oficiální repozitář openSUSE 11.0 pro software šířený pod non-opensource licencemi spravovaný týmem openSUSE; včetně RealPlayeru, Opery, Javy, Flashe a dalších programů.</description>
 		<description xml:lang="da">Den officielle openSUSE 11.0 softwarekilde for al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer RealPlayer, Opera, Java, Flash og mere.</description>
 		<description xml:lang="de">Das offizielle openSUSE-11.0-Repository für alle Nicht-Open-Source-Software, die vom openSUSE-Team verwaltet wird. Es enthält RealPlayer, Opera, Java, Flash und mehr.</description>
 		<description xml:lang="es">El repositorio oficial de openSUSE 11.0 para todo el software de código fuente no abierto mantenido por el equipo de openSUSE y que incluye RealPlayer, Opera, Java, Flash y más.</description>
@@ -212,7 +212,7 @@
 		<name xml:lang="ko">주 저장소 (디버그)</name>
 		<name xml:lang="lt">Pagrindinė saugykla (Derinimui)</name>
 		<name xml:lang="nb">Hovedpakkebrønn (DEBUG)</name>
-		<name xml:lang="nl">Hoofd-installatiebron (debuginformatie)</name>
+		<name xml:lang="nl">Hoofd-installatiebron (DEBUG)</name>
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਡੀਬੱਗ)</name>
 		<name xml:lang="pl">Repozytorium główne (DEBUG)</name>
 		<name xml:lang="pt">Repositório Principal (DEBUG)</name>
@@ -302,11 +302,11 @@
              <name xml:lang="hu">Elsődleges frissítéseket tartalmazó telepítési forrás</name>
              <name xml:lang="it">Repository principale degli aggiornamenti</name>
              <name xml:lang="ja">メインアップデートリポジトリ</name>
-             <name xml:lang="km">ឃ្លាំង​ធ្វើ​ឲ្យ​ទាន់សម័យ​ចម្បង</name>
+             <name xml:lang="km">ឃ្លាំងធ្វើ​បច្ចុប្បន្ន​​ចម្បង</name>
              <name xml:lang="ko">주 업데이트 저장소</name>
              <name xml:lang="lt">Pagrindinė atnaujinimų saugykla</name>
              <name xml:lang="nb">Hovedpakkebrønn for oppdateringer</name>
-             <name xml:lang="nl">Hoofd-opwaardeerbron</name>
+             <name xml:lang="nl">Hoofd-installatiebron voor bijwerken</name>
              <name xml:lang="pa">ਮੇਨ ਅੱਪਡੇਟ ਰਿਪੋਜ਼ਟਰੀ</name>
              <name xml:lang="pl">Główne repozytorium aktualizacji</name>
              <name xml:lang="pt">Repositório Principal de Actualizações</name>
@@ -332,11 +332,11 @@
         <summary xml:lang="hu">Hivatalos openSUSE 11.0 frissítések</summary>
         <summary xml:lang="it">Repository ufficiale degli aggiornamenti alla versione 11.0.</summary>
         <summary xml:lang="ja">11.0 用の公式アップデートのリポジトリ</summary>
-        <summary xml:lang="km">ឃ្លាំង​សម្រាប់​ភាព​ទាន់​សម័យ​ជា​ផ្លូវការ​របស់ ១១.០</summary>
+        <summary xml:lang="km">ឃ្លាំង​សម្រាប់​បច្ចុប្បន្ន​ភាព​​ជា​ផ្លូវការ​របស់ ១១.០</summary>
         <summary xml:lang="ko">11.0 공식 업데이트 저장소</summary>
         <summary xml:lang="lt">Oficiali 11.0 atnaujinimų saugykla</summary>
         <summary xml:lang="nb">Pakkebrønn for offisielle oppdateringer til 11.0</summary>
-        <summary xml:lang="nl">Installatiebron met officiële opwaarderingen voor 11.0</summary>
+        <summary xml:lang="nl">Installatiebron met officiële zaken voor het bijwerken naar 11.0</summary>
         <summary xml:lang="pa">11.0 ਲਈ ਆਫਿਸ਼ਲ ਅੱਪਡੇਟ ਵਾਸਤੇ ਰਿਪੋਜ਼ਟਰੀ</summary>
         <summary xml:lang="pl">Repozytorium oficjalnych aktualizacji dla systemu openSUSE 11.0</summary>
         <summary xml:lang="pt">Repositório para actualizações oficiais do 11.0</summary>
@@ -361,11 +361,11 @@
         <description xml:lang="hu">Biztonsági és karbantartási frissítések az openSUSE 11.0 verzióhoz.</description>
         <description xml:lang="it">In questa repository sono disponibili gli aggiornamenti di sicurezza e di manutenzione per openSUSE 11.0.</description>
         <description xml:lang="ja">このリポジトリには openSUSE 11.0 用のセキュリティ／メンテナンスアップデートがあります。</description>
-        <description xml:lang="km">នៅ​ក្នុង​ឃ្លាំង​នេះ អ្នក​រក​សុវត្ថិភាព និង​ថែទាំ​​​ភាព​ទាន់សម័យ​​របស់​​អូផឹន​ស៊ូស៊ី​១១.០ ។</description>
+        <description xml:lang="km">នៅ​ក្នុង​ឃ្លាំង​នេះ អ្នក​រក​សុវត្ថិភាព និង​ថែទាំ​បច្ចុប្បន្ន​ភាព​​ទៅ​​​អូផឹន​ស៊ូស៊ី​១១.០ ។</description>
         <description xml:lang="ko">오픈수세 11.0 의 보안 및 필수 업데이트 저장소 입니다.</description>
         <description xml:lang="lt">Šioje saugykloje rasite openSUSE 11.0 saugumo ir palaikymo atnaujinimus .</description>
         <description xml:lang="nb">I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer til openSUSE 11.0.</description>
-        <description xml:lang="nl">In deze bron vindt u veiligheids- en onderhoudsopwaarderingen voor openSUSE 11.0</description>
+        <description xml:lang="nl">In deze bron vindt u zaken voor het bijwerken van software voor openSUSE 11.0 voor veiligheid en onderhoud</description>
         <description xml:lang="pa">ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਵਿੱਚ ਤੁਸੀਂ ਓਪਨਸੂਸੇ 11.0 ਲਈ ਸੁਰੱਖਿਆ ਅਤੇ ਪਰਬੰਧ ਅੱਪਡੇਟ ਲੈ ਸਕਦੇ ਹੋ।</description>
         <description xml:lang="pl">To repozytorium zawiera aktualizacje i poprawki dla openSUSE 11.0.</description>
         <description xml:lang="pt">Neste repositório encontrará actualizações de segurança e manutenção para o openSUSE 11.0.</description>
