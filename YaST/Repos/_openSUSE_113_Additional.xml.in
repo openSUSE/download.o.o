@@ -112,6 +112,42 @@
         <_description>Updates and Additions of applications written in Mono.</_description>
         <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_11.3/</url>
       </repository>
+      <repository recommended="false" format="yast">
+        <_name>openSUSE BuildService - devel:languages:perl</_name>
+        <_summary>Community repository for Perl modules</_summary>
+        <_description>Updates and Additions for Perl modules</_description>
+        <url>http://download.opensuse.org/repositories/devel:/languages:/perl/openSUSE_11.3/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <_name>openSUSE BuildService - devel:languages:python</_name>
+        <_summary>Community repository for Python modules</_summary>
+        <_description>Updates and Additions for Python modules</_description>
+        <url>http://download.opensuse.org/repositories/devel:/languages:/python/openSUSE_11.3/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <_name>openSUSE BuildService - Banshee</_name>
+        <_summary>Latest builds of the Banshee Media Player</_summary>
+        <_description>Provides up-to-date builds of Banshee</_description>
+        <url>http://download.opensuse.org/repositories/Banshee/openSUSE_11.3/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <_name>openSUSE BuildService - filesystems</_name>
+        <_summary>Filesystem tools and FUSE-related packages</_summary>
+        <_description>Filesystem tools and FUSE-related packages.</_description>
+        <url>http://download.opensuse.org/repositories/filesystems/openSUSE_11.3/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <_name>openSUSE BuildService - Education</_name>
+        <_summary>Applications for education users</_summary>
+        <_description>Contains several packages which might be interesting for educational use</_description>
+        <url>http://download.opensuse.org/repositories/Education/openSUSE_11.3/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <_name>openSUSE BuildService - Java:packages</_name>
+        <_summary>Bleeding-edge Java packages</_summary>
+        <_description>Provides uptodate Java packages (Factory backports)</_description>
+        <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_11.3/</url>
+      </repository>
     </repositories>
   </group>
 </metapackage>
