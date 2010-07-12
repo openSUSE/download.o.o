@@ -200,6 +200,7 @@
         <name xml:lang="ro">Sursa de instalare principală (Contrib)</name>
         <name xml:lang="ru">Основной репозиторий (Contrib)</name>
         <name xml:lang="sk">Hlavný repozitár (Contrib)</name>
+        <name xml:lang="th">คลังแพกเกจหลัก (ส่วนร่วม)</name>
         <name xml:lang="uk">Головне сховище (громадські)</name>
         <name xml:lang="wa">Mwaisse depot (Contrib)</name>
         <name xml:lang="zh_TW">主要套件庫 (Contrib)</name>
@@ -224,6 +225,7 @@
         <summary xml:lang="ro">Sursă de instalare pentru contribuţiile comunităţii în 11.2</summary>
         <summary xml:lang="ru">Репозиторий сообщества для 11.2</summary>
         <summary xml:lang="sk">Repozitár pre komunitné príspevky do 11.2</summary>
+        <summary xml:lang="th">คลังแพกเกจสำหรับการมีส่วนร่วมจากชุมชนสำหรับใช้กับรุ่น 11.2</summary>
         <summary xml:lang="uk">Сховище для громадських доробок 11.2</summary>
         <summary xml:lang="wa">Depot po les contribouwaedjes del cominålté å 11.2</summary>
         <summary xml:lang="zh_TW">11.2 的社群貢獻套件庫</summary>
@@ -248,6 +250,7 @@
         <description xml:lang="ro">Proiectul Contrib conţine multe adăugiri la distribuţia principală provenite de la membrii comunităţii noastre. Accesaţi http://en.opensuse.org/Contrib pentru detalii.</description>
         <description xml:lang="ru">В проекте Contrib можно найти множество полезных дополнений к основному дистрибутиву, выполненных сообществом. Подробнее см. http://en.opensuse.org/Contrib.</description>
         <description xml:lang="sk">Contrib projekt obsahuje mnoho užitočných doplnkov pre hlavnú distribúciu našimi komunitnými prispievateľmi. Pre podrobnosti pozrite http://en.opensuse.org/Contrib.</description>
+        <description xml:lang="th">โครงการส่วนร่วม มีรายการแพกเกจต่าง ๆ เพิ่มเติมที่มีประโยชน์กับดิสทริบิวชันหลักอยู่เป็นจำนวนมา ซึ่งถูกจัดทำขึ้นโดยผู้มีส่วนร่วมจากชุมชนของเราเอง ดูรายละเอียดได้ที่ http://en.opensuse.org/Contrib</description>
         <description xml:lang="uk">Проект громадських доробок містить багато корисних додатків до головного дистрибутиву. Подробиці на http://en.opensuse.org/Contrib.</description>
         <description xml:lang="wa">I gn a e pordjet Contrib bråmint d' radjoutaedjes ahessåves al mwaisse distribucion pa les contribouweus d' nosse cominålté. Alez vey http://en.opensuse.org/Contrib po ndè saveur di pus.</description>
         <description xml:lang="zh_TW">Contrib 計畫包含了許多好用的附加於主發行版本，是由我們的社群貢獻者提供的。請參閱 http://en.opensuse.org/Contrib 以獲得詳細內容。</description>
@@ -1222,6 +1225,7 @@
         <name xml:lang="ro">openSUSE BuildService - KDE:KDE4:Communitate</name>
         <name xml:lang="ru">openSUSE BuildService - KDE:KDE4:Community</name>
         <name xml:lang="sk">openSUSE BuildService - KDE:KDE4:Community</name>
+        <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - KDE:KDE4:Community</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - KDE:KDE4:Community</name>
         <name xml:lang="wa">openSUSE BuildService - KDE:KDE4:Cominålté</name>
         <name xml:lang="zh_TW">openSUSE BuildService - KDE:KDE4:社群版</name>
@@ -1277,6 +1281,7 @@
         <description xml:lang="ro">Furnizează aplicaţii adiţionale KDE întreţinute de comunitatea KDE openSUSE.</description>
         <description xml:lang="ru">Предоставляет дополнительное программное обеспечение KDE, поддерживаемое сообществом KDE openSUSE.</description>
         <description xml:lang="sk">Poskytuje doplnkový softvér pre KDE, ktorý obhospodaruje openSUSE KDE komunita.</description>
+        <description xml:lang="th">จัดเตรียมโปรแกรมต่าง ๆ แบบ KDE ซึ่งดูแลโดยชุมชน KDE ของ openSUSE</description>
         <description xml:lang="uk">Надає додаткове ПЗ KDE, яке підтримується спільнотою openSUSE KDE.</description>
         <description xml:lang="wa">Dene d' ôtes programes KDE mintnous pal cominålté KDE d' openSUSE.</description>
         <description xml:lang="zh_TW">提供了由 openSUSE KDE 社群維護的額外 KDE 軟體。</description>
@@ -1304,6 +1309,7 @@
         <name xml:lang="ro">openSUSE BuildService - GNOME:STABIL:2.28</name>
         <name xml:lang="ru">openSUSE BuildService - GNOME:STABLE:2.28</name>
         <name xml:lang="sk">openSUSE BuildService - GNOME:STABLE:2.28</name>
+        <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - GNOME:STABLE:2.28</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - GNOME:STABLE:2.28</name>
         <name xml:lang="wa">openSUSE BuildService - GNOME:STOCAESSE:2.28</name>
         <name xml:lang="zh_TW">openSUSE BuildService - GNOME:穩定版:2.28</name>
@@ -1388,6 +1394,7 @@
         <name xml:lang="ro">openSUSE BuildService - GNOME:Aplicaţii</name>
         <name xml:lang="ru">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="sk">openSUSE BuildService - GNOME:Apps</name>
+        <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - GNOME:Apps</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - GNOME:Apps</name>
         <name xml:lang="wa">openSUSE BuildService - GNOME:Programes</name>
         <name xml:lang="zh_TW">openSUSE BuildService - GNOME:應用程式</name>
@@ -1412,6 +1419,7 @@
         <summary xml:lang="ro">Backporturi ale aplicaţiilor GNOME</summary>
         <summary xml:lang="ru">Обратный перенос приложений GNOME</summary>
         <summary xml:lang="sk">Nové GNOME aplikácie pre už vydané distribúcie</summary>
+        <summary xml:lang="th">แบ็คพอร์ตต่าง ๆ ของ GNOME</summary>
         <summary xml:lang="uk">Портовані програми GNOME</summary>
         <summary xml:lang="wa">Backports des dierins programes GNOME</summary>
         <summary xml:lang="zh_TW">GNOME 應用程式的回溯支援</summary>
