@@ -219,7 +219,7 @@
         <description xml:lang="ja">Contrib プロジェクトには、コミュニティで配布されるメインのディストリビューションに対する追加パッケージを多数含んでいます。詳しくは http://ja.opensuse.org/Contrib をご覧ください。</description>
         <description xml:lang="km">ចែកចាយ​គម្រោង​មាន​​ធាតុ​បន្ថែម​ជា​ច្រើន​​ដល់​ការ​ចែកចាយ​ចម្បង​ ដោយ​អ្នក​ចែកចាយ​សហគមន៍​របស់​យើង ។ ចំពោះ​សេចក្ដី​លម្អិត​សូម​មើល See http://en.opensuse.org/Contrib ។</description>
         <description xml:lang="ko">Contrib 프로젝트는 우리 커뮤니티 참여자들이 만든 주 배포판에 추가된 유용한것들이 들어있습니다. http://en.opensuse.org/Contrib 를 참조하세요.</description>
-        <description xml:lang="lt">Papildomas projektas turi daugybę naudingų papildinių iš bendruomenės pagalbininkų pagrindinei distribucijai. Daugiau sužinosite apsilankę http://en.opensuse.org/Contrib.</description>
+        <description xml:lang="lt">Papildomas projektas turi daugybę naudingų papildinių iš bendruomenės pagalbininkų pagrindiniam platinamajam paketui. Daugiau sužinosite apsilankę http://en.opensuse.org/Contrib.</description>
         <description xml:lang="nb">Contrib-prosjektet inneholder en mengde nyttige tillegg til hoveddistribusjonen fra ulike bidragsytere til openSUSE. Du finner mer informasjon på http://en.opensuse.org/Contrib.</description>
         <description xml:lang="nl">Contrib-project bevat veel bruikbare toevoegingen aan de hoofddistributie bijgedragen door de gemeenschap. Zie http://nl.opensuse.org/Contrib voor details.</description>
         <description xml:lang="pl">Projekt Contrib zawiera mnóstwo przydatnych dodatków tworzonych przez społeczność. Więcej informacji na http://en.opensuse.org/Contrib </description>
@@ -1123,7 +1123,21 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="es">BuildService de openSUSE - KDE:UpdatedApps</name>
+        <name xml:lang="fr">openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="gl">openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="ja">openSUSE ビルドサービス - GNOME:更新済みアプリ</name>
+        <name xml:lang="nl">openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="ru">openSUSE BuildService - KDE:UpdatedApps</name>
         <summary>Updated versions of KDE applications</summary>
+        <summary xml:lang="es">Versiones actualizadas de aplicaciones para KDE</summary>
+        <summary xml:lang="fr">Versions mises à jour des applications KDE</summary>
+        <summary xml:lang="gl">Versións actualizadas dos aplicativos de KDE</summary>
+        <summary xml:lang="ja">KDE アプリケーションの更新版</summary>
+        <summary xml:lang="nl">Bijgewerkte versies van KDE programma's</summary>
+        <summary xml:lang="pt_BR">Versões atualizadas de aplicativos do KDE</summary>
+        <summary xml:lang="ru">Обновлённые версии приложений KDE</summary>
         <description>Updates to the KDE software that is shipped with the distribution (backports).</description>
         <description xml:lang="ar">تحديث برمجيات  KDE يتم شحنه مع التوزيع (backports)</description>
         <description xml:lang="cs">Aktualizace KDE softwaru dodávaného s distribucí (zpětné porty).</description>
@@ -1138,7 +1152,7 @@
         <description xml:lang="ja">ディストリビューション本体に含まれている KDE ソフトウエアのアップデート (バックポート)</description>
         <description xml:lang="km">ការ​ធ្វើ​បច្ចុប្បន្នភាព​​​កម្មវិធី​ KDE ដែល​ត្រូវ​បាន​​យក​មក​ជា​មួយ​នឹង​ការចែកចាយ (បំណះ) ។</description>
         <description xml:lang="ko">배포판의 KDE 소프트웨어 업데이트(백포트)</description>
-        <description xml:lang="lt">Atnaujinimai KDE programinei įrangai, susijusi su distribucija (oficialiai nepalaikoma).</description>
+        <description xml:lang="lt">Atnaujinimai KDE programinei įrangai, susiję su platinamuoju paketu (oficialiai nepalaikoma).</description>
         <description xml:lang="nb">Oppdateringer til KDE-programvaren som følger med distribusjonen (tilbakeporteringer).</description>
         <description xml:lang="nl">Zaken voor het bijwerken van KDE-software die met deze distributie wordt meegeleverd.</description>
         <description xml:lang="pa">KDE ਸਾਫਟਵੇਅਰਾਂ ਲਈ ਅੱਪਡੇਟ, ਜੋ ਕਿ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਨਾਲ ਦਿੱਤੇ ਗਏ ਹਨ (ਬੈਕਪੋਰਟ)।</description>
@@ -1158,6 +1172,13 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="es">BuildService de openSUSE - KDE:Extra</name>
+        <name xml:lang="fr">openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="gl">openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="ja">openSUSE ビルドサービス - KDE:追加</name>
+        <name xml:lang="nl">openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="ru">openSUSE BuildService - KDE:Extra</name>
         <summary>Community repository for KDE</summary>
         <summary xml:lang="ar">مخزن مجموعة كيدي</summary>
         <summary xml:lang="cs">Komunitní repozitář s KDE</summary>
@@ -1217,31 +1238,7 @@
         <url>http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_11.3/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <name>openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="cs">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="da">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="de">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="es">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="fi">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="fr">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="gl">Servizo de construción de openSUSE - GNOME:ESTABLE:2.28</name>
-        <name xml:lang="hu">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="it">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="ja">openSUSE ビルドサービス - GNOME:安定版:2.28</name>
-        <name xml:lang="km">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="ko">오픈수세 빌드서비스 - 그놈:안정:2.28</name>
-        <name xml:lang="lt">openSUSE Kūrimo Paslauga - GNOME:STABILI:2.28</name>
-        <name xml:lang="nb">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="nl">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="pl">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="pt_BR">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="ro">openSUSE BuildService - GNOME:STABIL:2.28</name>
-        <name xml:lang="ru">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="sk">openSUSE BuildService - GNOME:STABLE:2.28</name>
-        <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - GNOME:STABLE:2.28</name>
-        <name xml:lang="uk">Служба складання пакунків openSUSE - GNOME:STABLE:2.28</name>
-        <name xml:lang="wa">openSUSE BuildService - GNOME:STOCAESSE:2.28</name>
-        <name xml:lang="zh_TW">openSUSE BuildService - GNOME:穩定版:2.28</name>
+        <name>openSUSE BuildService - GNOME:STABLE:2.30</name>
         <summary>Backport of latest stable GNOME</summary>
         <summary xml:lang="ar">الرجوع إلى آخر جنوم مستقر</summary>
         <summary xml:lang="cs">Zpětný port nejnovější stabilní verze GNOME</summary>
@@ -1294,7 +1291,7 @@
         <description xml:lang="th">จัดเตรียมโปรแกรมในชุด GNOME สำหรับ openSUSE 11.3 ทั้งรุ่นที่เสถียรล่าสุด, รุ่นที่ไม่สนับสนุนแล้ว ไว้ให้คุณได้เลือกใช้</description>
         <description xml:lang="wa">Çouci dene li dierinne sitocaesse modêye, nén sopoirtêye, di GNOME po openSUSE 11.3.</description>
         <description xml:lang="zh_TW">這裡提供了最新穩定版，但沒有支援服務的 openSUSE 11.3 的 GNOME</description>
-        <url>http://download.opensuse.org/repositories/GNOME:/STABLE:/2.28/openSUSE_11.3/</url>
+        <url>http://download.opensuse.org/repositories/GNOME:/STABLE:/2.30/openSUSE_11.3/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:Apps</name>
@@ -1361,7 +1358,7 @@
         <description xml:lang="ja">ディストリビューション本体に含まれている GNOME ソフトウエアのアップデート (バックポート)</description>
         <description xml:lang="km">ការ​ធ្វើ​បច្ចុប្បន្នភាព​​​កម្មវិធី​របស់ GNOME ដែល​ត្រូវ​បាន​​យក​មក​ជា​មួយ​នឹង​ការចែកចាយ (បំណះ) ។</description>
         <description xml:lang="ko">배포판의 그놈 소프트웨어 업데이트(백포트)</description>
-        <description xml:lang="lt">Atnaujinimai GNOME programinei įrangai, susijusi su distribucija (oficialiai nepalaikoma).</description>
+        <description xml:lang="lt">Atnaujinimai GNOME programinei įrangai, susiję su platinamuoju paketu (oficialiai nepalaikoma).</description>
         <description xml:lang="nb">Oppdateringer til GNOME-programvaren som følger med distribusjonen (tilbakeporteringer).</description>
         <description xml:lang="nl">Zaken voor het bijwerken van GNOME-software die met deze distributie wordt meegeleverd.</description>
         <description xml:lang="pa">ਗਨੋਮ ਸਾਫਟਵੇਅਰਾਂ ਲਈ ਅੱਪਡੇਟ, ਜੋ ਕਿ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਨਾਲ ਦਿੱਤੇ ਗਏ ਹਨ (ਬੈਕਪੋਰਟ)।</description>
