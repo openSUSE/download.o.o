@@ -70,7 +70,7 @@
 		<description xml:lang="da">Den store open source softwarekilde (OSS) til openSUSE 11.1, som giver dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. 512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have adgang til denne softwarekilde under installation.)</description>
 		<description xml:lang="de">Das große Repository 'Open-Source-Software' (OSS) für openSUSE 11.1, das Ihnen Zugriff auf tausende vom openSUSE-Team verwaltete Pakete gibt. (Aufgrund der Größe des Repositorys kann das Hinzufügen einige Zeit in Anspruch nehmen. 512MB RAM oder eine aktivierte SWAP-Partition werden dringend empfohlen für den Fall, dass Sie auf dieses Repository während der Installation zugreifen wollen.)</description>
 		<description xml:lang="es">El enorme repositorio de software de código abierto (OSS) para openSUSE 11.1 le da acceso a miles de paquetes mantenidos por el equipo de openSUSE (debido al tamaño del repositorio, añadirlo puede llevar algo de tiempo. Es altamente recomendable disponer de 512 MB de RAM o una partición de intercambio activa si quiere habilitar este repositorio durante la instalación.)</description>
-		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 11.1:lle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
+		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 11.1-ohjelmalle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
 		<description xml:lang="fr">Le gros dépôt de logiciels Open Sources (OSS) pour openSUSE 11.1, vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (A cause de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active est fortement recommandé dans le cas où vous voulez y acceder au moment de l'installation.)</description>
 		<description xml:lang="gl">O gran repositorio de Software de Código Aberto (OSS) para openSUSE 11.1, dalle acceso a milleiros de paquetes mantidos polo equipo de openSUSE. (Debido ao tamaño do repositorio, engadilo podería levar algún tempo. É moi recomendable ter 512 MB de RAM ou ter activada a partición de intercambio ou SWAP se desexa acceder a este repositorio á hora de instalar.)</description>
 		<description xml:lang="hu">Hatalmas nyílt forrású telepítési forrás openSUSE 11.1 verzióhoz, amelyen keresztül több száz olyan csomaghoz férhet hozzá, amelyet az openSUSE csapat tart karban. (A telepítési forrás méretére való tekintettel, ennek hozzáadása eltarthat egy ideig. 512 MB memória vagy a SWAP partíció engedélyezése mindenképpen szükséges, amennyiben a telepítési forrást az operációs rendszer telepítése közben kívánja elérni.)</description>
@@ -134,7 +134,7 @@
 		<summary xml:lang="da">Tillægssoftware kilde med ikke-open source software til openSUSE 11.1</summary>
 		<summary xml:lang="de">Repository mit Nicht-Open-Source-Softwarezusätzen für openSUSE 11.1</summary>
 		<summary xml:lang="es">Repositorio complementario de software de código no abierto para openSUSE 11.1</summary>
-		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 11.1:lle</summary>
+		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 11.1-ohjelmalle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 11.1</summary>
 		<summary xml:lang="gl">Repositorio de complementos de software que non son de Código Aberto para openSUSE 11.1</summary>
 		<summary xml:lang="hu">Zárt forrású szoftverek telepítési forrása openSUSE 11.1 verzióhoz</summary>
@@ -163,7 +163,7 @@
 		<description xml:lang="da">Den officielle openSUSE 11.1 softwarekilde for al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer Opera, Java, Flash og mere.</description>
 		<description xml:lang="de">Das offizielle openSUSE-11.1-Repository für 'Nicht-Open-Source-Software', die vom openSUSE-Team verwaltet wird, einschließlich Opera, Java, Flash, etc.</description>
 		<description xml:lang="es">El repositorio oficial de openSUSE 11.1 para todo el software de código fuente no abierto mantenido por el equipo de openSUSE y que incluye Opera, Java, Flash y más.</description>
-		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä asennuslähde, joka sisältää suljetun lähdekoodin ohjelmistoja openSUSE 11.1:lle, esimerkiksi Opera, Java, Flash ja niin edelleen.</description>
+		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE 11.1-asennuslähde kaikille suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Java, Flash ja niin edelleen.</description>
 		<description xml:lang="fr">Le dépôt officiel d'openSUSE 11.1 pour tous les logiciels Non-Open Source maintenu par l'équipe d'openSUSE, il contient Opera, Java, Flash, et bien d'autres.</description>
 		<description xml:lang="gl">O repositorio oficial de openSUSE 11.1 para todo o software que non é de código aberto mantido polo equipo de openSUSE, incluíndo Opera, Java, Flash e máis.</description>
 		<description xml:lang="hu">Hivatalos, zárt forrású komponenseket (pl. Realplayer, Opera, Java, Flash) tartalmazó openSUSE 11.1 telepítési forrás.</description>
@@ -224,7 +224,7 @@
 		<summary xml:lang="da">Hovedsoftwarekilde for openSUSE 11.1 som inkluderer debuginfo-pakker</summary>
 		<summary xml:lang="de">Haupt-Repository von openSUSE 11.1, das Debuginfo-Pakete enthält</summary>
 		<summary xml:lang="es">Repositorio principal de openSUSE 11.1 que incluye los paquetes debuginfo</summary>
-		<summary xml:lang="fi">openSUSE 11.1 debuginfo-paketit perusasennuslähteen paketeille</summary>
+		<summary xml:lang="fi">openSUSE 11.1-ohjelman perusasennuslähde vianjäljitystietoa sisältäville paketeille</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 11.1 contenant les paquets debuginfo</summary>
 		<summary xml:lang="gl">Repositorio principal de openSUSE 11.1 que inclúe paquetes de información de depuración (debuginfo)</summary>
 		<summary xml:lang="hu">Elsődleges, debuginfo csomagokat tartalmazó openSUSE 11.1 telepítési forrás</summary>
@@ -253,7 +253,7 @@
 		<description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE 11.1. Kun for eksperter.</description>
 		<description xml:lang="de">Dieses Repository ist nützlich für die, die Anwendungen aus openSUSE 11.1 von Fehlern befreien wollen. Nur für Experten.</description>
 		<description xml:lang="es">Este repositorio es útil para aquéllos que quieran depurar aplicaciones en openSUSE 11.1. Sólo para expertos.</description>
-		<description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat debugata ohjelmistoja openSUSE 11.1:ssa. Vain asiantuntijoille.</description>
+		<description xml:lang="fi">Tämä asennuslähde on hyödyllinen niille, jotka haluavat etsiä ja korjata ohjelmointivirheitä openSUSE 11.1-ohjelmassa. Vain asiantuntijoille.</description>
 		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent deboguer des applications sous openSUSE 11.1. Pour experts seulement.</description>
 		<description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicacións de openSUSE 11.1. Só para expertos.</description>
 		<description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik openSUSE 11.1 verzión alkalmazások hibakeresését végzik.</description>

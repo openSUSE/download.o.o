@@ -40,7 +40,7 @@
 		<summary xml:lang="cs">Hlavní repozitář openSUSE 11.3 obsahující pouze open-source software</summary>
 		<summary xml:lang="da">Hovedsoftwarekilden for openSUSE 11.3 som kun inkluderer open source software</summary>
 		<summary xml:lang="es">Repositorio principal de openSUSE 11.3 para software libre únicamente.</summary>
-		<summary xml:lang="fi">openSUSE 11.3:n perusasennuslähde, joka  sisältää vain vapaan lähdekoodin ohjelmia</summary>
+		<summary xml:lang="fi">openSUSE 11.3-perusasennuslähde, joka  sisältää vain vapaan lähdekoodin ohjelmia</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 11.3 contenant seulement les logiciels Open Source</summary>
 		<summary xml:lang="gl">Repositorio principal de openSUSE 11.3 para software libre só</summary>
 		<summary xml:lang="hu">Elsődleges, csak nyílt forrású csomagokat tartalmazó openSUSE 11.3 telepítése forrás</summary>
@@ -62,7 +62,7 @@
 		<description xml:lang="cs">Velký repozitář s open-source softwarem pro openSUSE 11.3. Obsahuje tisíce balíků spravovaných týmem openSUSE. (Vzhledem k velikosti může přidání tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní odkládací oddíl.) </description>
 		<description xml:lang="da">Den store open source softwarekilde (OSS) til openSUSE 11.3, som giver dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. 512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have adgang til denne softwarekilde under installation.)</description>
 		<description xml:lang="es">El repositorio de software libre (OSS - Open Source Software) para openSUSE 11.3, le da acceso a miles de paquetes mantenidos por el equipo de openSUSE. (Debido al tamaño de este repositorio, puede demorar un tiempo en ser añadido. Es altamente recomendado al menos 512 MB de RAM o una partición SWAP habilitada en caso de querer acceder a este repositorio durante la instalación.)</description>
-		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 11.3:lle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi sen lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
+		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 11.3-ohjelmalle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
 		<description xml:lang="fr">Le gros dépôt de logiciels Open Source (OSS) pour openSUSE 11.3, vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (A cause de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active sont fortement recommandés dans le cas où vous voulez y accéder au moment de l'installation.)</description>
 		<description xml:lang="gl">O repositorio de software libre (OSS - Open Source Software) para openSUSE 11.3, dalle acceso a miles de paquetes mantidos polo equipo de openSUSE. (Debido ao tamaño deste repositorio, pode tardar un tempo en ser engadido. Son moi recomendables polo menos 512 MB de RAM ou unha partición SWAP activada en caso de querer acceder a este repositorio durante a instalación.)</description>
 		<description xml:lang="hu">Hatalmas nyílt forrású telepítési forrás openSUSE 11.3-hoz, amelyen keresztül több száz olyan csomaghoz férhet hozzá, amelyet az openSUSE csapat tart karban. (A telepítési forrás méretére való tekintettel, ennek hozzáadása eltarthat egy ideig. 512 MB memória vagy a SWAP partíció engedélyezése mindenképpen szükséges, amennyiben a telepítési forrást az operációs rendszer telepítése közben kívánja elérni.)</description>
@@ -73,7 +73,7 @@
 		<description xml:lang="nb">Den store pakkebrønnen for åpen kildekode (OSS) for openSUSE 11.3 gir deg tilgang til tusenvis av pakker som vedlikeholdes av openSUSE-gruppen. (På grunn av størrelsen kan det ta en stund å legge til pakkebrønnen (512 MB RAM eller en aktivert veksleminnepartisjon anbefales sterkt hvis du ønsker tilgang til denne pakkebrønn under installasjonen).</description>
 		<description xml:lang="nl">De grote opensource-installatiebron (OSS) van openSUSE 11.3 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 MB RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
 		<description xml:lang="pl">Wielkie repozytorium open source (OSS) dla openSUSE 11.3, które zawiera tysiące pakietów utrzymywanych przez zespół openSUSE. (Z racji rozmiarów dodanie tego repozytorium może zająć trochę czasu. Zalecane jest posiadanie 512MB pamięci RAM lub włączenie partycja wymiany, jeśli repozytorium to ma być użyte podczas instalacji ).</description>
-		<description xml:lang="pt_BR">O grande repositório de softwared de código aberto (Open Source Software - OSS) para o openSUSE 11.3, fornecendo-lhe acesso a milhares de pacotes mantidos pela equipe do openSUSE. (Devido ao tamanho do repositório, pode demorar algum tempo para adicioná-lo. É altamente recomendado possuir 512MB de RAM ou uma partição de troca ativada caso você deseje acessar este repositório durante a instalação.)</description>
+		<description xml:lang="pt_BR">O grande repositório de software de código aberto (Open Source Software - OSS) para o openSUSE 11.3, fornecendo-lhe acesso a milhares de pacotes mantidos pela equipe do openSUSE. (Devido ao tamanho do repositório, pode demorar algum tempo para adicioná-lo. É altamente recomendado possuir 512MB de RAM ou uma partição de troca ativada caso você deseje acessar este repositório durante a instalação.)</description>
 		<description xml:lang="ro">Cea mai mare sursă de instalare Open Source Software (OSS) pentru openSUSE 11.3, ce permite accesul la mii de pachete întreţinute de echipa openSUSE. (Datorită dimensiunii sursei de instalare adăugarea acesteia poate dura. În caz că doriţi accesarea acestei surse în momentul instalării, se recomandă 512MB de RAM sau o partiţie SWAP activată.)</description>
 		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 11.3, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 Мб RAM или включённый раздел подкачки.)</description>
 		<description xml:lang="sk">Veľký repozitár Open Source Software (OSS), t.j. softvér s verejne prístupným zdrojovým kódom, pre openSUSE 11.3. Dá Vám prístup k tisícom balíkom, o ktoré sa stará openSUSE tím. (Ak chcete pridať tento repozitár ako inštalačný zdroj, doporučujeme mať 512 MB operačnej pamäte, alebo aktivovaný odkladací diskový oddiel swap kvôli jeho obrovskej veľkosti. Jeho pridanie potrvá istý čas.)</description>
@@ -119,7 +119,7 @@
 		<summary xml:lang="cs">Repozitář s ne-open-source doplňkovým softwarem pro openSUSE 11.3</summary>
 		<summary xml:lang="da">Ikke-open source software tillægssoftwarekilde til openSUSE 11.3</summary>
 		<summary xml:lang="es">Repositorio de accesorios de software privativo para openSUSE 11.3</summary>
-		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 11.3:lle</summary>
+		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 11.3-ohjelmalle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires Non-Open Source pour openSUSE 11.3</summary>
 		<summary xml:lang="gl">Repositorio de accesorios de software privativo para openSUSE 11.3</summary>
 		<summary xml:lang="hu">Zárt forrású szoftverek telepítési forrása openSUSE 11.3-hoz</summary>
@@ -141,7 +141,7 @@
 		<description xml:lang="cs">Oficiální repozitář openSUSE 11.3 pro software šířený pod non-open-source licencemi spravovaný týmem openSUSE; včetně Opery, Javy, Flashe a dalších programů.</description>
 		<description xml:lang="da">Den officielle openSUSE 11.3 softwarekilde med al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer Opera, Java, Flash og mere.</description>
 		<description xml:lang="es">El repositorio oficial de openSUSE 11.3 para todas las aplicaciones privativas mantenidas por el equipo de openSUSE, inluyendo Opera, Java, Flash entre otros.</description>
-		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä asennuslähde, joka sisältää suljetun lähdekoodin ohjelmistoja openSUSE 11.3:lle, esimerkiksi Opera, Java, Flash ja niin edelleen.</description>
+		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE 11.3-asennuslähde kaikille suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Java, Flash ja niin edelleen.</description>
 		<description xml:lang="fr">Le dépôt officiel d'openSUSE 11.3 pour tous les logiciels Non-Open Source maintenus par l'équipe d'openSUSE, notamment Opera, Java, Flash, et bien d'autres.</description>
 		<description xml:lang="gl">O repositorio oficial de openSUSE 11.3 para todos os aplicativos privativos mantidos polo equipo de openSUSE, incluíndo Opera, Java, Flash entre outros.</description>
 		<description xml:lang="hu">Hivatalos, zárt forrású komponenseket (pl. Realplayer, Opera, Java, Flash) tartalmazó openSUSE 11.3 telepítési forrás.</description>
@@ -198,7 +198,7 @@
 		<summary xml:lang="cs">Hlavní repozitář openSUSE 11.3 obsahující debuginfo balíčky</summary>
 		<summary xml:lang="da">Hovedsoftwarekilde for openSUSE 11.3 som inkluderer debuginfo-pakkerne</summary>
 		<summary xml:lang="es">Repositorio principal de openSUSE 11.3 con paquetes debuginfo</summary>
-		<summary xml:lang="fi">openSUSE 11.3 debuginfo-paketit perusasennuslähteen paketeille</summary>
+		<summary xml:lang="fi">openSUSE 11.3-ohjelman perusasennuslähde vianjäljitystietoa sisältäville paketeille</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 11.3 contenant les paquets debuginfo</summary>
 		<summary xml:lang="gl">Repositorio principal de openSUSE 11.3 con paquetes debuginfo</summary>
 		<summary xml:lang="hu">Elsődleges, debuginfo csomagokat tartalmazó openSUSE 11.3 telepítése forrás</summary>
@@ -220,7 +220,7 @@
 		<description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE 11.3. Určeno pouze pro experty.</description>
 		<description xml:lang="da">Softwarekilden er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE 11.3. Kun for eksperter.</description>
 		<description xml:lang="es">Este repositorio es útil para aquellos que quieren depurar (debug) aplicaciones en openSUSE 11.3. Sólo para expertos.</description>
-		<description xml:lang="fi">Tämä asennuslähde on tarpeen niille, jotka tahtovat debugata ohjelmistoja openSUSE 11.3:ssa. Vain asiantuntijoille.</description>
+		<description xml:lang="fi">Tämä asennuslähde on hyödyllinen niille, jotka haluavat etsiä ja korjata ohjelmointivirheitä openSUSE 11.3-ohjelmassa. Vain asiantuntijoille.</description>
 		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE 11.3. Pour experts seulement.</description>
 		<description xml:lang="gl">Este repositorio é útil para aqueles que queiran depurar aplicativos en openSUSE 11.3. Só para expertos.</description>
 		<description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik alkalmazások hibakeresését végzik openSUSE 11.3 verzión.</description>
