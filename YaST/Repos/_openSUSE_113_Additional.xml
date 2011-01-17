@@ -330,36 +330,48 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - LXDE</name>
+        <name xml:lang="da">openSUSE BuildService - LXDE</name>
         <name xml:lang="es">openSUSE BuildService - LXDE</name>
+        <name xml:lang="fi">openSUSEn paketointipalvelu - LXDE</name>
         <name xml:lang="fr">openSUSE BuildService - LXDE</name>
         <name xml:lang="gl">openSUSE BuildService - LXDE</name>
         <name xml:lang="hu">openSUSE BuildService - LXDE</name>
         <name xml:lang="it">openSUSE BuildService - LXDE</name>
         <name xml:lang="ja">openSUSE ビルドサービス - LXDE</name>
         <name xml:lang="lt">openSUSE Kūrimo Paslauga - LXDE</name>
+        <name xml:lang="nb">openSUSE BuildService - LXDE</name>
         <name xml:lang="nl">openSUSE BuildService - LXDE</name>
+        <name xml:lang="pl">openSUSE BuildService - LXDE</name>
         <name xml:lang="pt_BR">openSUSE BuildService - LXDE</name>
         <name xml:lang="ru">openSUSE BuildService - LXDE</name>
         <summary>Latest LXDE release</summary>
+        <summary xml:lang="da">Seneste LXDE-udgivelse</summary>
         <summary xml:lang="es">La versión más reciente de LXDE</summary>
+        <summary xml:lang="fi">Uusin LXDE-julkaisu</summary>
         <summary xml:lang="fr">Dernière version de LXDE</summary>
         <summary xml:lang="gl">Última versión de LXDE</summary>
         <summary xml:lang="hu">Legfrissebb LXDE</summary>
         <summary xml:lang="it">Ultima versione di LXDE</summary>
         <summary xml:lang="ja">最新の LXDE リリース</summary>
         <summary xml:lang="lt">Naujausia LXDE laida</summary>
+        <summary xml:lang="nb">Nyeste LXDE-versjon</summary>
         <summary xml:lang="nl">Nieuwste uitgave van LXDE</summary>
+        <summary xml:lang="pl">Najnowsze wydanie LXDE</summary>
         <summary xml:lang="pt_BR">Lançamento mais recente do LXDE</summary>
         <summary xml:lang="ru">Последний выпуск LXDE</summary>
         <description>The LXDE repository in the openSUSE Build Service, which provides you with the unsupported but latest version of the LX desktop environment and software.</description>
+        <description xml:lang="da">LXDE-softwarekilden på openSUSE Build Service, der leverer den seneste ikke officielt understøttede version af LX Desktop Environment og tilhørende software.</description>
         <description xml:lang="es">El repositorio LXDE en el Build Service de openSUSE, incluye las últimas versiones de aplicaciones y entorno LX.</description>
+        <description xml:lang="fi">openSUSEn paketointipalvelussa sijaitseva asennuslähde, joka tarjoaa viimeisimmän, mutta tukemattoman version LX-työpöydästä ja ohjelmistoista.</description>
         <description xml:lang="fr">Le dépôt LXDE de l'openSUSE Build Service qui vous fournit la dernière version, non supportée, du bureau et des logiciels LX.</description>
         <description xml:lang="gl">O repositorio de LXDE en openSUSE Build Service, que fornece a versión máis recente, oficialmente non soportada, do ambiente de escritorio e software para LXDE.</description>
         <description xml:lang="hu">Az openSUSE Build Service LXDE telepítési forrása, amely a nem támogatott, de a legfrissebb LX grafikus környezet csomagjait tartalmazza.</description>
         <description xml:lang="it">Il repository di LXDE nel Build Service di openSUSE che fornisce l'ultima versione (non supportata ufficialmente) dell'ambiente desktop e i programmi LX.</description>
         <description xml:lang="ja">openSUSE ビルドサービス内にある LXDE リポジトリで、サポートはされていませんが、最新の LX デスクトップ環境とソフトウエアを提供しています。</description>
         <description xml:lang="lt">LXDE saugykla iš openSUSE Kūrimo Paslaugos, kuri pateikia nepalaikomą, bet naujausią LX darbalaukio aplinkos ir programinės įrangos versiją.</description>
+        <description xml:lang="nb">LXDE-pakkebrønnen fra openSUSE Build Service, som tilbyr ikke-støttede, men oppdaterte utgaver av LXDE-skrivebordsmiljøet, samt tilhørende programvare.</description>
         <description xml:lang="nl">De LXDE-bron in de openSUSE Build Service. Deze levert u de niet-ondersteunde, maar nieuwste versie van de LX Desktop Environment en software.</description>
+        <description xml:lang="pl">Repozytorium LXDE w openSUSE Build Service, które zawiera najnowsze nieoficjalne wersje środowiska LXDE.</description>
         <description xml:lang="pt_BR">O repositório LXDE no openSUSE Build Service, que fornece a versão mais recente, não suportada oficialmente, do ambiente da área de trabalho e programas para o LXDE.</description>
         <description xml:lang="ru">Репозиторий LXDE в openSUSE Build Service, который предоставляет неподдерживаемую, но самую последнюю версию среды рабочего стола и программного обеспечения LXDE.</description>
         <url>http://download.opensuse.org/repositories/X11:/lxde/openSUSE_11.3/</url>
@@ -513,7 +525,7 @@
         <summary xml:lang="pa">ਮੋਜ਼ੀਲਾ ਸਾਫਟਵੇਅਰ, ਫਾਇਰਫਾਕਸ ਵਰਗੇ, ਲਈ ਤਾਜ਼ਾ ਬਿਲਡ</summary>
         <summary xml:lang="pl">Najnowsze kompilacje programów Mozilli, takich jak Firefox</summary>
         <summary xml:lang="pt">As mais recentes construções do Software Mozilla como o Firefox</summary>
-        <summary xml:lang="pt_BR">Compilações mais recentes de programas da Mozilla como o Firefox</summary>
+        <summary xml:lang="pt_BR">Compilações mais recentes de programas da Mozilla, como o Firefox</summary>
         <summary xml:lang="ro">Cele mai recente versiuni compilate ale programelor Mozilla, ca de exemplu Firefox</summary>
         <summary xml:lang="ru">Самые последние сборки программного обеспечения Mozilla, например, Firefox</summary>
         <summary xml:lang="sk">Najaktuálnejšie verzie softvéru od Mozilly ako napr. Firefox</summary>
@@ -1126,23 +1138,33 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="da">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="es">BuildService de openSUSE - KDE:UpdatedApps</name>
+        <name xml:lang="fi">openSUSEn paketointipalvelu  - KDE:UpdatedApps</name>
         <name xml:lang="fr">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="gl">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="hu">openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="it">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="ja">openSUSE ビルドサービス - GNOME:更新済みアプリ</name>
         <name xml:lang="lt">openSUSE Kūrimo Paslauga - KDE: Atnaujintos programos</name>
+        <name xml:lang="nb">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="nl">openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="pl">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="pt_BR">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="ru">openSUSE BuildService - KDE:UpdatedApps</name>
         <summary>Updated versions of KDE applications</summary>
+        <summary xml:lang="da">Opdaterede versioner af KDE-programmer</summary>
         <summary xml:lang="es">Versiones actualizadas de aplicaciones para KDE</summary>
+        <summary xml:lang="fi">Jakelun julkaisun jälkeen ilmestyneet KDE-ohjelmistot</summary>
         <summary xml:lang="fr">Versions mises à jour des applications KDE</summary>
         <summary xml:lang="gl">Versións actualizadas dos aplicativos de KDE</summary>
         <summary xml:lang="hu">Frissített KDE-alkalmazások</summary>
+        <summary xml:lang="it">Versioni aggiornate delle applicazioni KDE</summary>
         <summary xml:lang="ja">KDE アプリケーションの更新版</summary>
         <summary xml:lang="lt">KDE programų atnaujintos versijos</summary>
+        <summary xml:lang="nb">Oppdaterte versjoner av KDE-programmer</summary>
         <summary xml:lang="nl">Bijgewerkte versies van KDE programma's</summary>
+        <summary xml:lang="pl">Aktualizacje aplikacji KDE</summary>
         <summary xml:lang="pt_BR">Versões atualizadas de aplicativos do KDE</summary>
         <summary xml:lang="ru">Обновлённые версии приложений KDE</summary>
         <description>Updates to the KDE software that is shipped with the distribution (backports).</description>
@@ -1179,13 +1201,18 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="da">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="es">BuildService de openSUSE - KDE:Extra</name>
+        <name xml:lang="fi">openSUSEn paketointipalvelu - KDE:Extra</name>
         <name xml:lang="fr">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="gl">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="hu">openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="it">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="ja">openSUSE ビルドサービス - KDE:追加</name>
         <name xml:lang="lt">openSUSE Kūrimo Paslauga - KDE: Papildoma</name>
+        <name xml:lang="nb">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="nl">openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="pl">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="pt_BR">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="ru">openSUSE BuildService - KDE:Extra</name>
         <summary>Community repository for KDE</summary>
@@ -1248,6 +1275,17 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:STABLE:2.30</name>
+        <name xml:lang="da">openSUSE BuildService - GNOME:STABLE:2.30</name>
+        <name xml:lang="fi">openSUSEn paketointipalvelu - GNOME:Vakaa:2.30</name>
+        <name xml:lang="fr">openSUSE BuildService - GNOME:STABLE:2.30</name>
+        <name xml:lang="it">openSUSE BuildService - GNOME:STABLE:2.30</name>
+        <name xml:lang="ja">openSUSE ビルドサービス - GNOME:安定版:2.30</name>
+        <name xml:lang="lt">openSUSE Kūrimo Paslauga - GNOME:STABILI:2.30</name>
+        <name xml:lang="nb">openSUSE BuildService - GNOME:STABLE:2.30</name>
+        <name xml:lang="nl">openSUSE BuildService - GNOME:STABLE:2.30</name>
+        <name xml:lang="pl">openSUSE BuildService - GNOME:STABLE:2.30</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - GNOME:STABLE:2.30</name>
+        <name xml:lang="ru">openSUSE BuildService - GNOME:STABLE:2.302</name>
         <summary>Backport of latest stable GNOME</summary>
         <summary xml:lang="ar">الرجوع إلى آخر جنوم مستقر</summary>
         <summary xml:lang="cs">Zpětný port nejnovější stabilní verze GNOME</summary>
@@ -1479,107 +1517,141 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - devel:languages:perl</name>
+        <name xml:lang="da">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="es">openSUSE BuildService - devel:languages:perl</name>
+        <name xml:lang="fi">openSUSEn paketointipalvelu - devel:languages:perl</name>
         <name xml:lang="fr">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="gl">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="hu">openSUSE BuildService - fejlesztés:nyelvek:perl</name>
         <name xml:lang="it">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="ja">openSUSE ビルドサービス - 開発:言語:perl</name>
         <name xml:lang="lt">openSUSE Kūrimo Paslauga - programavimas: kalbos: perl</name>
+        <name xml:lang="nb">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="nl">openSUSE BuildService - devel:talen:perl</name>
+        <name xml:lang="pl">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="pt_BR">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="ru">openSUSE BuildService - devel:languages:perl</name>
         <summary>Community repository for Perl modules</summary>
+        <summary xml:lang="da">Softwarekilde fra fællesskabet med Perl-moduler</summary>
         <summary xml:lang="es">Repositorio de la comunidad para módulos Perl</summary>
+        <summary xml:lang="fi">Perl-moduulien yhteisöasennuslähde</summary>
         <summary xml:lang="fr">Dépôt de la communauté pour les modules Perl</summary>
         <summary xml:lang="gl">Repositorio da comunidade para módulos Perl</summary>
         <summary xml:lang="hu">Perl-modulok közösségi telepítési forrása</summary>
         <summary xml:lang="it">Repository della comunità per i moduli di Perl</summary>
         <summary xml:lang="ja">Perl モジュールのコミュニティリポジトリ</summary>
         <summary xml:lang="lt">Bendruomenės Perl modulių saugykla</summary>
+        <summary xml:lang="nb">Uoffisiell pakkebrønn for Perl-moduler</summary>
         <summary xml:lang="nl">Gemeenschapsbron voor Perl modulen</summary>
+        <summary xml:lang="pl">Repozytoria społeczności dla modułów Perl</summary>
         <summary xml:lang="pt_BR">Repositório da comunidade para módulos Perl</summary>
         <summary xml:lang="ru">Репозиторий сообщества для модулей Perl</summary>
         <description>Updates and Additions for Perl modules</description>
+        <description xml:lang="da">Opdateringer og tilføjelser til Perl-moduler</description>
         <description xml:lang="es">Actualizaciones y agregados para módulos Perl</description>
+        <description xml:lang="fi">Perl-moduulien päivityksiä ja lisäosia.</description>
         <description xml:lang="fr">Mises à jour et suppléments pour les modules Perl</description>
         <description xml:lang="gl">Actualizacións e engadidos para módulos Perl</description>
         <description xml:lang="hu">Frissítések és kiegészítések Perl-modulokhoz</description>
         <description xml:lang="it">Aggiornamenti e aggiunte per i moduli di Perl</description>
         <description xml:lang="ja">Perl モジュールの更新と追加</description>
         <description xml:lang="lt">Perl modulių atnaujinimai ir papildymai.</description>
+        <description xml:lang="nb">Oppdateringer og tillegg for Perl-moduler</description>
         <description xml:lang="nl">Bijwerken en toevoegingen voor Perl modulen</description>
+        <description xml:lang="pl">Aktualizacje i dodatki dla modułów Perl</description>
         <description xml:lang="pt_BR">Atualizações e adições para módulos Perl</description>
         <description xml:lang="ru">Обновления и дополнения для модулей Perl</description>
         <url>http://download.opensuse.org/repositories/devel:/languages:/perl/openSUSE_11.3/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - devel:languages:python</name>
+        <name xml:lang="da">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="es">openSUSE BuildService - devel:languages:python</name>
+        <name xml:lang="fi">openSUSEn paketointipalvelu - devel:languages:python</name>
         <name xml:lang="fr">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="gl">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="hu">openSUSE BuildService - fejlesztés:nyelvek:python</name>
         <name xml:lang="it">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="ja">openSUSE ビルドサービス - 開発:言語:python</name>
         <name xml:lang="lt">openSUSE Kūrimo Paslauga - programavimas: kalbos: python</name>
+        <name xml:lang="nb">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="nl">openSUSE BuildService - devel:talen:python</name>
+        <name xml:lang="pl">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="pt_BR">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="ru">openSUSE BuildService - devel:languages:python</name>
         <summary>Community repository for Python modules</summary>
+        <summary xml:lang="da">Softwarekilde fra fællesskabet med Python-moduler</summary>
         <summary xml:lang="es">Repositorio de la comunidad para módulos Python</summary>
+        <summary xml:lang="fi">Python-moduulien yhteisöasennuslähde</summary>
         <summary xml:lang="fr">Dépôt de la communauté pour les modules Python</summary>
         <summary xml:lang="gl">Repositorio da comunidade para módulos Python</summary>
         <summary xml:lang="hu">Python-modulok közösségi telepítési forrása</summary>
         <summary xml:lang="it">Repository della comunità per i moduli di Python</summary>
         <summary xml:lang="ja">Python モジュールのコミュニティリポジトリ</summary>
         <summary xml:lang="lt">Bendruomenės Python modulių saugykla</summary>
+        <summary xml:lang="nb">Uoffisiell pakkebrønn for Python-moduler</summary>
         <summary xml:lang="nl">Gemeenschapsbron voor Python modulen</summary>
+        <summary xml:lang="pl">Repozytoria społeczności dla modułów Python</summary>
         <summary xml:lang="pt_BR">Repositório da comunidade para módulos Python</summary>
         <summary xml:lang="ru">Репозиторий сообщества для модулей Python</summary>
         <description>Updates and Additions for Python modules</description>
+        <description xml:lang="da">Opdateringer og tilføjelser til Python-moduler</description>
         <description xml:lang="es">Actualizaciones y agregados para módulos Python</description>
+        <description xml:lang="fi">Python-moduulien päivityksiä ja lisäosia.</description>
         <description xml:lang="fr">Mises à jour et suppléments pour les modules Perl</description>
         <description xml:lang="gl">Actualizacións e engadidos para módulos Python</description>
         <description xml:lang="hu">Frissítések és kiegészítések Phyton-modulokhoz</description>
         <description xml:lang="it">Aggiornamenti e aggiunte per i modulo di Python</description>
         <description xml:lang="ja">Perl モジュールの更新と追加</description>
         <description xml:lang="lt">Python modulių atnaujinimai ir papildymai.</description>
+        <description xml:lang="nb">Oppdateringer og tillegg for Python-moduler</description>
         <description xml:lang="nl">Bijwerken en toevoegingen voor Python modulen</description>
+        <description xml:lang="pl">Aktualizacje i dodatki dla modułów Python</description>
         <description xml:lang="pt_BR">Atualizações e adições para módulos Python</description>
         <description xml:lang="ru">Обновления и дополнения для модулей Python</description>
         <url>http://download.opensuse.org/repositories/devel:/languages:/python/openSUSE_11.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Banshee</name>
+        <name xml:lang="da">openSUSE BuildService - Banshee</name>
         <name xml:lang="es">openSUSE BuildService - Banshee</name>
+        <name xml:lang="fi">openSUSEn paketointipalvelu - Banshee</name>
         <name xml:lang="fr">openSUSE BuildService - Banshee</name>
         <name xml:lang="gl">openSUSE BuildService - Banshee</name>
         <name xml:lang="hu">openSUSE BuildService - Banshee</name>
         <name xml:lang="it">openSUSE BuildService - Banshee</name>
         <name xml:lang="ja">openSUSE ビルドサービス - Banshee</name>
         <name xml:lang="lt">openSUSE Kūrimo Paslauga - Banshee</name>
+        <name xml:lang="nb">openSUSE BuildService - Banshee</name>
         <name xml:lang="nl">openSUSE BuildService - Banshee</name>
+        <name xml:lang="pl">openSUSE BuildService - Banshee</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Banshee</name>
         <name xml:lang="ru">openSUSE BuildService - Banshee</name>
         <summary>Latest builds of the Banshee Media Player</summary>
+        <summary xml:lang="da">Seneste builds af Banshee Media Player</summary>
         <summary xml:lang="es">Ultimas versiones del reproductor multimedia Banshee</summary>
+        <summary xml:lang="fi">Uusimmat Banshee Mediatoistimen versiot</summary>
         <summary xml:lang="fr">Dernières versions du lecteur de média Banshee</summary>
         <summary xml:lang="gl">Últimas versións do reprodutor multimedia Banshee</summary>
         <summary xml:lang="hu">A Banshee médialejátszó legfrissebb verziója</summary>
         <summary xml:lang="it">Ultime versioni del riproduttore multimediale Banshee</summary>
         <summary xml:lang="ja">Banshee メディアプレーヤの最新ビルド</summary>
         <summary xml:lang="lt">Naujausia Banshee leistuvės laida</summary>
+        <summary xml:lang="nb">De nyeste versjonene av mediespilleren Banshee</summary>
         <summary xml:lang="nl">Nieuwste uitgaven van de Banshee mediaspeler</summary>
         <summary xml:lang="pt_BR">Últimas versões do reprodutor de mídias Banshee</summary>
         <summary xml:lang="ru">Последние сборки медиаплеера Banshee</summary>
         <description>Provides up-to-date builds of Banshee</description>
+        <description xml:lang="da">Leverer fuldt opdaterede builds af Banshee</description>
         <description xml:lang="es">Versiones actualizadas de Banshee</description>
+        <description xml:lang="fi">Tarjoaa ajan tasalla olevat Bansheen versiot</description>
         <description xml:lang="fr">Fournit des versions à jour de Banshee</description>
         <description xml:lang="gl">Fornece versións actualizadas de Banshee</description>
         <description xml:lang="hu">A Banshee legfrissebb verzióját tartalmazza</description>
         <description xml:lang="it">Fornisce versioni aggiornate di Banshee</description>
         <description xml:lang="ja">Banshee の最新ビルドを提供しています</description>
         <description xml:lang="lt">Pateikia naujausius Banshee paketus</description>
+        <description xml:lang="nb">Inneholder oppdaterte versjoner av Banshee</description>
         <description xml:lang="nl">Nieuwste uitgaven van Banshee</description>
         <description xml:lang="pt_BR">Fornece versões atualizadas do Banshee</description>
         <description xml:lang="ru">Предоставляет актуальные сборки Banshee</description>
@@ -1587,108 +1659,143 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - filesystems</name>
+        <name xml:lang="da">openSUSE BuildService - filesystems</name>
         <name xml:lang="es">openSUSE BuildService - Sistema de Archivos</name>
+        <name xml:lang="fi">openSUSEn paketointipalvelu - tiedostojärjestelmät</name>
         <name xml:lang="fr">openSUSE BuildService - filesystems</name>
         <name xml:lang="gl">openSUSE BuildService - sistema de ficheiros</name>
         <name xml:lang="hu">openSUSE BuildService - fájlrendszerek</name>
         <name xml:lang="it">openSUSE BuildService - filesystems</name>
         <name xml:lang="ja">openSUSE ビルドサービス - ファイルシステム</name>
         <name xml:lang="lt">openSUSE Kūrimo Paslauga - rinkmenų sistema</name>
+        <name xml:lang="nb">openSUSE BuildService - filsystemers</name>
         <name xml:lang="nl">openSUSE BuildService - bestandssystemen</name>
-        <name xml:lang="pt_BR">openSUSE BuildService - sistemas de arquivo</name>
+        <name xml:lang="pl">openSUSE BuildService - filesystems</name>
+        <name xml:lang="pt_BR">openSUSE BuildService - sistemas de arquivos</name>
         <name xml:lang="ru">openSUSE BuildService - Файловые системы</name>
         <summary>Filesystem tools and FUSE-related packages</summary>
+        <summary xml:lang="da">Filsystemværktøjer og FUSE-relaterede pakker</summary>
         <summary xml:lang="es">Herramientas para el sistema de archivos y paquetes relacionados con FUSE</summary>
+        <summary xml:lang="fi">Tiedostojärjestelmien työkalut ja FUSEen liittyvät paketit</summary>
         <summary xml:lang="fr">Outils pour systèmes de fichiers et paquets relatifs à FUSE</summary>
         <summary xml:lang="gl">Ferramentas para o sistema de ficheiros e paquetes relacionados con FUSE</summary>
         <summary xml:lang="hu">Fájlrendszer-eszközök és FUSE-hoz kötődő csomagok</summary>
         <summary xml:lang="it">Strumenti per i file-system e pacchetti relativi a FUSE</summary>
         <summary xml:lang="ja">ファイルシステムのツールと FUSE 関連のパッケージ</summary>
         <summary xml:lang="lt">Rinkmenų sistemos įrankiai ir su FUSE susiję paketai</summary>
+        <summary xml:lang="nb">Filsystemverktøy og FUSE-relaterte pakker</summary>
         <summary xml:lang="nl">Hulpmiddelen voor bestandssysteem en aan FUSE gerelateerde pakketten</summary>
+        <summary xml:lang="pl">Narzędzia związane z systemami plików i FUSE</summary>
         <summary xml:lang="pt_BR">Ferramentas do sistema de arquivos e pacotes relacionados aos FUSE</summary>
         <summary xml:lang="ru">Инструменты файловых систем и пакеты FUSE</summary>
         <description>Filesystem tools and FUSE-related packages.</description>
+        <description xml:lang="da">Filsystemværktøjer og FUSE-relaterede pakker.</description>
         <description xml:lang="es">Herramientas para el sistema de archivos y paquetes relacionados con FUSE</description>
+        <description xml:lang="fi">Tiedostojärjestelmien työkalut ja FUSEen liittyvät paketit.</description>
         <description xml:lang="fr">Outils pour systèmes de fichiers et paquets relatifs à FUSE.</description>
         <description xml:lang="gl">Ferramentas para o sistema de ficheiros e paquetes relacionados con FUSE</description>
         <description xml:lang="hu">Fájlrendszer-eszközök és FUSE-hoz kötődő csomagok.</description>
         <description xml:lang="it">Strumenti per i file-system e pacchetti relativi a FUSE.</description>
         <description xml:lang="ja">ファイルシステムのツールと FUSE 関連のパッケージです。</description>
         <description xml:lang="lt">Rinkmenų sistemos įrankiai ir su FUSE susiję paketai.</description>
+        <description xml:lang="nb">Filsystemverktøy og FUSE-relaterte pakker.</description>
         <description xml:lang="nl">Hulpmiddelen voor bestandssysteem en aan FUSE gerelateerde pakketten.</description>
+        <description xml:lang="pl">Narzędzia związane z systemami plików i FUSE</description>
         <description xml:lang="pt_BR">Ferramentas do sistema de arquivos e pacotes relacionados aos FUSE</description>
         <description xml:lang="ru">Инструменты файловых систем и пакеты FUSE.</description>
         <url>http://download.opensuse.org/repositories/filesystems/openSUSE_11.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Education</name>
+        <name xml:lang="da">openSUSE BuildService - Education</name>
         <name xml:lang="es">openSUSE BuildService - Educación</name>
+        <name xml:lang="fi">openSUSEn paketointipalvelu - Koulutus</name>
         <name xml:lang="fr">openSUSE BuildService - Education</name>
         <name xml:lang="gl">openSUSE BuildService - Educación</name>
         <name xml:lang="hu">openSUSE BuildService - Oktatás</name>
         <name xml:lang="it">openSUSE BuildService - Education</name>
         <name xml:lang="ja">openSUSE ビルドサービス - 教育</name>
         <name xml:lang="lt">openSUSE Kūrimo Paslauga - Švietimas</name>
+        <name xml:lang="nb">openSUSE BuildService - Undervisning</name>
         <name xml:lang="nl">openSUSE BuildService - Onderwijs</name>
+        <name xml:lang="pl">openSUSE BuildService - Education</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Educação</name>
         <name xml:lang="ru">openSUSE BuildService - Образование</name>
         <summary>Applications for education users</summary>
+        <summary xml:lang="da">Programmer til brug ifm. uddannelse</summary>
         <summary xml:lang="es">Aplicaciones para usuarios con fines educativos</summary>
+        <summary xml:lang="fi">Sovelluksia koulutuskäyttöön</summary>
         <summary xml:lang="fr">Applications pour les enseignants</summary>
         <summary xml:lang="gl">Aplicativos para usuarios do mundo da educación</summary>
         <summary xml:lang="hu">Alkalmazások oktatási felhasználóknak</summary>
         <summary xml:lang="it">Applicazioni per educatori</summary>
         <summary xml:lang="ja">教育用途向けアプリケーション</summary>
         <summary xml:lang="lt">Programoms mokslams</summary>
+        <summary xml:lang="nb">Undervisningsprogrammer</summary>
         <summary xml:lang="nl">Programma's voor gebruikers in het onderwijs</summary>
+        <summary xml:lang="pl">Aplikacje edukacyjne</summary>
         <summary xml:lang="pt_BR">Aplicações para educação</summary>
         <summary xml:lang="ru">Приложения для образования</summary>
         <description>Contains several packages which might be interesting for educational use</description>
+        <description xml:lang="da">Indeholder mange pakker som kan være interessante til uddannelsesbrug</description>
         <description xml:lang="es">Contiene variedad de paquetes que pueden ser interesantes para uso educativo</description>
+        <description xml:lang="fi">Sisältää useita paketteja koulutuskäyttöön</description>
         <description xml:lang="fr">Contient divers paquets pouvant être intéressants pour un usage éducatif</description>
         <description xml:lang="gl">Contén variedade de paquetes que pode ser interesantes para uso educativo</description>
         <description xml:lang="hu">Néhány olyan csomagot tartalmaz, amelyek érdekesen lehetnek az oktatásban</description>
         <description xml:lang="it">Contiene molti pacchetti che potrebbero essere interessanti per l'uso educativo</description>
         <description xml:lang="ja">教育用途向けに使用する際に便利なパッケージが含まれています</description>
         <description xml:lang="lt">Paketai, kuriais galėtų susidomėti besimokantieji, švietimo darbuotojai</description>
+        <description xml:lang="nb">Inneholder flere pakker som kan være interessante for undervisningsformål</description>
         <description xml:lang="nl">Bron van pakketten mogelijk van belang voor gebruik in het onderwijs</description>
+        <description xml:lang="pl">Zawiera pakiety przydatne do zastosowań edukacyjnych.</description>
         <description xml:lang="pt_BR">Contém diversos pacotes que podem ser interessantes para uso educacional</description>
         <description xml:lang="ru">Содержит некоторые пакеты, которые можно использовать в образовательном процессе</description>
         <url>http://download.opensuse.org/repositories/Education/openSUSE_11.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Java:packages</name>
+        <name xml:lang="da">openSUSE BuildService - Java:packages</name>
         <name xml:lang="es">openSUSE BuildService - Java:packages</name>
+        <name xml:lang="fi">openSUSEn paketointipalvelu - Java:packages</name>
         <name xml:lang="fr">openSUSE BuildService - Java:packages</name>
         <name xml:lang="gl">openSUSE BuildService - Java:packages</name>
         <name xml:lang="hu">openSUSE BuildService - Java:csomagok</name>
         <name xml:lang="it">openSUSE BuildService - Java:packages</name>
         <name xml:lang="ja">openSUSE ビルドサービス - Java:パッケージ</name>
         <name xml:lang="lt">openSUSE Kūrimo Paslauga - Java: paketai</name>
+        <name xml:lang="nb">openSUSE BuildService - Java:pakker</name>
         <name xml:lang="nl">openSUSE BuildService - Java pakketten</name>
+        <name xml:lang="pl">openSUSE BuildService - Java:packages</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Java:packages</name>
         <name xml:lang="ru">openSUSE BuildService - Java: пакеты</name>
         <summary>Bleeding-edge Java packages</summary>
+        <summary xml:lang="da">Bleeding-edge Java-pakker</summary>
         <summary xml:lang="es">Los últimos paquetes de Java</summary>
+        <summary xml:lang="fi">Uusimmat Java-paketit</summary>
         <summary xml:lang="fr">Dernières versions des paquets Java</summary>
         <summary xml:lang="gl">Os últimos paquetes de Java</summary>
         <summary xml:lang="hu">Legfrissebb Java csomagok</summary>
         <summary xml:lang="it">Gli ultimi pacchetti di Java</summary>
         <summary xml:lang="ja">最先端の Java パッケージ</summary>
         <summary xml:lang="lt">Šviežiausi Java paketai</summary>
+        <summary xml:lang="nb">De nyeste Java-pakkene</summary>
         <summary xml:lang="nl">Java-pakketten aan het front</summary>
         <summary xml:lang="pt_BR">Pacotes Java recentes</summary>
         <summary xml:lang="ru">Новейшие пакеты Java</summary>
         <description>Provides uptodate Java packages (Factory backports)</description>
+        <description xml:lang="da">Leverer fuldt opdaterede Java-pakker (Factory backports)</description>
         <description xml:lang="es">Paquetes actualizados de Java (Factory)</description>
+        <description xml:lang="fi">Tarjoaa ajan tasalla olevat Java-paketit (Factorysta)</description>
         <description xml:lang="fr">Fournit des paquets Java à jour (backport de Factory)</description>
         <description xml:lang="gl">Fornece paquetes actualizados de Java (Factory)</description>
         <description xml:lang="hu">A Java-csomagok legfrissebb verzióját tartalmazza (Factory backport)</description>
         <description xml:lang="it">Fornisce pacchetti aggiornati di Java (backport da Factory)</description>
         <description xml:lang="ja">最新の Java パッケージを提供しています (Factory からのバックポート)</description>
         <description xml:lang="lt">Pateikia pačius naujausius Java paketus (atkelti iš vystomo kamieno)</description>
+        <description xml:lang="nb">Inneholder oppdaterte Java-pakker (tilbakeporteringer fra Factory)</description>
         <description xml:lang="nl">Levert de nieuwste Java pakketten (Factory backports)</description>
+        <description xml:lang="pl">Dostarcza zaktualizowane pakiety Java (Factory backports)</description>
         <description xml:lang="pt_BR">Fornece pacotes Java atualizados (Factory backports)</description>
         <description xml:lang="ru">Предоставляет актуальные пакеты Java (обратное портирование из Factory)</description>
         <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_11.3/</url>
