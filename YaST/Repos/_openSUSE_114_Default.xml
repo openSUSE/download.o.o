@@ -114,7 +114,12 @@
 		<description>This repository is useful for those that want to debug applications on openSUSE 11.4. For experts only.</description>
 		<url>http://download.opensuse.org/debug/distribution/11.4/repo/oss/</url>
 	    </repository>
-
+            <repository recommended="false" format="yast">
+                <name>Update Repository (DEBUG)</name>
+                <summary>Update repository of openSUSE 11.4 debuginfo packages</summary>
+                <description>This repository is useful for those that want to debug applications on openSUSE 11.4. For experts only.</description>
+                <url>http://download.opensuse.org/debug/update/11.4/</url>
+            </repository>
 	</repositories>
     </group>
 </metapackage>
