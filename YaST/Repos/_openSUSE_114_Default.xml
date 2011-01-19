@@ -37,7 +37,13 @@
 		<name xml:lang="zh_CN">主安装源 (OSS)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 11.4 including only Open Source Software</summary>
+		<summary xml:lang="ja">オープンソースソフトウエアだけを含む openSUSE 11.4 のメインリポジトリ</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11.4, met alleen opensource-software</summary>
+		<summary xml:lang="ru">Основной репозиторий openSUSE 11.4, включающий только программное обеспечение с открытым кодом</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 11.4, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+		<description xml:lang="ja">openSUSE 11.4 向けの巨大なオープンソースのソフトウエアリポジトリ。 openSUSE チームによって管理されている何千ものパッケージにアクセスすることができます。 (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。インストールの際にリポジトリにアクセスする場合、512 MB の RAM とスワップの利用を強くお勧めします。)</description>
+		<description xml:lang="nl">De grote opensource-software (OSS) installatiebron van openSUSE 11.4 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 MB RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 11.4, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 МБ RAM или включённый раздел подкачки.)</description>
 		<url>http://download.opensuse.org/distribution/11.4/repo/oss/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
@@ -74,7 +80,13 @@
 		<name xml:lang="zh_CN">主安装源 (NON-OSS)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 11.4</summary>
+		<summary xml:lang="ja">オープンソースでないパッケージを含む openSUSE 11.4 の追加リポジトリ</summary>
+		<summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE 11.4</summary>
+		<summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE 11.4</summary>
 		<description>The official openSUSE 11.4 repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
+		<description xml:lang="ja">Opera, Java, Flash などの非オープンソースソフトウエアを含む、 openSUSE チーム管理の openSUSE 11.4 公式リポジトリ</description>
+		<description xml:lang="nl">De officiële openSUSE 11.4-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals Opera, Flash, Java, en meer.</description>
+		<description xml:lang="ru">Официальный репозиторий openSUSE 11.4 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Java, Flash и многое другое.</description>
 		<url>http://download.opensuse.org/distribution/11.4/repo/non-oss/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
@@ -111,13 +123,28 @@
 		<name xml:lang="zh_CN">主安装源 (DEBUG 调试用)</name>
 		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 11.4 including the debuginfo packages</summary>
+		<summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 11.4 のメインリポジトリ</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11.4, met debuginfo-pakketten</summary>
+		<summary xml:lang="ru">Основной репозиторий openSUSE 11.4, включающий пакеты debuginfo</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 11.4. For experts only.</description>
+		<description xml:lang="ja">このリポジトリは openSUSE 11.4 のアプリケーションをデバッグする際に便利です。熟練者向けです。</description>
+		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE 11.4 willen opsporen. Alleen voor ervaren gebruikers.</description>
+		<description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 11.4. Только для экспертов.</description>
 		<url>http://download.opensuse.org/debug/distribution/11.4/repo/oss/</url>
 	    </repository>
             <repository recommended="false" format="yast">
                 <name>Update Repository (DEBUG)</name>
+                <name xml:lang="ja">更新リポジトリ (デバッグ)</name>
+                <name xml:lang="nl">Installatiebron voor bijwerken (DEBUG)</name>
+                <name xml:lang="ru">Репозиторий обновлений (DEBUG)</name>
                 <summary>Update repository of openSUSE 11.4 debuginfo packages</summary>
+                <summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 11.4 の更新リポジトリ</summary>
+                <summary xml:lang="nl">Installatiebron voor bijwerken van openSUSE 11.4 met debuginfo-pakketten</summary>
+                <summary xml:lang="ru">Репозиторий обновлений openSUSE 11.4, включающий пакеты debuginfo</summary>
                 <description>This repository is useful for those that want to debug applications on openSUSE 11.4. For experts only.</description>
+                <description xml:lang="ja">このリポジトリは openSUSE 11.4 のアプリケーションをデバッグする際に便利です。熟練者向けです。</description>
+                <description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE 11.4 willen opsporen. Alleen voor ervaren gebruikers.</description>
+                <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 11.4. Только для экспертов.</description>
                 <url>http://download.opensuse.org/debug/update/11.4/</url>
             </repository>
 	</repositories>

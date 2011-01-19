@@ -35,7 +35,13 @@
         <name xml:lang="zh_CN">主安装源(源代码)</name>
         <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
         <summary>Main repository of openSUSE 11.4 (Source packages)</summary>
+        <summary xml:lang="ja">openSUSE 11.4 のメインリポジトリ (ソースパッケージ)</summary>
+        <summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11.4 (broncodepakketten)</summary>
+        <summary xml:lang="ru">Основной репозиторий openSUSE 11.4 (Пакеты с исходным кодом)</summary>
         <description>The repository of all source packages in openSUSE 11.4. For experts only.</description>
+        <description xml:lang="ja">openSUSE 11.4 の全てのソースパッケージを含むリポジトリ。熟練者向けです。</description>
+        <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE 11.4. Alleen voor ervaren gebruikers.</description>
+        <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE 11.4. Только для экспертов.</description>
         <url>http://download.opensuse.org/source/distribution/11.4/repo/oss/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
@@ -71,7 +77,13 @@
         <name xml:lang="zh_CN">主更新安装源</name>
         <name xml:lang="zh_TW">主要更新套件庫</name>
         <summary>Repository for official updates to 11.4</summary>
+        <summary xml:lang="ja">11.4 用の公式更新リポジトリ</summary>
+        <summary xml:lang="nl">Installatiebron met officiële zaken voor het bijwerken naar 11.4</summary>
+        <summary xml:lang="ru">Репозиторий официальных обновлений для 11.4</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 11.4.</description>
+        <description xml:lang="ja">このリポジトリには openSUSE 11.4 用のセキュリティ／メンテナンス更新があります。</description>
+        <description xml:lang="nl">In deze bron vindt u zaken voor het bijwerken van software voor openSUSE 11.4 voor veiligheid en onderhoud.</description>
+        <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 11.4.</description>
         <url>http://download.opensuse.org/update/11.4/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
@@ -101,6 +113,9 @@
         <name xml:lang="wa">Mwaisse depot (Contrib)</name>
         <name xml:lang="zh_TW">主要套件庫 (Contrib)</name>
         <summary>Repository for community contributions to 11.4</summary>
+        <summary xml:lang="ja">11.4 に対するコミュニティからの配布リポジトリ</summary>
+        <summary xml:lang="nl">Installatiebron met bijdragen uit de gemeenschap voor 11.4</summary>
+        <summary xml:lang="ru">Репозиторий сообщества для 11.4</summary>
         <description>Contrib project contains lots of useful additions to the main distribution by our community contributors. See http://en.opensuse.org/Contrib for details.</description>
         <description xml:lang="cs">Projekt Contrib obsahuje mnoho užitečných doplňků k hlavní distribuci připravených našimi přispěvateli. Více informací na http://en.opensuse.org/Contrib</description>
         <description xml:lang="da">Contrib-projektet indeholder mange nyttige tillæg til hoveddistributionen lavet af bidragsydere fra fællesskabet. Se http://en.opensuse.org/Contrib for detaljeret information.</description>
@@ -444,7 +459,7 @@
         <description xml:lang="ja">全ての最新版Mozillaソフトウエアがあります。たとえば Thunderbird (メールソフト) や Firefox、SeaMonkey (いずれもWebブラウザ) などです。</description>
         <description xml:lang="km">មាន​ការ​ចេញផ្សាយ​ចុងក្រោយ​បំផុត​របស់​កម្មវិធី Mozilla ទាំង​អស់ ដូចជា​កម្មវិធី​អ៊ីមែល​ដ៏មាន​ប្រជាប្រិយភាព Thunderbird, កម្មវិធី​រុករក​បណ្ដាញ Firefox និង SeaMonkey ។</description>
         <description xml:lang="ko">모질라 소프트웨어(천둥새-메일 클라이언트, 불여우 및 씨몽키-웹 브라우저 같은) 최신판이 들어 있습니다.</description>
-        <description xml:lang="lt">Turi naujausias visos Mozilla grupės programinės įrangos versijas, pavyzdžiui, populiaraus Thunderbird (pašto kliento), Firefox and SeaMonkey (žiniatinklio naršyklės).</description>
+        <description xml:lang="lt">Turi naujausias visos Mozilla grupės programinės įrangos versijas, pavyzdžiui, populiaraus Thunderbird (pašto kliento), Firefox and SeaMonkey (saityno naršyklės).</description>
         <description xml:lang="nb">Inneholder de siste utgavene av all programvare fra Mozilla, slik som den populære Thunderbird (epostklient), Firefox og SeaMonkey (weblesere).</description>
         <description xml:lang="nl">Bevat de nieuwste uitgaven van alle Mozilla-software, zoals de populaire Thunderbird (e-mail), Firefox en SeaMonkey (webbrowsers).</description>
         <description xml:lang="pa">ਸਭ ਮੋਜ਼ੀਲਾ ਸਾਫਟਵੇਅਰ ਦੇ ਸਭ ਤੋਂ ਨਵੇਂ ਰੀਲਿਜ਼ ਰੱਖਦੀ ਹੈ, ਜਿਸ ਵਿੱਚ ਹਰਮਨਪਿਆਰੇ ਥੰਡਰਬਰਡ (ਮੇਲ ਕਲਾਇਟ), ਫਾਇਰਫਾਕਸ ਅਤੇ ਸੀ-ਮੌਂਕੀ (ਵੈੱਬ-ਬਰਾਊਜ਼ਰ) ਹਨ।</description>
@@ -1167,52 +1182,6 @@
         <description xml:lang="wa">Dene d' ôtes programes KDE mintnous pal cominålté KDE d' openSUSE.</description>
         <description xml:lang="zh_TW">提供了由 openSUSE KDE 社群維護的額外 KDE 軟體。</description>
         <url>http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_11.4/</url>
-      </repository>
-      <repository recommended="false" format="yast">
-        <name>openSUSE BuildService - GNOME:STABLE:2.30</name>
-        <name xml:lang="da">openSUSE BuildService - GNOME:STABLE:2.30</name>
-        <name xml:lang="fi">openSUSEn paketointipalvelu - GNOME:Vakaa:2.30</name>
-        <name xml:lang="fr">openSUSE BuildService - GNOME:STABLE:2.30</name>
-        <name xml:lang="it">openSUSE BuildService - GNOME:STABLE:2.30</name>
-        <name xml:lang="ja">openSUSE ビルドサービス - GNOME:安定版:2.30</name>
-        <name xml:lang="lt">openSUSE Kūrimo Paslauga - GNOME:STABILI:2.30</name>
-        <name xml:lang="nb">openSUSE BuildService - GNOME:STABLE:2.30</name>
-        <name xml:lang="nl">openSUSE BuildService - GNOME:STABLE:2.30</name>
-        <name xml:lang="pl">openSUSE BuildService - GNOME:STABLE:2.30</name>
-        <name xml:lang="pt_BR">openSUSE BuildService - GNOME:STABLE:2.30</name>
-        <name xml:lang="ru">openSUSE BuildService - GNOME:STABLE:2.302</name>
-        <summary>Backport of latest stable GNOME</summary>
-        <summary xml:lang="ar">الرجوع إلى آخر جنوم مستقر</summary>
-        <summary xml:lang="cs">Zpětný port nejnovější stabilní verze GNOME</summary>
-        <summary xml:lang="da">Backport af seneste stabile GNOME</summary>
-        <summary xml:lang="de">Rückportierung der neuesten stabilen GNOME-Version</summary>
-        <summary xml:lang="es">Adaptación del último GNOME estable</summary>
-        <summary xml:lang="fi">Jakelun jälkeen ilmestynyt vakaa GNOME</summary>
-        <summary xml:lang="fr">Backport pour la dernière version stable de GNOME</summary>
-        <summary xml:lang="gl">Backport da última versión estable de GNOME</summary>
-        <summary xml:lang="hu">Legfrissebb stabil GNOME</summary>
-        <summary xml:lang="it">Backport dell'ultima versione stabile di GNOME</summary>
-        <summary xml:lang="ja">最新の安定版GNOMEからのバックポート</summary>
-        <summary xml:lang="km">បំណះ​​​របស់​ GNOME ដែល​ថេរ​ចុង​ក្រោយ​បំផុត</summary>
-        <summary xml:lang="ko">최신 그놈 안정판 백포트</summary>
-        <summary xml:lang="lt">Oficialiai nepalaikoma stabili GNOME</summary>
-        <summary xml:lang="nb">Tilbakeportering av siste stabile GNOME</summary>
-        <summary xml:lang="nl">Nieuwste stabiele GNOME-programma's, geschikt gemaakt voor de GNOME-versie meegeleverd met openSUSE</summary>
-        <summary xml:lang="pa">ਤਾਜ਼ਾ ਸਟੇਬਲ ਗਨੋਮ ਲਈ ਬੈਕਪੋਰਟ</summary>
-        <summary xml:lang="pl">Backport najnowszej stabilnej wersji GNOME</summary>
-        <summary xml:lang="pt">Backport da última versão estável do GNOME</summary>
-        <summary xml:lang="pt_BR">Backport do GNOME estável mais recente</summary>
-        <summary xml:lang="ro">Backport ale ultimei versiuni stabile GNOME</summary>
-        <summary xml:lang="ru">Обратный перенос последнего стабильного GNOME</summary>
-        <summary xml:lang="sk">Najnovší stabilný GNOME pre už vydané distribúcie</summary>
-        <summary xml:lang="sv">Bakåtportning av den senast stabila GNOME</summary>
-        <summary xml:lang="th">แบ็คพอร์ตต่าง ๆ ของ GNOME รุ่นที่เสถียรล่าสุด</summary>
-        <summary xml:lang="uk">Найновіший стабільний GNOME</summary>
-        <summary xml:lang="wa">Backport do dierin stocaesse GNOME</summary>
-        <summary xml:lang="zh_CN">最新稳定 GNOME 的后向移植</summary>
-        <summary xml:lang="zh_TW">最新穩定版 GNOME 的回溯支援</summary>
-        <description>This provides the latest stable, unsupported release of GNOME for openSUSE 11.4.</description>
-        <url>http://download.opensuse.org/repositories/GNOME:/STABLE:/2.30/openSUSE_11.4/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:Apps</name>

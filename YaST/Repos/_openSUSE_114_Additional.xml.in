@@ -95,12 +95,6 @@
         <url>http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_11.4/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <_name>openSUSE BuildService - GNOME:STABLE:2.30</_name>
-        <_summary>Backport of latest stable GNOME</_summary>
-        <_description>This provides the latest stable, unsupported release of GNOME for openSUSE 11.4.</_description>
-        <url>http://download.opensuse.org/repositories/GNOME:/STABLE:/2.30/openSUSE_11.4/</url>
-      </repository>
-      <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - GNOME:Apps</_name>
         <_summary>Backports of GNOME applications</_summary>
         <_description>Updates to the GNOME software that is shipped with the distribution (backports).</_description>
