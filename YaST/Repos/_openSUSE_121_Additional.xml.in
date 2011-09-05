@@ -130,6 +130,13 @@
         <_description>Provides uptodate Java packages (Factory backports)</_description>
         <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_Factory/</url>
       </repository>
+      <repository recommended="false" format="rpm-md">
+        <_name>openSUSE BuildService - KDE:KDE3</_name>
+        <_summary>Maintained KDE 3 packages</_summary>
+        <_description>Provides old KDE for newer openSUSE</_description>
+        <url>http://download.opensuse.org/repositories/KDE:/KDE3/openSUSE_Factory/</url>
+      </repository>
+
     </repositories>
   </group>
 </metapackage>

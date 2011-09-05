@@ -1550,6 +1550,13 @@
         <description xml:lang="wa">Dene des pacaedjes Java a djoû (rapoirtés dispoy Factory)</description>
         <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_Factory/</url>
       </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - KDE:KDE3</name>
+        <summary>Maintained KDE 3 packages</summary>
+        <description>Provides old KDE for newer openSUSE</description>
+        <url>http://download.opensuse.org/repositories/KDE:/KDE3/openSUSE_Factory/</url>
+      </repository>
+
     </repositories>
   </group>
 </metapackage>
