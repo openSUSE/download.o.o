@@ -178,8 +178,17 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - LibreOffice</name>
+        <name xml:lang="it">openSUSE BuildService - LibreOffice</name>
+        <name xml:lang="ja">openSUSE ビルドサービス - LibreOffice</name>
+        <name xml:lang="nl">openSUSE BuildService - LibreOffice</name>
         <summary>Latest stable LibreOffice release</summary>
+        <summary xml:lang="it">Ultima versione stabile di LibreOffice</summary>
+        <summary xml:lang="ja">LibreOffice で最も新しい安定版</summary>
+        <summary xml:lang="nl">Nieuwste stabiele uitgave van LibreOffice</summary>
         <description>Provides you with the latest stable version of LibreOffice, the Office suite that openSUSE uses.</description>
+        <description xml:lang="it">Fornisce l'ultima versione stabile di LibreOffice, la suite per l'ufficio usata da openSUSE.</description>
+        <description xml:lang="ja">openSUSE で利用するオフィススイート LibreOffice の最新安定版を提供しています。</description>
+        <description xml:lang="nl">Levert de nieuwste stabiele versie van LibreOffice, het standaard kantoorpakket van openSUSE.</description>
         <url>http://download.opensuse.org/repositories/LibreOffice:/Stable/openSUSE_Factory/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
