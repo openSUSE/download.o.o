@@ -25,4 +25,4 @@ git push
 
 rm -rf po
 
-ssh root@ftp-opensuse.suse.de svn up /srv/www-local/download
+ssh root@ftp-opensuse.suse.de 'cd /srv/www-local/download; git pull'
