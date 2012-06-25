@@ -79,7 +79,7 @@
         <description xml:lang="tr">Sana LX masaüstü ortamı ve yazılımının desteklenmeyen fakat en sürümünü sağlayan OpenSUSE Derleme Servisi içinde LXDE deposu</description>
         <description xml:lang="wa">Li depot LXDE dins l' openSUSE Build Service, ki vs dene li modêye nén sopoirtêye, mins li dierinne, di l' evironmint et des programes do scribanne LX.</description>
         <description xml:lang="zh_TW">在 openSUSE Build Service 上的 LXDE 套件庫，提供您沒有支援服務但最新版本的 LXDE 桌面環境與軟體。</description>
-        <url>http://download.opensuse.org/repositories/X11:/lxde/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/X11:/lxde/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - LibreOffice</name>
@@ -148,7 +148,7 @@
         <description xml:lang="ru">Предоставляет последнюю стабильную версию LibreOffice, офисного набора, используемого в openSUSE.</description>
         <description xml:lang="tr">OpenSuse kullanan Ofis paketi, sana LibreOffice'in kararlı en son sürümünü sağlar.</description>
         <description xml:lang="zh_TW">提供您最新穩定版的 LibreOffice，openSUSE 使用的辦公室套裝軟體</description>
-        <url>http://download.opensuse.org/repositories/LibreOffice:/Stable/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/LibreOffice:/Stable/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Mozilla</name>
@@ -249,7 +249,7 @@
         <description xml:lang="wa">Les dierinnès modêyes des programes Mozilla s' î trovèt, come les populaires Thunderbird (cliyint emile), Firefox eyet SeaMonkey (betchteu waibe).</description>
         <description xml:lang="zh_CN">包含最新版本的 Mozilla 软件，比如流行的 Thunderbird (邮件客户端)，Firefox 和 SeaMonkey (网络浏览器)。</description>
         <description xml:lang="zh_TW">包含了所有最新版的 Mozilla 軟體，像是最受歡迎的 Thunderbird (郵件客戶端)，Firefox 和 SeaMonkey (網頁瀏覽器)。</description>
-        <url>http://download.opensuse.org/repositories/mozilla/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/mozilla/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Wine CVS Builds</name>
@@ -348,7 +348,7 @@
         <description xml:lang="wa">Wine est ene implemintåcion libe di l' API Windows, inis i vs permet d' enonder des programes Windows dins openSUSE. Ci depot dene les dierins pacaedjes d' egaloyaedje CVS (disvelopmint) di Wine.</description>
         <description xml:lang="zh_CN">Wine 是 Windows API 在开源界的实现，所以它可以让你在 openSUSE 中运行一些 Windows 程序。此安装源包含 wine 的最新 CVS（开发中）包。</description>
         <description xml:lang="zh_TW">Wine 是一個 Windows API 的開原作品，所以它允許您在 openSUSE 上執行某些 Windows 應用程式。這個套件庫提供了最新的 wine CVS (開發) 即時套件。</description>
-        <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Games</name>
@@ -449,7 +449,7 @@
         <description xml:lang="wa">Sacwants djeus d' accion s' î trovèt di kî gn a Open Arena (les saetchîz tertos), Flight Gear (forveyeu d' volêye) eyet Torcs (forveyeu d' coûsse d' oto e 3D)</description>
         <description xml:lang="zh_CN">包含众多动作游戏，比如 Open Arena (射击)，Flight Gear (飞行模拟器)和 Torcsi (3D 赛车)。</description>
         <description xml:lang="zh_TW">包含了數種動作遊戲包括 Open Arena (射擊)，Flight Gear (飛行模擬器) 和 Torcs (3D 競賽模擬器)。</description>
-        <url>http://download.opensuse.org/repositories/games/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/games/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Drivers for webcams</name>
@@ -551,7 +551,7 @@
         <description xml:lang="wa">Des moenneus nén vîs s' î trovèt po sacwantès webcams.</description>
         <description xml:lang="zh_CN">包含上百种网络摄像头的最新驱动。</description>
         <description xml:lang="zh_TW">包含了數百種網路攝影機的最新驅動程式。</description>
-        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Virtualization (VirtualBox)</name>
@@ -652,7 +652,7 @@
         <description xml:lang="wa">Dene les modêyes a djoû d' VirtualBox, on forvoeyeu libe-sourdant complet a uzaedje djenerå po l' éndjolreye x86.</description>
         <description xml:lang="zh_CN">提供最新的 VirtualBox，用于一般目的完整虚拟 x86 硬件的开源软件。</description>
         <description xml:lang="zh_TW">提供了最新版本的 VirtualBox，一個一般用途的開放原始碼 x86 硬體完整虛擬機器 </description>
-        <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox_backports/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox_backports/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - PHP</name>
@@ -753,7 +753,7 @@
         <description xml:lang="wa">Dene les dierins pacaedjes eyet les modêyes multi-modêye do programe PHP.</description>
         <description xml:lang="zh_CN">提供最新软件包和多个版本的 PHP 软件。</description>
         <description xml:lang="zh_TW">提供了 PHP 軟體最新的套件以及各種不同版本</description>
-        <url>http://download.opensuse.org/repositories/server:/php/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/server:/php/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Database</name>
@@ -855,7 +855,7 @@
         <description xml:lang="wa">Dierins metaedje a djoû po les programes di dnêyes avou dvins Firebird eyet MySQL.</description>
         <description xml:lang="zh_CN">数据库软件的最新更新，比如 Firebird 和 MySQL。</description>
         <description xml:lang="zh_TW">包含 Firebird 和 MySQL 資料庫軟體的最新更新版。</description>
-        <url>http://download.opensuse.org/repositories/server:/database/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/server:/database/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:UpdatedApps</name>
@@ -940,7 +940,7 @@
         <description xml:lang="wa">Met a djoû viè l' programe KDE k' est dné dins l' distribucion (backports).</description>
         <description xml:lang="zh_CN">发行版中所带的 KDE 软件的更新(后向移植)。</description>
         <description xml:lang="zh_TW">更新到發行版本搭載的 KDE 軟體(回溯支援)。</description>
-        <url>http://download.opensuse.org/repositories/KDE:/UpdatedApps/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/KDE:/UpdatedApps/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:Extra</name>
@@ -1030,7 +1030,7 @@
         <description xml:lang="uk">Надає додаткове ПЗ KDE, яке підтримується спільнотою openSUSE KDE.</description>
         <description xml:lang="wa">Dene d' ôtes programes KDE mintnous pal cominålté KDE d' openSUSE.</description>
         <description xml:lang="zh_TW">提供了由 openSUSE KDE 社群維護的額外 KDE 軟體。</description>
-        <url>http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:Apps</name>
@@ -1123,7 +1123,7 @@
         <description xml:lang="wa">Met a djoû viè l' programe GNOME k' est dné dins l' distribucion (backports).</description>
         <description xml:lang="zh_CN">发行版中所带的 GNOME 软件的更新(后向移植)。</description>
         <description xml:lang="zh_TW">更新到發行版本搭載的 GNOME 軟體(回溯支援)。</description>
-        <url>http://download.opensuse.org/repositories/GNOME:/Apps/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/GNOME:/Apps/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - Mono:Community</name>
@@ -1222,7 +1222,7 @@
         <description xml:lang="wa">Metaedjes a djoû eyet radjoutaedje di programes sicrîts e Mono.</description>
         <description xml:lang="zh_CN">用 Mono 编写的更新和附加程序</description>
         <description xml:lang="zh_TW">更新與其他用 Mono 撰寫的應用程式。</description>
-        <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - devel:languages:perl</name>
@@ -1297,7 +1297,7 @@
         <description xml:lang="tr">Perl modülleri için ekler ve güncellemeler</description>
         <description xml:lang="wa">Metaedjes a djoû eyet rawetes po modules Perl</description>
         <description xml:lang="zh_TW">更新與其他 Perl 模組</description>
-        <url>http://download.opensuse.org/repositories/devel:/languages:/perl/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/devel:/languages:/perl/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - devel:languages:python</name>
@@ -1372,7 +1372,7 @@
         <description xml:lang="tr">Python modülleri için ekler ve güncellemeler</description>
         <description xml:lang="wa">Metaedjes a djoû eyet rawetes po modules Python</description>
         <description xml:lang="zh_TW">更新與其他 Perl 模組</description>
-        <url>http://download.opensuse.org/repositories/devel:/languages:/python/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/devel:/languages:/python/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Banshee</name>
@@ -1447,7 +1447,7 @@
         <description xml:lang="tr">Banshee'nin güncel derlemelerini sağlar</description>
         <description xml:lang="wa">Dene des modêyes a djoû d' Banshee</description>
         <description xml:lang="zh_TW">提供了最新版的 Banshee</description>
-        <url>http://download.opensuse.org/repositories/Banshee/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Banshee/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - filesystems</name>
@@ -1521,7 +1521,7 @@
         <description xml:lang="tr">Dosya sistemi araçları ve FUSE'yi ilgilendiren paketler.</description>
         <description xml:lang="wa">Usteyes di sistinme di fitchî eyet pacaedjes k' ont-st a vey avou FUSE.</description>
         <description xml:lang="zh_TW">檔案系統工具以及 FUSE 相關套件</description>
-        <url>http://download.opensuse.org/repositories/filesystems/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/filesystems/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Education</name>
@@ -1599,7 +1599,7 @@
         <description xml:lang="tr">Eğitim amaçlı kullanım için ilginç olabilecek çeşitli paketler içerir.</description>
         <description xml:lang="wa">I gn a dvins sacwants pacaedjes ki pôrént esse ahessåves pol sicolaedje</description>
         <description xml:lang="zh_TW">包含了很多教育人員會有興趣的套件</description>
-        <url>http://download.opensuse.org/repositories/Education/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Education/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Java:packages</name>
@@ -1674,7 +1674,7 @@
         <description xml:lang="tr">Güncel Java paketleri sağlar (Fabrika geri dönümleri)</description>
         <description xml:lang="wa">Dene des pacaedjes Java a djoû (rapoirtés dispoy Factory)</description>
         <description xml:lang="zh_TW">提供了最新版的 Java 套件 (Factory backports)</description>
-        <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - KDE:KDE3</name>
@@ -1743,7 +1743,7 @@
         <description xml:lang="ru">Предоставляет старое KDE для новой openSUSE</description>
         <description xml:lang="tr">Daha yeni openSUSE için eski KDE sağlar.</description>
         <description xml:lang="zh_TW">為較新的 openSUSE 提供舊的 KDE</description>
-        <url>http://download.opensuse.org/repositories/KDE:/KDE3/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/KDE:/KDE3/openSUSE_12.2/</url>
       </repository>
 
     </repositories>

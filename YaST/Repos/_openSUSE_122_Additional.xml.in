@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- Additional Repositories for openSUSE 12.1
+<!-- Additional Repositories for openSUSE 12.2
      These are maintained by Stephan Kulow <coolo@suse.de> -->
 <metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
   <group distversion="openSUSE Build Service">
@@ -8,121 +8,121 @@
         <_name>openSUSE BuildService - LXDE</_name>
         <_summary>Latest LXDE release</_summary>
         <_description>The LXDE repository in the openSUSE Build Service, which provides you with the unsupported but latest version of the LX desktop environment and software.</_description>
-        <url>http://download.opensuse.org/repositories/X11:/lxde/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/X11:/lxde/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - LibreOffice</_name>
         <_summary>Latest stable LibreOffice release</_summary>
         <_description>Provides you with the latest stable version of LibreOffice, the Office suite that openSUSE uses.</_description>
-        <url>http://download.opensuse.org/repositories/LibreOffice:/Stable/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/LibreOffice:/Stable/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Mozilla</_name>
         <_summary>Most recent builds of Mozilla Software like Firefox</_summary>
         <_description>Containing the latest releases of all Mozilla software, such as the popular Thunderbird (mail client), Firefox and SeaMonkey (web browsers). </_description>
-        <url>http://download.opensuse.org/repositories/mozilla/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/mozilla/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Wine CVS Builds</_name>
         <_summary>Snapshots of Wine CVS</_summary>
         <_description>Wine is an Open Source implementation of the Windows API, so it allows you to run some Windows applications in openSUSE. This repository provides the latest CVS (development) snapshot packages of Wine.</_description>
-        <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Games</_name>
         <_summary>A collection of action games</_summary>
         <_description>Contains several action games including Open Arena (shoot 'em up), Flight Gear (flight simulator) and Torcs (3D racing simulator). </_description>
-        <url>http://download.opensuse.org/repositories/games/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/games/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Drivers for webcams</_name>
         <_summary>Recent drivers for webcams</_summary>
         <_description>Contains recent drivers for hundreds of different webcams.</_description>
-        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Virtualization (VirtualBox)</_name>
         <_summary>Latest builds of Virtualbox</_summary>
         <_description>Provides up-to-date builds of VirtualBox, a general-purpose open-source full virtualizer for x86 hardware.</_description>
-        <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox_backports/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Virtualization:/VirtualBox_backports/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - PHP</_name>
         <_summary>Latest updates for PHP software</_summary>
         <_description>Provides the latest packages and multiple-version builds of PHP software.</_description>
-        <url>http://download.opensuse.org/repositories/server:/php/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/server:/php/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Database</_name>
         <_summary>Latest updates for database software</_summary>
         <_description>Latest updates for database software including Firebird and MySQL.</_description>
-        <url>http://download.opensuse.org/repositories/server:/database/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/server:/database/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - KDE:UpdatedApps</_name>
         <_summary>Updated versions of KDE applications</_summary>
         <_description>Updates to the KDE software that is shipped with the distribution (backports).</_description>
-        <url>http://download.opensuse.org/repositories/KDE:/UpdatedApps/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/KDE:/UpdatedApps/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - KDE:Extra</_name>
         <_summary>Community repository for KDE</_summary>
         <_description>Provides additional KDE software maintained by the openSUSE KDE community.</_description>
-        <url>http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - GNOME:Apps</_name>
         <_summary>Backports of GNOME applications</_summary>
         <_description>Updates to the GNOME software that is shipped with the distribution (backports).</_description>
-        <url>http://download.opensuse.org/repositories/GNOME:/Apps/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/GNOME:/Apps/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - Mono:Community</_name>
         <_summary>Community repository for Mono applications</_summary>
         <_description>Updates and Additions of applications written in Mono.</_description>
-        <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - devel:languages:perl</_name>
         <_summary>Community repository for Perl modules</_summary>
         <_description>Updates and Additions for Perl modules</_description>
-        <url>http://download.opensuse.org/repositories/devel:/languages:/perl/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/devel:/languages:/perl/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - devel:languages:python</_name>
         <_summary>Community repository for Python modules</_summary>
         <_description>Updates and Additions for Python modules</_description>
-        <url>http://download.opensuse.org/repositories/devel:/languages:/python/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/devel:/languages:/python/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Banshee</_name>
         <_summary>Latest builds of the Banshee Media Player</_summary>
         <_description>Provides up-to-date builds of Banshee</_description>
-        <url>http://download.opensuse.org/repositories/Banshee/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Banshee/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - filesystems</_name>
         <_summary>Filesystem tools and FUSE-related packages</_summary>
         <_description>Filesystem tools and FUSE-related packages.</_description>
-        <url>http://download.opensuse.org/repositories/filesystems/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/filesystems/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Education</_name>
         <_summary>Applications for education users</_summary>
         <_description>Contains several packages which might be interesting for educational use</_description>
-        <url>http://download.opensuse.org/repositories/Education/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Education/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Java:packages</_name>
         <_summary>Bleeding-edge Java packages</_summary>
         <_description>Provides uptodate Java packages (Factory backports)</_description>
-        <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_12.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - KDE:KDE3</_name>
         <_summary>Maintained KDE 3 packages</_summary>
         <_description>Provides old KDE for newer openSUSE</_description>
-        <url>http://download.opensuse.org/repositories/KDE:/KDE3/openSUSE_12.1/</url>
+        <url>http://download.opensuse.org/repositories/KDE:/KDE3/openSUSE_12.2/</url>
       </repository>
 
     </repositories>
