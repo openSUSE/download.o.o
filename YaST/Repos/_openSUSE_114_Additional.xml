@@ -31,6 +31,7 @@
         <name xml:lang="sk">Hlavný repozitár (zdrojové kódy)</name>
         <name xml:lang="sv">Huvudförråd (Källkod)</name>
         <name xml:lang="th">คลังแพกเกจหลัก (ต้นฉบับ)</name>
+        <name xml:lang="tr">Ana Depo (Kaynaklar)</name>
         <name xml:lang="uk">Головне сховище (джерела)</name>
         <name xml:lang="wa">Mwaisse depot (Sourdants)</name>
         <name xml:lang="zh_CN">主安装源(源代码)</name>
@@ -53,8 +54,11 @@
         <summary xml:lang="nb">Hovedpakkebrønn for openSUSE 11.4 (kildekodepakker)</summary>
         <summary xml:lang="nl">Hoofd-installatiebron van openSUSE 11.4 (broncodepakketten)</summary>
         <summary xml:lang="pl">Główne repozytorium openSUSE 11.4 (Pakiety źródłowe)</summary>
+        <summary xml:lang="pt">Repositório principal do openSUSE 11.4 (Pacotes fonte)</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE 11.4 (pacotes fonte)</summary>
+        <summary xml:lang="ro">Sursă de instalare principală pentru openSUSE 11.4 (pachete sursă)</summary>
         <summary xml:lang="ru">Основной репозиторий openSUSE 11.4 (Пакеты с исходным кодом)</summary>
+        <summary xml:lang="tr">openSUSE 11.4'ün ana deposu (Kaynak paketleri)</summary>
         <summary xml:lang="wa">Mwaisse depot d' openSUSE 11.4 (Pacaedjes des sourdants)</summary>
         <summary xml:lang="zh_TW">openSUSE 11.4 的主要套件庫(原始碼套件)</summary>
         <description>The repository of all source packages in openSUSE 11.4. For experts only.</description>
@@ -74,8 +78,11 @@
         <description xml:lang="nb">Pakkebrønn for alle kildekodepakker i openSUSE 11.4. Bare for avanserte brukere.</description>
         <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE 11.4. Alleen voor ervaren gebruikers.</description>
         <description xml:lang="pl">Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 11.4. Tylko dla zaawansowanych.</description>
+        <description xml:lang="pt">O repositório de todos os pacotes fontes no openSUSE 11.4. Apenas para experientes.</description>
         <description xml:lang="pt_BR">Repositório de todos os pacotes fonte do openSUSE 11.4. Apenas para usuários avançados.</description>
+        <description xml:lang="ro">Sursa de instalare pentru toate pachetele sursă în openSUSE 11.4. Doar pentru experți.</description>
         <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE 11.4. Только для экспертов.</description>
+        <description xml:lang="tr">OpenSUSE 11.4'ün içindeki bütün kaynak paketleri için depo. Sadece uzmanlar için.</description>
         <description xml:lang="wa">Li depot d' tos les pacaedjes des sourdants d' openSUSE 11.4. Po les spepieus seulmint.</description>
         <description xml:lang="zh_TW">openSUSE 11.4 所有原始碼套件的套件庫。僅提供專家使用。</description>
         <url>http://download.opensuse.org/source/distribution/11.4/repo/oss/</url>
@@ -104,11 +111,12 @@
         <name xml:lang="pl">Główne repozytorium aktualizacji</name>
         <name xml:lang="pt">Repositório Principal de Actualizações</name>
         <name xml:lang="pt_BR">Repositório principal de atualização</name>
-        <name xml:lang="ro">Sursă principală actualizări</name>
+        <name xml:lang="ro">Sursă principală de actualizări</name>
         <name xml:lang="ru">Основной репозиторий обновлений</name>
         <name xml:lang="sk">Hlavný repozitár s aktualizáciami</name>
         <name xml:lang="sv">Huvuduppderingsförråd</name>
         <name xml:lang="th">คลังแพกเกจหลักสำหรับปรับรุ่น</name>
+        <name xml:lang="tr">Ana Güncelleme Deposu</name>
         <name xml:lang="uk">Головне сховище з оновленнями</name>
         <name xml:lang="wa">Mwaisse depot pol metaedje a djoû</name>
         <name xml:lang="zh_CN">主更新安装源</name>
@@ -131,8 +139,11 @@
         <summary xml:lang="nb">Pakkebrønn for offisielle oppdateringer til 11.4</summary>
         <summary xml:lang="nl">Installatiebron met officiële zaken voor het bijwerken naar 11.4</summary>
         <summary xml:lang="pl">Repozytorium oficjalnych aktualizacji dla systemu openSUSE 11.4</summary>
+        <summary xml:lang="pt">Repositório para actualizações oficiais do 11.4</summary>
         <summary xml:lang="pt_BR">Repositório para atualizações oficiais para a versão 11.4</summary>
+        <summary xml:lang="ro">Sursă de instalare pentru actualizările oficiale pentru 11.4</summary>
         <summary xml:lang="ru">Репозиторий официальных обновлений для 11.4</summary>
+        <summary xml:lang="tr">11.4'ün resmi güncellemeleri için depo</summary>
         <summary xml:lang="wa">Depot po ls oficires metaedjes a djoû di 11.4</summary>
         <summary xml:lang="zh_TW">11.4 的官方更新套件庫</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 11.4.</description>
@@ -152,8 +163,11 @@
         <description xml:lang="nb">I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer til openSUSE 11.4.</description>
         <description xml:lang="nl">In deze bron vindt u zaken voor het bijwerken van software voor openSUSE 11.4 voor veiligheid en onderhoud.</description>
         <description xml:lang="pl">To repozytorium zawiera aktualizacje i poprawki dla openSUSE 11.4.</description>
+        <description xml:lang="pt">Neste repositório encontrará actualizações de segurança e manutenção para o openSUSE 11.4.</description>
         <description xml:lang="pt_BR">Neste repositório você encontra atualizações de segurança e manutenção para o openSUSE 11.4.</description>
+        <description xml:lang="ro">În această sursă de instalare găsiți actualizări de securitate și întreținere pentru openSUSE 11.4.</description>
         <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 11.4.</description>
+        <description xml:lang="tr">Bu depoda openSUSE 11.4'e güvenlik ve bakım güncellemeleri bulabilirsiniz.</description>
         <description xml:lang="wa">Divins ç' depot ci vs trovroz les metaedjes a djoû d' mintnance eyet d' såvrité po openSUSE 11.4</description>
         <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 11.4 的安全性與維護性更新</description>
         <url>http://download.opensuse.org/update/11.4/</url>
@@ -178,10 +192,13 @@
         <name xml:lang="nb">Hovedpakkebrønn (Contrib)</name>
         <name xml:lang="nl">Hoofd-installatiebron (Contrib)</name>
         <name xml:lang="pl">Repozytorium główne (Contrib)</name>
+        <name xml:lang="pt">Repositório Principal (Contribuições)</name>
         <name xml:lang="pt_BR">Repositório principal (Contrib)</name>
+        <name xml:lang="ro">Sursa de instalare principală (Contrib)</name>
         <name xml:lang="ru">Основной репозиторий (Contrib)</name>
         <name xml:lang="sk">Hlavný repozitár (Contrib)</name>
         <name xml:lang="th">คลังแพกเกจหลัก (ส่วนร่วม)</name>
+        <name xml:lang="tr">Ana Depo (Katkı)</name>
         <name xml:lang="uk">Головне сховище (громадські)</name>
         <name xml:lang="wa">Mwaisse depot (Contrib)</name>
         <name xml:lang="zh_TW">主要套件庫 (Contrib)</name>
@@ -203,8 +220,11 @@
         <summary xml:lang="nb">Pakkebrønn for bidrag til 11.4 fra openSUSE-fellesskapet</summary>
         <summary xml:lang="nl">Installatiebron met bijdragen uit de gemeenschap voor 11.4</summary>
         <summary xml:lang="pl">Repozytorium społeczności dla wersji 11.4</summary>
+        <summary xml:lang="pt">Repositório para actualizações oficiais do 11.4</summary>
         <summary xml:lang="pt_BR">Repositório para contribuições da comunidade para a versão 11.4</summary>
+        <summary xml:lang="ro">Sursă de instalare pentru contribuțiile comunității pentru 11.4</summary>
         <summary xml:lang="ru">Репозиторий сообщества для 11.4</summary>
+        <summary xml:lang="tr">11.4'ün topluluk katkıları için depo</summary>
         <summary xml:lang="wa">Depot po les contribucions del cominålté å 11.4</summary>
         <summary xml:lang="zh_TW">11.4 的社群貢獻套件庫</summary>
         <description>Contrib project contains lots of useful additions to the main distribution by our community contributors. See http://en.opensuse.org/Contrib for details.</description>
@@ -225,10 +245,13 @@
         <description xml:lang="nb">Contrib-prosjektet inneholder en mengde nyttige tillegg til hoveddistribusjonen fra ulike bidragsytere til openSUSE. Du finner mer informasjon på http://en.opensuse.org/Contrib.</description>
         <description xml:lang="nl">Contrib-project bevat veel bruikbare toevoegingen aan de hoofddistributie bijgedragen door de gemeenschap. Zie http://nl.opensuse.org/openSUSE:Contrib voor details.</description>
         <description xml:lang="pl">Projekt Contrib zawiera mnóstwo przydatnych dodatków tworzonych przez społeczność. Więcej informacji na http://en.opensuse.org/Contrib </description>
+        <description xml:lang="pt">Projectos Contrib contêm software adicional ao repositório principal fornecidos pela comunidade de contributores. Veja em  http://en.opensuse.org/Contrib para mais detalhess.</description>
         <description xml:lang="pt_BR">O projeto Contrib contém várias e úteis adições à distribuição principal pelos nossos contribuidores da comunidade. Veja http://en.opensuse.org/Contrib para detalhes.</description>
+        <description xml:lang="ro">Proiectul Contrib conține multe adăugiri la distribuția principală provenite de la membrii comunității noastre. Accesați http://en.opensuse.org/Contrib pentru detalii.</description>
         <description xml:lang="ru">В проекте Contrib можно найти множество полезных дополнений к основному дистрибутиву, выполненных сообществом. Подробнее см. http://en.opensuse.org/Contrib.</description>
         <description xml:lang="sk">Contrib projekt obsahuje mnoho užitočných doplnkov pre hlavnú distribúciu našimi komunitnými prispievateľmi. Pre podrobnosti pozrite http://en.opensuse.org/Contrib.</description>
         <description xml:lang="th">โครงการส่วนร่วม มีรายการแพกเกจต่าง ๆ เพิ่มเติมที่มีประโยชน์กับดิสทริบิวชันหลักอยู่เป็นจำนวนมา ซึ่งถูกจัดทำขึ้นโดยผู้มีส่วนร่วมจากชุมชนของเราเอง ดูรายละเอียดได้ที่ http://en.opensuse.org/Contrib</description>
+        <description xml:lang="tr">Katkı projesi ana dağıtımda topluluğumuza katkıda bulunanlar için bir çok yararlı ekler içerir.Detayları görmek için http://en.opensuse.org/Contrib adresini ziyaret edin.</description>
         <description xml:lang="uk">Проект громадських доробок містить багато корисних додатків до головного дистрибутиву. Подробиці на http://en.opensuse.org/Contrib.</description>
         <description xml:lang="wa">I gn a e pordjet Contrib bråmint d' radjoutaedjes ahessåves al mwaisse distribucion pa les contribouweus d' nosse cominålté. Alez vey http://en.opensuse.org/Contrib po ndè saveur di pus.</description>
         <description xml:lang="zh_TW">Contrib 計畫包含了許多好用的附加於主發行版本，是由我們的社群貢獻者提供的。請參閱 http://en.opensuse.org/Contrib 以獲得詳細內容。</description>
@@ -236,6 +259,7 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - LXDE</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- LXDE</name>
         <name xml:lang="cs">openSUSE BuildService - LXDE</name>
         <name xml:lang="da">openSUSE BuildService - LXDE</name>
         <name xml:lang="de">openSUSE BuildService - LXDE</name>
@@ -253,11 +277,15 @@
         <name xml:lang="nb">openSUSE BuildService - LXDE</name>
         <name xml:lang="nl">openSUSE BuildService - LXDE</name>
         <name xml:lang="pl">openSUSE BuildService - LXDE</name>
+        <name xml:lang="pt">openSUSE BuildService - LXDE</name>
         <name xml:lang="pt_BR">openSUSE BuildService - LXDE</name>
+        <name xml:lang="ro">openSUSE BuildService - LXDE</name>
         <name xml:lang="ru">openSUSE BuildService - LXDE</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - LXDE</name>
         <name xml:lang="wa">openSUSE BuildService - LXDE</name>
         <name xml:lang="zh_TW">openSUSE BuildService - LXDE</name>
         <summary>Latest LXDE release</summary>
+        <summary xml:lang="ar">إخر نسخة من LXDE</summary>
         <summary xml:lang="cs">Nejnovější vydání LXDE</summary>
         <summary xml:lang="da">Seneste LXDE-udgivelse</summary>
         <summary xml:lang="de">Aktuellste LXDE-Veröffentlichung</summary>
@@ -275,8 +303,11 @@
         <summary xml:lang="nb">Nyeste LXDE-versjon</summary>
         <summary xml:lang="nl">Nieuwste uitgave van LXDE</summary>
         <summary xml:lang="pl">Najnowsze wydanie LXDE</summary>
+        <summary xml:lang="pt">Última versão LXDE</summary>
         <summary xml:lang="pt_BR">Lançamento mais recente do LXDE</summary>
+        <summary xml:lang="ro">Cea mai nouă versiune LXDE</summary>
         <summary xml:lang="ru">Последний выпуск LXDE</summary>
+        <summary xml:lang="tr">LXDE'nin en son sürümü</summary>
         <summary xml:lang="wa">Dierinne modêye di LXDE</summary>
         <summary xml:lang="zh_TW">最新釋出的 LXDE</summary>
         <description>The LXDE repository in the openSUSE Build Service, which provides you with the unsupported but latest version of the LX desktop environment and software.</description>
@@ -296,8 +327,11 @@
         <description xml:lang="nb">LXDE-pakkebrønnen fra openSUSE Build Service, som tilbyr ikke-støttede, men oppdaterte utgaver av LXDE-skrivebordsmiljøet, samt tilhørende programvare.</description>
         <description xml:lang="nl">De LXDE-bron in de openSUSE Build Service. Deze levert u de niet-ondersteunde, maar nieuwste versie van de LX Desktop Environment en software.</description>
         <description xml:lang="pl">Repozytorium LXDE w openSUSE Build Service, które zawiera najnowsze nieoficjalne wersje środowiska LXDE.</description>
+        <description xml:lang="pt">O repositório LXDE na actualização do serviço openSUSE, que fornece as últimas versões não suportadas do ambiente de trabalho LX e software</description>
         <description xml:lang="pt_BR">O repositório LXDE no openSUSE Build Service, que fornece a versão mais recente, não suportada oficialmente, do ambiente da área de trabalho LX e programas para o LXDE.</description>
+        <description xml:lang="ro">Arhiva LXDE din openSUSE Build Service, care oferă versiuni netestate dar și cele mai recente ale mediului de lucru LX și programe.</description>
         <description xml:lang="ru">Репозиторий LXDE в openSUSE Build Service, который предоставляет неподдерживаемую, но самую последнюю версию среды рабочего стола и программного обеспечения LXDE.</description>
+        <description xml:lang="tr">Sana LX masaüstü ortamı ve yazılımının desteklenmeyen fakat en sürümünü sağlayan OpenSUSE Derleme Servisi içinde LXDE deposu</description>
         <description xml:lang="wa">Li depot LXDE dins l' openSUSE Build Service, ki vs dene li modêye nén sopoirtêye, mins li dierinne, di l' evironmint et des programes do scribanne LX.</description>
         <description xml:lang="zh_TW">在 openSUSE Build Service 上的 LXDE 套件庫，提供您沒有支援服務但最新版本的 LXDE 桌面環境與軟體。</description>
         <url>http://download.opensuse.org/repositories/X11:/lxde/openSUSE_11.4/</url>
@@ -306,6 +340,7 @@
         <name>openSUSE BuildService - LibreOffice</name>
         <name xml:lang="cs">openSUSE BuildService - LibreOffice</name>
         <name xml:lang="da">openSUSE BuildService - LibreOffice</name>
+        <name xml:lang="de">openSUSE BuildService - LibreOffice</name>
         <name xml:lang="el">openSUSE BuildService - LibreOffice</name>
         <name xml:lang="es">BuildService de openSUSE - LibreOffice</name>
         <name xml:lang="fi">openSUSEn paketointipalvelu - LibreOffice</name>
@@ -319,12 +354,15 @@
         <name xml:lang="nb">openSUSE BuildService - LibreOffice</name>
         <name xml:lang="nl">openSUSE BuildService - LibreOffice</name>
         <name xml:lang="pl">openSUSE BuildService - LibreOffice.org</name>
+        <name xml:lang="pt">openSUSE BuildService - LibreOffice</name>
         <name xml:lang="pt_BR">openSUSE BuildService - LibreOffice</name>
         <name xml:lang="ru">openSUSE BuildService - LibreOffice</name>
+        <name xml:lang="tr">OpenSUSE DerlemeServisi - LibreOffice</name>
         <name xml:lang="zh_TW">openSUSE BuildService - LibreOffice</name>
         <summary>Latest stable LibreOffice release</summary>
         <summary xml:lang="cs">Poslední stabilní verze LibreOffice</summary>
         <summary xml:lang="da">Seneste stabile udgivelse af LibreOffice</summary>
+        <summary xml:lang="de">Neueste stabile LibreOffice-Version</summary>
         <summary xml:lang="el">Πρόσφατη σταθερή έκδοση LibreOffice</summary>
         <summary xml:lang="es">Última versión estable de LibreOffice</summary>
         <summary xml:lang="fi">Uusin vakaa LibreOffice</summary>
@@ -338,12 +376,15 @@
         <summary xml:lang="nb">Nyeste stabile LibreOffice-versjon</summary>
         <summary xml:lang="nl">Nieuwste stabiele uitgave van LibreOffice</summary>
         <summary xml:lang="pl">Najnowsze stabilne wydanie LibreOffice.org</summary>
+        <summary xml:lang="pt">Ultima Release estável LibreOffice</summary>
         <summary xml:lang="pt_BR">Última versão estável do LibreOffice</summary>
         <summary xml:lang="ru">Последний стабильный выпуск LibreOffice</summary>
+        <summary xml:lang="tr">Kararlı LibreOffice'in en son sürümü</summary>
         <summary xml:lang="zh_TW">最新釋出的穩定版 LibreOffice</summary>
         <description>Provides you with the latest stable version of LibreOffice, the Office suite that openSUSE uses.</description>
         <description xml:lang="cs">Poskytuje nejnovější stabilní verzi LibreOffice, kancelářského balíčku používaného v openSUSE.</description>
         <description xml:lang="da">Leverer den seneste stabile version af kontorpakken LibreOffice som openSUSE bruger.</description>
+        <description xml:lang="de">Stellt Ihnen die neueste stabile Version von LibreOffice, der Office-Suite für openSUSE, zur Verfügung.</description>
         <description xml:lang="el">Σας παρέχει την πιο πρόσφατη σταθερή έκδοση του LibreOffice, της σουίτας Γραφείου που χρησιμοποιεί το openSUSE.</description>
         <description xml:lang="es">Le proporciona la última versión estable de LibreOffice, el paquete ofimático utilizado por openSUSE.</description>
         <description xml:lang="fi">Tarjoaa uusimman vakaan version openSUSEn käyttämästä LibreOffice-toimisto-ohjelmistosta.</description>
@@ -357,14 +398,16 @@
         <description xml:lang="nb">Tilbyr den nyeste, stabile versjonen av LibreOffice, standardkontorpakken i openSUSE.</description>
         <description xml:lang="nl">Levert de nieuwste stabiele versie van LibreOffice, het standaard kantoorpakket van openSUSE.</description>
         <description xml:lang="pl">Zawiera najnowszą stabilną wersję pakietu LibreOffice.org, który zawarty jest w openSUSE.</description>
+        <description xml:lang="pt">Fornece-lhe a última versão estável do LibreOffice, a suite de escritório que o openSUSE utiliza.</description>
         <description xml:lang="pt_BR">Fornece a última versão estável do LibreOffice, a suíte de escritório utilizada pelo openSUSE.</description>
         <description xml:lang="ru">Предоставляет последнюю стабильную версию LibreOffice, офисного набора, используемого в openSUSE.</description>
+        <description xml:lang="tr">OpenSuse kullanan Ofis paketi, sana LibreOffice'in kararlı en son sürümünü sağlar.</description>
         <description xml:lang="zh_TW">提供您最新穩定版的 LibreOffice，openSUSE 使用的辦公室套裝軟體</description>
         <url>http://download.opensuse.org/repositories/LibreOffice:/Stable/openSUSE_11.4/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Mozilla</name>
-        <name xml:lang="ar">اوبن سوزي تبني خدمات Mozilla</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- موزيلا</name>
         <name xml:lang="cs">openSUSE BuildService - Mozilla</name>
         <name xml:lang="da">openSUSE BuildService - Mozilla</name>
         <name xml:lang="de">openSUSE BuildService - Mozilla</name>
@@ -392,6 +435,7 @@
         <name xml:lang="sk">openSUSE BuildService - Mozilla</name>
         <name xml:lang="sv">openSUSE BuildService - Mozilla</name>
         <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - ซอฟต์แวร์ในชุด Mozilla</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - Mozilla</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Mozilla</name>
         <name xml:lang="wa">openSUSE BuildService - Mozilla</name>
         <name xml:lang="zh_CN">openSUSE 包构建服务 - Mozilla</name>
@@ -418,11 +462,12 @@
         <summary xml:lang="pl">Najnowsze kompilacje programów Mozilli, takich jak Firefox</summary>
         <summary xml:lang="pt">As mais recentes construções do Software Mozilla como o Firefox</summary>
         <summary xml:lang="pt_BR">Compilações mais recentes de programas da Mozilla, como o Firefox</summary>
-        <summary xml:lang="ro">Cele mai recente build-uri ale software-ului Mozilla, ca de exemplu Firefox</summary>
+        <summary xml:lang="ro">Cele mai recente versiuni compilate ale programelor Mozilla, ca de exemplu Firefox</summary>
         <summary xml:lang="ru">Самые последние сборки программного обеспечения Mozilla, например, Firefox</summary>
         <summary xml:lang="sk">Najaktuálnejšie verzie softvéru od Mozilly ako napr. Firefox</summary>
         <summary xml:lang="sv">Senaste byggen av Mozillas mjukvara som Firefox</summary>
         <summary xml:lang="th">แพกเกจที่ทำล่าสุดของซอฟต์แวร์ในกลุ่ม Mozilla เช่น Firefox เป็นต้น</summary>
+        <summary xml:lang="tr">Firefox gibi Mozilla yazılımının en son derlemeleri</summary>
         <summary xml:lang="uk">Оновлення для програм Mozilla, напр., Firefox</summary>
         <summary xml:lang="wa">Les pus nouvès modêyes des programe Mozilla come Firefox</summary>
         <summary xml:lang="zh_CN">Mozilla 软件的最新包，比如 Firefox</summary>
@@ -449,11 +494,12 @@
         <description xml:lang="pl">Zawiera najnowsze wydania programów Mozilli, takich jak klient poczty Thunderbird, przeglądarka Firefox oraz pakiet internetowy SeaMonkey.</description>
         <description xml:lang="pt">Contem os últimos lançamentos de todo o software Mozilla, como por exemplo o famoso Thunderbird (cliente de correio electrónico), Firefox e o SeaMonkey (navegadores web).</description>
         <description xml:lang="pt_BR">Contém os lançamentos mais recentes de todos os programas da Mozilla, como o popular Thunderbird (cliente de e-mail), o Firefox e o SeaMonkey (navegadores de Internet).</description>
-        <description xml:lang="ro">Conține ultimele versiuni ale software-ului Mozilla, inclusiv popularele Thunderbird (client de mail), Firefox and SeaMonkey (browsere web).</description>
+        <description xml:lang="ro">Conține ultimele versiuni ale programelor Mozilla, inclusiv popularele Thunderbird (client de mail), Firefox și SeaMonkey (navigatoare web).</description>
         <description xml:lang="ru">Содержит последние выпуски программного обеспечения Mozilla, такие как популярные Thunderbird (почтовый клиент), Firefox и SeaMonkey (веб-браузеры).</description>
         <description xml:lang="sk">Obsahuje najnovšie verzie populárnych programov od združenia Mozilla software: Thunderbird (e-mailový klient), Firefox a SeaMonkey (webové prehliadače).</description>
         <description xml:lang="sv">Innehåller de senaste versionerna av all Mozillas mjukvara. som den populära e-postklienten Thunderbird, webbläsarna Firefox och SeaMonkey.</description>
         <description xml:lang="th">ที่เก็บแพกเกจของซอฟต์แวร์ต่าง ๆ ในชุด Mozilla ไม่ว่าจะเป็น Thunderbird (โปรแกรมรับ/ส่งจดหมาย), Firefox และ SeaMonkey (เว็บเบราว์เซอร์)</description>
+        <description xml:lang="tr">Tüm Mozilla yazılımlarının, popüler Thunderbird(posta istemcisi) gibi, Firefox ve SeaMonkey(internet tarayıcısı) son sürümlerini içeriyor.</description>
         <description xml:lang="uk">Містить найновіші випуски програм Mozilla, таких як Thunderbird (поштовий клієнт), Firefox і SeaMonkey (навігатори Тенет).</description>
         <description xml:lang="wa">Les dierinnès modêyes des programes Mozilla s' î trovèt, come les populaires Thunderbird (cliyint emile), Firefox eyet SeaMonkey (betchteu waibe).</description>
         <description xml:lang="zh_CN">包含最新版本的 Mozilla 软件，比如流行的 Thunderbird (邮件客户端)，Firefox 和 SeaMonkey (网络浏览器)。</description>
@@ -485,11 +531,12 @@
         <name xml:lang="pl">openSUSE BuildService - Wydania Wine z CVS</name>
         <name xml:lang="pt">openSUSE BuildService - Construções Wine CVS</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Compilações do Wine CVS</name>
-        <name xml:lang="ro">openSUSE BuildService - Build-uri Wine CVS</name>
+        <name xml:lang="ro">openSUSE BuildService - Builduri Wine CVS</name>
         <name xml:lang="ru">openSUSE BuildService - Сборки CVS Wine</name>
         <name xml:lang="sk">openSUSE BuildService - Wine CVS verzie</name>
         <name xml:lang="sv">openSUSE BuildService - Wine CVS-byggen</name>
         <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - Wine ตัวล่าสุดจาก CVS</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - Wine CVS derlemeleri</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Wine CVS</name>
         <name xml:lang="wa">openSUSE BuildService - Modêyes CVS di Wine</name>
         <name xml:lang="zh_CN">openSUSE 包构建服务 - Wine CVS Builds</name>
@@ -515,11 +562,12 @@
         <summary xml:lang="pl">Zrzuty bazy CVS programu Wine</summary>
         <summary xml:lang="pt">Snapshots do Wine CVS</summary>
         <summary xml:lang="pt_BR">Snapshots do Wine CVS</summary>
-        <summary xml:lang="ro">Snapshot CVS Wine</summary>
+        <summary xml:lang="ro">Instantaneu al codului CVS Wine</summary>
         <summary xml:lang="ru">Снимки CVS Wine</summary>
         <summary xml:lang="sk">Každodenné verzie programu Wine z CVS</summary>
         <summary xml:lang="sv">Snapshot av Wine CVS</summary>
         <summary xml:lang="th">โปรแกรม Wine รุ่นล่าสุดจาก CVS</summary>
+        <summary xml:lang="tr">Wine CVS'in anlık görüntüleri</summary>
         <summary xml:lang="uk">Версія в розробці (CVS) Wine</summary>
         <summary xml:lang="wa">Egaloyaedjes di Wine CVS</summary>
         <summary xml:lang="zh_CN">Wine CVS 的 Snapshot</summary>
@@ -545,11 +593,12 @@
         <description xml:lang="pl">Wine to otwarta implementacja Windows API, która pozwala uruchamiać niektóre programy Windows w openSUSE. Repozytorium zawiera najnowsze nieoficjalne pakiety Wine.</description>
         <description xml:lang="pt">O Wine é uma implementaçãode código aberto da API do Windows, dai poder correr aplicações Windows no openSUSE. Este repositório oferece os pacotes das últimas versões CVS (desenvolvimento) do Wine.</description>
         <description xml:lang="pt_BR">O Wine é uma implementação em código aberto da API do Windows que permite a execução de alguns aplicativos do Windows no openSUSE. Este repositório fornece o snapshot CVS (desenvolvimento) mais recente de pacotes do Wine.</description>
-        <description xml:lang="ro">Wine este o implementare Open Source a API-urilor Windows, ce permit rularea anumitor aplicații Windows sub openSUSE. Această sursă furnizează ultimele pachete snapshot CVS (dezvoltare) ale Wine.</description>
+        <description xml:lang="ro">Wine este o implementare cu sursă deschisă a API-urilor Windows, ce permit rularea anumitor aplicații Windows sub openSUSE. Această sursă furnizează ultimele pachete din serverul CVS (dezvoltare) ale Wine.</description>
         <description xml:lang="ru">Wine является реализацией Windows API с открытым кодом, так что она позволяет вам запускать некоторые приложения Windows в openSUSE. Этот репозиторий предоставляет пакеты с последними снимками CVS (разработки) Wine.</description>
         <description xml:lang="sk">Wine je slobodný softvér, ktorý implementuje API systému Windows do Linuxu. To vám umožní spúšťať niektoré windowsové aplikácie v openSUSE. Tento repozitár poskytuje balíky najnovšej (vývojovej) verzie Wine z CVS.</description>
         <description xml:lang="sv">Wine är en open source implementation av Windows API, så den hjälper dig att köra vissa windowsprogram i openSUSE. Det här förrådet tillhandahåller den senaste CVS-versionen (utvecklingsversionen) av Wine.</description>
         <description xml:lang="th">โปรแกรม Wine คือโปรแกรมที่เขียนขึ้นโดยอิงข้อมูลจาก Windows API ซึ่งจะทำให้คุณสามารถทำการประมวลผลโปรแกรมของระบบวินโดว์สบางโปรแกรมได้ใน openSUSE โดยคลังแพกเกจนี้จะจัดเตรียมโปรแกรม Wine รุ่นล่าสุดบนระบบ (CVS) ของโครงการ Wine นั่นคือเป็นโปรแกรมที่อยู่ในระหว่างการพัฒนานั่นเอง</description>
+        <description xml:lang="tr">Wine Windows API'nin açık kaynak kodlu bir uygulaması olduğundan OpenSUSE bazı windows uygulamalarını çalıştırmanıza izin verir. Bu depo</description>
         <description xml:lang="uk">Wine - це (ВПЗ) впровадження Windows API, що дозволяє запускати деякі програми Windows в openSUSE. Це сховище надає пакунки Wine з найновішими модифікаціями з CVS (версія в розробці).</description>
         <description xml:lang="wa">Wine est ene implemintåcion libe di l' API Windows, inis i vs permet d' enonder des programes Windows dins openSUSE. Ci depot dene les dierins pacaedjes d' egaloyaedje CVS (disvelopmint) di Wine.</description>
         <description xml:lang="zh_CN">Wine 是 Windows API 在开源界的实现，所以它可以让你在 openSUSE 中运行一些 Windows 程序。此安装源包含 wine 的最新 CVS（开发中）包。</description>
@@ -558,6 +607,7 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Games</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- ألعاب</name>
         <name xml:lang="cs">openSUSE BuildService - Hry</name>
         <name xml:lang="da">openSUSE BuildService - spil</name>
         <name xml:lang="de">openSUSE BuildService - Spiele</name>
@@ -585,6 +635,7 @@
         <name xml:lang="sk">openSUSE BuildService - Hry</name>
         <name xml:lang="sv">openSUSE BuildService - Spel</name>
         <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - เกมส์</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - Oyunlar</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Ігри</name>
         <name xml:lang="wa">openSUSE BuildService - Djeus</name>
         <name xml:lang="zh_CN">openSUSE 包构建服务 - 游戏</name>
@@ -612,11 +663,12 @@
         <summary xml:lang="pl">Zestaw gier akcji</summary>
         <summary xml:lang="pt">Uma colecção de jogos de acção</summary>
         <summary xml:lang="pt_BR">Uma coleção de jogos de ação</summary>
-        <summary xml:lang="ro">Colecție de jocuri de acțiune</summary>
+        <summary xml:lang="ro">O colecție de jocuri de acțiune</summary>
         <summary xml:lang="ru">Коллекция action-игр.</summary>
         <summary xml:lang="sk">Zbierka akčných hier</summary>
         <summary xml:lang="sv">En samling av action-spel.</summary>
         <summary xml:lang="th">ชุดสะสมของเกมแนวแอคชัน</summary>
+        <summary xml:lang="tr">Aksiyon oyunları koleksiyonu</summary>
         <summary xml:lang="uk">Збірка ігор</summary>
         <summary xml:lang="wa">On ramexhnaedje di djeus d' accion</summary>
         <summary xml:lang="zh_CN">动作游戏集合</summary>
@@ -642,11 +694,12 @@
         <description xml:lang="pl">Zawiera kilka gier akcji, takich jak Open Arena (strzelanka), Flight Gear (symulator lotu) oraz Torcs (trójwymiarowy symulator wyścigów).</description>
         <description xml:lang="pt">Contem diversos jogos de acção incluindo Open Arena (shoot 'em up), Flight Gear (simulador de vôos) e Torcs (simulador de corridas 3D).</description>
         <description xml:lang="pt_BR">Contém diversos jogos de ação, incluindo o Open Arena (tiro em primeira pessoa), o Flight Gear (simulador de voo) e o Torcs (simulador de corrida 3D).</description>
-        <description xml:lang="ro">Conține jocuri de acțiune, inclusiv Open Arena (shooter), Flight Gear (simulator de zbor) și Torcs (simulator de curse 3D).</description>
+        <description xml:lang="ro">Conține mai multe jocuri de acțiune, inclusiv Open Arena (shooter), Flight Gear (simulator de zbor) și Torcs (simulator de curse 3D).</description>
         <description xml:lang="ru">Содержит несколько игр-стрелялок, включая Open Arena (убей их всех), Flight Gear (симулятор полета) и Torcs (трёхмерный симулятор гонок).</description>
         <description xml:lang="sk">Obsahuje rozličné akčné hry vrátane Open Arény (zastreľ čo sa hýbe:), FlightGear (letecký simulátor) a Torcs (3D simulátor automobilových pretekov).</description>
         <description xml:lang="sv">Innehåller flera action-spel som Open Arena (shoot 'em up), Flight Gear (flygsimulator) och Torcs (3D racingsimulator).</description>
         <description xml:lang="th">ที่เก็บเกมแนวแอคชันต่าง ๆ รวมถึง Open Arena (shoot 'em up), Flight Gear (เกมจำลองการบิน) และ Torcs (เกมจำลองการแข่งรถแบบ 3 มิติ)</description>
+        <description xml:lang="tr">Open Arena (Shoot 'Em Up), Flight Gear (uçuş simülatörü) ve Torcs (3D yarış simülatörü) dahil olmak üzere birçok aksiyon oyunları içerir.</description>
         <description xml:lang="uk">Містить декілька ігор: Open Arena (стрілянина), Flight Gear (симуляція польотів) і Torcs (3D симуляція гонок).</description>
         <description xml:lang="wa">Sacwants djeus d' accion s' î trovèt di kî gn a Open Arena (les saetchîz tertos), Flight Gear (forveyeu d' volêye) eyet Torcs (forveyeu d' coûsse d' oto e 3D)</description>
         <description xml:lang="zh_CN">包含众多动作游戏，比如 Open Arena (射击)，Flight Gear (飞行模拟器)和 Torcsi (3D 赛车)。</description>
@@ -655,7 +708,7 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Drivers for webcams</name>
-        <name xml:lang="ar">أوبن سوزي تبني تعريف لكاميرات الويب</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- تعريفات لكاميرات الويب</name>
         <name xml:lang="cs">openSUSE BuildService - Ovladače pro webové kamery</name>
         <name xml:lang="da">openSUSE BuildService - drivere til webcams</name>
         <name xml:lang="de">openSUSE BuildService - Treiber für Web-Cams</name>
@@ -683,6 +736,7 @@
         <name xml:lang="sk">openSUSE BuildService - Ovládače pre webové kamery</name>
         <name xml:lang="sv">openSUSE BuildService - Drivrutiner för webbkameror</name>
         <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - ไดรเวอร์ของเว็บแคมรุ่นต่าง ๆ</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - Webcamler için sürücüler</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Драйвери для веб-камер</name>
         <name xml:lang="wa">openSUSE BuildService - Moenneus po webcams</name>
         <name xml:lang="zh_CN">openSUSE 包构建服务 - 网络摄像头驱动</name>
@@ -710,11 +764,12 @@
         <summary xml:lang="pl">Najnowsze sterowniki kamer internetowych</summary>
         <summary xml:lang="pt">Recentes controladores para webcams</summary>
         <summary xml:lang="pt_BR">Drivers recentes para webcams</summary>
-        <summary xml:lang="ro">Drivere actuale pentru camere web</summary>
+        <summary xml:lang="ro">Drivere recente pentru camere web</summary>
         <summary xml:lang="ru">Последние драйверы для веб-камер</summary>
         <summary xml:lang="sk">Najnovšie ovládače webových kamier</summary>
         <summary xml:lang="sv">Senaste drivrutinerna för webbkameror</summary>
         <summary xml:lang="th">ไดรเวอร์ล่าสุดของเว็บแคม</summary>
+        <summary xml:lang="tr">Webcam'ler için yeni sürücüler</summary>
         <summary xml:lang="uk">Найновіші драйвери для веб-камер</summary>
         <summary xml:lang="wa">Le dierins mineus po les waibcams</summary>
         <summary xml:lang="zh_CN">网络摄像头的最新驱动</summary>
@@ -746,6 +801,7 @@
         <description xml:lang="sk">Obsahuje posledné ovládače stoviek rozličných kamier.</description>
         <description xml:lang="sv">Innehåller drivrutiner för hundratals olika webbkameror.</description>
         <description xml:lang="th">ที่เก็บไดรเวอร์ที่ทันสมัยที่สุดของเว็บแคมรุ่นต่าง ๆ มากมายหลายรุ่น</description>
+        <description xml:lang="tr">Yüzlerce farklı web kamerasının son sürücülerini içerir.</description>
         <description xml:lang="uk">Містить найновіші драйвери для сотень різних веб-камер.</description>
         <description xml:lang="wa">Des moenneus nén vîs s' î trovèt po sacwantès webcams.</description>
         <description xml:lang="zh_CN">包含上百种网络摄像头的最新驱动。</description>
@@ -782,12 +838,13 @@
         <name xml:lang="sk">openSUSE BuildService - Virtualizácia (VirtualBox)</name>
         <name xml:lang="sv">openSUSE BuildService - Virtualisering (VirtualBox)</name>
         <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - เวอร์ชวลไลเซชัน (VirtualBox)</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - Sanallaştırma (VitualBox)</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Віртуалізація (VirtualBox)</name>
         <name xml:lang="wa">openSUSE BuildService - Virtualization (VirtualBox)</name>
         <name xml:lang="zh_CN">openSUSE 包构建服务 - 虚拟化 (VirtualBox)</name>
         <name xml:lang="zh_TW">openSUSE BuildService - 虛擬化 (VirtualBox)</name>
         <summary>Latest builds of Virtualbox</summary>
-        <summary xml:lang="ar">آخر بناء Virtualbox</summary>
+        <summary xml:lang="ar">آخر نسخة من Virtualbox</summary>
         <summary xml:lang="cs">Poslední verze Virtualbox</summary>
         <summary xml:lang="da">Seneste Virtualbox-pakker</summary>
         <summary xml:lang="de">Neueste Pakete von Virtualbox</summary>
@@ -809,11 +866,12 @@
         <summary xml:lang="pl">Najnowsze kompilacje Virtualbox</summary>
         <summary xml:lang="pt">Últimas construções do Virtualbox</summary>
         <summary xml:lang="pt_BR">Compilações mais recentes do Virtualbox</summary>
-        <summary xml:lang="ro">Ultimele build-uri Virtualbox</summary>
+        <summary xml:lang="ro">Ultimele versiuni compilate de Virtualbox</summary>
         <summary xml:lang="ru">Последние сборки Virtualbox</summary>
         <summary xml:lang="sk">Najnovšie verzie Virtualboxu</summary>
         <summary xml:lang="sv">Senaste versionen av VirtualBox</summary>
         <summary xml:lang="th">แพกเกจที่ทำล่าสุดของ Virtualbox </summary>
+        <summary xml:lang="tr">Virtualbox'ın en son derlemeleri</summary>
         <summary xml:lang="uk">Найновіші версії Virtualbox</summary>
         <summary xml:lang="wa">Dierinnès modêyes di Virtualbox</summary>
         <summary xml:lang="zh_CN">Virtualbox 最新的编译</summary>
@@ -839,11 +897,12 @@
         <description xml:lang="pl">Zawiera najnowsze kompilacje VirtualBox, otwartego programu do wirtualizacji dla platformy x86.</description>
         <description xml:lang="pt">Fornece constriuções actualizadas do VirtualBox, um virtualizador completo e de código aberto para hardware x86.</description>
         <description xml:lang="pt_BR">Fornece compilações atualizadas do VirtualBox, um virtualizador completo de uso geral e código aberto para arquitetura x86.</description>
-        <description xml:lang="ro">Furnizează build-uri actuale VirtualBox, un virtualizator complet de uz general, open-source, pentru hardware x86.</description>
+        <description xml:lang="ro">Furnizează versiuni recente de VirtualBox, un virtualizator complet de uz general, cu sursă deschisă, pentru hardware x86.</description>
         <description xml:lang="ru">Предоставляет современные сборки VirtualBox, полного виртуализатора общего назначения с открытым для оборудования x86.</description>
         <description xml:lang="sk">Poskytuje aktuálne verzie VirtualBoxu - plne virtualizačný nástroj pre x86 hardvér pre všeobecné použitie s otvoreným zdrojovým kódom.</description>
         <description xml:lang="sv">Tillhandahåller uppdaterade byggen av VirtualBox, en öppenkällkodsvirtualiseringslösning för x86 hårdvara.</description>
         <description xml:lang="th">จัดเตรียมแพกเกจรุ่นทันสมัยที่สุดของ VirtualBox ซึ่งเป็นโปรแกรมเสรีสำหรับจำลองเป็นเครื่องคอมพิวเตอร์เสมือนอย่างเต็มรูปแบบ ไว้ให้ได้เลือกใช้งาน</description>
+        <description xml:lang="tr">VirtualBox'ın güncel derlemelerini sağlar, x86 donanımı için Genel amaçlı  tamamen açık kaynaklı sanallaştırıcı</description>
         <description xml:lang="uk">Найновіші пакунки VirtualBox, програма (з відкритим кодом) загального вжитку для віртуалізації апаратного обладнання x86.</description>
         <description xml:lang="wa">Dene les modêyes a djoû d' VirtualBox, on forvoeyeu libe-sourdant complet a uzaedje djenerå po l' éndjolreye x86.</description>
         <description xml:lang="zh_CN">提供最新的 VirtualBox，用于一般目的完整虚拟 x86 硬件的开源软件。</description>
@@ -879,6 +938,7 @@
         <name xml:lang="sk">openSUSE BuildService - PHP</name>
         <name xml:lang="sv">openSUSE BuildService - PHP</name>
         <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - ซอฟต์แวร์ PHP</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - PHP</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - PHP</name>
         <name xml:lang="wa">openSUSE BuildService - PHP</name>
         <name xml:lang="zh_CN">openSUSE 包构建服务 - PHP</name>
@@ -906,11 +966,12 @@
         <summary xml:lang="pl">Najnowsze aktualizacje dla PHP</summary>
         <summary xml:lang="pt">Últimas actualizações do software PHP</summary>
         <summary xml:lang="pt_BR">Atualizações mais recentes para programas PHP</summary>
-        <summary xml:lang="ro">Ultimele actualizări pentru software PHP</summary>
+        <summary xml:lang="ro">Ultimele actualizări pentru PHP</summary>
         <summary xml:lang="ru">Последние обновления для программного обеспечения PHP</summary>
         <summary xml:lang="sk">Najnovšie aktualizácie PHP programov</summary>
         <summary xml:lang="sv">Senaste uppdateringarna för PHP-mjukvara</summary>
         <summary xml:lang="th">ซอฟต์แวร์ PHP ที่ปรับรุ่นล่าสุด</summary>
+        <summary xml:lang="tr">PHP yazılımı için en son güncellemeler</summary>
         <summary xml:lang="uk">Оновлення для PHP</summary>
         <summary xml:lang="wa">Dierins metaedje a djoû po les programes PHP</summary>
         <summary xml:lang="zh_CN">PHP 软件最新更新</summary>
@@ -937,11 +998,12 @@
         <description xml:lang="pl">Zawiera najnowsze pakiety i różne wersje oprogramowania PHP.</description>
         <description xml:lang="pt">Fornece os últimos pacotes e várias construções de versões de software PHP.</description>
         <description xml:lang="pt_BR">Fornece os pacotes e compilações mais recentes de múltiplas versões de programas PHP.</description>
-        <description xml:lang="ro">Furnizează ultimele pachete și build-uri multi-versiune de software PHP.</description>
+        <description xml:lang="ro">Furnizează ultimele pachete și builduri multi-versiune de PHP.</description>
         <description xml:lang="ru">Предоставляет последние пакеты и сборки разных версий программного обеспечения PHP.</description>
         <description xml:lang="sk">Poskytuje najnovšie balíky a mnohé verzie PHP programov.</description>
         <description xml:lang="sv">Tillhandahåller de senaste paketeten och flera versioner av PHP-mjukvara.</description>
         <description xml:lang="th">จัดเตรียมซอฟต์แวร์ PHP ทั้งรุ่นล่าสุดและรุ่นอื่น ๆ ไว้ให้ได้เลือกใช้</description>
+        <description xml:lang="tr">PHP yazılımı'nın son paketlerini ve çoklu versiyon derlemelerini sağlar.</description>
         <description xml:lang="uk">Надає найновіші пакунки програмного забезпечення для PHP.</description>
         <description xml:lang="wa">Dene les dierins pacaedjes eyet les modêyes multi-modêye do programe PHP.</description>
         <description xml:lang="zh_CN">提供最新软件包和多个版本的 PHP 软件。</description>
@@ -950,7 +1012,7 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Database</name>
-        <name xml:lang="ar">أوبن سوزي تبني خدمة -- قاعدة البيانات</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- قاعدة البيانات</name>
         <name xml:lang="cs">openSUSE BuildService - Databáze</name>
         <name xml:lang="da">openSUSE BuildService - database</name>
         <name xml:lang="de">openSUSE BuildService - Datenbank</name>
@@ -978,6 +1040,7 @@
         <name xml:lang="sk">openSUSE BuildService - Databázy</name>
         <name xml:lang="sv">openSUSE BuildService - Databas</name>
         <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - ด้านฐานข้อมูล</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - Veritabanı</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Бази даних</name>
         <name xml:lang="wa">openSUSE BuildService - Båzes di dnêyes</name>
         <name xml:lang="zh_CN">openSUSE 包构建服务 - 数据库</name>
@@ -1010,6 +1073,7 @@
         <summary xml:lang="sk">Najnovšie aktualizácie pre databázové programy</summary>
         <summary xml:lang="sv">Senaste uppdateringarna för databasmjukvara</summary>
         <summary xml:lang="th">ซอฟต์แวร์ด้านฐานข้อมูลที่ปรับรุ่นล่าสุด</summary>
+        <summary xml:lang="tr">Veritabanı yazılımı için en son güncellemeler</summary>
         <summary xml:lang="uk">Оновлення для баз даних</summary>
         <summary xml:lang="wa">Dierins metaedje a djoû po les programes di båze di dnêyes</summary>
         <summary xml:lang="zh_CN">数据库软件最新更新</summary>
@@ -1041,6 +1105,7 @@
         <description xml:lang="sk">Najnovšie aktualizácie databázových programov vrátane Firebirdu a MySQL.</description>
         <description xml:lang="sv">Senaste uppdateringarna för databasmjukvara inklusive Firebird och MySQL</description>
         <description xml:lang="th">ซอฟต์แวร์ด้านฐานข้อมูลที่ปรับรุ่นล่าสุด รวมถึง Firebird และ MySQL</description>
+        <description xml:lang="tr">Firebird ve MySQL içeren veritabanı yazılımı için en son güncellemeler.</description>
         <description xml:lang="uk">Оновлення для ПЗ баз даних, таких як Firebird і MySQL.</description>
         <description xml:lang="wa">Dierins metaedje a djoû po les programes di dnêyes avou dvins Firebird eyet MySQL.</description>
         <description xml:lang="zh_CN">数据库软件的最新更新，比如 Firebird 和 MySQL。</description>
@@ -1049,6 +1114,7 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- كدي: تطبيقات محدثة</name>
         <name xml:lang="cs">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="da">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="de">openSUSE BuildService - KDE:UpdatedApps</name>
@@ -1066,8 +1132,10 @@
         <name xml:lang="nb">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="nl">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="pl">openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="pt">openSUSE BuildService - KDE:Actualização Pacotes</name>
         <name xml:lang="pt_BR">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="ru">openSUSE BuildService - KDE:UpdatedApps</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - KDE:Güncellenmiş Uygulamalar</name>
         <name xml:lang="wa">openSUSE BuildService - KDE:ProgramesADjoû</name>
         <name xml:lang="zh_TW">openSUSE BuildService - KDE:更新應用程式</name>
         <summary>Updated versions of KDE applications</summary>
@@ -1088,8 +1156,11 @@
         <summary xml:lang="nb">Oppdaterte versjoner av KDE-programmer</summary>
         <summary xml:lang="nl">Bijgewerkte versies van KDE programma's</summary>
         <summary xml:lang="pl">Aktualizacje aplikacji KDE</summary>
+        <summary xml:lang="pt">Versões actualizadas para aplicações KDE</summary>
         <summary xml:lang="pt_BR">Versões atualizadas de aplicativos do KDE</summary>
+        <summary xml:lang="ro">Versiuni actualizate ale aplicațiilor KDE</summary>
         <summary xml:lang="ru">Обновлённые версии приложений KDE</summary>
+        <summary xml:lang="tr">KDE uygulamalarının güncellenmiş versiyonları</summary>
         <summary xml:lang="wa">Modêyes a djoû di programes di KDE</summary>
         <summary xml:lang="zh_TW">最新版的 KDE 應用程式</summary>
         <description>Updates to the KDE software that is shipped with the distribution (backports).</description>
@@ -1114,11 +1185,12 @@
         <description xml:lang="pl">Aktualizacje oprogramowania KDE wydanego w dystrybucji (backports).</description>
         <description xml:lang="pt">Actualiza para o software KDE que é disponibilizado com a distribuição (backports).</description>
         <description xml:lang="pt_BR">Atualizações para os programas do KDE que vêm com a distribuição (backports).</description>
-        <description xml:lang="ro">Actualizări ale software-ului KDE livrat odată cu distribuția (backport-uri).</description>
+        <description xml:lang="ro">Actualizări ale softwareului KDE livrat odată cu distribuția (backporturi).</description>
         <description xml:lang="ru">Обновления для программного обеспечения KDE, которое поставляется с дистрибутивом (обратные переносы).</description>
         <description xml:lang="sk">Aktualizácie KDE programov, ktoré boli dodané s distribúciou v čase jej vydania (tzv. backport-y).</description>
         <description xml:lang="sv">Uppdaterar KDE som skickades med distributionen (bakåtportningar)</description>
         <description xml:lang="th">ปรับรุ่นของโปรแกรมแบบ KDE ที่ติดมากับดิสทริบิวชัน (backports)</description>
+        <description xml:lang="tr">Dağılımı (geri uyumları) ile birlikte gelen KDE yazılımınının güncellemeleri.</description>
         <description xml:lang="uk">Оновлення для програм KDE, які прийшли з дистрибутивом (backports).</description>
         <description xml:lang="wa">Met a djoû viè l' programe KDE k' est dné dins l' distribucion (backports).</description>
         <description xml:lang="zh_CN">发行版中所带的 KDE 软件的更新(后向移植)。</description>
@@ -1127,6 +1199,7 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- كدي:إضافي</name>
         <name xml:lang="cs">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="da">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="de">openSUSE BuildService - KDE:Extra</name>
@@ -1144,12 +1217,15 @@
         <name xml:lang="nb">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="nl">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="pl">openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="pt">openSUSE BuildService - KDE:Extras</name>
         <name xml:lang="pt_BR">openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="ro">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="ru">openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - KDE:Ekstra</name>
         <name xml:lang="wa">openSUSE BuildService - KDE:Estra</name>
         <name xml:lang="zh_TW">openSUSE BuildService - KDE:額外</name>
         <summary>Community repository for KDE</summary>
-        <summary xml:lang="ar">مخزن مجموعة كيدي</summary>
+        <summary xml:lang="ar">مستودع المجتمع لكدي</summary>
         <summary xml:lang="cs">Komunitní repozitář s KDE</summary>
         <summary xml:lang="da">Softwarekilde fra fællesskabet med KDE</summary>
         <summary xml:lang="de">Gemeinschafts-Repository für KDE</summary>
@@ -1176,6 +1252,7 @@
         <summary xml:lang="sk">Komunitný repozitár KDE</summary>
         <summary xml:lang="sv">Communityförråd för KDE</summary>
         <summary xml:lang="th">คลังแพกเกจของชุมชน KDE</summary>
+        <summary xml:lang="tr">KDE için topluluk deposu</summary>
         <summary xml:lang="uk">Громадські сховища для KDE</summary>
         <summary xml:lang="wa">Depots del cominålté po KDE</summary>
         <summary xml:lang="zh_CN">KDE 社区安装源</summary>
@@ -1198,10 +1275,13 @@
         <description xml:lang="nb">Inneholder tilleggsprogramvare for KDE som vedlikeholdes av openSUSE KDE-fellesskapet.</description>
         <description xml:lang="nl">Levert aanvullende KDE-software die onderhouden wordt door de openSUSE-KDE-gemeenschap.</description>
         <description xml:lang="pl">Zawiera dodatkowe oprogramowanie dla KDE, które przygotowywane jest przez społeczność KDE.</description>
+        <description xml:lang="pt">Fornece adicionalmente software KDE mantido pela comunidade KDE do openSUSE.</description>
         <description xml:lang="pt_BR">Fornece programas complementares para o KDE mantido pela comunidade KDE do openSUSE.</description>
+        <description xml:lang="ro">Furnizează aplicații adiționale KDE întreținute de comunitatea KDE openSUSE.</description>
         <description xml:lang="ru">Предоставляет дополнительное программное обеспечение KDE, поддерживаемое сообществом KDE openSUSE.</description>
         <description xml:lang="sk">Poskytuje doplnkový softvér pre KDE, ktorý obhospodaruje openSUSE KDE komunita.</description>
         <description xml:lang="th">จัดเตรียมโปรแกรมต่าง ๆ แบบ KDE ซึ่งดูแลโดยชุมชน KDE ของ openSUSE</description>
+        <description xml:lang="tr"> KDE ek yazılımının korunuşunu OpenSuse KDE topluluğu sağlar</description>
         <description xml:lang="uk">Надає додаткове ПЗ KDE, яке підтримується спільнотою openSUSE KDE.</description>
         <description xml:lang="wa">Dene d' ôtes programes KDE mintnous pal cominålté KDE d' openSUSE.</description>
         <description xml:lang="zh_TW">提供了由 openSUSE KDE 社群維護的額外 KDE 軟體。</description>
@@ -1209,6 +1289,7 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - GNOME:Apps</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- جنوم:تطبيقات</name>
         <name xml:lang="cs">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="da">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="de">openSUSE BuildService - GNOME:Anwendungen</name>
@@ -1227,10 +1308,13 @@
         <name xml:lang="nb">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="nl">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="pl">openSUSE BuildService - GNOME:Apps</name>
+        <name xml:lang="pt">openSUSE BuildService - GNOME:Aplicações</name>
         <name xml:lang="pt_BR">openSUSE BuildService - GNOME:Apps</name>
+        <name xml:lang="ro">openSUSE BuildService - GNOME:Aplicații</name>
         <name xml:lang="ru">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="sk">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - GNOME:Apps</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - GNOME: Uygulamalar</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - GNOME:Apps</name>
         <name xml:lang="wa">openSUSE BuildService - GNOME:Programes</name>
         <name xml:lang="zh_TW">openSUSE BuildService - GNOME:應用程式</name>
@@ -1252,10 +1336,13 @@
         <summary xml:lang="nb">Tilbakeportering av GNOME-programmer</summary>
         <summary xml:lang="nl">GNOME-toepassingen, geschikt gemaakt voor de GNOME-versie meegeleverd met openSUSE</summary>
         <summary xml:lang="pl">Backporty aplikacji GNOME</summary>
+        <summary xml:lang="pt">Backports de aplicações GNOME</summary>
         <summary xml:lang="pt_BR">Backports de aplicativos do GNOME</summary>
+        <summary xml:lang="ro">Backporturi ale aplicațiilor GNOME</summary>
         <summary xml:lang="ru">Обратный перенос приложений GNOME</summary>
         <summary xml:lang="sk">Nové GNOME aplikácie pre už vydané distribúcie</summary>
         <summary xml:lang="th">แบ็คพอร์ตต่าง ๆ ของ GNOME</summary>
+        <summary xml:lang="tr">GNOME uygulamalarının geri uyum sağlamaları</summary>
         <summary xml:lang="uk">Портовані програми GNOME</summary>
         <summary xml:lang="wa">Backports des dierins programes GNOME</summary>
         <summary xml:lang="zh_TW">GNOME 應用程式的回溯支援</summary>
@@ -1281,11 +1368,12 @@
         <description xml:lang="pl">Aktualizacje oprogramowania GNOME wydanego w dystrybucji (backports).</description>
         <description xml:lang="pt">Actualiza para o software GNOME que é disponibilizado com a distribuição (backports).</description>
         <description xml:lang="pt_BR">Atualizações para os programas do GNOME que vêm com a distribuição (backports).</description>
-        <description xml:lang="ro">Actualizări ale software-ului GNOME livrat odată cu distribuția (backport-uri).</description>
+        <description xml:lang="ro">Actualizări ale softwareului GNOME livrat odată cu distribuția (backporturi).</description>
         <description xml:lang="ru">Обновления для программного обеспечения GNOME, которое поставляется с дистрибутивом (обратные переносы).</description>
         <description xml:lang="sk">Aktualizácie GNOME programov, ktoré boli dodané s distribúciou v čase jej vydania (tzv. backport-y).</description>
         <description xml:lang="sv">Uppdaterar GNOME som skickades med distributionen (bakåtportningar)</description>
         <description xml:lang="th">ปรับรุ่นของโปรแกรมแบบ GNOME ที่ติดมากับดิสทริบิวชัน (backports)</description>
+        <description xml:lang="tr">Dağılımı (geri uyumlar) ile birlikte gelen GNOME yazılımın'ın Güncellemeleri.</description>
         <description xml:lang="uk">Оновлення для програм GNOME, які прийшли з дистрибутивом (backports).</description>
         <description xml:lang="wa">Met a djoû viè l' programe GNOME k' est dné dins l' distribucion (backports).</description>
         <description xml:lang="zh_CN">发行版中所带的 GNOME 软件的更新(后向移植)。</description>
@@ -1294,6 +1382,7 @@
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - Mono:Community</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- مونو:المجتمع</name>
         <name xml:lang="cs">openSUSE BuildService - Mono:Community</name>
         <name xml:lang="da">openSUSE BuildService - Mono:Community</name>
         <name xml:lang="de">openSUSE BuildService - Mono:Community</name>
@@ -1320,6 +1409,7 @@
         <name xml:lang="sk">openSUSE BuildService - Mono:Community</name>
         <name xml:lang="sv">openSUSE BuildService - Mono:Community</name>
         <name xml:lang="th">บริการสร้างแพกเกจของ openSUSE - โปรแกรมแบบ Mono จากชุมชน</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - Mono:Topluluk</name>
         <name xml:lang="uk">Служба складання пакунків openSUSE - Mono:Community</name>
         <name xml:lang="wa">openSUSE BuildService - Mono:Cominålté</name>
         <name xml:lang="zh_CN">openSUSE 包构建服务 - Mono:Community</name>
@@ -1346,11 +1436,12 @@
         <summary xml:lang="pl">Repozytoria społeczności dla aplikacji Mono</summary>
         <summary xml:lang="pt">Repositório da comunidade de aplicações Mono</summary>
         <summary xml:lang="pt_BR">Repositório da comunidade para aplicativos em Mono</summary>
-        <summary xml:lang="ro">Sursă de instalare comunitară pentru aplicații Mono</summary>
+        <summary xml:lang="ro">Sursă de instalare a comunității pentru aplicații Mono</summary>
         <summary xml:lang="ru">Репозиторий сообщества для приложений Mono</summary>
         <summary xml:lang="sk">Komunitný repozitár pre Mono aplikácie</summary>
         <summary xml:lang="sv">Communityförråd för Mono-applikationer</summary>
         <summary xml:lang="th">คลังแพกเกจของชุมชนของโปรแกรมแบบ Mono</summary>
+        <summary xml:lang="tr">Mono uygulamaları için topluluk deposu</summary>
         <summary xml:lang="uk">Громадське сховище для програм Mono</summary>
         <summary xml:lang="wa">Depots del cominålté po les programes Mono</summary>
         <summary xml:lang="zh_CN">Mono 应用程序社区安装源</summary>
@@ -1376,11 +1467,12 @@
         <description xml:lang="pl">Aktualizacje i dodatkowe aplikacje napisane w Mono.</description>
         <description xml:lang="pt">Actualizações e Adicionais de aplicações escritas em Mono.</description>
         <description xml:lang="pt_BR">Atualizações e adicionais de aplicativos escritos em Mono.</description>
-        <description xml:lang="ro">Actualizări și noi aplicații scrise în Mono.</description>
+        <description xml:lang="ro">Actualizări ale aplicațiilor scrise în Mono.</description>
         <description xml:lang="ru">Обновления и дополнения для приложений, написанных на Mono.</description>
         <description xml:lang="sk">Aktualizácie a rozšírenia aplikácií napísaných v jazyku Mono.</description>
         <description xml:lang="sv">Uppdateringar och utökningar för program skrivna i Mono.</description>
         <description xml:lang="th">ปรับรุ่นและทำการเพิ่มเติมโปรแกรมแบบ Mono</description>
+        <description xml:lang="tr">Mono da yazılmış uygulamaların güncellemeleri ve ekleri</description>
         <description xml:lang="uk">Оновлення і додатки для програм написаних на Mono.</description>
         <description xml:lang="wa">Metaedjes a djoû eyet radjoutaedje di programes sicrîts e Mono.</description>
         <description xml:lang="zh_CN">用 Mono 编写的更新和附加程序</description>
@@ -1405,11 +1497,14 @@
         <name xml:lang="nb">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="nl">openSUSE BuildService - devel:talen:perl</name>
         <name xml:lang="pl">openSUSE BuildService - devel:languages:perl</name>
+        <name xml:lang="pt">openSUSE BuildService - desenvolvimento:linguagens:perl</name>
         <name xml:lang="pt_BR">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="ru">openSUSE BuildService - devel:languages:perl</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - devel:diller:perl</name>
         <name xml:lang="wa">openSUSE BuildService - devel:lingaedjes:perl</name>
         <name xml:lang="zh_TW">openSUSE BuildService - devel:languages:perl</name>
         <summary>Community repository for Perl modules</summary>
+        <summary xml:lang="ar">مستودع المجتمع لوحدات بيرل</summary>
         <summary xml:lang="cs">Komunitní repozitář pro moduly Perl</summary>
         <summary xml:lang="da">Softwarekilde fra fællesskabet med Perl-moduler</summary>
         <summary xml:lang="de">Gemeinschafts-Repository für Perl-Module</summary>
@@ -1427,8 +1522,10 @@
         <summary xml:lang="nb">Uoffisiell pakkebrønn for Perl-moduler</summary>
         <summary xml:lang="nl">Gemeenschapsbron voor Perl modulen</summary>
         <summary xml:lang="pl">Repozytoria społeczności dla modułów Perl</summary>
+        <summary xml:lang="pt">Repositório da comunidade para modulos Perl</summary>
         <summary xml:lang="pt_BR">Repositório da comunidade para módulos Perl</summary>
         <summary xml:lang="ru">Репозиторий сообщества для модулей Perl</summary>
+        <summary xml:lang="tr">Perl modülleri için topluluk deposu</summary>
         <summary xml:lang="wa">Depot del cominålté po les modules Perl</summary>
         <summary xml:lang="zh_TW">Perl 模組的社群套件庫</summary>
         <description>Updates and Additions for Perl modules</description>
@@ -1448,8 +1545,11 @@
         <description xml:lang="nb">Oppdateringer og tillegg for Perl-moduler</description>
         <description xml:lang="nl">Bijwerken en toevoegingen voor Perl modulen</description>
         <description xml:lang="pl">Aktualizacje i dodatki dla modułów Perl</description>
+        <description xml:lang="pt">Actualizações e Adicões para modulos Perl</description>
         <description xml:lang="pt_BR">Atualizações e adições para módulos Perl</description>
+        <description xml:lang="ro">Actualizări și completări pentru modulele Perl</description>
         <description xml:lang="ru">Обновления и дополнения для модулей Perl</description>
+        <description xml:lang="tr">Perl modülleri için ekler ve güncellemeler</description>
         <description xml:lang="wa">Metaedjes a djoû eyet rawetes po modules Perl</description>
         <description xml:lang="zh_TW">更新與其他 Perl 模組</description>
         <url>http://download.opensuse.org/repositories/devel:/languages:/perl/openSUSE_11.4/</url>
@@ -1472,11 +1572,14 @@
         <name xml:lang="nb">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="nl">openSUSE BuildService - devel:talen:python</name>
         <name xml:lang="pl">openSUSE BuildService - devel:languages:python</name>
+        <name xml:lang="pt">openSUSE BuildService - desenvolvimento:linguagens:python</name>
         <name xml:lang="pt_BR">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="ru">openSUSE BuildService - devel:languages:python</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - devel:diller:python</name>
         <name xml:lang="wa">openSUSE BuildService - devel:lingaedjes:python</name>
         <name xml:lang="zh_TW">openSUSE BuildService - devel:languages:python</name>
         <summary>Community repository for Python modules</summary>
+        <summary xml:lang="ar">مستودع المجتمع لوحدات بايثون</summary>
         <summary xml:lang="cs">Komunitní repozitář pro moduly Python</summary>
         <summary xml:lang="da">Softwarekilde fra fællesskabet med Python-moduler</summary>
         <summary xml:lang="de">Gemeinschafts-Repository für Python-Module</summary>
@@ -1494,8 +1597,10 @@
         <summary xml:lang="nb">Uoffisiell pakkebrønn for Python-moduler</summary>
         <summary xml:lang="nl">Gemeenschapsbron voor Python modulen</summary>
         <summary xml:lang="pl">Repozytoria społeczności dla modułów Python</summary>
+        <summary xml:lang="pt">Repositório da comunidade para modulos Python</summary>
         <summary xml:lang="pt_BR">Repositório da comunidade para módulos Python</summary>
         <summary xml:lang="ru">Репозиторий сообщества для модулей Python</summary>
+        <summary xml:lang="tr">Python modülleri için topluluk deposu</summary>
         <summary xml:lang="wa">Depots del cominålté po les modules Python</summary>
         <summary xml:lang="zh_TW">Python 模組的社群版套件庫</summary>
         <description>Updates and Additions for Python modules</description>
@@ -1515,8 +1620,11 @@
         <description xml:lang="nb">Oppdateringer og tillegg for Python-moduler</description>
         <description xml:lang="nl">Bijwerken en toevoegingen voor Python modulen</description>
         <description xml:lang="pl">Aktualizacje i dodatki dla modułów Python</description>
+        <description xml:lang="pt">Actualizações e Adições para modulos Python</description>
         <description xml:lang="pt_BR">Atualizações e adições para módulos Python</description>
+        <description xml:lang="ro">Actualizări și completări pentru modulele Python</description>
         <description xml:lang="ru">Обновления и дополнения для модулей Python</description>
+        <description xml:lang="tr">Python modülleri için ekler ve güncellemeler</description>
         <description xml:lang="wa">Metaedjes a djoû eyet rawetes po modules Python</description>
         <description xml:lang="zh_TW">更新與其他 Perl 模組</description>
         <url>http://download.opensuse.org/repositories/devel:/languages:/python/openSUSE_11.4/</url>
@@ -1540,8 +1648,11 @@
         <name xml:lang="nb">openSUSE BuildService - Banshee</name>
         <name xml:lang="nl">openSUSE BuildService - Banshee</name>
         <name xml:lang="pl">openSUSE BuildService - Banshee</name>
+        <name xml:lang="pt">openSUSE BuildService - Banshee</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Banshee</name>
+        <name xml:lang="ro">openSUSE BuildService - Banshee</name>
         <name xml:lang="ru">openSUSE BuildService - Banshee</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - Banshee</name>
         <name xml:lang="wa">openSUSE BuildService - Banshee</name>
         <name xml:lang="zh_TW">openSUSE BuildService - Banshee</name>
         <summary>Latest builds of the Banshee Media Player</summary>
@@ -1561,8 +1672,10 @@
         <summary xml:lang="nb">De nyeste versjonene av mediespilleren Banshee</summary>
         <summary xml:lang="nl">Nieuwste uitgaven van de Banshee mediaspeler</summary>
         <summary xml:lang="pl">Najnowsze kompilacje odtwarzacza mediów Banshee</summary>
+        <summary xml:lang="pt">Últimas actualizações do player de música Banshee</summary>
         <summary xml:lang="pt_BR">Últimas versões do reprodutor de mídias Banshee</summary>
         <summary xml:lang="ru">Последние сборки медиаплеера Banshee</summary>
+        <summary xml:lang="tr">Banshee Media Player'ın son derlermeleri</summary>
         <summary xml:lang="wa">Dierinnès modêyes do djouweu media Banshee</summary>
         <summary xml:lang="zh_TW">最新版的 Banshee 媒體播放器</summary>
         <description>Provides up-to-date builds of Banshee</description>
@@ -1582,8 +1695,11 @@
         <description xml:lang="nb">Inneholder oppdaterte versjoner av Banshee</description>
         <description xml:lang="nl">Nieuwste uitgaven van Banshee</description>
         <description xml:lang="pl">Udostępnia aktualne kompilacje programu Banshee</description>
+        <description xml:lang="pt">Fornece versões actualizadas do Banshee</description>
         <description xml:lang="pt_BR">Fornece versões atualizadas do Banshee</description>
+        <description xml:lang="ro">Oferă cele mai recente versiuni Banshee</description>
         <description xml:lang="ru">Предоставляет актуальные сборки Banshee</description>
+        <description xml:lang="tr">Banshee'nin güncel derlemelerini sağlar</description>
         <description xml:lang="wa">Dene des modêyes a djoû d' Banshee</description>
         <description xml:lang="zh_TW">提供了最新版的 Banshee</description>
         <url>http://download.opensuse.org/repositories/Banshee/openSUSE_11.4/</url>
@@ -1607,8 +1723,11 @@
         <name xml:lang="nb">openSUSE BuildService - filsystemers</name>
         <name xml:lang="nl">openSUSE BuildService - bestandssystemen</name>
         <name xml:lang="pl">openSUSE BuildService - filesystems</name>
+        <name xml:lang="pt">openSUSE BuildService - Sistemas de ficheiros</name>
         <name xml:lang="pt_BR">openSUSE BuildService - sistemas de arquivos</name>
+        <name xml:lang="ro">openSUSE BuildService - sisteme de fișiere</name>
         <name xml:lang="ru">openSUSE BuildService - Файловые системы</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - dosya sistemleri</name>
         <name xml:lang="wa">openSUSE BuildService - sistinmes di fitchî</name>
         <name xml:lang="zh_TW">openSUSE BuildService - 檔案系統</name>
         <summary>Filesystem tools and FUSE-related packages</summary>
@@ -1628,8 +1747,10 @@
         <summary xml:lang="nb">Filsystemverktøy og FUSE-relaterte pakker</summary>
         <summary xml:lang="nl">Hulpmiddelen voor bestandssysteem en aan FUSE gerelateerde pakketten</summary>
         <summary xml:lang="pl">Narzędzia związane z systemami plików i FUSE</summary>
+        <summary xml:lang="pt">Ferramentas do sistema de ficheiros e pacotes relacionados-FUSE</summary>
         <summary xml:lang="pt_BR">Ferramentas do sistema de arquivos e pacotes relacionados ao FUSE</summary>
         <summary xml:lang="ru">Инструменты файловых систем и пакеты FUSE</summary>
+        <summary xml:lang="tr">Dosya sistemi araçları ve FUSE'yi ilgilendiren paketler</summary>
         <summary xml:lang="wa">Usteyes di sistinme di fitchî eyet pacaedjes k' ont-st a vey avou FUSE</summary>
         <summary xml:lang="zh_TW">檔案系統工具以及 FUSE 相關套件</summary>
         <description>Filesystem tools and FUSE-related packages.</description>
@@ -1649,14 +1770,17 @@
         <description xml:lang="nb">Filsystemverktøy og FUSE-relaterte pakker.</description>
         <description xml:lang="nl">Hulpmiddelen voor bestandssysteem en aan FUSE gerelateerde pakketten.</description>
         <description xml:lang="pl">Narzędzia związane z systemami plików i FUSE</description>
+        <description xml:lang="pt">Ferramentas do sistema de ficheiros e pacotes relacionados-FUSE. </description>
         <description xml:lang="pt_BR">Ferramentas do sistema de arquivos e pacotes relacionados ao FUSE.</description>
         <description xml:lang="ru">Инструменты файловых систем и пакеты FUSE.</description>
+        <description xml:lang="tr">Dosya sistemi araçları ve FUSE'yi ilgilendiren paketler.</description>
         <description xml:lang="wa">Usteyes di sistinme di fitchî eyet pacaedjes k' ont-st a vey avou FUSE.</description>
         <description xml:lang="zh_TW">檔案系統工具以及 FUSE 相關套件</description>
         <url>http://download.opensuse.org/repositories/filesystems/openSUSE_11.4/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Education</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- تعليم</name>
         <name xml:lang="cs">openSUSE BuildService - Výuka</name>
         <name xml:lang="da">openSUSE BuildService - Education</name>
         <name xml:lang="de">openSUSE BuildService - Bildungswesen</name>
@@ -1674,11 +1798,15 @@
         <name xml:lang="nb">openSUSE BuildService - Undervisning</name>
         <name xml:lang="nl">openSUSE BuildService - Onderwijs</name>
         <name xml:lang="pl">openSUSE BuildService - Education</name>
+        <name xml:lang="pt">openSUSE BuildService - Educação</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Educação</name>
+        <name xml:lang="ro">openSUSE BuildService - Educație</name>
         <name xml:lang="ru">openSUSE BuildService - Образование</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - Eğitim</name>
         <name xml:lang="wa">openSUSE BuildService - Acsegnmint</name>
         <name xml:lang="zh_TW">openSUSE BuildService - Education</name>
         <summary>Applications for education users</summary>
+        <summary xml:lang="ar">تطبيقات لتعليم المستخدمين</summary>
         <summary xml:lang="cs">Aplikace pro výuku uživatelů</summary>
         <summary xml:lang="da">Programmer til brug ifm. uddannelse</summary>
         <summary xml:lang="de">Anwendungen für Anwender im Bildungswesen</summary>
@@ -1695,11 +1823,15 @@
         <summary xml:lang="nb">Undervisningsprogrammer</summary>
         <summary xml:lang="nl">Programma's voor gebruikers in het onderwijs</summary>
         <summary xml:lang="pl">Aplikacje edukacyjne</summary>
+        <summary xml:lang="pt">Aplicações para educação</summary>
         <summary xml:lang="pt_BR">Aplicações para educação</summary>
+        <summary xml:lang="ro">Aplicații pentru utilizatorii educaționali</summary>
         <summary xml:lang="ru">Приложения для образования</summary>
+        <summary xml:lang="tr">Eğitim kullanıcıları için uygulamalar</summary>
         <summary xml:lang="wa">Programes po les uzeus a scole</summary>
         <summary xml:lang="zh_TW">專為教育準備的應用程式</summary>
         <description>Contains several packages which might be interesting for educational use</description>
+        <description xml:lang="cs">Obsahuje několik balíčků, které by mohly být zajímavé pro vzdělávání</description>
         <description xml:lang="da">Indeholder mange pakker som kan være interessante til uddannelsesbrug</description>
         <description xml:lang="de">Enthält verschiedene Pakete, die für die Benutzung im Erziehungswesen nützlich sein könnten</description>
         <description xml:lang="el">Περιλαμβάνει διάφορα πακέτα που μπορεί να είναι ενδιαφέροντα για εκπαιδευτική χρήση</description>
@@ -1715,8 +1847,11 @@
         <description xml:lang="nb">Inneholder flere pakker som kan være interessante for undervisningsformål</description>
         <description xml:lang="nl">Bron van pakketten mogelijk van belang voor gebruik in het onderwijs</description>
         <description xml:lang="pl">Zawiera pakiety przydatne do zastosowań edukacyjnych.</description>
+        <description xml:lang="pt">Contem vários pacotes que podem ser interessantes para uso na educação</description>
         <description xml:lang="pt_BR">Contém diversos pacotes que podem ser interessantes para uso educacional</description>
+        <description xml:lang="ro">Conține mai multe pachete care ar putea fi interesante pentru utilizarea educațională</description>
         <description xml:lang="ru">Содержит некоторые пакеты, которые можно использовать в образовательном процессе</description>
+        <description xml:lang="tr">Eğitim amaçlı kullanım için ilginç olabilecek çeşitli paketler içerir.</description>
         <description xml:lang="wa">I gn a dvins sacwants pacaedjes ki pôrént esse ahessåves pol sicolaedje</description>
         <description xml:lang="zh_TW">包含了很多教育人員會有興趣的套件</description>
         <url>http://download.opensuse.org/repositories/Education/openSUSE_11.4/</url>
@@ -1740,8 +1875,10 @@
         <name xml:lang="nb">openSUSE BuildService - Java:pakker</name>
         <name xml:lang="nl">openSUSE BuildService - Java pakketten</name>
         <name xml:lang="pl">openSUSE BuildService - Java:packages</name>
+        <name xml:lang="pt">openSUSE BuildService - Java:pacotes</name>
         <name xml:lang="pt_BR">openSUSE BuildService - Java:packages</name>
         <name xml:lang="ru">openSUSE BuildService - Java: пакеты</name>
+        <name xml:lang="tr">openSuse Derleme Servisi - Java:paketler</name>
         <name xml:lang="wa">openSUSE BuildService - Java:pacaedjes</name>
         <name xml:lang="zh_TW">openSUSE BuildService - Java:套件</name>
         <summary>Bleeding-edge Java packages</summary>
@@ -1762,11 +1899,15 @@
         <summary xml:lang="nb">De nyeste Java-pakkene</summary>
         <summary xml:lang="nl">Java-pakketten aan het front</summary>
         <summary xml:lang="pl">Najnowsze pakiety Java (mogą być niestabilne).</summary>
+        <summary xml:lang="pt">Pacotes Java não estáveis</summary>
         <summary xml:lang="pt_BR">Pacotes Java recentes</summary>
+        <summary xml:lang="ro">Pachete Java recente</summary>
         <summary xml:lang="ru">Новейшие пакеты Java</summary>
+        <summary xml:lang="tr">Yeni teknoloji Java paketleri</summary>
         <summary xml:lang="wa">Les pus noûs pacaedjes Java</summary>
         <summary xml:lang="zh_TW">最新的 Java 套件</summary>
         <description>Provides uptodate Java packages (Factory backports)</description>
+        <description xml:lang="cs">Nabízí aktuální balíčky Java  (Factory backporty)</description>
         <description xml:lang="da">Leverer fuldt opdaterede Java-pakker (Factory backports)</description>
         <description xml:lang="de">Enthält aktuelle Java-Pakete (Rückportierungen aus Factory)</description>
         <description xml:lang="el">Παρέχει ενήμερα πακέτα Java (backports του Factory)</description>
@@ -1782,8 +1923,10 @@
         <description xml:lang="nb">Inneholder oppdaterte Java-pakker (tilbakeporteringer fra Factory)</description>
         <description xml:lang="nl">Levert de nieuwste Java pakketten (Factory backports)</description>
         <description xml:lang="pl">Dostarcza zaktualizowane pakiety Java (Factory backports)</description>
+        <description xml:lang="pt">Fornece pacotes Java actualizados (backports por defeito)</description>
         <description xml:lang="pt_BR">Fornece pacotes Java atualizados (Factory backports)</description>
         <description xml:lang="ru">Предоставляет актуальные пакеты Java (обратное портирование из Factory)</description>
+        <description xml:lang="tr">Güncel Java paketleri sağlar (Fabrika geri dönümleri)</description>
         <description xml:lang="wa">Dene des pacaedjes Java a djoû (rapoirtés dispoy Factory)</description>
         <description xml:lang="zh_TW">提供了最新版的 Java 套件 (Factory backports)</description>
         <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_11.4/</url>

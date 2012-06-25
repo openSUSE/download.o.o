@@ -4,22 +4,18 @@
 
 	
 	<item>
-	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_113_Default.xml</link>
+	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_122_Default.xml</link>
 	    
 	    <installation_repo config:type="boolean">true</installation_repo>
 	    <official config:type="boolean">true</official>
 	</item>
 
 	<item>
-	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_113_Additional.xml</link>
+	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_122_Additional.xml</link>
 	    <official config:type="boolean">true</official>
 	</item>
 
 	
-	<item>
-	    <link>http://opensuse-community.org/openSUSE_113_Community_Additional.xml</link>
-	    <official config:type="boolean">false</official>
-        </item>
 
     </servers>
 </productDefines>
