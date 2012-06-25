@@ -20,7 +20,8 @@ for i in *.xml.in; do
   intltool-merge --xml-style po $i ${i/.in/}
 done
 
-svn ci -m "update translations"
+git commit -a -m "update translations"
+git push
 
 rm -rf po
 
