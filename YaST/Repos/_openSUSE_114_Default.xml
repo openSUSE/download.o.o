@@ -5,7 +5,7 @@
 
 	    <repository recommended="true" format="yast">
 		<name>Main Repository (OSS)</name>
-		<name xml:lang="ar">المستودع الرئيسي (OSS)</name>
+		<name xml:lang="ar">المستودع الرئيسي (حرة)</name>
 		<name xml:lang="cs">Hlavní repozitář (OSS)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (OSS)</name>
 		<name xml:lang="de">Haupt-Repository (OSS)</name>
@@ -36,9 +36,10 @@
 		<name xml:lang="tr">Ana Depo (AKY)</name>
 		<name xml:lang="uk">Головне сховище (ВПЗ)</name>
 		<name xml:lang="wa">Mwaisse depot (OSS)</name>
-		<name xml:lang="zh_CN">主安装源 (OSS)</name>
+		<name xml:lang="zh_CN">主安装源 (开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 11.4 including only Open Source Software</summary>
+		<summary xml:lang="ar">المستودع الرئيسي من أوبن سوزي 11.4 بما في ذلك برمجيات المصدر المفتوح فقط</summary>
 		<summary xml:lang="cs">Hlavní repozitář openSUSE 11.4 obsahující pouze open-source software</summary>
 		<summary xml:lang="da">Hovedsoftwarekilden for openSUSE 11.4, som kun inkluderer open source-software</summary>
 		<summary xml:lang="de">Haupt-Repository für openSUSE 11.4, das nur quelloffene Software enthält </summary>
@@ -62,8 +63,10 @@
 		<summary xml:lang="ru">Основной репозиторий openSUSE 11.4, включающий только программное обеспечение с открытым кодом</summary>
 		<summary xml:lang="tr">Sadece Açık Kaynak Yazılımı içeren openSUSE 11.4'ün ana deposu</summary>
 		<summary xml:lang="wa">Mwaisse depot d' openSUSE 11.4 avou ki des libes programes</summary>
+		<summary xml:lang="zh_CN">openSUSE 11.4 的主安装源，仅包含开源软件</summary>
 		<summary xml:lang="zh_TW">openSUSE 11.4 的主要套件庫，僅包含開放原碼的軟體</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 11.4, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+		<description xml:lang="ar">مستودع البرمجيات المفتوحه المصادر (OSS) الكبرى لاوبن سوزي11.4، تتيح لك الوصول الى الالاف من الاحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، مضيفا انها قد تستغرق بعض الوقت. 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)</description>
 		<description xml:lang="cs">Velký repozitář s open-source softwarem pro openSUSE 11.4. Obsahuje tisíce balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti může přidání tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní odkládací oddíl.) </description>
 		<description xml:lang="da">Den store open source softwarekilde (OSS) til openSUSE 11.4, som giver dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. 512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have adgang til denne softwarekilde under installation.)</description>
 		<description xml:lang="de">Das große Repository mit quelloffener Software (OSS) für openSUSE 11.4, das Ihnen Zugang zu Tausenden von Paketen gibt, die vom openSUSE-Team verwaltet werden. (Aufgrund der Größe dieses Repositories kann das Hinzufügen einige Zeit dauern. 512 MB Ram oder eine aktivierte Swap-Partition werden sehr empfohlen, wenn Sie schon während der Installation auf dieses Repository zugreifen möchten.)</description>
@@ -86,12 +89,13 @@
 		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 11.4, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 МБ RAM или включённый раздел подкачки.)</description>
 		<description xml:lang="tr">OpenSUSE 11.4 için büyük Açık Kaynak Yazılımı (AKY) yazılımı sana openSUSE takımı tarafından korunan binlerce pakete giriş izni verir.(Depo boyutundan dolayı eklenmesi biraz zaman alabilir.Kurulum esnasında bu depoya giriş yapmak istediğiniz takdirde512 MB RAM yada etkin bir SWAP disk bölümü oldukça tavsiye edilir.) </description>
 		<description xml:lang="wa">Li grand depot des Libes Programes (OSS) pos openSUSE 11.4, vos dene accès a des meyes di pacaedjes mintnous pa l' ekipe d' openSUSE. (A cåze del grandeu do depout, li radjouter pôreut prinde do tins. 512 MB di RAM ou ene pårticion SWAP en alaedje sont foirt ricmandés si vs voloz awè accès a c' depot tins l' astalaedje.)</description>
+		<description xml:lang="zh_CN">openSUSE 11.4 的庞大的开源软件安装源，提供由 openSUSE 团队维护的数千个软件包。（由于软件源容量太大，添加它可能要花费点时间。如果想要在系统安装时访问该源，强烈建议有 512MB 内存或启用硬盘交换分区。）</description>
 		<description xml:lang="zh_TW">openSUSE 11.4 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 團隊維護的套件讓您取用。(由於這個套件庫非常大，要加入它會花上一些時間。如果您要在安裝時存取此套件庫，強烈建議至少 512 MB 的記憶體或可用的 SWAP 分割區。)</description>
 		<url>http://download.opensuse.org/distribution/11.4/repo/oss/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
 		<name>Main Repository (NON-OSS)</name>
-		<name xml:lang="ar">المستودع الرئيسي (NON-OSS)</name>
+		<name xml:lang="ar">المستودع الرئيسي (غير-حرة)</name>
 		<name xml:lang="cs">Hlavní repozitář (NON-OSS)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (NON-OSS)</name>
 		<name xml:lang="de">Haupt-Repository (NON-OSS)</name>
@@ -122,13 +126,14 @@
 		<name xml:lang="tr">Ana Depo (AKY-OLMAYAN)</name>
 		<name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
 		<name xml:lang="wa">Mwaisse depot (NÉN-OSS)</name>
-		<name xml:lang="zh_CN">主安装源 (NON-OSS)</name>
+		<name xml:lang="zh_CN">主安装源 (非开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 11.4</summary>
+		<summary xml:lang="ar">مستودع غير المفتوحة المصدرلأوبن سوزي 11.4</summary>
 		<summary xml:lang="cs">Repozitář s ne-open-source doplňkovým softwarem pro openSUSE 11.4</summary>
 		<summary xml:lang="da">Tillægssoftware kilde med ikke-open source software til openSUSE 11.4</summary>
 		<summary xml:lang="de">Zusatz-Repository für openSUSE 11.4 mit nicht quelloffener Software</summary>
-		<summary xml:lang="el">Πρόσθετο αποθετήριο Λογισμικού Μη-Ανοιχτού Κώδικα για το openSUSE 11.4</summary>
+		<summary xml:lang="el">Αποθετήριο Μη-Ανοιχτού Κώδικα Λογισμικού Προσθέτων για το openSUSE 11.4</summary>
 		<summary xml:lang="es">Repositorio complementario de software de código no abierto para openSUSE 11.4</summary>
 		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 11.4-jakelulle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 11.4</summary>
@@ -147,8 +152,10 @@
 		<summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE 11.4</summary>
 		<summary xml:lang="tr">OpenSUSE 11.4 için Açık Kaynak Yazılımı Olmayan Addon deposu</summary>
 		<summary xml:lang="wa">Depot d' programes nén libes di rawete po openSUSE 11.4</summary>
+		<summary xml:lang="zh_CN">openSUSE 11.4 非开源软件附加安装源</summary>
 		<summary xml:lang="zh_TW">openSUSE 11.4 的非開放原碼軟體附加套件庫</summary>
 		<description>The official openSUSE 11.4 repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
+		<description xml:lang="ar">مستودع أوبن سوزي الرسمية 11.4 لجميع برمجيات المصدر المفتوح عدم التي يحتفظ بها فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر.</description>
 		<description xml:lang="cs">Oficiální repozitář openSUSE 11.4 pro software šířený pod non-open-source licencemi spravovaný týmem openSUSE; včetně Opery, Javy, Flashe a dalších programů.</description>
 		<description xml:lang="da">Den officielle openSUSE 11.4 softwarekilde for al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer Opera, Java, Flash og mere.</description>
 		<description xml:lang="de">Das offizielle openSUSE 11.4-Repository für alle nicht quelloffene Software, die vom openSUSE-Team verwaltet wird, einschließlich Opera, Java, Flash und weiteren.</description>
@@ -171,12 +178,13 @@
 		<description xml:lang="ru">Официальный репозиторий openSUSE 11.4 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Java, Flash и многое другое.</description>
 		<description xml:lang="tr">OpenSUSE takımı tarafından korunan bütün Açık Kaynak Yazılımı Olmayanlar için  openSUSE 11.4'ün resmi deposu, Opera, Java, Flash, ve daha fazlasını içeriyor.</description>
 		<description xml:lang="wa">L' oficire depot d' openSUSE 11.4 po tos les Programes Nén Libes Sourdants mintnous pa l' ekipe d' openSUSE, di kî Opera, Java, Flash eyet co ds ôtes.</description>
+		<description xml:lang="zh_CN">openSUSE 11.4 所有非开源软件的官方安装源，由 openSUSE 团队维护，包括歌剧浏览器、Java、Flash 等。</description>
 		<description xml:lang="zh_TW">由 openSUSE 團隊維護之非開放原始碼軟體的官方 openSUSE 11.4 套件庫，包含了 Opera, Java, Flash 以及其他更多軟體。</description>
 		<url>http://download.opensuse.org/distribution/11.4/repo/non-oss/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
 		<name>Main Repository (DEBUG)</name>
-		<name xml:lang="ar">المستودع الرئيسي (DEBUG)</name>
+		<name xml:lang="ar">المستودع الرئيسي (التصحيح)</name>
 		<name xml:lang="cs">Hlavní repozitář (DEBUG)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (DEBUG)</name>
 		<name xml:lang="de">Haupt-Repository (DEBUG)</name>
@@ -207,9 +215,10 @@
 		<name xml:lang="tr">Ana Depo (HATA AYIKLAMA)</name>
 		<name xml:lang="uk">Головне сховище (DEBUG)</name>
 		<name xml:lang="wa">Mwaisse depot (DISBUG)</name>
-		<name xml:lang="zh_CN">主安装源 (DEBUG 调试用)</name>
+		<name xml:lang="zh_CN">主调试源</name>
 		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 11.4 including the debuginfo packages</summary>
+		<summary xml:lang="ar">المستودع الرئيسي من أوبن سوزي 11.4 بما في ذلك حزم ديبوجينفو</summary>
 		<summary xml:lang="cs">Hlavní repozitář openSUSE 11.4 obsahující debuginfo balíčky</summary>
 		<summary xml:lang="da">Hovedsoftwarekilde for openSUSE 11.4 som inkluderer debuginfo-pakker</summary>
 		<summary xml:lang="de">Haupt-Repository für openSUSE 11.4 einschließlich der debuginfo-Pakete </summary>
@@ -233,8 +242,10 @@
 		<summary xml:lang="ru">Основной репозиторий openSUSE 11.4, включающий пакеты debuginfo</summary>
 		<summary xml:lang="tr">Sadece hata ayıklama bilgi paketlerini içeren openSUSE 11.4'ün ana deposu</summary>
 		<summary xml:lang="wa">Mwaisse depot d' openSUSE 11.4 avou les pacaedjes d' informåcion d' disbugaedje</summary>
+		<summary xml:lang="zh_CN">openSUSE 11.4 主安装源包含调试信息包</summary>
 		<summary xml:lang="zh_TW">openSUSE 11.4 的主要套件庫，包含偵錯套件</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 11.4. For experts only.</description>
+		<description xml:lang="ar">هذا المستودع مفيدة لأولئك الذين يريدون تصحيح التطبيقات على أوبن سوزي 11.4. للخبراء فقط.</description>
 		<description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE 11.4. Určeno pouze pro experty.</description>
 		<description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE 11.4. Kun for eksperter.</description>
 		<description xml:lang="de">Dieses Repository ist nützlich für diejenigen, die Anwendungen unter openSUSE 11.4 debuggen möchten. Nur für Experten.</description>
@@ -257,11 +268,13 @@
 		<description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 11.4. Только для экспертов.</description>
 		<description xml:lang="tr">Bu depo openSUSE 11.4 uygulamalarında hata ayıklamak isteyenler için kullanışlıdır. Sadece uzmanlar için.</description>
 		<description xml:lang="wa">Ci depot est ahessåve po les cis ki vlèt disbuguer des programe so openSUSE 11.4. Po les spepieus seulmint.</description>
+		<description xml:lang="zh_CN">此安装源只对那些想要在 openSUSE 11.4 中调试程序的人有用。仅供专家。</description>
 		<description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 11.4 偵錯應用程式非常有用。僅提供專家使用。</description>
 		<url>http://download.opensuse.org/debug/distribution/11.4/repo/oss/</url>
 	    </repository>
             <repository recommended="false" format="yast">
                 <name>Update Repository (DEBUG)</name>
+                <name xml:lang="ar">تحديث المستودع (تصحيح)</name>
                 <name xml:lang="cs">Aktualizační repozitář (DEBUG)</name>
                 <name xml:lang="da">Opdateringskilde (DEBUG)</name>
                 <name xml:lang="de">Aktualisierungs-Repository (DEBUG)</name>
@@ -285,8 +298,10 @@
                 <name xml:lang="ru">Репозиторий обновлений (DEBUG)</name>
                 <name xml:lang="tr">Güncelleme Deposu (HATA AYIKLAMA)</name>
                 <name xml:lang="wa">Depot des metaedjes a djoû (DISBUG)</name>
+                <name xml:lang="zh_CN">主更新源 (调试)</name>
                 <name xml:lang="zh_TW">更新套件庫 (偵錯)</name>
                 <summary>Update repository of openSUSE 11.4 debuginfo packages</summary>
+                <summary xml:lang="ar">تحديث مستودع للحزم ديبوجينفو لأوبن سوزي 11.4</summary>
                 <summary xml:lang="cs">Repozitář s aktualizacemi openSUSE 11.4 obsahující balíčky debuginfo</summary>
                 <summary xml:lang="da">Opdateringskilde til openSUSE 11.4 med debuginfo-pakker</summary>
                 <summary xml:lang="de">Aktualisierungs-Repository für openSUSE 11.4 debuginfo-Pakete </summary>
@@ -310,8 +325,10 @@
                 <summary xml:lang="ru">Репозиторий обновлений openSUSE 11.4, включающий пакеты debuginfo</summary>
                 <summary xml:lang="tr">openSUSE 11.4 hata ayıklama bilgi paketlerinin güncelleme deposu</summary>
                 <summary xml:lang="wa">Depot des metaedjes a djoû des pacaedjes d' informåcion d' disbugaedje d' openSUSE 11.4</summary>
+                <summary xml:lang="zh_CN">openSUSE 11.4 调试包的主升级源</summary>
                 <summary xml:lang="zh_TW">openSUSE 11.4 的更新套件庫，包含偵錯套件</summary>
                 <description>This repository is useful for those that want to debug applications on openSUSE 11.4. For experts only.</description>
+                <description xml:lang="ar">هذا المستودع مفيدة لأولئك الذين يريدون تصحيح التطبيقات على أوبن سوزي 11.4. للخبراء فقط.</description>
                 <description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE 11.4. Určeno pouze pro experty.</description>
                 <description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE 11.4. Kun for eksperter.</description>
                 <description xml:lang="de">Dieses Repository ist nützlich für diejenigen, die Anwendungen unter openSUSE 11.4 debuggen möchten. Nur für Experten.</description>
@@ -334,6 +351,7 @@
                 <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 11.4. Только для экспертов.</description>
                 <description xml:lang="tr">Bu depo openSUSE 11.4 uygulamalarında hata ayıklamak isteyenler için kullanışlıdır. Sadece uzmanlar için.</description>
                 <description xml:lang="wa">Ci depot est ahessåve po les cis ki vlèt disbuguer des programe so openSUSE 11.4. Po les spepieus seulmint.</description>
+                <description xml:lang="zh_CN">此安装源只对那些想要在 openSUSE 11.4 中调试程序的人有用。仅供专家。</description>
                 <description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 11.4 偵錯應用程式非常有用。僅提供專家使用。</description>
                 <url>http://download.opensuse.org/debug/update/11.4/</url>
             </repository>

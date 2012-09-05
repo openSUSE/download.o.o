@@ -5,7 +5,7 @@
 
 	    <repository recommended="true" format="yast">
 		<name>Main Repository (OSS)</name>
-		<name xml:lang="ar">المستودع الرئيسي (OSS)</name>
+		<name xml:lang="ar">المستودع الرئيسي (حرة)</name>
 		<name xml:lang="cs">Hlavní repozitář (OSS)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (OSS)</name>
 		<name xml:lang="de">Haupt-Repository (OSS)</name>
@@ -36,9 +36,10 @@
 		<name xml:lang="tr">Ana Depo (AKY)</name>
 		<name xml:lang="uk">Головне сховище (ВПЗ)</name>
 		<name xml:lang="wa">Mwaisse depot (OSS)</name>
-		<name xml:lang="zh_CN">主安装源 (OSS)</name>
+		<name xml:lang="zh_CN">主安装源 (开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 12.1 including only Open Source Software</summary>
+		<summary xml:lang="ar">المستودع الرئيسي من أوبن سوزي 12.1 بما في ذلك برمجيات المصدر المفتوح فقط</summary>
 		<summary xml:lang="cs">Hlavní repozitář openSUSE 12.1 obsahující pouze open-source software</summary>
 		<summary xml:lang="da">Hovedsoftwarekilden for openSUSE 12.1, som kun inkluderer open source software</summary>
 		<summary xml:lang="de">Haupt-Repository von openSUSE 12.1(nur Open-Source-Software)</summary>
@@ -59,8 +60,10 @@
 		<summary xml:lang="pt_BR">Repositório principal do openSUSE 12.1 contendo somente software de código aberto</summary>
 		<summary xml:lang="ru">Основной репозиторий openSUSE 12.1, включающий только программное обеспечение с открытым кодом</summary>
 		<summary xml:lang="tr">Sadece Açık Kaynak Yazılımı içeren openSUSE 12.1'in ana deposu</summary>
+		<summary xml:lang="zh_CN">openSUSE 12.1 的主安装源，仅包含开源软件</summary>
 		<summary xml:lang="zh_TW">openSUSE 12.1 的主要套件庫，僅包含開放原碼的軟體</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 12.1, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+		<description xml:lang="ar">مستودع البرمجيات المفتوحه المصادر (OSS) الكبرى لاوبن سوزي12.1، تتيح لك الوصول الى الالاف من الاحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، مضيفا انها قد تستغرق بعض الوقت. 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)</description>
 		<description xml:lang="cs">Velký repozitář s open-source softwarem pro openSUSE 12.1. Obsahuje tisíce balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti může přidání tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní odkládací oddíl.) </description>
 		<description xml:lang="da">Den store open source softwarekilde (OSS) til openSUSE 12.1, som giver dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. 512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have adgang til denne softwarekilde under installation.)</description>
 		<description xml:lang="de">Das große Repository 'Open-Source-Software' (OSS) für openSUSE 12.1, das Ihnen Zugriff auf tausende vom openSUSE-Team verwaltete Pakete gibt. (Aufgrund der Größe des Repositories kann das Hinzufügen einige Zeit in Anspruch nehmen. Mindestens 512MB RAM oder eine aktivierte SWAP-Partition werden dringend empfohlen für den Fall, dass Sie auf dieses Repository während der Installation zugreifen wollen.)</description>
@@ -81,12 +84,13 @@
 		<description xml:lang="pt_BR">O grande repositório de software de código aberto (OSS) para o openSUSE 12.1, fornecendo-lhe acesso a milhares de pacotes mantidos pela equipe do openSUSE. (Devido ao tamanho do repositório, sua inclusão pode demorar algum tempo. É altamente recomendado possuir 512MB de RAM ou uma partição de troca ativada caso você deseje acessar este repositório durante a instalação.)</description>
 		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 12.1, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 Мб RAM или включённый раздел подкачки.)</description>
 		<description xml:lang="tr">OpenSUSE 12.1 için büyük Açık Kaynak Yazılımı (AKY) yazılımı sana openSUSE takımı tarafından korunan binlerce pakete giriş izni verir.(Depo boyutundan dolayı eklenmesi biraz zaman alabilir.Kurulum esnasında bu depoya giriş yapmak istediğiniz takdirde512 MB RAM yada etkin bir SWAP disk bölümü oldukça tavsiye edilir.) </description>
+		<description xml:lang="zh_CN">openSUSE 12.1 的庞大的开源软件安装源，提供由 openSUSE 团队维护的数千个软件包。（由于软件源容量太大，添加它可能要花费点时间。如果想要在系统安装时访问该源，强烈建议有 512MB 内存或启用硬盘交换分区。）</description>
 		<description xml:lang="zh_TW">openSUSE 12.1 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 團隊維護的套件讓您取用。(由於這個套件庫非常大，要加入它會花上一些時間。如果您要在安裝時存取此套件庫，強烈建議至少 512 MB 的記憶體或可用的 SWAP 分割區。)</description>
 		<url>http://download.opensuse.org/distribution/12.1/repo/oss/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
 		<name>Main Repository (NON-OSS)</name>
-		<name xml:lang="ar">المستودع الرئيسي (NON-OSS)</name>
+		<name xml:lang="ar">المستودع الرئيسي (غير-حرة)</name>
 		<name xml:lang="cs">Hlavní repozitář (NON-OSS)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (NON-OSS)</name>
 		<name xml:lang="de">Haupt-Repository (NON-OSS)</name>
@@ -117,13 +121,14 @@
 		<name xml:lang="tr">Ana Depo (AKY-OLMAYAN)</name>
 		<name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
 		<name xml:lang="wa">Mwaisse depot (NÉN-OSS)</name>
-		<name xml:lang="zh_CN">主安装源 (NON-OSS)</name>
+		<name xml:lang="zh_CN">主安装源 (非开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 12.1</summary>
+		<summary xml:lang="ar">مستودع غير المفتوحة المصدرلأوبن سوزي 12.1</summary>
 		<summary xml:lang="cs">Repozitář s ne-open-source doplňkovým softwarem pro openSUSE 11.1</summary>
 		<summary xml:lang="da">Tillægssoftware kilde med ikke-open source software til openSUSE 12.1</summary>
 		<summary xml:lang="de">Zusatz-Repository von openSUSE 12.1(nur Closed-Source-Software)</summary>
-		<summary xml:lang="el">Αποθετήριο Λογισμικού Μη-Ανοικτού Κώδικα για την openSUSE 12.1</summary>
+		<summary xml:lang="el">Αποθετήριο Μη-Ανοιχτού Κώδικα Λογισμικού Προσθέτων για το openSUSE 12.1</summary>
 		<summary xml:lang="es">Repositorio complementario de software de código no abierto para openSUSE 12.1</summary>
 		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 12.1:lle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 12.1</summary>
@@ -140,8 +145,10 @@
 		<summary xml:lang="pt_BR">Repositório adicional para software de código fechado para o openSUSE 12.1</summary>
 		<summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE 12.1</summary>
 		<summary xml:lang="tr">OpenSUSE 12.1 için Açık Kaynak Yazılımı Olmayan Addon deposu</summary>
+		<summary xml:lang="zh_CN">openSUSE 12.1 非开源软件附加安装源</summary>
 		<summary xml:lang="zh_TW">openSUSE 12.1 的非開放原碼軟體附加套件庫</summary>
 		<description>The official openSUSE 12.1 repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
+		<description xml:lang="ar">مستودع أوبن سوزي الرسمية 12.1 لجميع برمجيات المصدر المفتوح عدم التي يحتفظ بها فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر.</description>
 		<description xml:lang="cs">Oficiální repozitář openSUSE 12.1 pro software šířený pod non-open-source licencemi spravovaný týmem openSUSE; včetně Opery, Javy, Flashe a dalších programů.</description>
 		<description xml:lang="da">Den officielle openSUSE 12.1 softwarekilde for al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer RealPlayer, Opera, Java, Flash og mere.</description>
 		<description xml:lang="de">Das offizielle openSUSE-12.1-Repository für 'Nicht-Open-Source-Software', die vom openSUSE-Team verwaltet wird, einschließlich Opera, Java, Flash, etc.</description>
@@ -162,12 +169,13 @@
 		<description xml:lang="pt_BR">O repositório oficial do openSUSE 12.1 para todo software de código fechado, mantido pela equipe do openSUSE, incluindo Opera, Java, Flash e outros.</description>
 		<description xml:lang="ru">Официальный репозиторий openSUSE 12.1 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Java, Flash и многое другое.</description>
 		<description xml:lang="tr">OpenSUSE takımı tarafından korunan bütün Açık Kaynak Yazılımı Olmayanlar için  openSUSE 12.1'in resmi deposu, Opera, Java, Flash, ve daha fazlasını içeriyor.</description>
+		<description xml:lang="zh_CN">openSUSE 12.1 所有非开源软件的官方安装源，由 openSUSE 团队维护，包括歌剧浏览器、Java、Flash 等。</description>
 		<description xml:lang="zh_TW">由 openSUSE 團隊維護之非開放原始碼軟體的官方 openSUSE 12.1 套件庫，包含了 Opera, Java, Flash 以及其他更多軟體。</description>
 		<url>http://download.opensuse.org/distribution/12.1/repo/non-oss/</url>
 	    </repository>
 	    <repository recommended="false" format="yast">
 		<name>Main Repository (DEBUG)</name>
-		<name xml:lang="ar">المستودع الرئيسي (DEBUG)</name>
+		<name xml:lang="ar">المستودع الرئيسي (التصحيح)</name>
 		<name xml:lang="cs">Hlavní repozitář (DEBUG)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (DEBUG)</name>
 		<name xml:lang="de">Haupt-Repository (DEBUG)</name>
@@ -198,9 +206,10 @@
 		<name xml:lang="tr">Ana Depo (HATA AYIKLAMA)</name>
 		<name xml:lang="uk">Головне сховище (DEBUG)</name>
 		<name xml:lang="wa">Mwaisse depot (DISBUG)</name>
-		<name xml:lang="zh_CN">主安装源 (DEBUG 调试用)</name>
+		<name xml:lang="zh_CN">主调试源</name>
 		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 12.1 including the debuginfo packages</summary>
+		<summary xml:lang="ar">المستودع الرئيسي من أوبن سوزي 12.1 بما في ذلك حزم ديبوجينفو</summary>
 		<summary xml:lang="cs">Hlavní repozitář openSUSE 12.1 obsahující balíčky debuginfo</summary>
 		<summary xml:lang="da">Hovedsoftwarekilde for openSUSE 12.1 som inkluderer debuginfo-pakker</summary>
 		<summary xml:lang="de">Haupt-Repository von openSUSE 12.1(nur Debuginfo-Pakete)</summary>
@@ -221,14 +230,16 @@
 		<summary xml:lang="pt_BR">Repositório principal do openSUSE 12.1 contendo os pacotes deubginfo</summary>
 		<summary xml:lang="ru">Основной репозиторий openSUSE 12.1, включающий пакеты debuginfo</summary>
 		<summary xml:lang="tr">Hata ayıklama bilgi paketlerini içeren openSUSE 12.1'in ana deposu</summary>
+		<summary xml:lang="zh_CN">openSUSE 12.1 主安装源包含调试信息包</summary>
 		<summary xml:lang="zh_TW">openSUSE 12.1 的主要套件庫，包含偵錯套件</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 12.1. For experts only.</description>
+		<description xml:lang="ar">هذا المستودع مفيدة لأولئك الذين يريدون تصحيح التطبيقات على أوبن سوزي 12.1. للخبراء فقط.</description>
 		<description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE 12.1. Určeno pouze pro experty.</description>
 		<description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE 12.1. Kun for eksperter.</description>
 		<description xml:lang="de">Dieses Repository ist nützlich für Entwickler, die Anwendungen aus openSUSE 12.1 von Fehlern befreien wollen. Nur für Experten.</description>
 		<description xml:lang="el">Αυτό το αποθετήριο είναι χρήσιμο για αυτούς που θέλουν να αποσφαλματώσουν εφαρμογές στην openSUSE 12.1. Μόνο για προχωρημένους.</description>
 		<description xml:lang="es">Este repositorio es útil para aquéllos que quieran depurar aplicaciones en openSUSE 12.1. Sólo para expertos.</description>
-		<description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat debugata ohjelmistoja openSUSE 12.1:ssa. Vain asiantuntijoille.</description>
+		<description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja openSUSE 12.1:ssa. Vain asiantuntijoille.</description>
 		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent deboguer des applications sous openSUSE 12.1. Pour experts seulement.</description>
 		<description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE 12.1. Só para expertos.</description>
 		<description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik openSUSE 12.1 verzión alkalmazások hibakeresését végzik.</description>
@@ -243,11 +254,13 @@
 		<description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE 12.1. Somente para usuários avançados.</description>
 		<description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 12.1. Только для экспертов.</description>
 		<description xml:lang="tr">Bu depo openSUSE 12.1 uygulamalarında hata ayıklamak isteyenler için yararlıdır. Sadece uzmanlar için.</description>
+		<description xml:lang="zh_CN">本安装源只对那些想要在 openSUSE 12.1 中调试程序的人有用。仅供专家。</description>
 		<description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 12.1 偵錯應用程式非常有用。僅提供專家使用。</description>
 		<url>http://download.opensuse.org/debug/distribution/12.1/repo/oss/</url>
 	    </repository>
             <repository recommended="false" format="yast">
                 <name>Update Repository (DEBUG)</name>
+                <name xml:lang="ar">تحديث المستودع (تصحيح)</name>
                 <name xml:lang="cs">Aktualizační repozitář (DEBUG)</name>
                 <name xml:lang="da">Opdateringskilde (DEBUG)</name>
                 <name xml:lang="de">Aktualisierungs-Repository (DEBUG)</name>
@@ -271,8 +284,10 @@
                 <name xml:lang="ru">Репозиторий обновлений (DEBUG)</name>
                 <name xml:lang="tr">Güncelleme Deposu (HATA AYIKLAMA)</name>
                 <name xml:lang="wa">Depot des metaedjes a djoû (DISBUG)</name>
+                <name xml:lang="zh_CN">主更新源 (调试)</name>
                 <name xml:lang="zh_TW">更新套件庫 (偵錯)</name>
                 <summary>Update repository of openSUSE 12.1 debuginfo packages</summary>
+                <summary xml:lang="ar">تحديث مستودع للحزم ديبوجينفو لأوبن سوزي 12.1</summary>
                 <summary xml:lang="cs">Repozitář s aktualizacemi openSUSE 12.1 obsahující balíčky debuginfo</summary>
                 <summary xml:lang="da">Opdateringskilde til openSUSE 12.1 med debuginfo-pakker</summary>
                 <summary xml:lang="de">Aktualisierungs-Repository für openSUSE 12.1 debuginfo-Pakete </summary>
@@ -293,14 +308,16 @@
                 <summary xml:lang="pt_BR">Repositório de atualizações dos pacotes debuginfo do openSUSE 12.1</summary>
                 <summary xml:lang="ru">Репозиторий обновлений openSUSE 12.1, включающий пакеты debuginfo</summary>
                 <summary xml:lang="tr">OpenSUSE 12.1 hata ayıklama paketlerinin güncelleme deposu</summary>
+                <summary xml:lang="zh_CN">openSUSE 12.1 调试包的主升级源</summary>
                 <summary xml:lang="zh_TW">openSUSE 12.1 的主要套件庫，包含偵錯套件</summary>
                 <description>This repository is useful for those that want to debug applications on openSUSE 12.1. For experts only.</description>
+                <description xml:lang="ar">هذا المستودع مفيدة لأولئك الذين يريدون تصحيح التطبيقات على أوبن سوزي 12.1. للخبراء فقط.</description>
                 <description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE 12.1. Určeno pouze pro experty.</description>
                 <description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE 12.1. Kun for eksperter.</description>
                 <description xml:lang="de">Dieses Repository ist nützlich für Entwickler, die Anwendungen aus openSUSE 12.1 von Fehlern befreien wollen. Nur für Experten.</description>
                 <description xml:lang="el">Αυτό το αποθετήριο είναι χρήσιμο για αυτούς που θέλουν να αποσφαλματώσουν εφαρμογές στην openSUSE 12.1. Μόνο για προχωρημένους.</description>
                 <description xml:lang="es">Este repositorio es útil para aquéllos que quieran depurar aplicaciones en openSUSE 12.1. Sólo para expertos.</description>
-                <description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat debugata ohjelmistoja openSUSE 12.1:ssa. Vain asiantuntijoille.</description>
+                <description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja openSUSE 12.1:ssa. Vain asiantuntijoille.</description>
                 <description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent deboguer des applications sous openSUSE 12.1. Pour experts seulement.</description>
                 <description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE 12.1. Só para expertos.</description>
                 <description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik openSUSE 12.1 verzión alkalmazások hibakeresését végzik.</description>
@@ -315,6 +332,7 @@
                 <description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE 12.1. Somente para usuários avançados.</description>
                 <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 12.1. Только для экспертов.</description>
                 <description xml:lang="tr">Bu depo openSUSE 12.1 uygulamalarında hata ayıklamak isteyenler için yararlıdır. Sadece uzmanlar için.</description>
+                <description xml:lang="zh_CN">本安装源只对那些想要在 openSUSE 12.1 中调试程序的人有用。仅供专家。</description>
                 <description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 12.1 偵錯應用程式非常有用。僅提供專家使用。</description>
                 <url>http://download.opensuse.org/debug/update/12.1/</url>
             </repository>

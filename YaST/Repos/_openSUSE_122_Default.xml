@@ -5,7 +5,7 @@
 
 	    <repository recommended="true" format="yast">
 		<name>Main Repository (OSS)</name>
-		<name xml:lang="ar">المستودع الرئيسي (OSS)</name>
+		<name xml:lang="ar">المستودع الرئيسي (حرة)</name>
 		<name xml:lang="cs">Hlavní repozitář (OSS)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (OSS)</name>
 		<name xml:lang="de">Haupt-Repository (OSS)</name>
@@ -36,15 +36,43 @@
 		<name xml:lang="tr">Ana Depo (AKY)</name>
 		<name xml:lang="uk">Головне сховище (ВПЗ)</name>
 		<name xml:lang="wa">Mwaisse depot (OSS)</name>
-		<name xml:lang="zh_CN">主安装源 (OSS)</name>
+		<name xml:lang="zh_CN">主安装源 (开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 12.2 including only Open Source Software</summary>
+		<summary xml:lang="ar">المستودع الرئيسي من أوبن سوزي 12.2 لبرمجيات المصدر المفتوح فقط</summary>
+		<summary xml:lang="cs">Hlavní repozitář openSUSE 12.2 obsahující pouze software s otevřeným kódem</summary>
+		<summary xml:lang="el">Κύριο αποθετήριο της openSUSE 12.2 που συμπεριλαμβάνει μόνο Λογισμικό Ανοικτού Κώδικα</summary>
+		<summary xml:lang="es">Repositorio principal de openSUSE 12.2 que incluye sólo software de código abierto</summary>
+		<summary xml:lang="fi">openSUSE 12.2 -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia</summary>
+		<summary xml:lang="fr">Dépôt principal d'openSUSE 12.2 contenant seulement les logiciels Open Source</summary>
+		<summary xml:lang="hu">Elsődleges, csak nyílt forrású csomagokat tartalmazó openSUSE 12.2 telepítési forrás</summary>
+		<summary xml:lang="it">Repository principale di openSUSE 12.2 che include solo programmi Open Source</summary>
+		<summary xml:lang="ja">オープンソースソフトウエアだけを含む、 openSUSE 12.2 のメインリポジトリ</summary>
+		<summary xml:lang="km">ឃ្លាំង​ចម្បង​​របស់​អូផឹន​ស៊ូស៊ី ១២.២ រួម​មាន​តែ​កម្មវិធី​កូដ​ចំហ​​ប៉ុណ្ណោះ</summary>
+		<summary xml:lang="nb">Hovedpakkebrønn for openSUSE 12.2 som kun inneholder programvare med åpen kildekode</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 12.2 met alleen opensource-software</summary>
+		<summary xml:lang="ru">Основной репозиторий openSUSE 12.2, включающий только программное обеспечение с открытым кодом</summary>
+		<summary xml:lang="zh_CN">openSUSE 12.2 的主安装源，仅包含开源软件</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 12.2, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+		<description xml:lang="ar">مستودع البرمجيات مفتوحه المصدر (OSS) الكبرى لاوبن سوزي 12.2، تتيح لك الوصول الى آلاف الحزم التي يحفظها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، فإنها قد تستغرق بعض الوقت. 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)</description>
+		<description xml:lang="cs">Velký repozitář se softwarem s otevřeným kódem pro openSUSE 12.2 vám dává přístup k tisícům balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti tohoto repozitáře může jeho přidání vyžadovat delší čas. Pokud k repozitáři chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní odkládací oddíl.)</description>
+		<description xml:lang="el">Το μεγάλο αποθετήριο του Λογισμικού Ανοικτού Κώδικα (ΛΑΚ) για την openSUSE 12.2, δίνει πρόσβαση σε χιλιάδες πακέτα που συντηρούνται από την ομάδα του openSUSE. (Λόγω του μεγέθους του αποθετηρίου, προσθέτοντάς το μπορεί να πάρει λίγη ώρα. 512 MB μνήμης RAM ή SWAP κατάτμησης συνίσταται σε περίπτωση που θέλετε πρόσβαση σε αυτό το αποθετήριο κατά την εγκατάσταση.)</description>
+		<description xml:lang="es">El enorme repositorio de software de código abierto (OSS) para openSUSE 12.2, le da acceso a miles de paquetes mantenidos por el equipo de openSUSE (debido al tamaño del repositorio, añadirlo puede llevar algo de tiempo. Es altamente recomendable disponer de 512 MB de RAM o una partición de intercambio activa si quiere habilitar este repositorio durante la instalación.)</description>
+		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 12.2:lle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
+		<description xml:lang="fr">Le principal dépôt de logiciels Open Source (OSS) pour openSUSE 12.2, vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (En raison de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active sont fortement recommandés si vous voulez y accéder au moment de l'installation.)</description>
+		<description xml:lang="hu">Hatalmas nyílt forrású telepítési forrás openSUSE 12.2 verzióhoz, amelyen keresztül több száz olyan csomaghoz férhet hozzá, amelyet az openSUSE csapat tart karban. (A telepítési forrás méretére való tekintettel, ennek hozzáadása eltarthat egy ideig. 512 MB memória vagy a SWAP partíció engedélyezése mindenképpen szükséges, amennyiben a telepítési forrást az operációs rendszer telepítése közben kívánja elérni.)</description>
+		<description xml:lang="it">Il grande repository di programmi Open Source (OSS) di openSUSE 12.2, che fornisce l'accesso a migliaia di pacchetti mantenuti dal team openSUSE. A causa delle dimensioni del repository, la sua aggiunta potrebbe richiedere un po' di tempo. Si consiglia fortemente di utilizzare un sistema con almeno 512MB di RAM o con una partizione di SWAP attiva qualora si desideri avere accesso a questo repository durante l'installazione.</description>
+		<description xml:lang="ja">openSUSE 12.2 向けの巨大なオープンソースのソフトウエアリポジトリです。 openSUSE チームによって管理されている、何千ものパッケージにアクセスすることができます。 (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。また、インストールの際にリポジトリにアクセスする場合、512 MB の RAM とスワップの利用を強くお勧めします。)</description>
+		<description xml:lang="km">ឃ្លាំង​កម្មវិធី​កូដ​ចំហ​ដ៏​ធំ​មួយ​របស់​អូផឹន​ស៊ូស៊ី ១២.២ ដោយ​ផ្ដល់​​ឲ្យ​អ្នក​នូវ​ការ​ចូល​ដំណើរការ​កញ្ចប់​រាប់ពាន់​ដែល​បាន​ថែទាំ​ដោយ​ក្រុម​អូផឹន​ស៊ូស៊ី ។ (អាស្រ័យ​លើ​ទំហំ​របស់​ឃ្លាំង ការ​បន្ថែម​វា​អាច​ចំណាយ​ពេល​មួយ​រយៈ ។ ​បាន​ផ្ដល់​អនុសាសន៍​ឲ្យ​មាន​អង្គ​ចងចាំ​ទំហំ ៥១២ មេកាបៃ ឬ​បាន​បើក​ភាគ​ថាស​ស្វប ក្នុង​ករណី​ដែល​អ្នក​ចង់​ចូល​ដំណើរការ​ឃ្លាំង​នេះ​នៅ​ពេល​ដំឡើង ។)</description>
+		<description xml:lang="nb">Den store pakkebrønnen for åpen kildekode (OSS) for openSUSE 12.2 gir deg tilgang til tusenvis av pakker som vedlikeholdes av openSUSE-gruppen. (På grunn av størrelsen kan det ta en stund å legge til pakkebrønnen (512 MB RAM eller en aktivert veksleminnepartisjon anbefales sterkt hvis du ønsker tilgang til denne pakkebrønnen under installasjonen).</description>
+		<description xml:lang="nl">De grote opensource-software (OSS) installatiebron van openSUSE 12.2 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 MB RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 12.2, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 Мб RAM или включённый раздел подкачки.)</description>
+		<description xml:lang="zh_CN">openSUSE 12.2 的庞大的开源软件安装源，提供由 openSUSE 团队维护的数千个软件包。（由于软件源容量太大，添加它可能要花费点时间。如果想要在系统安装时访问该源，强烈建议有 512MB 内存或启用硬盘交换分区。）</description>
 		<url>http://download.opensuse.org/distribution/12.2/repo/oss/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
 		<name>Main Repository (NON-OSS)</name>
-		<name xml:lang="ar">المستودع الرئيسي (NON-OSS)</name>
+		<name xml:lang="ar">المستودع الرئيسي (غير-حرة)</name>
 		<name xml:lang="cs">Hlavní repozitář (NON-OSS)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (NON-OSS)</name>
 		<name xml:lang="de">Haupt-Repository (NON-OSS)</name>
@@ -75,15 +103,43 @@
 		<name xml:lang="tr">Ana Depo (AKY-OLMAYAN)</name>
 		<name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
 		<name xml:lang="wa">Mwaisse depot (NÉN-OSS)</name>
-		<name xml:lang="zh_CN">主安装源 (NON-OSS)</name>
+		<name xml:lang="zh_CN">主安装源 (非开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 12.2</summary>
+		<summary xml:lang="ar">مستودع غير مفتوحة المصدر لأوبن سوزي 12.2</summary>
+		<summary xml:lang="cs">Repozitář s doplňkovým softwarem bez dostupného kódu pro openSUSE 12.2</summary>
+		<summary xml:lang="el">Αποθετήριο Προσθέτων Λογισμικού Μη-Ανοιχτού Κώδικα για το openSUSE 12.2</summary>
+		<summary xml:lang="es">Repositorio complementario de software de código no abierto para openSUSE 12.2</summary>
+		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 12.2:lle</summary>
+		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 12.2</summary>
+		<summary xml:lang="hu">Nem nyílt forrású szoftverek telepítési forrása openSUSE 12.2 verzióhoz</summary>
+		<summary xml:lang="it">Repository dei programmi Non Open Source per openSUSE 12.2</summary>
+		<summary xml:lang="ja">非オープンソースパッケージを含む openSUSE 12.2 の追加リポジトリ</summary>
+		<summary xml:lang="km">ឃ្លាំង​បន្ថែម​របស់​កម្មវិធី​មិនមែន​កូដ​ចំហ​សម្រាប់​អូផឹន​ស៊ូស៊ី ១២.២</summary>
+		<summary xml:lang="nb">Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE 12.2</summary>
+		<summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE 12.2</summary>
+		<summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE 12.2</summary>
+		<summary xml:lang="zh_CN">openSUSE 12.2 非开源软件附加安装源</summary>
 		<description>The official openSUSE 12.2 repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
+		<description xml:lang="ar">مستودع أوبن سوزي الرسمي 12.2 لجميع برمجيات المصدر غير المفتوحة التي يحتفظ بها فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر.</description>
+		<description xml:lang="cs">Oficiální repozitář openSUSE 12.2 pro veškerý software bez dostupného zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Javy, Flashe atd.</description>
+		<description xml:lang="el">Το επίσημο αποθετήριο του openSUSE 12.2 για όλο το Λογισμικό Μη-Ανοιχτού Κώδικα που συντηρείται από την ομάδα openSUSE, συμπεριλαμβανομένων των Opera, Java, Flash, και άλλων.</description>
+		<description xml:lang="es">El repositorio oficial de openSUSE 12.2 para todo el software de código fuente no abierto mantenido por el equipo de openSUSE. Incluye Opera, Java, Flash y más.</description>
+		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE 12.2 -asennuslähde kaikille suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Java, Flash ja niin edelleen.</description>
+		<description xml:lang="fr">Le dépôt officiel d'openSUSE 12.2 pour tous les logiciels Non-Open Source, maintenu par l'équipe d'openSUSE, il contient Opera, Java, Flash, et bien d'autres.</description>
+		<description xml:lang="hu">Hivatalos, zárt forrású komponenseket (pl. Realplayer, Opera, Java, Flash) tartalmazó openSUSE 12.2 telepítési forrás.</description>
+		<description xml:lang="it">Il repository ufficiale di openSUSE 12.2 per tutti i programmi non open source mantenuti dal team openSUSE, inclusi Opera, Java, Flash e altro.</description>
+		<description xml:lang="ja">Opera, Java, Flash などの非オープンソースソフトウエアを含む、 openSUSE チーム管理の openSUSE 12.2 公式リポジトリ</description>
+		<description xml:lang="km">ឃ្លាំង​​អូផឹន​ស៊ូស៊ី ១២.២ ជា​ផ្លូវការ​សម្រាប់​កម្មវិធី​មិនមែន​កូដ​ចំហ ដែល​បាន​ថែទាំ​ដោយ​ក្រុម​អូផឹន​ស៊ូស៊ី រួម​មាន Opera, Java, Flash និង​អ្វីៗ​​ជា​ច្រើន​ទៀត ។</description>
+		<description xml:lang="nb">Den offisielle openSUSE 12.2-pakkebrønnen for all programvare uten åpen kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, Java, Flash og mye mer.</description>
+		<description xml:lang="nl">De officiële openSUSE 12.2-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals Opera, Flash, Java, en meer.</description>
+		<description xml:lang="ru">Официальный репозиторий openSUSE 12.2 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Java, Flash и многое другое.</description>
+		<description xml:lang="zh_CN">openSUSE 12.2 所有非开源软件的官方安装源，由 openSUSE 团队维护，包括歌剧浏览器、Java、Flash 等。</description>
 		<url>http://download.opensuse.org/distribution/12.2/repo/non-oss/</url>
 	    </repository>
       <repository recommended="false" format="yast">
         <name>Main Repository (Sources)</name>
-        <name xml:lang="ar">مستودع رئيسي ( مصادر )</name>
+        <name xml:lang="ar">المستودع الرئيسي (المصادر)</name>
         <name xml:lang="cs">Hlavní repozitář (zdroje)</name>
         <name xml:lang="da">Hovedsoftwarekilde (kildekoder)</name>
         <name xml:lang="de">Haupt-Repository (Quellen)</name>
@@ -116,12 +172,40 @@
         <name xml:lang="zh_CN">主安装源(源代码)</name>
         <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
         <summary>Main repository of openSUSE 12.2 (Source packages)</summary>
+        <summary xml:lang="ar">المستودع الرئيسي من أوبن سوزي 12.2 (مصدر الحزم)</summary>
+        <summary xml:lang="cs">Hlavní repozitář openSUSE 12.2 (zdrojové balíčky)</summary>
+        <summary xml:lang="el">Κύριο αποθετήριο της openSUSE 12.2 (Πηγαία πακέτα)</summary>
+        <summary xml:lang="es">Repositorio principal de openSUSE 12.2 (Paquetes de fuentes)</summary>
+        <summary xml:lang="fi">openSUSE 12.2 -jakelun perusasennuslähde (lähdekoodipaketit)</summary>
+        <summary xml:lang="fr">Dépôt principal d'openSUSE 12.2 (Paquets Sources)</summary>
+        <summary xml:lang="hu">Elsődleges telepítési forrás openSUSE 12.2-höz (forráscsomagok)</summary>
+        <summary xml:lang="it">Repository principale di openSUSE 12.2 (Pacchetti sorgente)</summary>
+        <summary xml:lang="ja">openSUSE 12.2 のメインリポジトリ (ソースパッケージ)</summary>
+        <summary xml:lang="km">ឃ្លាំង​ចម្បង​របស់​អូផឹន​ស៊ូស៊ី ១២.២ (កញ្ចប់​ប្រភព)</summary>
+        <summary xml:lang="nb">Hovedpakkebrønn for openSUSE 12.2 (kildekodepakker)</summary>
+        <summary xml:lang="nl">Hoofd-installatiebron van openSUSE 12.2 (broncodepakketten)</summary>
+        <summary xml:lang="ru">Основной репозиторий openSUSE 12.2 (Пакеты с исходным кодом)</summary>
+        <summary xml:lang="zh_CN">openSUSE 12.2 的主安装源(源代码包)</summary>
         <description>The repository of all source packages in openSUSE 12.2. For experts only.</description>
+        <description xml:lang="ar">مستودع لكافة حزم المصدر في أوبن سوزي 12.2. للخبراء فقط.</description>
+        <description xml:lang="cs">Repozitář všech zdrojových balíčků openSUSE 12.2. Pouze pro zkušené uživatele.</description>
+        <description xml:lang="el">Το αποθετήριο όλων των πηγαίων πακέτων στην openSUSE 12.2. Μόνο για προχωρήμένους.</description>
+        <description xml:lang="es">Repositorio de todos los paquetes de fuentes en openSUSE 12.2. Sólo para expertos.</description>
+        <description xml:lang="fi">Asennuslähde kaikille openSUSE 12.2 -jakelun lähdekoodipaketeille. Vain asiantuntijoille.</description>
+        <description xml:lang="fr">Le dépôt de tous les paquets source d'openSUSE 12.2. Pour experts seulement.</description>
+        <description xml:lang="hu">Az openSUSE 12.2 forráscsomagjait tartalmazó telepítési forrás. Csak szakértőknek.</description>
+        <description xml:lang="it">Il repository di tutti i pacchetti dei sorgenti di openSUSE 12.2. Solo per esperti.</description>
+        <description xml:lang="ja">openSUSE 12.2 の全てのソースパッケージを含むリポジトリ。熟練者向けです。</description>
+        <description xml:lang="km">ឃ្លាំង​របស់​កញ្ចប់​ប្រភព​ទាំង​អស់​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១២.២ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​ប៉ុណ្ណោះ ។</description>
+        <description xml:lang="nb">Pakkebrønn for alle kildekodepakker for openSUSE 12.2. Bare for avanserte brukere.</description>
+        <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE 12.2. Alleen voor ervaren gebruikers.</description>
+        <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE 12.2. Только для экспертов.</description>
+        <description xml:lang="zh_CN">openSUSE 12.2 所有源代码包的安装源。仅供专家。</description>
         <url>http://download.opensuse.org/source/distribution/12.2/repo/oss/</url>
       </repository>
 	    <repository recommended="false" format="yast">
 		<name>Main Repository (DEBUG)</name>
-		<name xml:lang="ar">المستودع الرئيسي (DEBUG)</name>
+		<name xml:lang="ar">المستودع الرئيسي (التصحيح)</name>
 		<name xml:lang="cs">Hlavní repozitář (DEBUG)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (DEBUG)</name>
 		<name xml:lang="de">Haupt-Repository (DEBUG)</name>
@@ -152,10 +236,38 @@
 		<name xml:lang="tr">Ana Depo (HATA AYIKLAMA)</name>
 		<name xml:lang="uk">Головне сховище (DEBUG)</name>
 		<name xml:lang="wa">Mwaisse depot (DISBUG)</name>
-		<name xml:lang="zh_CN">主安装源 (DEBUG 调试用)</name>
+		<name xml:lang="zh_CN">主调试源</name>
 		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 12.2 including the debuginfo packages</summary>
+		<summary xml:lang="ar">المستودع الرئيسي من أوبن سوزي 12.2 بما في ذلك حزم معلومات التصحيح</summary>
+		<summary xml:lang="cs">Hlavní repozitář openSUSE 12.2 obsahující balíčky debuginfo</summary>
+		<summary xml:lang="el">Κύριο αποθετήριο της openSUSE 12.2 που συμπεριλαμβάνει πακέτα debuginfo</summary>
+		<summary xml:lang="es">Repositorio principal de openSUSE 12.2 que incluye los paquetes debuginfo</summary>
+		<summary xml:lang="fi">openSUSE 12.2 debuginfo-paketit perusasennuslähteen paketeille</summary>
+		<summary xml:lang="fr">Dépôt principal d'openSUSE 12.2 contenant les paquets debuginfo</summary>
+		<summary xml:lang="hu">Elsődleges, debuginfo csomagokat tartalmazó openSUSE 12.2 telepítési forrás</summary>
+		<summary xml:lang="it">Repository principale di openSUSE 12.2 che include i pacchetti debuginfo</summary>
+		<summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 12.2 のメインリポジトリ</summary>
+		<summary xml:lang="km">ឃ្លាំង​សំខាន់​​របស់​អូផឹន​ស៊ូស៊ី ១២.២ រួម​មាន​កញ្ចប់​ debuginfo</summary>
+		<summary xml:lang="nb">Hovedpakkebrønn for openSUSE 12.2 som inneholder pakker med feilsøkingsinformasjon</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 12.2, met debuginfo-pakketten</summary>
+		<summary xml:lang="ru">Основной репозиторий openSUSE 12.2, включающий пакеты debuginfo</summary>
+		<summary xml:lang="zh_CN">openSUSE 12.2 主安装源包含调试信息包</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 12.2. For experts only.</description>
+		<description xml:lang="ar">هذا المستودع مفيدة لأولئك الذين يريدون تصحيح التطبيقات على أوبن سوزي 12.2. للخبراء فقط.</description>
+		<description xml:lang="cs">Tento repozitář je užitečný pro všechny, kdo chtějí ladit aplikace pro openSUSE 12.2. Určeno pouze pro experty.</description>
+		<description xml:lang="el">Αυτό το αποθετήριο είναι χρήσιμο για αυτούς που θέλουν να αποσφαλματώσουν εφαρμογές στην openSUSE 12.2. Μόνο για προχωρημένους.</description>
+		<description xml:lang="es">Este repositorio es útil para aquéllos que quieran depurar aplicaciones en openSUSE 12.2. Sólo para expertos.</description>
+		<description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja openSUSE 12.2:ssa. Vain asiantuntijoille.</description>
+		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE 12.2. Pour experts seulement.</description>
+		<description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik openSUSE 12.2 verzión alkalmazások hibakeresését végzik.</description>
+		<description xml:lang="it">Questo repository è utile per coloro che desiderano effettuare il debug delle applicazioni su openSUSE 12.2. Solo per esperti.</description>
+		<description xml:lang="ja">このリポジトリは、 openSUSE 12.2 のアプリケーションをデバッグする際に便利なリポジトリです。熟練者向けです。</description>
+		<description xml:lang="km">ឃ្លាំង​នេះ​មាន​ប្រយោជន៍​សម្រាប់​អ្វី​ដែល​អ្នក​ចង់​បំបាត់​កំហុស​កម្មវិធី​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១២.២ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​ប៉ុណ្ណោះ ។</description>
+		<description xml:lang="nb">Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE 12.2. Kun for avanserte brukere.</description>
+		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE 12.2 willen opsporen. Alleen voor ervaren gebruikers.</description>
+		<description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 12.2. Только для экспертов.</description>
+		<description xml:lang="zh_CN">本安装源只对那些想要在 openSUSE 12.2 中调试程序的人有用。仅供专家。</description>
 		<url>http://download.opensuse.org/debug/distribution/12.2/repo/oss/</url>
 	    </repository>
       <repository recommended="false" format="rpm-md">
@@ -190,15 +302,44 @@
         <name xml:lang="tr">Ana Güncelleme Deposu</name>
         <name xml:lang="uk">Головне сховище з оновленнями</name>
         <name xml:lang="wa">Mwaisse depot pol metaedje a djoû</name>
-        <name xml:lang="zh_CN">主更新安装源</name>
+        <name xml:lang="zh_CN">主更新源</name>
         <name xml:lang="zh_TW">主要更新套件庫</name>
         <summary>Repository for official updates to 12.2</summary>
+        <summary xml:lang="ar">مستودع التحديثات الرسمية إلى 12.2</summary>
+        <summary xml:lang="cs">Repozitář s oficiálními aktualizacemi pro openSUSE 12.2</summary>
+        <summary xml:lang="el">Αποθετήριο για επίσημες ενημερώσεις για το 12.2</summary>
+        <summary xml:lang="es">Repositorio de las actualizaciones oficiales para 12.2</summary>
+        <summary xml:lang="fi">12.2:n virallinen päivitysten asennuslähde.</summary>
+        <summary xml:lang="fr">Dépôt pour les mises à jour officielles pour la 12.2</summary>
+        <summary xml:lang="hu">Az openSUSE 12.2 hivatalos frissítéseinek telepítési forrása</summary>
+        <summary xml:lang="it">Repository degli aggiornamenti ufficiali per la versione 12.2</summary>
+        <summary xml:lang="ja">12.2 用の公式アップデートのリポジトリ</summary>
+        <summary xml:lang="km">ឃ្លាំង​សម្រាប់​​បច្ចុប្បន្នភាព​​ជា​ផ្លូវការ​របស់ ១២.២</summary>
+        <summary xml:lang="nb">Pakkebrønn for offisielle oppdateringer for 12.2</summary>
+        <summary xml:lang="nl">Installatiebron met officiële zaken voor het bijwerken van 12.2</summary>
+        <summary xml:lang="ru">Репозиторий официальных обновлений для 12.2</summary>
+        <summary xml:lang="zh_CN">12.2 的官方升级源</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 12.2.</description>
+        <description xml:lang="ar">في هذا المستودع يمكنك العثور على تحديثات الأمان لتحديثات الصيانة لأوبن سوزي 12.2.</description>
+        <description xml:lang="cs">V tomto repozitáři naleznete bezpečnostní a údržbové aktualizace pro openSUSE 12.2.</description>
+        <description xml:lang="el">Σε αυτό το αποθετήριο θα βρείτε ενημερώσεις ασφαλείας και συντήρησης του openSUSE 12.2.</description>
+        <description xml:lang="es">En este repositorio se encuentran actualizaciones de seguridad y mantenimiento para openSUSE 12.2.</description>
+        <description xml:lang="fi">Tästä asennuslähteestä löydät openSUSE 12.2:n tietoturva- ja ylläpitopäivityksiä.</description>
+        <description xml:lang="fr">Dans ce dépôt, vous trouverez des mise à jour de sécurité et de maintenance pour openSUSE 12.2.</description>
+        <description xml:lang="hu">Biztonsági és karbantartási frissítések az openSUSE 12.2 verzióhoz.</description>
+        <description xml:lang="it">In questo repository sono disponibili gli aggiornamenti di sicurezza e di manutenzione per openSUSE 12.2.</description>
+        <description xml:lang="ja">このリポジトリには、 openSUSE 12.2 用のセキュリティ／メンテナンス更新があります。</description>
+        <description xml:lang="km">នៅ​ក្នុង​ឃ្លាំង​នេះ អ្នក​រក​សុវត្ថិភាព និង​ថែទាំ​​​ភាព​ទាន់សម័យ​​របស់​​អូផឹន​ស៊ូស៊ី ​១២.២ ។</description>
+        <description xml:lang="nb">I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer for openSUSE 12.2.</description>
+        <description xml:lang="nl">In deze bron vindt u zaken voor het bijwerken van openSUSE 12.2 software voor veiligheid en onderhoud.</description>
+        <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 12.2.</description>
+        <description xml:lang="zh_CN">在此安装源中，您可以获得 openSUSE 12.2 的安全和维护更新。</description>
         <url>http://download.opensuse.org/update/12.2/</url>
       </repository>
 
             <repository recommended="false" format="yast">
                 <name>Update Repository (DEBUG)</name>
+                <name xml:lang="ar">تحديث المستودع (تصحيح)</name>
                 <name xml:lang="cs">Aktualizační repozitář (DEBUG)</name>
                 <name xml:lang="da">Opdateringskilde (DEBUG)</name>
                 <name xml:lang="de">Aktualisierungs-Repository (DEBUG)</name>
@@ -222,9 +363,38 @@
                 <name xml:lang="ru">Репозиторий обновлений (DEBUG)</name>
                 <name xml:lang="tr">Güncelleme Deposu (HATA AYIKLAMA)</name>
                 <name xml:lang="wa">Depot des metaedjes a djoû (DISBUG)</name>
+                <name xml:lang="zh_CN">主更新源 (调试)</name>
                 <name xml:lang="zh_TW">更新套件庫 (偵錯)</name>
                 <summary>Update repository of openSUSE 12.2 debuginfo packages</summary>
+                <summary xml:lang="ar">مستودع تحديث لحزم تصحيح العلل لأوبن سوزي 12.2</summary>
+                <summary xml:lang="cs">Repozitář s aktualizacemi openSUSE 12.2 obsahující balíčky debuginfo</summary>
+                <summary xml:lang="el">Αποθετήριο ενημέρωσης της openSUSE 12.2 για πακέτα debuginfo</summary>
+                <summary xml:lang="es">Repositorio de actualizaciones de openSUSE 12.2 para paquetes de depuración</summary>
+                <summary xml:lang="fi">openSUSE 12.2-jakelun päivitysasennuslähde vianjäljitystietoa sisältäville paketeille</summary>
+                <summary xml:lang="fr">Dépôt de mise à jour d'openSUSE 12.2 contenant les paquets debuginfo</summary>
+                <summary xml:lang="hu">Frissítése, debuginfo csomagokat tartalmazó openSUSE 12.2 telepítési forrás</summary>
+                <summary xml:lang="it">Repository degli aggiornamenti dei pacchetti debuginfo di openSUSE 12.2</summary>
+                <summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 12.2 の更新リポジトリ</summary>
+                <summary xml:lang="km">ឃ្លាំង​បច្ចុប្បន្នភាព​​​​របស់​អូផឹន​ស៊ូស៊ី ១២.២ រួម​មាន​កញ្ចប់​ debuginfo</summary>
+                <summary xml:lang="nb">Oppdateringspakkebrønn for openSUSE 12.2 som inneholder pakker med feilsøkingsinformasjon</summary>
+                <summary xml:lang="nl">Installatiebron voor bijwerken van openSUSE 12.2 met debuginfo-pakketten</summary>
+                <summary xml:lang="ru">Репозиторий обновлений openSUSE 12.2, включающий пакеты debuginfo</summary>
+                <summary xml:lang="zh_CN">openSUSE 12.2 调试包的主升级源</summary>
                 <description>This repository is useful for those that want to debug applications on openSUSE 12.2. For experts only.</description>
+                <description xml:lang="ar">هذا المستودع مفيدة لأولئك الذين يريدون تصحيح التطبيقات على أوبن سوزي 12.2. للخبراء فقط.</description>
+                <description xml:lang="cs">Tento repozitář je užitečný pro všechny, kdo chtějí ladit aplikace pro openSUSE 12.2. Určeno pouze pro experty.</description>
+                <description xml:lang="el">Αυτό το αποθετήριο είναι χρήσιμο για αυτούς που θέλουν να αποσφαλματώσουν εφαρμογές στην openSUSE 12.2. Μόνο για προχωρημένους.</description>
+                <description xml:lang="es">Este repositorio es útil para aquéllos que quieran depurar aplicaciones en openSUSE 12.2. Sólo para expertos.</description>
+                <description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja openSUSE 12.2:ssa. Vain asiantuntijoille.</description>
+                <description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE 12.2. Pour experts seulement.</description>
+                <description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik openSUSE 12.2 verzión alkalmazások hibakeresését végzik.</description>
+                <description xml:lang="it">Questo repository è utile per coloro che desiderano effettuare il debug delle applicazioni su openSUSE 12.2. Solo per esperti.</description>
+                <description xml:lang="ja">このリポジトリは、 openSUSE 12.2 のアプリケーションをデバッグする際に便利なリポジトリです。熟練者向けです。</description>
+                <description xml:lang="km">ឃ្លាំង​នេះ​មាន​ប្រយោជន៍​សម្រាប់​អ្វី​ដែល​អ្នក​ចង់​បំបាត់​កំហុស​កម្មវិធី​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១២.២ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​ប៉ុណ្ណោះ ។</description>
+                <description xml:lang="nb">Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE 12.2. Kun for avanserte brukere.</description>
+                <description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE 12.2 willen opsporen. Alleen voor ervaren gebruikers.</description>
+                <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 12.2. Только для экспертов.</description>
+                <description xml:lang="zh_CN">本安装源只对那些想要在 openSUSE 12.2 中调试程序的人有用。仅供专家。</description>
                 <url>http://download.opensuse.org/debug/update/12.2/</url>
             </repository>
 	</repositories>
