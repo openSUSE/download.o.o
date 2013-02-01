@@ -36,7 +36,7 @@
 		<name xml:lang="tr">Ana Depo (AKY)</name>
 		<name xml:lang="uk">Головне сховище (ВПЗ)</name>
 		<name xml:lang="wa">Mwaisse depot (OSS)</name>
-		<name xml:lang="zh_CN">主软件仓库 (开源软件)</name>
+		<name xml:lang="zh_CN">主软件源 (开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 12.3 including only Open Source Software</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 12.3, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
@@ -75,7 +75,7 @@
 		<name xml:lang="tr">Ana Depo (AKY-OLMAYAN)</name>
 		<name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
 		<name xml:lang="wa">Mwaisse depot (NÉN-OSS)</name>
-		<name xml:lang="zh_CN">主软件仓库 (非开源软件)</name>
+		<name xml:lang="zh_CN">主软件源 (非开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 12.3</summary>
 		<description>The official openSUSE 12.3 repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
@@ -113,7 +113,7 @@
         <name xml:lang="tr">Ana Depo (Kaynaklar)</name>
         <name xml:lang="uk">Головне сховище (джерела)</name>
         <name xml:lang="wa">Mwaisse depot (Sourdants)</name>
-        <name xml:lang="zh_CN">主软件仓库(源代码)</name>
+        <name xml:lang="zh_CN">主软件源 (源代码)</name>
         <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
         <summary>Main repository of openSUSE 12.3 (Source packages)</summary>
         <description>The repository of all source packages in openSUSE 12.3. For experts only.</description>
