@@ -39,7 +39,43 @@
 		<name xml:lang="zh_CN">主软件源 (开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 12.3 including only Open Source Software</summary>
+		<summary xml:lang="cs">Hlavní repozitář openSUSE 12.3 obsahující pouze otevřený software</summary>
+		<summary xml:lang="de">Haupt-Repository von openSUSE 12.3 (nur Open-Source-Software)</summary>
+		<summary xml:lang="el">Κύριο αποθετήριο της openSUSE 12.3 που συμπεριλαμβάνει μόνο Λογισμικό Ανοικτού Κώδικα</summary>
+		<summary xml:lang="es">Repositorio principal de openSUSE 12.3 que incluye sólo software de código abierto</summary>
+		<summary xml:lang="fi">openSUSE 12.3 -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia</summary>
+		<summary xml:lang="fr">Dépôt principal d'openSUSE 12.3 contenant seulement les logiciels Open Source</summary>
+		<summary xml:lang="gl">Repositorio principal de openSUSE 12.3 que inclúe só Software de código aberto</summary>
+		<summary xml:lang="hu">Elsődleges, csak nyílt forrású csomagokat tartalmazó openSUSE 12.3 telepítési forrás</summary>
+		<summary xml:lang="it">Repository principale di openSUSE 12.3 che include solo programmi Open Source</summary>
+		<summary xml:lang="ja">オープンソースソフトウエアだけを含む openSUSE 12.3 のメインリポジトリ</summary>
+		<summary xml:lang="lt">openSUSE 12.3 pagrindinė saugykla, turinti tik atviro kodo programinę įrangą</summary>
+		<summary xml:lang="nb">Hovedpakkebrønn for openSUSE 12.3 som kun inneholder programvare med åpen kildekode</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 12.3, met alleen open source-software</summary>
+		<summary xml:lang="pl">Główne repozytorium openSUSE 12.3 zawierające tylko oprogramowanie open source</summary>
+		<summary xml:lang="pt_BR">Repositório principal do openSUSE 12.3 contendo somente software de código aberto</summary>
+		<summary xml:lang="ru">Основной репозиторий openSUSE 12.3, включающий только программное обеспечение с открытым кодом</summary>
+		<summary xml:lang="zh_CN">openSUSE 12.3 主软件源，仅包含开源软件</summary>
+		<summary xml:lang="zh_TW">openSUSE 12.3 的主要套件庫，僅包含開放原碼的軟體</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 12.3, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+		<description xml:lang="cs">Velký repozitář s otevřeným softwarem pro openSUSE 12.3. Obsahuje tisíce balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti může přidání tohoto repozitáře vyžadovat delší čas. Pokud chcete k repozitáři přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní odkládací oddíl.) </description>
+		<description xml:lang="de">Das große Repository 'Open-Source-Software' (OSS) für openSUSE 12.3, das Ihnen Zugriff auf tausende vom openSUSE-Team verwaltete Pakete gibt. (Aufgrund der Größe des Repositories kann das Hinzufügen einige Zeit in Anspruch nehmen. Mindestens 512MB RAM oder eine aktivierte SWAP-Partition werden dringend empfohlen für den Fall, dass Sie auf dieses Repository während der Installation zugreifen wollen.)</description>
+		<description xml:lang="el">Το μεγάλο αποθετήριο του Λογισμικού Ανοικτού Κώδικα (ΛΑΚ) για την openSUSE 12.3, δίνει πρόσβαση σε χιλιάδες πακέτα που συντηρούνται από την ομάδα του openSUSE. (Λόγω του μεγέθους του αποθετηρίου, προσθέτοντάς το μπορεί να πάρει λίγη ώρα. 512 MB μνήμης RAM ή SWAP κατάτμησης συνίσταται σε περίπτωση που θέλετε πρόσβαση σε αυτό το αποθετήριο κατά την εγκατάσταση.)</description>
+		<description xml:lang="es">El enorme repositorio de software de código abierto (OSS) para openSUSE 12.3, le da acceso a miles de paquetes mantenidos por el equipo de openSUSE (debido al tamaño del repositorio, añadirlo puede llevar algo de tiempo. Es altamente recomendable disponer de 512 MB de RAM o una partición de intercambio activa si quiere habilitar este repositorio durante la instalación.)</description>
+		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 12.3:lle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
+		<description xml:lang="fr">Le principal dépôt de logiciels Open Source (OSS) pour openSUSE 12.3, vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (En raison de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active sont fortement recommandés si vous voulez y accéder au moment de l'installation.)</description>
+		<description xml:lang="gl">O gran repositorio de Software de código aberto (OSS) para openSUSE 12.3, dalle acceso a milleiros de paquetes mantidos polo equipo de openSUSE. (Debido ao tamaño do repositorio, engadilo podería levar algún tempo. É moi recomendable ter 512 MB de RAM ou ter activada a partición de intercambio ou SWAP se desexa acceder a este repositorio á hora de instalar.)</description>
+		<description xml:lang="hu">Hatalmas nyílt forrású telepítési forrás openSUSE 12.3 verzióhoz, amelyen keresztül több száz olyan csomaghoz férhet hozzá, amelyet az openSUSE csapat tart karban. (A telepítési forrás méretére való tekintettel, ennek hozzáadása eltarthat egy ideig. 512 MB memória vagy a SWAP partíció engedélyezése mindenképpen szükséges, amennyiben a telepítési forrást az operációs rendszer telepítése közben kívánja elérni.)</description>
+		<description xml:lang="it">Il grande repository di programmi Open Source (OSS) di openSUSE 12.3, che fornisce l'accesso a migliaia di pacchetti mantenuti dal team openSUSE. A causa delle dimensioni del repository, la sua aggiunta potrebbe richiedere un po' di tempo. Si consiglia fortemente di utilizzare un sistema con almeno 512 MB di RAM o con una partizione di SWAP attiva qualora si desideri avere accesso a questo repository durante l'installazione.</description>
+		<description xml:lang="ja">openSUSE 12.3 向けの巨大なオープンソースのソフトウエアリポジトリ。 openSUSE チームによって管理されている何千ものパッケージにアクセスすることができます。 (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。インストールの際にリポジトリにアクセスする場合、512 MB の RAM とスワップの利用を強くお勧めします。)</description>
+		<description xml:lang="lt">Didelė atviro kodo programinės įrangos openSUSE 12.3 saugykla, leidžianti parsisiųsti tūkstančius openSUSE komandos prižiūrimų paketų. (Dėl saugyklos didumo, jos pridėjimas gali užtrukti. Jei norite šią saugyklą pasiekti diegimo metu, patariame turėti bent 512 MB RAM arba įgalintą mainų (SWAP) skaidinį.)</description>
+		<description xml:lang="nb">Den store pakkebrønnen for åpen kildekode (OSS) for openSUSE 12.3 gir deg tilgang til tusenvis av pakker som vedlikeholdes av openSUSE--gruppen. (På grunn av størrelsen kan det ta en stund å legge til pakkebrønnen (512 MB RAM eller en aktivert veksleminnepartisjon anbefales sterkt hvis du ønsker tilgang til denne pakkebrønnen under installasjonen).</description>
+		<description xml:lang="nl">De grote open source-software (OSS) installatiebron van openSUSE 12.3 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 MB RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+		<description xml:lang="pl">Wielkie repozytorium Open Source Software (OSS) dla openSUSE 12.3, które zawiera tysiące pakietów utrzymywanych przez zespół openSUSE. (Z racji rozmiarów dodanie tego repozytorium może zająć trochę czasu. Jeżeli to repozytorium ma być wykorzystywane podczas instalacji, zalecane jest posiadanie 512MB pamięci RAM lub aktywnej partycji wymiany.)</description>
+		<description xml:lang="pt_BR">O grande repositório de software de código aberto (OSS) para o openSUSE 12.3, fornecendo-lhe acesso a milhares de pacotes mantidos pela equipe do openSUSE. (Devido ao tamanho do repositório, sua inclusão pode demorar algum tempo. É altamente recomendado possuir 512MB de RAM ou uma partição de troca ativada caso você deseje acessar este repositório durante a instalação.)</description>
+		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 12.3, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 Мб RAM или включённый раздел подкачки.)</description>
+		<description xml:lang="zh_CN">庞大的 openSUSE 12.3 开源软件源，提供由 openSUSE 团队维护的数千个软件包。（由于软件源容量太大，添加它可能要花费点时间。若想要在系统安装时访问该源，强烈建议有 512MB 内存或启用硬盘交换分区。）</description>
+		<description xml:lang="zh_TW">openSUSE 12.3 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 團隊維護的套件讓您取用。(由於這個套件庫非常大，要加入它會花上一些時間。如果您要在安裝時存取此套件庫，強烈建議至少 512 MB 的記憶體或可用的 SWAP 分割區。)</description>
 		<url>http://download.opensuse.org/distribution/12.3/repo/oss/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
@@ -66,7 +102,7 @@
 		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਗ਼ੈਰ-ਓਪਨ-ਸੋਰਸ)</name>
 		<name xml:lang="pl">Repozytorium główne (NON-OSS)</name>
 		<name xml:lang="pt">Repositório Principal (NON-OSS)</name>
-		<name xml:lang="pt_BR">Repositório principal (NON-OSS)</name>
+		<name xml:lang="pt_BR">Repositório principal (Non-OSS)</name>
 		<name xml:lang="ro">Sursă de instalare principală (NON-OSS)</name>
 		<name xml:lang="ru">Основной репозиторий (NON-OSS)</name>
 		<name xml:lang="sk">Hlavný repozitár (NON-OSS)</name>
@@ -78,7 +114,43 @@
 		<name xml:lang="zh_CN">主软件源 (非开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 12.3</summary>
+		<summary xml:lang="cs">Doplňkový repozitář s uzavřeným softwarem pro openSUSE 12.3</summary>
+		<summary xml:lang="de">Zusatz-Repository von openSUSE 12.3 (Nicht-Open-Source-Software)</summary>
+		<summary xml:lang="el">Αποθετήριο Μη-Ανοιχτού Κώδικα Λογισμικού Προσθέτων για το openSUSE 12.3</summary>
+		<summary xml:lang="es">Repositorio complementario de software de código no abierto para openSUSE 12.3</summary>
+		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 12.3:lle</summary>
+		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 12.3</summary>
+		<summary xml:lang="gl">Repositorio de complementos de software que non son de código aberto para openSUSE 12.3</summary>
+		<summary xml:lang="hu">Nem nyílt forrású szoftverek telepítési forrása openSUSE 12.3 verzióhoz</summary>
+		<summary xml:lang="it">Repository dei programmi Non Open Source per openSUSE 12.3</summary>
+		<summary xml:lang="ja">非オープンソースパッケージを含む openSUSE 12.3 の追加リポジトリ</summary>
+		<summary xml:lang="lt">openSUSE 12.3 uždaro kodo programinės įrangos papildoma saugykla</summary>
+		<summary xml:lang="nb">Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE 12.3</summary>
+		<summary xml:lang="nl">Aanvullende, niet-open source installatiebron voor openSUSE 12.3</summary>
+		<summary xml:lang="pl">Repozytorium z dodatkowym oprogramowaniem non-open source dla openSUSE 12.3</summary>
+		<summary xml:lang="pt_BR">Repositório adicional para software de código fechado para o openSUSE 12.3</summary>
+		<summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE 12.3</summary>
+		<summary xml:lang="zh_CN">openSUSE 12.3 非开源软件附加源</summary>
+		<summary xml:lang="zh_TW">openSUSE 12.3 的非開放原碼軟體附加套件庫</summary>
 		<description>The official openSUSE 12.3 repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
+		<description xml:lang="cs">Oficiální repozitář openSUSE 12.3 pro software bez otevřeného zdrojového kódu spravovaný týmem openSUSE, který zahrnuje Operu, Javu, Flash a další programy.</description>
+		<description xml:lang="de">Das offizielle openSUSE-12.3-Repository für 'Nicht-Open-Source-Software', die vom openSUSE-Team verwaltet wird, einschließlich Opera, Java, Flash, etc.</description>
+		<description xml:lang="el">Το επίσημο αποθετήριο του openSUSE 12.3 για όλο το Λογισμικό Μη-Ανοιχτού Κώδικα που συντηρείται από την ομάδα openSUSE, συμπεριλαμβανομένων των Opera, Java, Flash, και άλλων.</description>
+		<description xml:lang="es">El repositorio oficial de openSUSE 12.3 para todo el software de código fuente no abierto mantenido por el equipo de openSUSE, incluye Opera, Java, Flash y otros.</description>
+		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE 12.3 -asennuslähde kaikille suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Java, Flash ja niin edelleen.</description>
+		<description xml:lang="fr">Le dépôt officiel d'openSUSE 12.3 pour tous les logiciels Non-Open Source, maintenu par l'équipe d'openSUSE, il contient Opera, Java, Flash, et bien d'autres.</description>
+		<description xml:lang="gl">O repositorio oficial de openSUSE 12.3 para todo o software que non é de código aberto mantido polo equipo de openSUSE, incluíndo Opera, Java, Flash e máis.</description>
+		<description xml:lang="hu">Hivatalos, zárt forrású komponenseket (pl. Realplayer, Opera, Java, Flash) tartalmazó openSUSE 12.3 telepítési forrás.</description>
+		<description xml:lang="it">Il repository ufficiale di openSUSE 12.3 per tutti i programmi non open source mantenuti dal team openSUSE, inclusi Opera, Java, Flash e altro.</description>
+		<description xml:lang="ja">Opera, Java, Flash などの非オープンソースソフトウエアを含む、 openSUSE チーム管理の openSUSE 12.3 公式リポジトリです。</description>
+		<description xml:lang="lt">Oficiali openSUSE 12.3 saugykla visai uždaro kodo programinei įrangai, kurią palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt.</description>
+		<description xml:lang="nb">Den offisielle openSUSE 12.3-pakkebrønnen for all programvare uten åpen kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, Java, Flash og mye mer.</description>
+		<description xml:lang="nl">De officiële openSUSE 12.3-installatiebron voor alle niet-open source-software die door het openSUSE-team wordt onderhouden; zoals Opera, Java, Flash, etc.</description>
+		<description xml:lang="pl">Oficjalne repozytorium openSUSE 12.3 z pakietami oprogramowania non-open source utrzymywane przez zespół openSUSE. Zawiera takie programy jak Opera, Java, Flash i inne.</description>
+		<description xml:lang="pt_BR">O repositório oficial do openSUSE 12.3 para todo software de código fechado, mantido pela equipe do openSUSE, incluindo Opera, Java, Flash e outros.</description>
+		<description xml:lang="ru">Официальный репозиторий openSUSE 12.3 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Java, Flash и многое другое.</description>
+		<description xml:lang="zh_CN">openSUSE 12.3 全部非开源软件的官方软件源，由 openSUSE 团队维护，包括 Opera 浏览器、Java、Flash 等。</description>
+		<description xml:lang="zh_TW">由 openSUSE 團隊維護之非開放原始碼軟體的官方 openSUSE 12.3 套件庫，包含了 Opera, Java, Flash 以及其他更多軟體。</description>
 		<url>http://download.opensuse.org/distribution/12.3/repo/non-oss/</url>
 	    </repository>
       <repository recommended="false" format="yast">
@@ -116,7 +188,43 @@
         <name xml:lang="zh_CN">主软件源 (源代码)</name>
         <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
         <summary>Main repository of openSUSE 12.3 (Source packages)</summary>
+        <summary xml:lang="cs">Hlavní repozitář openSUSE 12.3 (zdrojové balíčky)</summary>
+        <summary xml:lang="de">Haupt-Repository von openSUSE 12.3 (Quellcode-Pakete)</summary>
+        <summary xml:lang="el">Κύριο αποθετήριο της openSUSE 12.3 (Πηγαία πακέτα)</summary>
+        <summary xml:lang="es">Repositorio principal de openSUSE 12.. (Paquetes de fuentes)</summary>
+        <summary xml:lang="fi">openSUSE 12.3 -jakelun perusasennuslähde (lähdekoodipaketit)</summary>
+        <summary xml:lang="fr">Dépôt principal d'openSUSE 12.3 (Paquets Sources)</summary>
+        <summary xml:lang="gl">Repositorio principal de openSUSE 12.3 (Paquetes de fontes)</summary>
+        <summary xml:lang="hu">Elsődleges telepítési forrás openSUSE 12.3-hoz (forráscsomagok)</summary>
+        <summary xml:lang="it">Repository principale di openSUSE 12.3 (Pacchetti sorgente)</summary>
+        <summary xml:lang="ja">openSUSE 12.3 のメインリポジトリ (ソースパッケージ)</summary>
+        <summary xml:lang="lt">openSUSE 12.3 pagrindinė saugykla (šaltinių paketai)</summary>
+        <summary xml:lang="nb">Hovedpakkebrønn for openSUSE 12.3 (kildekodepakker)</summary>
+        <summary xml:lang="nl">Hoofd-installatiebron van openSUSE 12.3 (broncodepakketten)</summary>
+        <summary xml:lang="pl">Główne repozytorium openSUSE 12.3 (Pakiety źródłowe)</summary>
+        <summary xml:lang="pt_BR">Repositório principal do openSUSE 12.3 (Pacotes fonte)</summary>
+        <summary xml:lang="ru">Основной репозиторий openSUSE 12.3 (Пакеты с исходным кодом)</summary>
+        <summary xml:lang="zh_CN">openSUSE 12.3 主软件源 (源代码包)</summary>
+        <summary xml:lang="zh_TW">openSUSE 12.3 的主要套件庫(原始碼套件)</summary>
         <description>The repository of all source packages in openSUSE 12.3. For experts only.</description>
+        <description xml:lang="cs">Repozitář všech zdrojových balíčků openSUSE 12.3. Pouze pro zkušené uživatele.</description>
+        <description xml:lang="de">Das Repository für alle Quellcodepakete von openSUSE 12.3. Nur für Experten.</description>
+        <description xml:lang="el">Το αποθετήριο όλων των πηγαίων πακέτων στην openSUSE 12.3. Μόνο για προχωρήμένους.</description>
+        <description xml:lang="es">Repositorio de todos los paquetes de fuentes en openSUSE 12.3. Sólo para expertos.</description>
+        <description xml:lang="fi">Asennuslähde kaikille openSUSE 12.3 -jakelun lähdekoodipaketeille. Vain asiantuntijoille.</description>
+        <description xml:lang="fr">Le dépôt de tous les paquets source d'openSUSE 12.3. Pour experts seulement.</description>
+        <description xml:lang="gl">O repositorio de todos os paquetes de fontes de openSUSE 12.3. Só para expertos.</description>
+        <description xml:lang="hu">Az openSUSE 12.3 forráscsomagjait tartalmazó telepítési forrás. Csak szakértőknek.</description>
+        <description xml:lang="it">Il repository di tutti i pacchetti dei sorgenti di openSUSE 12.3. Solo per esperti.</description>
+        <description xml:lang="ja">openSUSE 12.3 の全てのソースパッケージを含むリポジトリ。熟練者向けです。</description>
+        <description xml:lang="lt">Visų openSUSE 12.3 šaltinių paketų saugykla. Tik ekspertams.</description>
+        <description xml:lang="nb">Pakkebrønn for alle kildekodepakker til openSUSE 12.3. Bare for avanserte brukere.</description>
+        <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE 12.3. Alleen voor ervaren gebruikers.</description>
+        <description xml:lang="pl">Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 12.3. Tylko dla zaawansowanych.</description>
+        <description xml:lang="pt_BR">Repositório de todos os pacotes fonte no openSUSE 12.3. Somente para usuários avançados.</description>
+        <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE 12.3. Только для экспертов.</description>
+        <description xml:lang="zh_CN">openSUSE 12.3 全部源代码包的软件源。仅供专家使用。</description>
+        <description xml:lang="zh_TW">openSUSE 12.3 所有原始碼套件的套件庫。僅提供專家使用。</description>
         <url>http://download.opensuse.org/source/distribution/12.3/repo/oss/</url>
       </repository>
 	    <repository recommended="false" format="yast">
@@ -155,7 +263,43 @@
 		<name xml:lang="zh_CN">主调试源</name>
 		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 12.3 including the debuginfo packages</summary>
+		<summary xml:lang="cs">Hlavní repozitář openSUSE 12.3 obsahující balíčky debuginfo</summary>
+		<summary xml:lang="de">Haupt-Repository von openSUSE 12.3 (nur Debuginfo-Pakete)</summary>
+		<summary xml:lang="el">Κύριο αποθετήριο της openSUSE 12.3 που συμπεριλαμβάνει πακέτα debuginfo</summary>
+		<summary xml:lang="es">Repositorio principal de openSUSE 12.3 que incluye los paquetes debuginfo</summary>
+		<summary xml:lang="fi">openSUSE 12.3 debuginfo-paketit perusasennuslähteen paketeille</summary>
+		<summary xml:lang="fr">Dépôt principal d'openSUSE 12.3 contenant les paquets debuginfo</summary>
+		<summary xml:lang="gl">Repositorio principal de openSUSE 12.3 que inclúe paquetes de información de depuración (debuginfo)</summary>
+		<summary xml:lang="hu">Elsődleges, debuginfo csomagokat tartalmazó openSUSE 12.3 telepítési forrás</summary>
+		<summary xml:lang="it">Repository principale di openSUSE 12.3 che include i pacchetti debuginfo</summary>
+		<summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 12.3 のメインリポジトリ</summary>
+		<summary xml:lang="lt">openSUSE 12.3 pagrindinė saugykla, turinti derinimo informacijos paketus</summary>
+		<summary xml:lang="nb">Hovedpakkebrønn for openSUSE 12.3 som inneholder pakker med feilsøkingsinformasjon</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 12.3, met debuginfo-pakketten</summary>
+		<summary xml:lang="pl">Główne repozytorium openSUSE 12.3 zawierające pakiety debuginfo</summary>
+		<summary xml:lang="pt_BR">Repositório principal do openSUSE 12.3 contendo os pacotes deubginfo</summary>
+		<summary xml:lang="ru">Основной репозиторий openSUSE 12.3, включающий пакеты debuginfo</summary>
+		<summary xml:lang="zh_CN">openSUSE 12.3 主软件源包含调试信息包</summary>
+		<summary xml:lang="zh_TW">openSUSE 12.3 的主要套件庫，包含偵錯套件</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 12.3. For experts only.</description>
+		<description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE 12.3. Určeno pouze pro experty.</description>
+		<description xml:lang="de">Dieses Repository ist nützlich für Entwickler, die Anwendungen aus openSUSE 12.3 von Fehlern befreien wollen. Nur für Experten.</description>
+		<description xml:lang="el">Αυτό το αποθετήριο είναι χρήσιμο για αυτούς που θέλουν να αποσφαλματώσουν εφαρμογές στην openSUSE 12.3. Μόνο για προχωρημένους.</description>
+		<description xml:lang="es">Este repositorio es útil para aquéllos que quieran depurar aplicaciones en openSUSE 12.3. Sólo para expertos.</description>
+		<description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja openSUSE 12.3:ssa. Vain asiantuntijoille.</description>
+		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE 12.3. Pour experts seulement.</description>
+		<description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE 12.3. Só para expertos.</description>
+		<description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik openSUSE 12.3 verzión alkalmazások hibakeresését végzik.</description>
+		<description xml:lang="it">Questo repository è utile per coloro che desiderano effettuare il debug delle applicazioni su openSUSE 12.3. Solo per esperti.</description>
+		<description xml:lang="ja">このリポジトリは、 openSUSE 12.3 のアプリケーションをデバッグする際に便利です。熟練者向けです。</description>
+		<description xml:lang="lt">Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE 12.3. Tik ekspertams.</description>
+		<description xml:lang="nb">Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE 12.3. Kun for avanserte brukere.</description>
+		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE 12.3 willen opsporen. Alleen voor ervaren gebruikers.</description>
+		<description xml:lang="pl">Repozytorium dla tych, którzy pragną debugować programy na openSUSE 12.3. Tylko dla zaawansowanych.</description>
+		<description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE 12.3. Somente para usuários avançados.</description>
+		<description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 12.3. Только для экспертов.</description>
+		<description xml:lang="zh_CN">本软件源只对那些想要在 openSUSE 12.3 中调试程序的人有用。仅供专家使用。</description>
+		<description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 12.3 偵錯應用程式非常有用。僅提供專家使用。</description>
 		<url>http://download.opensuse.org/debug/distribution/12.3/repo/oss/</url>
 	    </repository>
       <repository recommended="false" format="rpm-md">
@@ -193,14 +337,104 @@
         <name xml:lang="zh_CN">主更新源</name>
         <name xml:lang="zh_TW">主要更新套件庫</name>
         <summary>Repository for official updates to 12.3</summary>
+        <summary xml:lang="cs">Repozitář s oficiálními aktualizacemi openSUSE 12.3</summary>
+        <summary xml:lang="de">Repository für offizielle Aktualisierungen von openSUSE 12.3</summary>
+        <summary xml:lang="el">Αποθετήρια για επίσημες ενημερώσεις για το 12.3</summary>
+        <summary xml:lang="es">Repositorio de las actualizaciones oficiales para 12.3</summary>
+        <summary xml:lang="fi">12.3:n virallinen päivitysten asennuslähde.</summary>
+        <summary xml:lang="fr">Dépôt pour les mises à jour officielles pour la 12.3</summary>
+        <summary xml:lang="gl">Repositorio de actualizacións oficiais para 12.3</summary>
+        <summary xml:lang="hu">Az openSUSE 12.3 hivatalos frissítéseinek telepítési forrása</summary>
+        <summary xml:lang="it">Repository degli aggiornamenti ufficiali per la versione 12.3</summary>
+        <summary xml:lang="ja">12.3 用の公式アップデートのリポジトリ</summary>
+        <summary xml:lang="lt">Oficiali 12.3 atnaujinimų saugykla</summary>
+        <summary xml:lang="nb">Pakkebrønn for offisielle oppdateringer til 12.3</summary>
+        <summary xml:lang="nl">Installatiebron met officiële zaken voor het bijwerken naar 12.3</summary>
+        <summary xml:lang="pl">Repozytorium oficjalnych aktualizacji dla systemu openSUSE 12.3</summary>
+        <summary xml:lang="pt_BR">Repositório para atualizações oficiais da versão 12.3</summary>
+        <summary xml:lang="ru">Репозиторий официальных обновлений для 12.3</summary>
+        <summary xml:lang="zh_CN">12.3 的官方升级源</summary>
+        <summary xml:lang="zh_TW">12.3 的官方更新套件庫</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 12.3.</description>
+        <description xml:lang="cs">V tomto repozitáři naleznete bezpečnostní a údržbové aktualizace pro openSUSE 12.3.</description>
+        <description xml:lang="de">In diesem Repository finden Sie Sicherheits- und Wartungsaktualisierungen für openSUSE 12.3.</description>
+        <description xml:lang="el">Σε αυτό το αποθετήριο βρείτε ενημερώσεις ασφαλείας και συντήρησης του openSUSE 12.3.</description>
+        <description xml:lang="es">En este repositorio se encuentran actualizaciones de seguridad y mantenimiento para openSUSE 12.3.</description>
+        <description xml:lang="fi">Tästä asennuslähteestä löydät openSUSE 12.3:n tietoturva- ja ylläpitopäivityksiä.</description>
+        <description xml:lang="fr">Dans ce dépôt, vous trouverez des mise à jour de sécurité et de maintenance pour openSUSE 12.3.</description>
+        <description xml:lang="gl">Neste repositorio poderá atopar actualizacións de seguridade e mantemento para openSUSE 12.3.</description>
+        <description xml:lang="hu">Biztonsági és karbantartási frissítések az openSUSE 12.3 verzióhoz.</description>
+        <description xml:lang="it">In questo repository sono disponibili gli aggiornamenti di sicurezza e di manutenzione per openSUSE 12.3.</description>
+        <description xml:lang="ja">このリポジトリには、 openSUSE 12.3 用のセキュリティ／メンテナンスアップデートがあります。</description>
+        <description xml:lang="lt">Šioje saugykloje rasite openSUSE 12.3 saugumo ir palaikymo atnaujinimus.</description>
+        <description xml:lang="nb">I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer til openSUSE 12.3.</description>
+        <description xml:lang="nl">In deze installatiebron vindt u zaken voor het bijwerken t.b.v. veiligheid en onderhoud voor openSUSE 12.3.</description>
+        <description xml:lang="pl">To repozytorium zawiera aktualizacje i poprawki bezpieczeństwa dla openSUSE 12.3.</description>
+        <description xml:lang="pt_BR">Neste repositório você encontrará atualizações de segurança e manutenção para o openSUSE 12.3.</description>
+        <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 12.3.</description>
+        <description xml:lang="zh_CN">在此软件源中，您可找到 openSUSE 12.3 的安全和维护更新。</description>
+        <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 12.3 的安全性與維護性更新</description>
         <url>http://download.opensuse.org/update/12.3/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>Update Repository (Non-Oss)</name>
+        <name xml:lang="cs">Aktualizační repozitář (uzavřený software)</name>
+        <name xml:lang="de">Aktualisierungs-Repository (Nicht-Open-Source-Software)</name>
+        <name xml:lang="el">Κύριο Αποθετήριο Ενημερώσεων (Non-Oss)</name>
+        <name xml:lang="es">Repositorio de actualizaciones (No OpenSource)</name>
+        <name xml:lang="fi">Päivitysasennuslähde (Non-Oss)</name>
+        <name xml:lang="fr">Dépôt de mises à jour (Non-OSS)</name>
+        <name xml:lang="gl">Repositorio de actualización (Non-Oss)</name>
+        <name xml:lang="hu">Frissítési telepítési forrás (Non-Oss)</name>
+        <name xml:lang="it">Repository degli aggiornamenti (Non-Oss)</name>
+        <name xml:lang="ja">更新リポジトリ (非オープンソース)</name>
+        <name xml:lang="lt">Atnaujinimų saugykla (uždaro kodo)</name>
+        <name xml:lang="nb">Oppdateringspakkebrønn (ikke åpen kildekode)</name>
+        <name xml:lang="nl">Installatiebron voor bijwerken (niet-Oss)</name>
+        <name xml:lang="pl">Repozytorium aktualizacji (non-oss)</name>
+        <name xml:lang="pt_BR">Repositório de atualização (Non-OSS)</name>
+        <name xml:lang="ru">Репозиторий обновлений (Non-Oss)</name>
+        <name xml:lang="zh_CN">主更新源 (非开源软件)</name>
+        <name xml:lang="zh_TW">更新套件庫 (非開放原始碼)</name>
         <summary>Repository for official non free updates to 12.3</summary>
+        <summary xml:lang="cs">Repozitář s oficiálními aktualizacemi nesvobodného softwaru pro openSUSE 12.3</summary>
+        <summary xml:lang="de">Repository für offizielle Nicht-Open-Source-Software-Aktualisierungen von openSUSE 12.3</summary>
+        <summary xml:lang="el">Αποθετήρια για επίσημες μη δωρεάν ενημερώσεις για το 12.3</summary>
+        <summary xml:lang="es">Repositorio de las actualizaciones oficiales para 12.3</summary>
+        <summary xml:lang="fi">12.3:n virallinen suljettujen ohjelmien päivitysten asennuslähde.</summary>
+        <summary xml:lang="fr">Dépôt pour les mises à jour officielles non libres pour la 12.3</summary>
+        <summary xml:lang="gl">Repositorio de actualizacións oficiais para 12.3</summary>
+        <summary xml:lang="hu">Hivatalos, nem ingyenes frissítéseinek telepítési forrása</summary>
+        <summary xml:lang="it">Repository degli aggiornamenti ufficiali non free per la versione 12.3</summary>
+        <summary xml:lang="ja">非オープンソース用の 12.3 向け公式アップデートリポジトリ</summary>
+        <summary xml:lang="lt">Oficiali 12.3 uždaro kodo atnaujinimų saugykla</summary>
+        <summary xml:lang="nb">Pakkebrønn for offisielle oppdateringer for pakker uten åpen kildekode til 12.3</summary>
+        <summary xml:lang="nl">Installatiebron met officiële niet-vrije zaken voor het bijwerken naar 12.3</summary>
+        <summary xml:lang="pl">Repozytorium oficjalnych aktualizacji dla systemu openSUSE 12.3</summary>
+        <summary xml:lang="pt_BR">Repositório para atualizações oficiais não livres da versão 12.3</summary>
+        <summary xml:lang="ru">Репозиторий официальных несвободных обновлений для 12.3</summary>
+        <summary xml:lang="zh_CN">12.3 的官方非开源软件更新源</summary>
+        <summary xml:lang="zh_TW">12.3 的官方非開放原始碼更新套件庫</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 12.3.</description>
-        <url>http://download.opensuse.org/update/12.3_nonfree/</url>
+        <description xml:lang="cs">V tomto repozitáři naleznete bezpečnostní a údržbové aktualizace pro openSUSE 12.3.</description>
+        <description xml:lang="de">In diesem Repository finden Sie Sicherheits- und Wartungsaktualisierungen für openSUSE 12.3.</description>
+        <description xml:lang="el">Σε αυτό το αποθετήριο βρείτε ενημερώσεις ασφαλείας και συντήρησης του openSUSE 12.3.</description>
+        <description xml:lang="es">En este repositorio se encuentran actualizaciones de seguridad y mantenimiento para openSUSE 12.3.</description>
+        <description xml:lang="fi">Tästä asennuslähteestä löydät openSUSE 12.3:n tietoturva- ja ylläpitopäivityksiä.</description>
+        <description xml:lang="fr">Dans ce dépôt, vous trouverez des mise à jour de sécurité et de maintenance pour openSUSE 12.3.</description>
+        <description xml:lang="gl">Neste repositorio poderá atopar actualizacións de seguridade e mantemento para openSUSE 12.3.</description>
+        <description xml:lang="hu">Biztonsági és karbantartási frissítések az openSUSE 12.3 verzióhoz.</description>
+        <description xml:lang="it">In questo repository sono disponibili gli aggiornamenti di sicurezza e di manutenzione per openSUSE 12.3.</description>
+        <description xml:lang="ja">このリポジトリには、 openSUSE 12.3 用のセキュリティ／メンテナンスアップデートがあります。</description>
+        <description xml:lang="lt">Šioje saugykloje rasite openSUSE 12.3 saugumo ir palaikymo atnaujinimus.</description>
+        <description xml:lang="nb">I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer til openSUSE 12.3.</description>
+        <description xml:lang="nl">In deze installatiebron vindt u zaken voor het bijwerken t.b.v. veiligheid en onderhoud voor openSUSE 12.3.</description>
+        <description xml:lang="pl">To repozytorium zawiera aktualizacje i poprawki bezpieczeństwa dla openSUSE 12.3.</description>
+        <description xml:lang="pt_BR">Neste repositório você encontrará atualizações de segurança e manutenção para o openSUSE 12.3.</description>
+        <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 12.3.</description>
+        <description xml:lang="zh_CN">在此软件源中，您可找到 openSUSE 12.3 的安全和维护更新。</description>
+        <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 12.3 的安全性與維護性更新</description>
+        <url>http://download.opensuse.org/update/12.3-non-oss/</url>
       </repository>
             <repository recommended="false" format="yast">
                 <name>Update Repository (DEBUG)</name>
@@ -231,7 +465,42 @@
                 <name xml:lang="zh_CN">主更新源 (调试)</name>
                 <name xml:lang="zh_TW">更新套件庫 (偵錯)</name>
                 <summary>Update repository of openSUSE 12.3 debuginfo packages</summary>
+                <summary xml:lang="cs">Repozitář s aktualizacemi openSUSE 12.3 obsahující balíčky debuginfo</summary>
+                <summary xml:lang="de">Aktualisierungs-Repository für openSUSE 12.3 debuginfo-Pakete </summary>
+                <summary xml:lang="el">Αποθετήριο ενημέρωσης της openSUSE 12.3 για πακέτα debuginfo</summary>
+                <summary xml:lang="es">Repositorio de actualizaciones de openSUSE 12.3 para paquetes de depuración</summary>
+                <summary xml:lang="fi">openSUSE 12.3-jakelun päivitysasennuslähde vianjäljitystietoa sisältäville paketeille</summary>
+                <summary xml:lang="fr">Dépôt de mise à jour d'openSUSE 12.3 contenant les paquets debuginfo</summary>
+                <summary xml:lang="hu">Frissítése, debuginfo csomagokat tartalmazó openSUSE 12.3 telepítési forrás</summary>
+                <summary xml:lang="it">Repository degli aggiornamenti dei pacchetti debuginfo di openSUSE 12.3</summary>
+                <summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 12.3 の更新リポジトリ</summary>
+                <summary xml:lang="lt">openSUSE 12.3 atnaujinimų saugykla, turinti derinimo informacijos paketus</summary>
+                <summary xml:lang="nb">Oppdateringspakkebrønn for openSUSE 12.3 som inneholder pakker med feilsøkingsinformasjon</summary>
+                <summary xml:lang="nl">Installatiebron voor bijwerken van openSUSE 12.3 met debuginfo-pakketten</summary>
+                <summary xml:lang="pl">Repozytorium aktualizacji openSUSE 12.3 zawierające pakiety debuginfo</summary>
+                <summary xml:lang="pt_BR">Repositório de atualizações dos pacotes debuginfo do openSUSE 12.3</summary>
+                <summary xml:lang="ru">Репозиторий обновлений openSUSE 12.3, включающий пакеты debuginfo</summary>
+                <summary xml:lang="zh_CN">openSUSE 12.3 调试包的主升级源</summary>
+                <summary xml:lang="zh_TW">openSUSE 12.3 的偵錯更新套件庫</summary>
                 <description>This repository is useful for those that want to debug applications on openSUSE 12.3. For experts only.</description>
+                <description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE 12.3. Určeno pouze pro experty.</description>
+                <description xml:lang="de">Dieses Repository ist nützlich für Entwickler, die Anwendungen aus openSUSE 12.3 von Fehlern befreien wollen. Nur für Experten.</description>
+                <description xml:lang="el">Αυτό το αποθετήριο είναι χρήσιμο για αυτούς που θέλουν να αποσφαλματώσουν εφαρμογές στην openSUSE 12.3. Μόνο για προχωρημένους.</description>
+                <description xml:lang="es">Este repositorio es útil para aquéllos que quieran depurar aplicaciones en openSUSE 12.3. Sólo para expertos.</description>
+                <description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja openSUSE 12.3:ssa. Vain asiantuntijoille.</description>
+                <description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE 12.3. Pour experts seulement.</description>
+                <description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE 12.3. Só para expertos.</description>
+                <description xml:lang="hu">Ez a telepítési forrás azok számára hasznos, akik openSUSE 12.3 verzión alkalmazások hibakeresését végzik.</description>
+                <description xml:lang="it">Questo repository è utile per coloro che desiderano effettuare il debug delle applicazioni su openSUSE 12.3. Solo per esperti.</description>
+                <description xml:lang="ja">このリポジトリは、 openSUSE 12.3 のアプリケーションをデバッグする際に便利です。熟練者向けです。</description>
+                <description xml:lang="lt">Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE 12.3. Tik ekspertams.</description>
+                <description xml:lang="nb">Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE 12.3. Kun for avanserte brukere.</description>
+                <description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE 12.3 willen opsporen. Alleen voor ervaren gebruikers.</description>
+                <description xml:lang="pl">Repozytorium dla tych, którzy pragną debugować programy na openSUSE 12.3. Tylko dla zaawansowanych.</description>
+                <description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE 12.3. Somente para usuários avançados.</description>
+                <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 12.3. Только для экспертов.</description>
+                <description xml:lang="zh_CN">本软件源只对那些想要在 openSUSE 12.3 中调试程序的人有用。仅供专家使用。</description>
+                <description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 12.3 偵錯應用程式非常有用。僅提供專家使用。</description>
                 <url>http://download.opensuse.org/debug/update/12.3/</url>
             </repository>
 	</repositories>
