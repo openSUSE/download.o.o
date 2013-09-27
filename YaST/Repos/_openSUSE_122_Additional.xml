@@ -162,7 +162,7 @@
         <description xml:lang="ru">Предоставляет последнюю стабильную версию LibreOffice, офисного набора, используемого в openSUSE.</description>
         <description xml:lang="tr">OpenSuse kullanan Ofis paketi, sana LibreOffice'in kararlı en son sürümünü sağlar.</description>
         <description xml:lang="wa">Vos dene li dierinne sitocaesse modêye d' LibreOffice, li shute burotike k' openSUSE eploye.</description>
-        <description xml:lang="zh_CN">提供最新稳定版本的 LibreOffice，openSUSE 使用的办公套件。</description>
+        <description xml:lang="zh_CN">提供最新稳定版本的 LibreOffice — openSUSE 使用的办公套件。</description>
         <description xml:lang="zh_TW">提供您最新穩定版的 LibreOffice，openSUSE 使用的辦公室套裝軟體</description>
         <url>http://download.opensuse.org/repositories/LibreOffice:/Stable/openSUSE_12.2/</url>
       </repository>
@@ -231,13 +231,13 @@
         <summary xml:lang="tr">Firefox gibi Mozilla yazılımının en son derlemeleri</summary>
         <summary xml:lang="uk">Оновлення для програм Mozilla, напр., Firefox</summary>
         <summary xml:lang="wa">Les pus nouvès modêyes des programe Mozilla come Firefox</summary>
-        <summary xml:lang="zh_CN">大部分近期编译的 Mozilla 软件，比如火狐</summary>
+        <summary xml:lang="zh_CN">最近编译的 Mozilla 软件，诸如火狐</summary>
         <summary xml:lang="zh_TW">最新版的 Mozilla 軟體，像是 Firefox</summary>
         <description>Containing the latest releases of all Mozilla software, such as the popular Thunderbird (mail client), Firefox and SeaMonkey (web browsers).</description>
         <description xml:lang="ar">يحتوي على أحدث الإصدارات من جميع برمجيات موزيلا، مثل ثندربيرد (عميل البريد)، وفيرفكس و SeaMonkey (متصفحات الويب).</description>
         <description xml:lang="cs">Obsahuje nejnovější vydání softwaru Mozilla, jako poštovní klient Thunderbird a prohlížeče Firefox a SeaMonkey.</description>
         <description xml:lang="da">Indeholder de seneste udgivelser af al Mozilla-software, såsom de populære Thunderbird (e-mail-klient), Firefox og Seamonkey (webbrowsere).</description>
-        <description xml:lang="de">Enthält die neuesten Veröffentlichungen aller Mozilla-Software, wie den populären Thunderbird (E-Mail-Client), Firefox und SeaMonkey (Web-Browser).</description>
+        <description xml:lang="de">Enthält die neuesten Veröffentlichungen der ganzen Mozilla-Software, wie den populären Thunderbird (E-Mail-Client), Firefox und SeaMonkey (Web-Browser).</description>
         <description xml:lang="el">Περιλαμβάνει τις πιο πρόσφατες διατεθειμένες εκδόσεις όλου του λογισμικού από το Mozilla, όπως τον δημοφιλή Thunderbird (πελάτης ταχυδρομείου), τον Firefox και τον SeaMonkey (φυλλομετρητές ιστού).</description>
         <description xml:lang="es">Contiene las últimas versiones de todo el software de Mozilla, como Thunderbird (cliente de correo electrónico), Firefox y SeaMonkey (navegadores web).</description>
         <description xml:lang="fi">Sisältää uusimmat Mozilla-ohjelmistoperheen julkaisut, kuten suositun Thunderbird-sähköpostiohjelman sekä Firefox- ja SeaMonkey-selaimet.</description>
@@ -263,7 +263,7 @@
         <description xml:lang="tr">Tüm Mozilla yazılımlarının, popüler Thunderbird(posta istemcisi) gibi, Firefox ve SeaMonkey(internet tarayıcısı) son sürümlerini içeriyor.</description>
         <description xml:lang="uk">Містить найновіші випуски програм Mozilla, таких як Thunderbird (поштовий клієнт), Firefox і SeaMonkey (навігатори Тенет).</description>
         <description xml:lang="wa">Les dierinnès modêyes des programes Mozilla s' î trovèt, come les populaires Thunderbird (cliyint emile), Firefox eyet SeaMonkey (betchteu waibe).</description>
-        <description xml:lang="zh_CN">包含最新版本的全部 Mozilla 软件，比如受欢迎的雷鸟邮件客户端，火狐和海猴网络浏览器。</description>
+        <description xml:lang="zh_CN">涵盖最新版本的全部 Mozilla 软件，诸如受欢迎的雷鸟邮件客户端，火狐和海猴网络浏览器。</description>
         <description xml:lang="zh_TW">包含了所有最新版的 Mozilla 軟體，像是最受歡迎的 Thunderbird (郵件客戶端)，Firefox 和 SeaMonkey (網頁瀏覽器)。</description>
         <url>http://download.opensuse.org/repositories/mozilla/openSUSE_12.2/</url>
       </repository>
@@ -306,7 +306,7 @@
         <summary xml:lang="ar">لقطات من Wine CVS</summary>
         <summary xml:lang="cs">Vývojové verze Wine</summary>
         <summary xml:lang="da">Øjebliksbilleder af Wine CVS</summary>
-        <summary xml:lang="de">Schnappschüsse aus dem Wine-CVS</summary>
+        <summary xml:lang="de">Schnappschüsse aus dem Wine CVS</summary>
         <summary xml:lang="el">Στιγμιότυπα του Wine CVS</summary>
         <summary xml:lang="es">Versiones CVS de Wine</summary>
         <summary xml:lang="fi">Wine CVS -versiot</summary>
@@ -332,13 +332,13 @@
         <summary xml:lang="tr">Wine CVS'in anlık görüntüleri</summary>
         <summary xml:lang="uk">Версія в розробці (CVS) Wine</summary>
         <summary xml:lang="wa">Egaloyaedjes di Wine CVS</summary>
-        <summary xml:lang="zh_CN">Wine 模拟器在 CVS 版本管理系统中的抢先版</summary>
+        <summary xml:lang="zh_CN">Wine 模拟器在上游 CVS 版本管理系统中的抢先版</summary>
         <summary xml:lang="zh_TW">Wine CVS 的最新版</summary>
         <description>Wine is an Open Source implementation of the Windows API, so it allows you to run some Windows applications in openSUSE. This repository provides the latest CVS (development) snapshot packages of Wine.</description>
         <description xml:lang="ar">Wine مفتوح المصدر لتنفيذ اوامر يندوز API ، بحيث انها تسمح لك تشغيل بعض تطبيقات ويندوز في اوبن سوزه. ويوفر هذا المستودع أحدث CVS و(تطوير) حزم Wine.</description>
         <description xml:lang="cs">Wine je opensource implementace Windows API, které umožňuje spouštět některé aplikace Windows v systému openSUSE. Tento repozitář obsahuje balíčky s nejnovějšími vývojovými verzemi Wine.</description>
         <description xml:lang="da">Wine er en open source implementation af Windows' API, så det tillader dig at køre visse Windows-programmer i openSUSE. Denne softwarekilde giver det seneste CVS (udvikling) øjebliksbillede-pakker af Wine.</description>
-        <description xml:lang="de">Wine ist eine Open-Source-Implementation der Windows-API, sie erlaubt Ihnen einige Windows-Anwendungen in openSUSE auszuführen. Dieses Repository bietet Ihnen die neuesten CVS-Schnappschusspakete (Entwicklungsstadium) von Wine an.</description>
+        <description xml:lang="de">Wine ist eine Open-Source-Implementation der Windows-API, die Ihnen auch erlaubt einige Windows-Anwendungen in openSUSE auszuführen. Dieses Repository bietet Ihnen die neuesten CVS-Schnappschusspakete (Entwicklungsstadium) von Wine an.</description>
         <description xml:lang="el">Το Wine είναι μια Ανοιχτού Λογισμικού υλοποίηση του API των Windows, ώστε να σας επιτρέπει να εκτελέσετε μερικές εφαρμογές των Windows στο openSUSE. Αυτό το αποθετήριο παρέχει τα πιο πρόσφατα πακέτα στιγμιοτύπων CVS (ανάπτυξης) του Wine.</description>
         <description xml:lang="es">Wine es una implementación de código abierto de la API de Windows que le permite ejecutar algunas aplicaciones de Windows en openSUSE. Este repositorio le proporciona los paquetes de Wine de la última revisión disponible en el CVS (en desarrollo).</description>
         <description xml:lang="fi">Wine on avoimen lähdekoodin toteutus Windows APIsta ja se mahdollistaa joidenkin Windows-sovellusten suorittamisen openSUSEssa. Tämä asennuslähde tarjoaa viimeisimmät CVS (kehitys)-versiot Winestä.</description>
@@ -363,7 +363,7 @@
         <description xml:lang="tr">Wine Windows API'nin açık kaynak kodlu bir uygulaması olduğundan OpenSUSE bazı windows uygulamalarını çalıştırmanıza izin verir. Bu depo</description>
         <description xml:lang="uk">Wine - це (ВПЗ) впровадження Windows API, що дозволяє запускати деякі програми Windows в openSUSE. Це сховище надає пакунки Wine з найновішими модифікаціями з CVS (версія в розробці).</description>
         <description xml:lang="wa">Wine est ene implemintåcion libe di l' API Windows, inis i vs permet d' enonder des programes Windows dins openSUSE. Ci depot dene les dierins pacaedjes d' egaloyaedje CVS (disvelopmint) di Wine.</description>
-        <description xml:lang="zh_CN">Wine 是 Windows 应用程序接口在开源界的实现，所以它可以让你在 openSUSE 中运行一些 Windows 程序。此软件源提供了 Wine 在上游用于开发的 CVS 版本管理系统中的抢先版软件包。</description>
+        <description xml:lang="zh_CN">Wine 是 Windows 应用程序接口的一个开源实现，所以它可以让您在 openSUSE 中运行一些 Windows 程序。此软件源提供了 Wine 在上游用于开发的 CVS 版本管理系统中的抢先版软件包。</description>
         <description xml:lang="zh_TW">Wine 是一個 Windows API 的開原作品，所以它允許您在 openSUSE 上執行某些 Windows 應用程式。這個套件庫提供了最新的 wine CVS (開發) 即時套件。</description>
         <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_12.2/</url>
       </repository>
@@ -464,7 +464,7 @@
         <description xml:lang="tr">Open Arena (Shoot 'Em Up), Flight Gear (uçuş simülatörü) ve Torcs (3D yarış simülatörü) dahil olmak üzere birçok aksiyon oyunları içerir.</description>
         <description xml:lang="uk">Містить декілька ігор: Open Arena (стрілянина), Flight Gear (симуляція польотів) і Torcs (3D симуляція гонок).</description>
         <description xml:lang="wa">Sacwants djeus d' accion s' î trovèt di kî gn a Open Arena (les saetchîz tertos), Flight Gear (forveyeu d' volêye) eyet Torcs (forveyeu d' coûsse d' oto e 3D)</description>
-        <description xml:lang="zh_CN">包含一些动作游戏，比如 Open Arena (射击)，Flight Gear (飞行模拟器)和 Torcs (3D 赛车模拟器)。</description>
+        <description xml:lang="zh_CN">涵盖一些动作游戏，诸如 Open Arena (射击)，Flight Gear (飞行模拟器)和 Torcs (3D 赛车模拟器)。</description>
         <description xml:lang="zh_TW">包含了數種動作遊戲包括 Open Arena (射擊)，Flight Gear (飛行模擬器) 和 Torcs (3D 競賽模擬器)。</description>
         <url>http://download.opensuse.org/repositories/games/openSUSE_12.2/</url>
       </repository>
@@ -473,7 +473,7 @@
         <name xml:lang="ar">خدمة بناء أوبن سوزي-- تعريف كاميرات الويب</name>
         <name xml:lang="cs">openSUSE BuildService - Ovladače pro webové kamery</name>
         <name xml:lang="da">openSUSE BuildService - drivere til webcams</name>
-        <name xml:lang="de">openSUSE BuildService - Treiber für Web-Cams</name>
+        <name xml:lang="de">openSUSE BuildService - Treiber für Webcams</name>
         <name xml:lang="el">openSUSE BuildService - Οδηγοί για κάμερες</name>
         <name xml:lang="es">BuildService de openSUSE - Controladores para cámaras web</name>
         <name xml:lang="fi">openSUSEn paketointipalvelu - Verkkokameran ajurit</name>
@@ -507,7 +507,7 @@
         <summary xml:lang="ar">التعريفات الحديثة لكاميرا الانترنت</summary>
         <summary xml:lang="cs">Nejnovější ovladače pro webové kamery</summary>
         <summary xml:lang="da">Nyere drivere til webcams</summary>
-        <summary xml:lang="de">Neueste Treiber für Web-Cams</summary>
+        <summary xml:lang="de">Neueste Treiber für Webcams</summary>
         <summary xml:lang="el">Πρόσφατοι οδηγοί για κάμερες</summary>
         <summary xml:lang="es">Controladores recientes para cámaras web</summary>
         <summary xml:lang="fi">Tuoreimmat verkkokameran ajurit</summary>
@@ -540,7 +540,7 @@
         <description xml:lang="ar">يتضمن التعريف الاخير لمئات من كاميرات الويب المختلفة.</description>
         <description xml:lang="cs">Obsahuje nejnovější ovladače pro stovky typů webových kamer.</description>
         <description xml:lang="da">Indeholder nyere drivere for hundreder af forskellige webcams.</description>
-        <description xml:lang="de">Enthält die neuesten Treiber für hunderte verschiedener Web-Cams.</description>
+        <description xml:lang="de">Enthält die neuesten Treiber für hunderte verschiedener Webcams.</description>
         <description xml:lang="el">Περιλαμβάνει πρόσφατους οδηγούς για εκατοντάδες διαφορετικές κάμερες.</description>
         <description xml:lang="es">Contiene los controladores más recientes para cientos de cámaras web.</description>
         <description xml:lang="fi">Sisältää tuoreet ajurit satoihin erilaisiin verkkokameroihin.</description>
@@ -566,7 +566,7 @@
         <description xml:lang="tr">Yüzlerce farklı web kamerasının son sürücülerini içerir.</description>
         <description xml:lang="uk">Містить найновіші драйвери для сотень різних веб-камер.</description>
         <description xml:lang="wa">Des moenneus nén vîs s' î trovèt po sacwantès webcams.</description>
-        <description xml:lang="zh_CN">包含上百种网络摄像头的近期驱动。</description>
+        <description xml:lang="zh_CN">涵盖上百种不同网络摄像头的近期驱动。</description>
         <description xml:lang="zh_TW">包含了數百種網路攝影機的最新驅動程式。</description>
         <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_12.2/</url>
       </repository>
@@ -871,7 +871,7 @@
         <description xml:lang="tr">Firebird ve MySQL içeren veritabanı yazılımı için en son güncellemeler.</description>
         <description xml:lang="uk">Оновлення для ПЗ баз даних, таких як Firebird і MySQL.</description>
         <description xml:lang="wa">Dierins metaedje a djoû po les programes di dnêyes avou dvins Firebird eyet MySQL.</description>
-        <description xml:lang="zh_CN">数据库软件的最新更新，包括火鸟和 MySQL。</description>
+        <description xml:lang="zh_CN">数据库软件的最新更新，诸如火鸟和 MySQL。</description>
         <description xml:lang="zh_TW">包含 Firebird 和 MySQL 資料庫軟體的最新更新版。</description>
         <url>http://download.opensuse.org/repositories/server:/database/openSUSE_12.2/</url>
       </repository>
@@ -901,13 +901,13 @@
         <name xml:lang="ru">openSUSE BuildService - KDE:UpdatedApps</name>
         <name xml:lang="tr">openSuse Derleme Servisi - KDE:Güncellenmiş Uygulamalar</name>
         <name xml:lang="wa">openSUSE BuildService - KDE:ProgramesADjoû</name>
-        <name xml:lang="zh_CN">openSUSE 编译服务 - KDE 不随 KDE 更新周期的 KDE 程序</name>
+        <name xml:lang="zh_CN">openSUSE 编译服务 - 不随 KDE 更新周期的 KDE 程序</name>
         <name xml:lang="zh_TW">openSUSE BuildService - KDE:更新應用程式</name>
         <summary>Updated versions of KDE applications</summary>
         <summary xml:lang="ar">الإصدارات المحدثة من تطبيقات كدي</summary>
         <summary xml:lang="cs">Aktualizované verze aplikací KDE</summary>
         <summary xml:lang="da">Opdaterede versioner af KDE-programmer</summary>
-        <summary xml:lang="de">Aktualisiete Versionen der KDE-Anwendungen</summary>
+        <summary xml:lang="de">Aktualisierte Versionen von KDE-Anwendungen</summary>
         <summary xml:lang="el">Ενημερωμένες εκδόσεις των KDE εφαρμογών</summary>
         <summary xml:lang="es">Versiones actualizadas de aplicaciones para KDE</summary>
         <summary xml:lang="fi">Jakelun julkaisun jälkeen ilmestyneet KDE-ohjelmistot</summary>
@@ -928,7 +928,7 @@
         <summary xml:lang="ru">Обновлённые версии приложений KDE</summary>
         <summary xml:lang="tr">KDE uygulamalarının güncellenmiş versiyonları</summary>
         <summary xml:lang="wa">Modêyes a djoû di programes di KDE</summary>
-        <summary xml:lang="zh_CN">KDE 程序的更新版本</summary>
+        <summary xml:lang="zh_CN">KDE 应用程序的更新版本</summary>
         <summary xml:lang="zh_TW">最新版的 KDE 應用程式</summary>
         <description>Updates to the KDE software that is shipped with the distribution (backports).</description>
         <description xml:lang="ar">تحديث برمجيات كدي التي ترفق مع التوزيع (backports).</description>
@@ -960,7 +960,7 @@
         <description xml:lang="tr">Dağılımı (geri uyumları) ile birlikte gelen KDE yazılımınının güncellemeleri.</description>
         <description xml:lang="uk">Оновлення для програм KDE, які прийшли з дистрибутивом (backports).</description>
         <description xml:lang="wa">Met a djoû viè l' programe KDE k' est dné dins l' distribucion (backports).</description>
-        <description xml:lang="zh_CN">发行版中所带的 KDE 软件的更新(向前移植)。</description>
+        <description xml:lang="zh_CN">发行版中所带的 KDE 软件的更新(向后移植)。</description>
         <description xml:lang="zh_TW">更新到發行版本搭載的 KDE 軟體(回溯支援)。</description>
         <url>http://download.opensuse.org/repositories/KDE:/UpdatedApps/openSUSE_12.2/</url>
       </repository>
@@ -1062,7 +1062,7 @@
         <name xml:lang="ar">خدمة بناء أوبن سوزي-- تطبيقات:جنوم</name>
         <name xml:lang="cs">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="da">openSUSE BuildService - GNOME:Apps</name>
-        <name xml:lang="de">openSUSE BuildService - GNOME:Anwendungen</name>
+        <name xml:lang="de">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="el">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="es">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="fi">openSUSEn paketointipalvelu  - GNOME:Apps</name>
@@ -1117,7 +1117,7 @@
         <summary xml:lang="tr">GNOME uygulamalarının geri uyum sağlamaları</summary>
         <summary xml:lang="uk">Портовані програми GNOME</summary>
         <summary xml:lang="wa">Backports des dierins programes GNOME</summary>
-        <summary xml:lang="zh_CN">GNOME 应用程序的向前兼容</summary>
+        <summary xml:lang="zh_CN">GNOME 应用程序的向后移植</summary>
         <summary xml:lang="zh_TW">GNOME 應用程式的回溯支援</summary>
         <description>Updates to the GNOME software that is shipped with the distribution (backports).</description>
         <description xml:lang="ar">تحديثات لبرامج جنوم المرفقة مع التوزيعة (backports).</description>
@@ -1149,7 +1149,7 @@
         <description xml:lang="tr">Dağılımı (geri uyumlar) ile birlikte gelen GNOME yazılımın'ın Güncellemeleri.</description>
         <description xml:lang="uk">Оновлення для програм GNOME, які прийшли з дистрибутивом (backports).</description>
         <description xml:lang="wa">Met a djoû viè l' programe GNOME k' est dné dins l' distribucion (backports).</description>
-        <description xml:lang="zh_CN">发行版中所带的 GNOME 软件的更新(向前移植)。</description>
+        <description xml:lang="zh_CN">发行版中所带的 GNOME 软件的更新(向后移植)。</description>
         <description xml:lang="zh_TW">更新到發行版本搭載的 GNOME 軟體(回溯支援)。</description>
         <url>http://download.opensuse.org/repositories/GNOME:/Apps/openSUSE_12.2/</url>
       </repository>
@@ -1224,7 +1224,7 @@
         <description xml:lang="ar">التحديثات والإضافات للتطبيقات المكتوبة في مونو.</description>
         <description xml:lang="cs">Aktualizace a rozšíření pro aplikace naprogramované v jazyku Mono.</description>
         <description xml:lang="da">Opdateringer og yderligere programmer skrevet i Mono.</description>
-        <description xml:lang="de">Aktualisierungen und Zusätze von in Mono geschriebenen Anwendungen.</description>
+        <description xml:lang="de">Aktualisierungen und Erweiterungen von Anwendungen, die in Mono geschrieben sind.</description>
         <description xml:lang="el">Ενημερώσεις και Προσθήκες εφαρμογών που είναι γραμμένες σε Mono.</description>
         <description xml:lang="es">Actualizaciones y agregados de aplicaciones escritos en Mono.</description>
         <description xml:lang="fi">Mono-sovellusten päivityksiä ja lisäsovelluksia.</description>
@@ -1279,7 +1279,7 @@
         <name xml:lang="ru">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="tr">openSuse Derleme Servisi - devel:diller:perl</name>
         <name xml:lang="wa">openSUSE BuildService - devel:lingaedjes:perl</name>
-        <name xml:lang="zh_CN">openSUSE 编译服务 - devel:languages:perl Perl 开发源</name>
+        <name xml:lang="zh_CN">openSUSE 编译服务 - Perl 开发源</name>
         <name xml:lang="zh_TW">openSUSE BuildService - devel:languages:perl</name>
         <summary>Community repository for Perl modules</summary>
         <summary xml:lang="ar">مستودع مجتمع وحدات بيرل</summary>
@@ -1361,7 +1361,7 @@
         <name xml:lang="ru">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="tr">openSuse Derleme Servisi - devel:diller:python</name>
         <name xml:lang="wa">openSUSE BuildService - devel:lingaedjes:python</name>
-        <name xml:lang="zh_CN">openSUSE 编译服务 - devel:languages:python Python 开发源</name>
+        <name xml:lang="zh_CN">openSUSE 编译服务 - Python 开发源</name>
         <name xml:lang="zh_TW">openSUSE BuildService - devel:languages:python</name>
         <summary>Community repository for Python modules</summary>
         <summary xml:lang="ar">مستودع مجتمع gوحدات بايثون</summary>
@@ -1552,7 +1552,7 @@
         <summary xml:lang="ru">Инструменты файловых систем и пакеты FUSE</summary>
         <summary xml:lang="tr">Dosya sistemi araçları ve FUSE'yi ilgilendiren paketler</summary>
         <summary xml:lang="wa">Usteyes di sistinme di fitchî eyet pacaedjes k' ont-st a vey avou FUSE</summary>
-        <summary xml:lang="zh_CN">文件系统工具和用户文件系统相关的软件包</summary>
+        <summary xml:lang="zh_CN">文件系统工具和用户文件系统 (FUSE) 相关的软件包</summary>
         <summary xml:lang="zh_TW">檔案系統工具以及 FUSE 相關套件</summary>
         <description>Filesystem tools and FUSE-related packages.</description>
         <description xml:lang="ar">أدوات نظام الملفات وحزم FUSE-related.</description>
@@ -1578,7 +1578,7 @@
         <description xml:lang="ru">Инструменты файловых систем и пакеты FUSE.</description>
         <description xml:lang="tr">Dosya sistemi araçları ve FUSE'yi ilgilendiren paketler.</description>
         <description xml:lang="wa">Usteyes di sistinme di fitchî eyet pacaedjes k' ont-st a vey avou FUSE.</description>
-        <description xml:lang="zh_CN">文件系统工具和用户文件系统相关的软件包</description>
+        <description xml:lang="zh_CN">文件系统工具和用户文件系统 (FUSE) 相关的软件包</description>
         <description xml:lang="zh_TW">檔案系統工具以及 FUSE 相關套件</description>
         <url>http://download.opensuse.org/repositories/filesystems/openSUSE_12.2/</url>
       </repository>
@@ -1640,7 +1640,7 @@
         <description xml:lang="ar">يحتوي على العديد من الحزم للاستخدام التعليمي</description>
         <description xml:lang="cs">Obsahuje několik balíčků, které by mohly být zajímavé pro vzdělávání</description>
         <description xml:lang="da">Indeholder mange pakker som kan være interessante til uddannelsesbrug</description>
-        <description xml:lang="de">Enthält verschiedene Pakete, die für die Benutzung im Erziehungswesen nützlich sein könnten</description>
+        <description xml:lang="de">Enthält verschiedene Pakete, die für die Benutzung im Bildungswesen nützlich sein könnten</description>
         <description xml:lang="el">Περιλαμβάνει διάφορα πακέτα που μπορεί να είναι ενδιαφέροντα για εκπαιδευτική χρήση</description>
         <description xml:lang="es">Contiene variedad de paquetes que pueden ser interesantes para uso educativo</description>
         <description xml:lang="fi">Sisältää useita paketteja koulutuskäyttöön</description>
@@ -1660,7 +1660,7 @@
         <description xml:lang="ru">Содержит некоторые пакеты, которые можно использовать в образовательном процессе</description>
         <description xml:lang="tr">Eğitim amaçlı kullanım için ilginç olabilecek çeşitli paketler içerir.</description>
         <description xml:lang="wa">I gn a dvins sacwants pacaedjes ki pôrént esse ahessåves pol sicolaedje</description>
-        <description xml:lang="zh_CN">包含教育用户可能感兴趣的一些软件包</description>
+        <description xml:lang="zh_CN">涵盖学生用户可能感兴趣的一些软件包</description>
         <description xml:lang="zh_TW">包含了很多教育人員會有興趣的套件</description>
         <url>http://download.opensuse.org/repositories/Education/openSUSE_12.2/</url>
       </repository>
@@ -1743,7 +1743,7 @@
         <description xml:lang="ru">Предоставляет актуальные пакеты Java (обратное портирование из Factory)</description>
         <description xml:lang="tr">Güncel Java paketleri sağlar (Fabrika geri dönümleri)</description>
         <description xml:lang="wa">Dene des pacaedjes Java a djoû (rapoirtés dispoy Factory)</description>
-        <description xml:lang="zh_CN">提供最新的 Java 软件包（工厂版的向前兼容）</description>
+        <description xml:lang="zh_CN">提供最新的 Java 软件包(工厂版的向后移植)</description>
         <description xml:lang="zh_TW">提供了最新版的 Java 套件 (Factory backports)</description>
         <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_12.2/</url>
       </repository>
@@ -1772,13 +1772,13 @@
         <name xml:lang="ru">openSUSE BuildService - KDE:KDE3</name>
         <name xml:lang="tr">OpenSUSE Derleme Servisi - KDE:KDE3</name>
         <name xml:lang="wa">openSUSE BuildService - KDE:KDE3</name>
-        <name xml:lang="zh_CN">openSUSE 编译服务 - KDE:KDE3</name>
+        <name xml:lang="zh_CN">openSUSE 编译服务 - KDE3</name>
         <name xml:lang="zh_TW">openSUSE BuildService - KDE:KDE 3</name>
         <summary>Maintained KDE 3 packages</summary>
         <summary xml:lang="ar">صيانة حزم كدي3</summary>
         <summary xml:lang="cs">Spravované balíčky pro KDE 3</summary>
         <summary xml:lang="da">Vedligeholdte KDE 3-pakker</summary>
-        <summary xml:lang="de">Gepflegte KDE3-Pakete</summary>
+        <summary xml:lang="de">Gepflegte KDE 3-Pakete</summary>
         <summary xml:lang="el">Συντηρούμενα πακέτα KDE 3</summary>
         <summary xml:lang="es">Paquetes mantenidos de KDE 3</summary>
         <summary xml:lang="fi">Ylläpidetyt KDE 3 -paketit</summary>
@@ -1798,13 +1798,13 @@
         <summary xml:lang="ru">Пакеты KDE 3</summary>
         <summary xml:lang="tr">Korununan KDE 3 paketleri</summary>
         <summary xml:lang="wa">Pacaedjes di KDE3 mintnous</summary>
-        <summary xml:lang="zh_CN">维护的 KDE 3 软件包</summary>
+        <summary xml:lang="zh_CN">仍在维护的 KDE 3 软件包</summary>
         <summary xml:lang="zh_TW">維護的 KDE 3 套件</summary>
         <description>Provides old KDE for newer openSUSE</description>
         <description xml:lang="ar">يوفر كدي القديمة لأوبن سوزي الحديثة</description>
         <description xml:lang="cs">Poskytuje staré KDE pro nové openSUSE</description>
         <description xml:lang="da">Leverer gammel KDE til nyere openSUSE</description>
-        <description xml:lang="de">Ältere KDE-Version das neuere openSUSE</description>
+        <description xml:lang="de">Stellt ältere KDE-Version für das neuere openSUSE zur Verfügung</description>
         <description xml:lang="el">Παρέχει παλιό KDE για νεότερο openSUSE</description>
         <description xml:lang="es">Viejo KDE para el nuevo openSUSE</description>
         <description xml:lang="fi">Tarjoaa vanhan KDEn uudemmille openSUSEn versioille</description>
