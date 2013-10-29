@@ -59,12 +59,6 @@
         <url>http://download.opensuse.org/repositories/server:/database/openSUSE_13.1/</url>
       </repository>
       <repository recommended="false" format="yast">
-        <_name>openSUSE BuildService - KDE:UpdatedApps</_name>
-        <_summary>Updated versions of KDE applications</_summary>
-        <_description>Updates to the KDE software that is shipped with the distribution (backports).</_description>
-        <url>http://download.opensuse.org/repositories/KDE:/UpdatedApps/openSUSE_13.1/</url>
-      </repository>
-      <repository recommended="false" format="yast">
         <_name>openSUSE BuildService - KDE:Extra</_name>
         <_summary>Community repository for KDE</_summary>
         <_description>Provides additional KDE software maintained by the openSUSE KDE community.</_description>
