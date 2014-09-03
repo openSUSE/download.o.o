@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
+  <group distversion="openSUSE Build Service">
+    <repositories>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - LXDE</name>
+        <summary>Latest LXDE release</summary>
+        <description>The LXDE repository in the openSUSE Build Service, which provides you with the unsupported but latest version of the LX desktop environment and software.</description>
+        <url>http://download.opensuse.org/repositories/X11:/lxde/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - LibreOffice</name>
+        <summary>Latest stable LibreOffice release</summary>
+        <description>Provides you with the latest stable version of LibreOffice, the Office suite that openSUSE uses.</description>
+        <url>http://download.opensuse.org/repositories/LibreOffice:/Stable/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - Mozilla</name>
+        <name xml:lang="da">openSUSE BuildService - Mozilla</name>
+        <name xml:lang="fi">openSUSE BuildService - Mozilla</name>
+        <name xml:lang="nb">openSUSE BuildService - Mozilla</name>
+        <summary>Most recent builds of Mozilla Software like Firefox</summary>
+        <summary xml:lang="da">Nyeste pakker af Mozilla-software såsom Firefox</summary>
+        <summary xml:lang="fi">Uusimmat versiot Mozilla-ohjelmistoista (esim. Firefox)</summary>
+        <summary xml:lang="nb">Nyeste pakker for Mozillaprogramvare som f.eks Firefox</summary>
+        <description>Containing the latest releases of all Mozilla software, such as the popular Thunderbird (mail client), Firefox and SeaMonkey (web browsers).</description>
+        <description xml:lang="da">Indeholder de seneste udgivelser af al Mozilla-software, såsom de populære Thunderbird (e-mail-klient), Firefox og Seamonkey (webbrowsere).</description>
+        <description xml:lang="fi">Sisältää uusimmat Mozilla-ohjelmistoperheen julkaisut, kuten suositun Thunderbird-sähköpostiohjelman sekä Firefox- ja SeaMonkey-web-selaimet.</description>
+        <description xml:lang="nb">Inneholder de siste utgavene av all programvare fra Mozilla, slik som den populære Thunderbird (epostklient), Firefox og SeaMonkey (weblesere).</description>
+        <url>http://download.opensuse.org/repositories/mozilla/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - Wine CVS Builds</name>
+        <name xml:lang="da">openSUSE BuildService - Wine CVS-builds</name>
+        <name xml:lang="fi">openSUSE BuildService - Wine CVS Builds</name>
+        <name xml:lang="nb">openSUSE BuildService - Wine CVS-pakker</name>
+        <summary>Snapshots of Wine CVS</summary>
+        <summary xml:lang="da">Øjebliksbilleder af Wine CVS</summary>
+        <summary xml:lang="fi">Wine CVS -versiot</summary>
+        <summary xml:lang="nb">Snapshots av Wine CVS</summary>
+        <description>Wine is an Open Source implementation of the Windows API, so it allows you to run some Windows applications in openSUSE. This repository provides the latest CVS (development) snapshot packages of Wine.</description>
+        <description xml:lang="da">Wine er en open source implementation af Windows' API, så det tillader dig at køre visse Windows-programmer i openSUSE. Denne softwarekilde giver det seneste CVS (udvikling) øjebliksbillede-pakker af Wine.</description>
+        <description xml:lang="fi">Wine on avoimen lähdekoodin toteutus Windows API:sta. Joitakin Windows-sovelluksia voidaan suorittaa sen avulla openSUSEssa. Tämä asennuslähde tarjoaa viimeisimmät CVS (kehitys) -versiot Winestä.</description>
+        <description xml:lang="nb">Wine er en åpen kildekode-implementasjon av Windows APIet, som tillater kjøring av enkelte Windows-applikasjoner under openSUSE. Dette arkivet tilbyr de nyeste CVS-bildene (under utvikling) av Wine.</description>
+        <url>http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - Games</name>
+        <name xml:lang="da">openSUSE BuildService - spil</name>
+        <name xml:lang="fi">openSUSE BuildService - Pelit</name>
+        <name xml:lang="nb">openSUSE BuildService - Spill</name>
+        <summary>A collection of action games</summary>
+        <summary xml:lang="da">En samling af action-spil</summary>
+        <summary xml:lang="fi">Kokoelma toimintapelejä</summary>
+        <summary xml:lang="nb">En samling actionspill</summary>
+        <description>Contains several action games including Open Arena (shoot 'em up), Flight Gear (flight simulator) and Torcs (3D racing simulator).</description>
+        <description xml:lang="da">Indeholder adskillige action-spil inkl. Open Arena (shoot 'em up), Flight Gear (flysimulator) og Torcs (3D racerspil).</description>
+        <description xml:lang="fi">Sisältää useita toimintapelejä, esimerkiksi Open Arena (ammuntapeli), Flight Gear (lentosimulaattori) ja Torcs (3D rata-ajo simulaattori).</description>
+        <description xml:lang="nb">Inneholder flere actionspill, herunder Open Arena (shoot 'em up), Flight Gear (flysimulator) og Torcs (3D racerspill).</description>
+        <url>http://download.opensuse.org/repositories/games/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - Drivers for webcams</name>
+        <name xml:lang="da">openSUSE BuildService - drivere til webcams</name>
+        <name xml:lang="fi">openSUSE BuildService - Web-kamera-ajurit</name>
+        <name xml:lang="nb">openSUSE BuildService - Drivere for webkamera</name>
+        <summary>Recent drivers for webcams</summary>
+        <summary xml:lang="da">Nyere drivere til webcams</summary>
+        <summary xml:lang="fi">Tuoreimmat web-kamera -ajurit</summary>
+        <summary xml:lang="nb">Nyeste drivere for webkamera</summary>
+        <description>Contains recent drivers for hundreds of different webcams.</description>
+        <description xml:lang="da">Indeholder nyere drivere for hundreder af forskellige webcams.</description>
+        <description xml:lang="fi">Sisältää tuoreet ajurit satoihin erilaisiin web-kameroihin.</description>
+        <description xml:lang="nb">Inneholder oppdaterte drivere for hundrevis av forskjellige webkamera.</description>
+        <url>http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - Virtualization (VirtualBox)</name>
+        <name xml:lang="da">openSUSE BuildService - virtualisering (VirtualBox)</name>
+        <name xml:lang="fi">openSUSE BuildService - Virtualisointi (VirtualBox)</name>
+        <name xml:lang="nb">openSUSE BuildService - Virtualisering (VirtualBox)</name>
+        <summary>Latest builds of Virtualbox</summary>
+        <summary xml:lang="da">Seneste Virtualbox-pakker</summary>
+        <summary xml:lang="fi">Uusimmat Virtualbox-versiot</summary>
+        <summary xml:lang="nb">Nyeste Virtualbox-pakker</summary>
+        <description>Provides up-to-date builds of VirtualBox, a general-purpose open-source full virtualizer for x86 hardware.</description>
+        <description xml:lang="da">Leverer ajourførte pakker af VirtualBox, en open source fuld virtualisering for x86-hardware til generelle formål.</description>
+        <description xml:lang="fi">Tarjoaa ajan tasalla olevat Virtualbox-paketit. Virtualbox on vapaan lähdekoodin yleiskäyttöinen täysvirtualisoija x86-laitteistolle.</description>
+        <description xml:lang="nb">Tilbyr oppdaterte pakker for VirtualBox, et generisk virtualiseringsverktøy for x86-maskinvare og basert på åpen kildekode.</description>
+        <url>http://download.opensuse.org/repositories/Virtualization/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - PHP</name>
+        <name xml:lang="da">openSUSE BuildService - PHP</name>
+        <name xml:lang="fi">openSUSE BuildService - PHP</name>
+        <name xml:lang="nb">openSUSE BuildService - PHP</name>
+        <summary>Latest updates for PHP software</summary>
+        <summary xml:lang="da">Seneste opdateringer til PHP-software</summary>
+        <summary xml:lang="fi">Uusimmat päivitykset PHP-ohjelmistoon</summary>
+        <summary xml:lang="nb">Nyeste oppdateringer for PHP-programvare</summary>
+        <description>Provides the latest packages and multiple-version builds of PHP software.</description>
+        <description xml:lang="da">Leverer de seneste pakker og flereversions builds af PHP-software.</description>
+        <description xml:lang="fi">Tarjoaa PHP-ohjelmiston uusimmat paketit useina eri versioina.</description>
+        <description xml:lang="nb">Tilbyr de nyeste pakkene og flerversjonspakker for PHP-programvare.</description>
+        <url>http://download.opensuse.org/repositories/server:/php/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - Database</name>
+        <name xml:lang="da">openSUSE BuildService - database</name>
+        <name xml:lang="fi">openSUSE BuildService - Tietokannat</name>
+        <name xml:lang="nb">openSUSE BuildService - Database</name>
+        <summary>Latest updates for database software</summary>
+        <summary xml:lang="da">Seneste opdateringer til database-software</summary>
+        <summary xml:lang="fi">Uusimmat päivitykset tietokantaohjelmistoihin</summary>
+        <summary xml:lang="nb">Nyeste oppdateringer for databaseprogramvare</summary>
+        <description>Latest updates for database software including Firebird and MySQL.</description>
+        <description xml:lang="da">Seneste opdateringer til database-software inkl. Firebird og MySQL.</description>
+        <description xml:lang="fi">Uusimmat tietokantaohjelmistot, mukaanlukien Firebird ja MySQL.</description>
+        <description xml:lang="nb">Nyeste oppdateringer for databaseprogramvare inkludert Firebird og MySQL.</description>
+        <url>http://download.opensuse.org/repositories/server:/database/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>openSUSE BuildService - KDE:Extra</name>
+        <summary>Community repository for KDE</summary>
+        <summary xml:lang="da">Softwarekilde fra fællesskabet med KDE</summary>
+        <summary xml:lang="fi">KDE:n yhteisöasennuslähde</summary>
+        <summary xml:lang="nb">Fellesskapsarkiv for KDE</summary>
+        <description>Provides additional KDE software maintained by the openSUSE KDE community.</description>
+        <url>http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>openSUSE BuildService - GNOME:Apps</name>
+        <summary>Backports of GNOME applications</summary>
+        <description>Updates to the GNOME software that is shipped with the distribution (backports).</description>
+        <description xml:lang="da">Opdateringer til det GNOME-software som leveres med distributionen (backports).</description>
+        <description xml:lang="fi">Päivittää GNOME-ohjelmistoja, jotka toimitettiin jakelun mukana (backports).</description>
+        <description xml:lang="nb">Oppdateringer til GNOME-programvaren som følger med distribusjonen (tilbakeporteringer).</description>
+        <url>http://download.opensuse.org/repositories/GNOME:/Apps/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>openSUSE BuildService - Mono:Community</name>
+        <name xml:lang="da">openSUSE BuildService - Mono:Community</name>
+        <name xml:lang="fi">openSUSE BuildService - Mono:Community</name>
+        <name xml:lang="nb">openSUSE BuildService - Mono:Community</name>
+        <summary>Community repository for Mono applications</summary>
+        <summary xml:lang="da">Softwarekilde fra fællesskabet med Mono-programmer</summary>
+        <summary xml:lang="fi">Mono-sovellusten yhteisöasennuslähde</summary>
+        <summary xml:lang="nb">Uoffisielt arkiv for Mono-programmer</summary>
+        <description>Updates and Additions of applications written in Mono.</description>
+        <description xml:lang="da">Opdateringer og yderligere programmer skrevet i Mono.</description>
+        <description xml:lang="fi">Mono-sovellusten päivityksiä ja lisäsovelluksia.</description>
+        <description xml:lang="nb">Oppdateringer og tillegg for programmer skrevet i Mono.</description>
+        <url>http://download.opensuse.org/repositories/Mono:/Community/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>openSUSE BuildService - devel:languages:perl</name>
+        <summary>Community repository for Perl modules</summary>
+        <description>Updates and Additions for Perl modules</description>
+        <url>http://download.opensuse.org/repositories/devel:/languages:/perl/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <name>openSUSE BuildService - devel:languages:python</name>
+        <summary>Community repository for Python modules</summary>
+        <description>Updates and Additions for Python modules</description>
+        <url>http://download.opensuse.org/repositories/devel:/languages:/python/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - filesystems</name>
+        <summary>Filesystem tools and FUSE-related packages</summary>
+        <description>Filesystem tools and FUSE-related packages.</description>
+        <url>http://download.opensuse.org/repositories/filesystems/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - Education</name>
+        <summary>Applications for education users</summary>
+        <description>Contains several packages which might be interesting for educational use</description>
+        <url>http://download.opensuse.org/repositories/Education/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - Java:packages</name>
+        <summary>Bleeding-edge Java packages</summary>
+        <description>Provides uptodate Java packages (Factory backports)</description>
+        <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_13.2/</url>
+      </repository>
+      <repository recommended="false" format="rpm-md">
+        <name>openSUSE BuildService - KDE:KDE3</name>
+        <summary>Maintained KDE 3 packages</summary>
+        <description>Provides old KDE for newer openSUSE</description>
+        <url>http://download.opensuse.org/repositories/KDE:/KDE3/openSUSE_13.2/</url>
+      </repository>
+    </repositories>
+  </group>
+</metapackage>
