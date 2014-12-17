@@ -5,57 +5,260 @@
 
 	    <repository recommended="true" format="yast">
 		<name>Main Repository (OSS)</name>
+		<name xml:lang="ar">المستودع الرئيسي (حرة)</name>
+		<name xml:lang="ca">Repositori principal (OSS)</name>
+		<name xml:lang="cs">Hlavní repozitář (OSS)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (OSS)</name>
+		<name xml:lang="de">Haupt-Repository (OSS)</name>
+		<name xml:lang="el">Κύριο Αποθετήριο (OSS)</name>
+		<name xml:lang="es">Repositorio principal (OSS)</name>
 		<name xml:lang="fi">Pääasennuslähde (OSS)</name>
-		<name xml:lang="nb">Hovedarkiv (OSS)</name>
+		<name xml:lang="fr">Dépôt principal (OSS)</name>
+		<name xml:lang="gl">Repositorio Principal (OSS)</name>
+		<name xml:lang="hr">Glavni repozitorij (OSS)</name>
+		<name xml:lang="hu">Fő telepítési forrás (OSS)</name>
+		<name xml:lang="it">Repository principale (OSS)</name>
+		<name xml:lang="ja">メインリポジトリ (オープンソース)</name>
+		<name xml:lang="ka">Main Repository (ღია პროგრამები)</name>
+		<name xml:lang="km">ឃ្លាំង​ចម្បង (កម្មវិធី​កូដ​ចំហ)</name>
+		<name xml:lang="ko">주 저장소 (OSS)</name>
+		<name xml:lang="lt">Pagrindinė saugykla su AKPĮ (OSS)</name>
+		<name xml:lang="nb">Hovedpakkebrønn (OSS)</name>
+		<name xml:lang="nl">Hoofd-installatiebron (opensource)</name>
+		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਓਪਨ-ਸੋਰਸ)</name>
+		<name xml:lang="pl">Repozytorium główne (OSS)</name>
+		<name xml:lang="pt">Repositório Principal (OSS)</name>
+		<name xml:lang="pt_BR">Repositório principal (OSS)</name>
+		<name xml:lang="ro">Sursă de instalare principală (OSS)</name>
+		<name xml:lang="ru">Основной репозиторий (OSS)</name>
+		<name xml:lang="sk">Hlavný repozitár (OSS)</name>
+		<name xml:lang="sv">Huvudförrådet (OSS)</name>
+		<name xml:lang="th">คลังแพกเกจหลัก (ซอฟต์แวร์เสรี)</name>
+		<name xml:lang="tr">Ana Depo (AKY)</name>
+		<name xml:lang="uk">Головне сховище (ВПЗ)</name>
+		<name xml:lang="wa">Mwaisse depot (OSS)</name>
+		<name xml:lang="zh_CN">主软件源 (开源软件)</name>
+		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 13.2 including only Open Source Software</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 13.2, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
 		<url>http://download.opensuse.org/distribution/13.2/repo/oss/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
 		<name>Main Repository (NON-OSS)</name>
+		<name xml:lang="ar">المستودع الرئيسي (غير-حرة)</name>
+		<name xml:lang="ca">Repositori principal (NON-OSS)</name>
+		<name xml:lang="cs">Hlavní repozitář (NON-OSS)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (NON-OSS)</name>
+		<name xml:lang="de">Haupt-Repository (NON-OSS)</name>
+		<name xml:lang="el">Κύριο Αποθετήριο (NON-OSS)</name>
+		<name xml:lang="es">Repositorio principal (NON-OSS)</name>
 		<name xml:lang="fi">Pääasennuslähde (NON-OSS)</name>
-		<name xml:lang="nb">Hovedarkiv (NON-OSS)</name>
+		<name xml:lang="fr">Dépôt principal (NON-OSS)</name>
+		<name xml:lang="gl">Repositorio Principal (NON-OSS)</name>
+		<name xml:lang="hr">Glavni repozitorij (NON-OSS)</name>
+		<name xml:lang="hu">Elsődleges telepítési forrás (NON-OSS)</name>
+		<name xml:lang="it">Repository principale (NON-OSS)</name>
+		<name xml:lang="ja">メインリポジトリ (非オープンソース)</name>
+		<name xml:lang="ka">Main Repository (დახურული პროგრამები)</name>
+		<name xml:lang="km">ឃ្លាំង​ចម្បង (មិនមែន​​កម្មវិធី​កូដ​ចំហ)</name>
+		<name xml:lang="ko">주 저장소 (NON-OSS)</name>
+		<name xml:lang="lt">Pagrindinė saugykla su ne AKPĮ (NON-OSS)</name>
+		<name xml:lang="nb">Hovedpakkebrønn (NON-OSS)</name>
+		<name xml:lang="nl">Hoofd-installatiebron (niet-opensource)</name>
+		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਗ਼ੈਰ-ਓਪਨ-ਸੋਰਸ)</name>
+		<name xml:lang="pl">Repozytorium główne (NON-OSS)</name>
+		<name xml:lang="pt">Repositório Principal (NON-OSS)</name>
+		<name xml:lang="pt_BR">Repositório principal (Non-OSS)</name>
+		<name xml:lang="ro">Sursă de instalare principală (NON-OSS)</name>
+		<name xml:lang="ru">Основной репозиторий (NON-OSS)</name>
+		<name xml:lang="sk">Hlavný repozitár (NON-OSS)</name>
+		<name xml:lang="sv">Huvudförrådet (NON-OSS)</name>
+		<name xml:lang="th">คลังแพกเกจหลัก (ซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี)</name>
+		<name xml:lang="tr">Ana Depo (AKY-OLMAYAN)</name>
+		<name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
+		<name xml:lang="wa">Mwaisse depot (NÉN-OSS)</name>
+		<name xml:lang="zh_CN">主软件源 (非开源软件)</name>
+		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 13.2</summary>
 		<description>The official openSUSE 13.2 repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
 		<url>http://download.opensuse.org/distribution/13.2/repo/non-oss/</url>
 	    </repository>
       <repository recommended="false" format="yast">
         <name>Main Repository (Sources)</name>
+        <name xml:lang="ar">المستودع الرئيسي (المصادر)</name>
+        <name xml:lang="ca">Repositori principal (Fonts)</name>
+        <name xml:lang="cs">Hlavní repozitář (zdroje)</name>
         <name xml:lang="da">Hovedsoftwarekilde (kildekoder)</name>
+        <name xml:lang="de">Haupt-Repository (Quellen)</name>
+        <name xml:lang="el">Κύριο Αποθετήριο (Πηγές)</name>
+        <name xml:lang="es">Repositorio Principal (fuentes) </name>
         <name xml:lang="fi">Pääasennuslähde (lähdekoodit)</name>
-        <name xml:lang="nb">Hovedarkiv (Kilder)</name>
+        <name xml:lang="fr">Dépôt principal (Sources)</name>
+        <name xml:lang="gl">Repositorio principal (Fontes)</name>
+        <name xml:lang="hr">Glavni repozitorij (programski kod)</name>
+        <name xml:lang="hu">Elsődleges telepítési forrás (források)</name>
+        <name xml:lang="it">Repository principale (Sorgenti)</name>
+        <name xml:lang="ja">メインリポジトリ (ソース)</name>
+        <name xml:lang="km">ឃ្លាំង​ចម្បង (ប្រភព)</name>
+        <name xml:lang="ko">주 저장소 (소스)</name>
+        <name xml:lang="lt">Pagrindinė saugykla (šaltiniai)</name>
+        <name xml:lang="nb">Hovedpakkebrønn (kildekode)</name>
+        <name xml:lang="nl">Hoofd-installatiebron (broncode)</name>
+        <name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਸਰੋਤ)</name>
+        <name xml:lang="pl">Repozytorium główne (pakiety źródłowe)</name>
+        <name xml:lang="pt">Repositório Principal (Fontes)</name>
+        <name xml:lang="pt_BR">Repositório principal (fontes)</name>
+        <name xml:lang="ro">Sursă de instalare principală (cod sursă)</name>
+        <name xml:lang="ru">Основной репозиторий (Исходные коды)</name>
+        <name xml:lang="sk">Hlavný repozitár (zdrojové kódy)</name>
+        <name xml:lang="sv">Huvudförråd (Källkod)</name>
+        <name xml:lang="th">คลังแพกเกจหลัก (ต้นฉบับ)</name>
+        <name xml:lang="tr">Ana Depo (Kaynaklar)</name>
+        <name xml:lang="uk">Головне сховище (джерела)</name>
+        <name xml:lang="wa">Mwaisse depot (Sourdants)</name>
+        <name xml:lang="zh_CN">主软件源 (源代码)</name>
+        <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
         <summary>Main repository of openSUSE 13.2 (Source packages)</summary>
         <description>The repository of all source packages in openSUSE 13.2. For experts only.</description>
         <url>http://download.opensuse.org/source/distribution/13.2/repo/oss/</url>
       </repository>
 	    <repository recommended="false" format="yast">
 		<name>Main Repository (DEBUG)</name>
+		<name xml:lang="ar">المستودع الرئيسي (التصحيح)</name>
+		<name xml:lang="ca">Repositori principal (DEBUG)</name>
+		<name xml:lang="cs">Hlavní repozitář (DEBUG)</name>
 		<name xml:lang="da">Hovedsoftwarekilde (DEBUG)</name>
+		<name xml:lang="de">Haupt-Repository (DEBUG)</name>
+		<name xml:lang="el">Κύριο Αποθετήριο (DEBUG)</name>
+		<name xml:lang="es">Repositorio principal (DEBUG)</name>
 		<name xml:lang="fi">Pääasennuslähde (Debug)</name>
-		<name xml:lang="nb">Hovedarkiv (DEBUG)</name>
+		<name xml:lang="fr">Dépôt principal (DEBUG)</name>
+		<name xml:lang="gl">Repositorio Principal (DEPURACIÓN)</name>
+		<name xml:lang="hr">Glavni repozitorij (DEBUG)</name>
+		<name xml:lang="hu">Elsődleges telepítési forrás (debug)</name>
+		<name xml:lang="it">Repository principale (DEBUG)</name>
+		<name xml:lang="ja">メインリポジトリ (デバッグ)</name>
+		<name xml:lang="ka">Main Repository (გამართვის პაკეტები)</name>
+		<name xml:lang="km">ឃ្លាំង​ចម្បង (បំបាត់​កំហុស)</name>
+		<name xml:lang="ko">주 저장소 (디버그)</name>
+		<name xml:lang="lt">Pagrindinė saugykla (Derinimui)</name>
+		<name xml:lang="nb">Hovedpakkebrønn (DEBUG)</name>
+		<name xml:lang="nl">Hoofd-installatiebron (DEBUG)</name>
+		<name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਡੀਬੱਗ)</name>
+		<name xml:lang="pl">Repozytorium główne (DEBUG)</name>
+		<name xml:lang="pt">Repositório Principal (DEBUG)</name>
+		<name xml:lang="pt_BR">Repositório principal (DEBUG)</name>
+		<name xml:lang="ro">Sursă de instalare principală (DEBUG)</name>
+		<name xml:lang="ru">Основной репозиторий (DEBUG)</name>
+		<name xml:lang="sk">Hlavný repozitár (debug)</name>
+		<name xml:lang="sv">Huvudförrådet (DEBUG)</name>
+		<name xml:lang="th">คลังแพกเกจหลัก (แพกเกจดีบั๊ก)</name>
+		<name xml:lang="tr">Ana Depo (HATA AYIKLAMA)</name>
+		<name xml:lang="uk">Головне сховище (DEBUG)</name>
+		<name xml:lang="wa">Mwaisse depot (DISBUG)</name>
+		<name xml:lang="zh_CN">主调试源</name>
+		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 13.2 including the debuginfo packages</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 13.2. For experts only.</description>
 		<url>http://download.opensuse.org/debug/distribution/13.2/repo/oss/</url>
 	    </repository>
       <repository recommended="false" format="rpm-md">
         <name>Main Update Repository</name>
+        <name xml:lang="ar">مستودع التحديث الرئيسي</name>
+        <name xml:lang="ca">Repositori d'actualització principal</name>
+        <name xml:lang="cs">Hlavní aktualizační repozitář</name>
         <name xml:lang="da">Hovedopdateringskilden</name>
+        <name xml:lang="de">Hauptaktualisierungs-Repository</name>
+        <name xml:lang="el">Κύριο Αποθετήριο Ενημερώσεων</name>
+        <name xml:lang="es">Repositorio Principal de Actualizaciones</name>
         <name xml:lang="fi">Perusasennuslähde päivityksille</name>
-        <name xml:lang="nb">Hovedarkiv for oppdateringer</name>
+        <name xml:lang="fr">Dépôt principal de mise à jour</name>
+        <name xml:lang="gl">Repositorio de actualizacións principal</name>
+        <name xml:lang="hr">Glavni repozitorij za dogradnju</name>
+        <name xml:lang="hu">Elsődleges frissítéseket tartalmazó telepítési forrás</name>
+        <name xml:lang="it">Repository principale degli aggiornamenti</name>
+        <name xml:lang="ja">メインアップデートリポジトリ</name>
+        <name xml:lang="km">ឃ្លាំង​ធ្វើ​បច្ចុប្បន្ន​​ចម្បង</name>
+        <name xml:lang="ko">주 업데이트 저장소</name>
+        <name xml:lang="lt">Pagrindinė atnaujinimų saugykla</name>
+        <name xml:lang="nb">Hovedpakkebrønn for oppdateringer</name>
+        <name xml:lang="nl">Hoofd-installatiebron voor bijwerken</name>
+        <name xml:lang="pa">ਮੇਨ ਅੱਪਡੇਟ ਰਿਪੋਜ਼ਟਰੀ</name>
+        <name xml:lang="pl">Główne repozytorium aktualizacji</name>
+        <name xml:lang="pt">Repositório Principal de Actualizações</name>
+        <name xml:lang="pt_BR">Repositório principal de atualização</name>
+        <name xml:lang="ro">Sursă principală de actualizări</name>
+        <name xml:lang="ru">Основной репозиторий обновлений</name>
+        <name xml:lang="sk">Hlavný repozitár s aktualizáciami</name>
+        <name xml:lang="sv">Huvuduppderingsförråd</name>
+        <name xml:lang="th">คลังแพกเกจหลักสำหรับปรับรุ่น</name>
+        <name xml:lang="tr">Ana Güncelleme Deposu</name>
+        <name xml:lang="uk">Головне сховище з оновленнями</name>
+        <name xml:lang="wa">Mwaisse depot pol metaedje a djoû</name>
+        <name xml:lang="zh_CN">主更新源</name>
+        <name xml:lang="zh_TW">主要更新套件庫</name>
         <summary>Repository for official updates to 13.2</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 13.2.</description>
         <url>http://download.opensuse.org/update/13.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>Update Repository (Non-Oss)</name>
+        <name xml:lang="ar">تحديث مستودع (برمجيات غير مفتوحة المصدر)</name>
+        <name xml:lang="ca">Repositori d'actualització (Non-Oss)</name>
+        <name xml:lang="cs">Aktualizační repozitář (uzavřený software)</name>
+        <name xml:lang="da">Opdateringskilde (Non-OSS)</name>
+        <name xml:lang="de">Aktualisierungs-Repository (Nicht-Open-Source-Software)</name>
+        <name xml:lang="el">Κύριο Αποθετήριο Ενημερώσεων (Non-Oss)</name>
+        <name xml:lang="es">Repositorio de actualizaciones (No OpenSource)</name>
+        <name xml:lang="fi">Päivitysasennuslähde (Non-Oss)</name>
+        <name xml:lang="fr">Dépôt de mises à jour (Non-OSS)</name>
+        <name xml:lang="gl">Repositorio de actualización (Non-Oss)</name>
+        <name xml:lang="hu">Frissítési telepítési forrás (Non-Oss)</name>
+        <name xml:lang="it">Repository degli aggiornamenti (Non-Oss)</name>
+        <name xml:lang="ja">更新リポジトリ (非オープンソース)</name>
+        <name xml:lang="lt">Atnaujinimų saugykla (uždaro kodo)</name>
+        <name xml:lang="nb">Oppdateringspakkebrønn (ikke åpen kildekode)</name>
+        <name xml:lang="nl">Installatiebron voor bijwerken (niet-Oss)</name>
+        <name xml:lang="pl">Repozytorium aktualizacji (non-oss)</name>
+        <name xml:lang="pt_BR">Repositório de atualização (Non-OSS)</name>
+        <name xml:lang="ru">Репозиторий обновлений (Non-Oss)</name>
+        <name xml:lang="uk">Сховище оновлень (Non-Oss)</name>
+        <name xml:lang="zh_CN">主更新源 (非开源软件)</name>
+        <name xml:lang="zh_TW">更新套件庫 (非開放原始碼)</name>
         <summary>Repository for official non free updates to 13.2</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 13.2.</description>
         <url>http://download.opensuse.org/update/13.2-non-oss/</url>
       </repository>
             <repository recommended="false" format="yast">
                 <name>Update Repository (DEBUG)</name>
+                <name xml:lang="ar">تحديث المستودع (تصحيح)</name>
+                <name xml:lang="ca">Repositori d'actualització (DEBUG)</name>
+                <name xml:lang="cs">Aktualizační repozitář (DEBUG)</name>
+                <name xml:lang="da">Opdateringskilde (DEBUG)</name>
+                <name xml:lang="de">Aktualisierungs-Repository (DEBUG)</name>
+                <name xml:lang="el">Κύριο Αποθετήριο Ενημερώσεων (DEBUG)</name>
+                <name xml:lang="es">Repositorio de actualizaciones (depuración)</name>
+                <name xml:lang="fi">Päivitysasennuslähde (DEBUG)</name>
+                <name xml:lang="fr">Dépôt de mises à jour (DEBUG)</name>
+                <name xml:lang="gl">Repositorio de actualización (DEBUG)</name>
+                <name xml:lang="hr">Glavni repozitorij (DEBUG)</name>
+                <name xml:lang="hu">Frissítési telepítési forrás (debug)</name>
+                <name xml:lang="it">Repository degli aggiornamenti (DEBUG)</name>
+                <name xml:lang="ja">更新リポジトリ (デバッグ)</name>
+                <name xml:lang="km">ឃ្លាំង​ចម្បង (បំបាត់​កំហុស)</name>
+                <name xml:lang="lt">Atnaujinimų saugykla (Derinimui)</name>
+                <name xml:lang="nb">Oppdateringspakkebrønn (DEBUG)</name>
+                <name xml:lang="nl">Installatiebron voor bijwerken (DEBUG)</name>
+                <name xml:lang="pl">Repozytorium aktualizacji (DEBUG)</name>
+                <name xml:lang="pt">Repositório de Actualizações (DEBUG)</name>
+                <name xml:lang="pt_BR">Repositório de atualização (DEBUG)</name>
+                <name xml:lang="ro">Sursă de instalare actualizări(DEPANARE)</name>
+                <name xml:lang="ru">Репозиторий обновлений (DEBUG)</name>
+                <name xml:lang="tr">Güncelleme Deposu (HATA AYIKLAMA)</name>
+                <name xml:lang="uk">Сховище оновлень (DEBUG)</name>
+                <name xml:lang="wa">Depot des metaedjes a djoû (DISBUG)</name>
+                <name xml:lang="zh_CN">主更新源 (调试)</name>
+                <name xml:lang="zh_TW">更新套件庫 (偵錯)</name>
                 <summary>Update repository of openSUSE 13.2 debuginfo packages</summary>
                 <description>This repository is useful for those that want to debug applications on openSUSE 13.2. For experts only.</description>
                 <url>http://download.opensuse.org/debug/update/13.2/</url>
