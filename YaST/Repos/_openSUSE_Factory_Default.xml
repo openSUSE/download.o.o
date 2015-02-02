@@ -40,7 +40,7 @@
         <name xml:lang="zh_TW">主要套件庫 (OSS)</name>
         <summary>Main repository of openSUSE Factory including only Open Source Software</summary>
         <description>The big Open Source Software (OSS) repository for openSUSE, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
-        <url>http://download.opensuse.org/factory/repo/oss/</url>
+        <url>http://download.opensuse.org/tumbleweed/repo/oss/</url>
       </repository>
       <repository recommended="true" format="yast">
         <name>Main Repository (NON-OSS)</name>
@@ -80,7 +80,7 @@
         <name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
         <summary>Non-Open Source Software Addon repository for openSUSE Factory</summary>
         <description>The official openSUSE Factory repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Flash, and more.</description>
-        <url>http://download.opensuse.org/factory/repo/non-oss/</url>
+        <url>http://download.opensuse.org/tumbleweed/repo/non-oss/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>Main Repository (Sources)</name>
@@ -159,7 +159,7 @@
         <description xml:lang="uk">Сховище для всіх джерельних пакунків в openSUSE 13.1. Тільки для знавців.</description>
         <description xml:lang="zh_CN">openSUSE 13.1 全部源代码包的软件源。仅供专家使用。</description>
         <description xml:lang="zh_TW">openSUSE 13.1 所有原始碼套件的套件庫。僅提供專家使用。</description>
-        <url>http://download.opensuse.org/source/factory/repo/oss/</url>
+        <url>http://download.opensuse.org/source/tumbleweed/repo/oss/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>Main Repository (DEBUG)</name>
@@ -239,7 +239,7 @@
         <description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 13.1. Тільки для знавців.</description>
         <description xml:lang="zh_CN">本软件源只对那些想要在 openSUSE 13.1 中调试程序的人有用。仅供专家使用。</description>
         <description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 13.1 偵錯應用程式非常有用。僅提供專家使用。</description>
-        <url>http://download.opensuse.org/debug/factory/repo/oss/</url>
+        <url>http://download.opensuse.org/debug/tumbleweed/repo/oss/</url>
       </repository>
       
     </repositories>
