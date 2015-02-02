@@ -15,7 +15,7 @@
 		or an enabled SWAP partition are highly recommended in case
 		you want to access this repository at installation time.)
 		 </_description>
-        <url>http://download.opensuse.org/factory/repo/oss/</url>
+        <url>http://download.opensuse.org/tumbleweed/repo/oss/</url>
       </repository>
       <repository recommended="true" format="yast">
         <_name>Main Repository (NON-OSS)</_name>
@@ -23,19 +23,19 @@
         <_description>The official openSUSE Factory repository for all
 		Non-Open Source Software maintained by the openSUSE team,
 		including Opera, Flash, and more.</_description>
-        <url>http://download.opensuse.org/factory/repo/non-oss/</url>
+        <url>http://download.opensuse.org/tumbleweed/repo/non-oss/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>Main Repository (Sources)</_name>
         <_summary>Main repository of openSUSE 13.1 (Source packages)</_summary>
         <_description>The repository of all source packages in openSUSE 13.1. For experts only.</_description>
-        <url>http://download.opensuse.org/source/factory/repo/oss/</url>
+        <url>http://download.opensuse.org/source/tumbleweed/repo/oss/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>Main Repository (DEBUG)</_name>
         <_summary>Main repository of openSUSE 13.1 including the debuginfo packages</_summary>
         <_description>This repository is useful for those that want to debug applications on openSUSE 13.1. For experts only.</_description>
-        <url>http://download.opensuse.org/debug/factory/repo/oss/</url>
+        <url>http://download.opensuse.org/debug/tumbleweed/repo/oss/</url>
       </repository>
       <!--
       <repository recommended="false" format="rpm-md">
