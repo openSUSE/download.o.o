@@ -176,7 +176,8 @@
         <description xml:lang="wa">Vos dene li dierinne sitocaesse modêye d' LibreOffice, li shute burotike k' openSUSE eploye.</description>
         <description xml:lang="zh_CN">提供最新稳定版本的 LibreOffice — openSUSE 使用的办公套件。</description>
         <description xml:lang="zh_TW">提供您最新穩定版的 LibreOffice，openSUSE 使用的辦公室套裝軟體</description>
-        <url>http://download.opensuse.org/repositories/LibreOffice:/Stable/openSUSE_13.1/</url>
+        
+        <url>http://download.opensuse.org/repositories/LibreOffice:/4.3/openSUSE_13.1/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Mozilla</name>
