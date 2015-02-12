@@ -40,7 +40,21 @@
 		<name xml:lang="zh_CN">主软件源 (开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 13.2 including only Open Source Software</summary>
+		<summary xml:lang="ca">Repositori principal de l'openSUSE 13.2, que inclou només el programari de codi obert</summary>
+		<summary xml:lang="cs">Hlavní repozitář openSUSE 13.2 obsahující pouze software s otevřeným kódem</summary>
+		<summary xml:lang="ja">オープンソースソフトウエアだけを含む、 openSUSE 13.2 のメインリポジトリ</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 13.2 met alleen opensource-software</summary>
+		<summary xml:lang="ru">Основной репозиторий openSUSE 13.2, включающий только программное обеспечение с открытым кодом</summary>
+		<summary xml:lang="uk">Головне сховище openSUSE 13.2, яке містить лише ПЗ з відкритим кодом</summary>
+		<summary xml:lang="zh_TW">openSUSE 13.2 的主要套件庫，僅包含開放原始碼的軟體</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 13.2, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+		<description xml:lang="ca">El gran repositori de programari de codi obert (Open Source Software (OSS)) per a l'openSUSE 13.2, que us dóna accés a milers de paquets mantinguts per l'equip d'openSUSE. (A causa de la mida del repositori, afegir-lo pot trigar força estona. És molt recomanable tenir un mínim de 512 MB de RAM o una partició d'intercanvi activa en cas que hi vulgueu accedir durant la instal·lació.)</description>
+		<description xml:lang="cs">Velký repozitář se softwarem s otevřeným kódem pro openSUSE 13.2 vám dává přístup k tisícům balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti tohoto repozitáře může jeho přidání vyžadovat delší čas. Pokud k repozitáři chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní odkládací oddíl.)</description>
+		<description xml:lang="ja">openSUSE 13.2 向けの巨大なオープンソースのソフトウエアリポジトリです。 openSUSE チームによって管理されている、何千ものパッケージにアクセスすることができます。 (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。また、インストールの際にリポジトリにアクセスする場合、512 MB の RAM とスワップの利用を強くお勧めします。)</description>
+		<description xml:lang="nl">De grote opensource-software (OSS) installatiebron van openSUSE 13.2 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 MB RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 13.2, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 МБ RAM или включённый раздел подкачки.)</description>
+		<description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE 13.2, яке надає вам доступ до тисяч пакунків, які підтримуються командою openSUSE. (Через те, що сховище має величезний розмір, його додавання може тривати довго. Рекомендовано мати 512 МБ операційної пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під час встановлення системи.)</description>
+		<description xml:lang="zh_TW">openSUSE 13.2 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 團隊維護的套件讓您取用。(由於這個套件庫非常大，要加入它會花上一些時間。如果您要在安裝時存取此套件庫，強烈建議至少 512 MB 的記憶體或可用的 SWAP 分割區。)</description>
 		<url>http://download.opensuse.org/distribution/13.2/repo/oss/</url>
 	    </repository>
 	    <repository recommended="true" format="yast">
@@ -80,7 +94,21 @@
 		<name xml:lang="zh_CN">主软件源 (非开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 13.2</summary>
+		<summary xml:lang="ca">Repositori complementari de programari que no és de codi obert per a l'openSUSE 13.2</summary>
+		<summary xml:lang="cs">Repozitář openSUSE 13.2 obsahující doplňkový software s uzavřeným zdrojovým kódem</summary>
+		<summary xml:lang="ja">非オープンソースパッケージを含む openSUSE 13.2 の追加リポジトリ</summary>
+		<summary xml:lang="nl">Aanvullende, niet-opensource, installatiebron voor openSUSE 13.2</summary>
+		<summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE 13.2</summary>
+		<summary xml:lang="uk">Додаткове сховище openSUSE 13.2, яке містить ПЗ з закритим кодом</summary>
+		<summary xml:lang="zh_TW">openSUSE 13.2 的非開放原始碼軟體附加套件庫</summary>
 		<description>The official openSUSE 13.2 repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
+		<description xml:lang="ca">El repositori oficial de l'openSUSE 13.2 per a programari que no és de codi obert mantingut per l'equip d'openSUSE, incloent-hi Opera, Java, Flash i altres.</description>
+		<description xml:lang="cs">Oficiální repozitář openSUSE 13.2 pro veškerý software bez dostupného zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Javy, Flashe atd.</description>
+		<description xml:lang="ja">Opera, Java, Flash などの非オープンソースソフトウエアを含む、 openSUSE チーム管理の openSUSE 13.2 公式リポジトリ</description>
+		<description xml:lang="nl">De officiële openSUSE 13.2-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals Opera, Flash, Java, en meer.</description>
+		<description xml:lang="ru">Официальный репозиторий openSUSE 13.2 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Java, Flash и многое другое.</description>
+		<description xml:lang="uk">Офіційне сховище openSUSE 13.2 для всіх програм з закритим кодом, які підтримуються командою openSUSE: Opera, Java, Flash та інших.</description>
+		<description xml:lang="zh_TW">由 openSUSE 團隊維護之非開放原始碼軟體的官方 openSUSE 13.2 套件庫，包含了 Opera, Java, Flash 以及其他更多軟體。</description>
 		<url>http://download.opensuse.org/distribution/13.2/repo/non-oss/</url>
 	    </repository>
       <repository recommended="false" format="yast">
@@ -119,7 +147,21 @@
         <name xml:lang="zh_CN">主软件源 (源代码)</name>
         <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
         <summary>Main repository of openSUSE 13.2 (Source packages)</summary>
+        <summary xml:lang="ca">Repositori principal d'openSUSE 13.2 (Paquets font)</summary>
+        <summary xml:lang="cs">Hlavní repozitář openSUSE 13.2 (zdrojové balíčky)</summary>
+        <summary xml:lang="ja">openSUSE 13.2 のメインリポジトリ (ソースパッケージ)</summary>
+        <summary xml:lang="nl">Hoofd-installatiebron van openSUSE 13.2 (broncodepakketten)</summary>
+        <summary xml:lang="ru">Основной репозиторий openSUSE 13.2 (Пакеты с исходным кодом)</summary>
+        <summary xml:lang="uk">Головне сховище для openSUSE 13.2 (джерельні пакунки)</summary>
+        <summary xml:lang="zh_TW">openSUSE 13.2 的主要套件庫(原始碼套件)</summary>
         <description>The repository of all source packages in openSUSE 13.2. For experts only.</description>
+        <description xml:lang="ca">El repositori de tots els paquets font de l'openSUSE 13.2. Només per a experts.</description>
+        <description xml:lang="cs">Repozitář všech zdrojových balíčků openSUSE 13.2. Pouze pro zkušené uživatele.</description>
+        <description xml:lang="ja">openSUSE 13.2 の全てのソースパッケージを含むリポジトリ。熟練者向けです。</description>
+        <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE 13.2. Alleen voor ervaren gebruikers.</description>
+        <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE 13.2. Только для экспертов.</description>
+        <description xml:lang="uk">Сховище для всіх джерельних пакунків в openSUSE 13.2. Тільки для знавців.</description>
+        <description xml:lang="zh_TW">openSUSE 13.2 所有原始碼套件的套件庫。僅提供專家使用。</description>
         <url>http://download.opensuse.org/source/distribution/13.2/repo/oss/</url>
       </repository>
 	    <repository recommended="false" format="yast">
@@ -159,7 +201,21 @@
 		<name xml:lang="zh_CN">主调试源</name>
 		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 13.2 including the debuginfo packages</summary>
+		<summary xml:lang="ca">Repositori principal de l'openSUSE 13.2 que inclou els paquets d'informació de depuració</summary>
+		<summary xml:lang="cs">Hlavní repozitář openSUSE 13.2 obsahující balíčky debuginfo</summary>
+		<summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 13.2 のメインリポジトリ</summary>
+		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 13.2, met debuginfo-pakketten</summary>
+		<summary xml:lang="ru">Основной репозиторий openSUSE 13.2, включающий пакеты debuginfo</summary>
+		<summary xml:lang="uk">Головне сховище openSUSE 13.2, яке містить пакунки debuginfo</summary>
+		<summary xml:lang="zh_TW">openSUSE 13.2 的主要套件庫，包含偵錯套件</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 13.2. For experts only.</description>
+		<description xml:lang="ca">Aquest repositori és útil per a qui vulgui aplicacions de depuració a l'openSUSE 13.2. Només per a experts.</description>
+		<description xml:lang="cs">Tento repozitář je užitečný pro všechny, kdo chtějí ladit aplikace pro openSUSE 13.2. Určeno pouze pro experty.</description>
+		<description xml:lang="ja">このリポジトリは、 openSUSE 13.2 のアプリケーションをデバッグする際に便利なリポジトリです。熟練者向けです。</description>
+		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE 13.2 willen opsporen. Alleen voor ervaren gebruikers.</description>
+		<description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 13.2. Только для экспертов.</description>
+		<description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 13.2. Тільки для знавців.</description>
+		<description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 13.2 偵錯應用程式非常有用。僅提供專家使用。</description>
 		<url>http://download.opensuse.org/debug/distribution/13.2/repo/oss/</url>
 	    </repository>
       <repository recommended="false" format="rpm-md">
@@ -198,13 +254,27 @@
         <name xml:lang="zh_CN">主更新源</name>
         <name xml:lang="zh_TW">主要更新套件庫</name>
         <summary>Repository for official updates to 13.2</summary>
+        <summary xml:lang="ca">Repositori per a actualitzacions oficials del 13.2</summary>
+        <summary xml:lang="cs">Repozitář oficiálních aktualizací openSUSE 13.2</summary>
+        <summary xml:lang="ja">13.2 用の公式アップデートのリポジトリ</summary>
+        <summary xml:lang="nl">Installatiebron met officiële zaken voor het bijwerken naar 13.2</summary>
+        <summary xml:lang="ru">Репозиторий официальных обновлений для 13.2</summary>
+        <summary xml:lang="uk">Сховище для офіційних оновлень в 13.2</summary>
+        <summary xml:lang="zh_TW">13.2 的官方更新套件庫</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 13.2.</description>
+        <description xml:lang="ca">En aquest repositori trobareu actualitzacions de seguretat i manteniment per a l'openSUSE 13.2.</description>
+        <description xml:lang="cs">V tomto repozitáři naleznete bezpečnostní a údržbové aktualizace pro openSUSE 13.2.</description>
+        <description xml:lang="ja">このリポジトリには openSUSE 13.2 用のセキュリティ／メンテナンスアップデートがあります。</description>
+        <description xml:lang="nl">In deze installatiebron vindt u zaken voor het bijwerken t.b.v. veiligheid en onderhoud voor openSUSE 13.2.</description>
+        <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 13.2.</description>
+        <description xml:lang="uk">У цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 13.2.</description>
+        <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 13.2 的安全性與維護性更新。</description>
         <url>http://download.opensuse.org/update/13.2/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>Update Repository (Non-Oss)</name>
         <name xml:lang="ar">تحديث مستودع (برمجيات غير مفتوحة المصدر)</name>
-        <name xml:lang="ca">Repositori d'actualització (Non-Oss)</name>
+        <name xml:lang="ca">Repositori d'actualització (No OSS)</name>
         <name xml:lang="cs">Aktualizační repozitář (uzavřený software)</name>
         <name xml:lang="da">Opdateringskilde (Non-OSS)</name>
         <name xml:lang="de">Aktualisierungs-Repository (Nicht-Open-Source-Software)</name>
@@ -226,7 +296,21 @@
         <name xml:lang="zh_CN">主更新源 (非开源软件)</name>
         <name xml:lang="zh_TW">更新套件庫 (非開放原始碼)</name>
         <summary>Repository for official non free updates to 13.2</summary>
+        <summary xml:lang="ca">Repositori per a actualitzacions oficials no lliures del 13.2</summary>
+        <summary xml:lang="cs">Repozitář oficiálních uzavřených aktualizací openSUSE 13.2</summary>
+        <summary xml:lang="ja">非オープンソース用の 13.2 向け公式アップデートリポジトリ</summary>
+        <summary xml:lang="nl">Installatiebron met officiële niet-vrije pakketten voor het bijwerken naar 13.2</summary>
+        <summary xml:lang="ru">Репозиторий официальных несвободных обновлений для 13.2</summary>
+        <summary xml:lang="uk">Сховище для офіційних оновлень невільних програм у 13.2</summary>
+        <summary xml:lang="zh_TW">13.2 的官方非開放原始碼更新套件庫</summary>
         <description>In this repository you find security and maintenance updates to openSUSE 13.2.</description>
+        <description xml:lang="ca">En aquest repositori trobareu actualitzacions de seguretat i manteniment per a l'openSUSE 13.2.</description>
+        <description xml:lang="cs">V tomto repozitáři naleznete bezpečnostní a údržbové aktualizace pro openSUSE 13.2.</description>
+        <description xml:lang="ja">このリポジトリには openSUSE 13.2 用のセキュリティ／メンテナンスアップデートがあります。</description>
+        <description xml:lang="nl">In deze installatiebron vindt u zaken voor het bijwerken t.b.v. veiligheid en onderhoud voor openSUSE 13.2.</description>
+        <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 13.2.</description>
+        <description xml:lang="uk">У цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 13.2.</description>
+        <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 13.2 的安全性與維護性更新。</description>
         <url>http://download.opensuse.org/update/13.2-non-oss/</url>
       </repository>
             <repository recommended="false" format="yast">
@@ -260,7 +344,21 @@
                 <name xml:lang="zh_CN">主更新源 (调试)</name>
                 <name xml:lang="zh_TW">更新套件庫 (偵錯)</name>
                 <summary>Update repository of openSUSE 13.2 debuginfo packages</summary>
+                <summary xml:lang="ca">Repositori d'actualització de paquets d'informació de depuració de l'openSUSE 13.2</summary>
+                <summary xml:lang="cs">Repozitář s aktualizacemi openSUSE 13.2 obsahující balíčky debuginfo</summary>
+                <summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 13.2 の更新リポジトリ</summary>
+                <summary xml:lang="nl">Installatiebron voor bijwerken van openSUSE 13.2 met debuginfo-pakketten</summary>
+                <summary xml:lang="ru">Репозиторий обновлений openSUSE 13.2, включающий пакеты debuginfo</summary>
+                <summary xml:lang="uk">Сховище оновлень openSUSE 13.2, яке містить пакунки debuginfo</summary>
+                <summary xml:lang="zh_TW">openSUSE 13.2 的偵錯更新套件庫</summary>
                 <description>This repository is useful for those that want to debug applications on openSUSE 13.2. For experts only.</description>
+                <description xml:lang="ca">Aquest repositori és útil per a qui vulgui aplicacions de depuració a l'openSUSE 13.2. Només per a experts.</description>
+                <description xml:lang="cs">Tento repozitář je užitečný pro všechny, kdo chtějí ladit aplikace pro openSUSE 13.2. Určeno pouze pro experty.</description>
+                <description xml:lang="ja">このリポジトリは、 openSUSE 13.2 のアプリケーションをデバッグする際に便利なリポジトリです。熟練者向けです。</description>
+                <description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE 13.2 willen opsporen. Alleen voor ervaren gebruikers.</description>
+                <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 13.2. Только для экспертов.</description>
+                <description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 13.2. Тільки для знавців.</description>
+                <description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 13.2 偵錯應用程式非常有用。僅提供專家使用。</description>
                 <url>http://download.opensuse.org/debug/update/13.2/</url>
             </repository>
 	</repositories>

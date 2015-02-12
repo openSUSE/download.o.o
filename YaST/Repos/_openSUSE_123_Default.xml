@@ -148,7 +148,7 @@
 		<summary xml:lang="zh_TW">openSUSE 12.3 的非開放原碼軟體附加套件庫</summary>
 		<description>The official openSUSE 12.3 repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
 		<description xml:lang="ar">مستودع أوبن سوزي الرسمي 12.3 لجميع برمجيات المصادر غير الحرة التي يحتفظ بها فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر.</description>
-		<description xml:lang="ca">El repositori oficial per a openSUSE 12.3 de programari que no és de codi obert mantingut per l'equip d'openSUSE, incloent Opera, Java, Flash i més.</description>
+		<description xml:lang="ca">El repositori oficial per a openSUSE 12.3 de programari que no és de codi obert mantingut per l'equip d'openSUSE, incloent-hi l'Opera, Java, Flash i més.</description>
 		<description xml:lang="cs">Oficiální repozitář openSUSE 12.3 pro software bez otevřeného zdrojového kódu spravovaný týmem openSUSE, který zahrnuje Operu, Javu, Flash a další programy.</description>
 		<description xml:lang="da">Den officielle openSUSE 12.3 softwarekilde for al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer RealPlayer, Opera, Java, Flash og mere.</description>
 		<description xml:lang="de">Das offizielle openSUSE-12.3-Repository für 'Nicht-Open-Source-Software', die vom openSUSE-Team verwaltet wird, einschließlich Opera, Java, Flash, etc.</description>
@@ -292,7 +292,7 @@
 		<name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
 		<summary>Main repository of openSUSE 12.3 including the debuginfo packages</summary>
 		<summary xml:lang="ar">المستودع الرئيسي لأوبن سوزي 12.3 بما في ذلك حزم معلومات التحديث</summary>
-		<summary xml:lang="ca">Repositori principal d'openSUSE 12.3 incloent els paquets de debuginfo</summary>
+		<summary xml:lang="ca">Repositori principal d'openSUSE 12.3, incloent-hi els paquets de debuginfo</summary>
 		<summary xml:lang="cs">Hlavní repozitář openSUSE 12.3 obsahující balíčky debuginfo</summary>
 		<summary xml:lang="da">Hovedsoftwarekilde for openSUSE 12.3 som inkluderer debuginfo-pakker</summary>
 		<summary xml:lang="de">Haupt-Repository von openSUSE 12.3 (nur Debuginfo-Pakete)</summary>
@@ -424,7 +424,7 @@
       <repository recommended="false" format="rpm-md">
         <name>Update Repository (Non-Oss)</name>
         <name xml:lang="ar">تحديث مستودع (برمجيات غير مفتوحة المصدر)</name>
-        <name xml:lang="ca">Repositori d'actualització (Non-Oss)</name>
+        <name xml:lang="ca">Repositori d'actualització (No OSS)</name>
         <name xml:lang="cs">Aktualizační repozitář (uzavřený software)</name>
         <name xml:lang="da">Opdateringskilde (Non-OSS)</name>
         <name xml:lang="de">Aktualisierungs-Repository (Nicht-Open-Source-Software)</name>

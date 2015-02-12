@@ -39,7 +39,21 @@
         <name xml:lang="zh_CN">主软件源 (开源软件)</name>
         <name xml:lang="zh_TW">主要套件庫 (OSS)</name>
         <summary>Main repository of openSUSE Factory including only Open Source Software</summary>
+        <summary xml:lang="ca">Repositori principal d'openSUSE Factory que inclou només el programari de codi obert</summary>
+        <summary xml:lang="cs">Hlavní repozitář openSUSE Factory obsahující pouze software s otevřeným kódem</summary>
+        <summary xml:lang="ja">オープンソースソフトウエアだけを含む、 openSUSE Factory のメインリポジトリ</summary>
+        <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Factory met alleen opensource-software</summary>
+        <summary xml:lang="ru">Основной репозиторий openSUSE 13.2, включающий только программное обеспечение с открытым кодом</summary>
+        <summary xml:lang="uk">Головне сховище openSUSE Factory, яке містить лише ПЗ з відкритим кодом</summary>
+        <summary xml:lang="zh_TW">openSUSE Factory 的主要套件庫，僅包含開放原始碼的軟體</summary>
         <description>The big Open Source Software (OSS) repository for openSUSE, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
+        <description xml:lang="ca">El gran repositori de programari de codi obert (Open Source Software (OSS)) per a l'openSUSE, que us dóna accés a milers de paquets mantinguts per l'equip d'openSUSE. (A causa de la mida del repositori, afegir-lo pot trigar força estona. És molt recomanable tenir un mínim de 512 MB de RAM o una partició d'intercanvi activa en cas que hi vulgueu accedir durant la instal·lació.)</description>
+        <description xml:lang="cs">Velký repozitář se softwarem s otevřeným kódem pro openSUSE Factory vám dává přístup k tisícům balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti tohoto repozitáře může jeho přidání vyžadovat delší čas. Pokud k repozitáři chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní odkládací oddíl.)</description>
+        <description xml:lang="ja">openSUSE 向けの巨大なオープンソース・ソフトウエアリポジトリです。 openSUSE チームによって管理されている、何千ものパッケージにアクセスすることができます。 (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。また、インストールの際にリポジトリにアクセスする場合、512 MB の RAM とスワップの利用を強くお勧めします。)</description>
+        <description xml:lang="nl">De grote opensource-software (OSS) installatiebron van openSUSE geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 MB RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+        <description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 13.2, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 МБ RAM или включённый раздел подкачки.)</description>
+        <description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE, яке надає вам доступ до тисяч пакунків, які підтримуються командою openSUSE. (Через те, що сховище має величезний розмір, його додавання може тривати довго. Рекомендовано мати 512 МБ операційної пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під час встановлення системи.)</description>
+        <description xml:lang="zh_TW">openSUSE 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 團隊維護的套件讓您取用。(由於這個套件庫非常大，要加入它會花上一些時間。如果您要在安裝時存取此套件庫，強烈建議至少 512 MB 的記憶體或可用的 SWAP 分割區。)</description>
         <url>http://download.opensuse.org/tumbleweed/repo/oss/</url>
       </repository>
       <repository recommended="true" format="yast">
@@ -79,7 +93,21 @@
         <name xml:lang="zh_CN">主软件源 (非开源软件)</name>
         <name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
         <summary>Non-Open Source Software Addon repository for openSUSE Factory</summary>
+        <summary xml:lang="ca">Repositori complementari de programari que no és de codi obert per a openSUSE Factory</summary>
+        <summary xml:lang="cs">Repozitář s doplňkovým softwarem bez dostupného kódu pro openSUSE Factory</summary>
+        <summary xml:lang="ja">非オープンソースパッケージを含む openSUSE Factory の追加リポジトリ</summary>
+        <summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE Factory</summary>
+        <summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE 13.2</summary>
+        <summary xml:lang="uk">Додаткове сховище openSUSE Factory, яке містить ПЗ із закритим кодом</summary>
+        <summary xml:lang="zh_TW">openSUSE Factory 的非開放原始碼軟體附加套件庫</summary>
         <description>The official openSUSE Factory repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Flash, and more.</description>
+        <description xml:lang="ca">El repositori oficial d'openSUSE Factory per a tot el programari que no és de codi obert mantingut per l'equip d'openSUSE, incloent-hi Opera, Flash i altres.</description>
+        <description xml:lang="cs">Oficiální repozitář openSUSE Factory pro veškerý software bez dostupného zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Javy, Flashe atd.</description>
+        <description xml:lang="ja">Opera, Java, Flash などの非オープンソースソフトウエアを含む、 openSUSE チーム管理の openSUSE Factory 公式リポジトリ</description>
+        <description xml:lang="nl">De officiële openSUSE Factory-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals Opera, Flash, Java, en meer.</description>
+        <description xml:lang="ru">Официальный репозиторий openSUSE 13.2 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Flash и многое другое.</description>
+        <description xml:lang="uk">Офіційне сховище openSUSE Factory для всіх програм з закритим кодом, які підтримуються командою openSUSE: Opera, Java, Flash та інших.</description>
+        <description xml:lang="zh_TW">由 openSUSE 團隊維護之非開放原始碼軟體的官方 openSUSE Factory 套件庫，包含了 Opera, Java, Flash 以及其他更多軟體。</description>
         <url>http://download.opensuse.org/tumbleweed/repo/non-oss/</url>
       </repository>
       <repository recommended="false" format="yast">
@@ -119,7 +147,7 @@
         <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
         <summary>Main repository of openSUSE 13.1 (Source packages)</summary>
         <summary xml:lang="ar">المستودع الرئيسي من أوبن سوزي 13.1 (مصدر الحزم)</summary>
-        <summary xml:lang="ca">Repositori principal d'openSUSE 13.1 (Source packages)</summary>
+        <summary xml:lang="ca">Repositori principal d'openSUSE 13.1 (Paquets font)</summary>
         <summary xml:lang="cs">Hlavní repozitář openSUSE 13.1 (Zdrojové balíčky)</summary>
         <summary xml:lang="da">Hovedsoftwarekilden for openSUSE 13.1 (kildekode-pakker)</summary>
         <summary xml:lang="de">Haupt-Repository von openSUSE 13.1 (Quellpakete)</summary>
@@ -140,7 +168,7 @@
         <summary xml:lang="zh_TW">openSUSE 13.1 的主要套件庫(原始碼套件)</summary>
         <description>The repository of all source packages in openSUSE 13.1. For experts only.</description>
         <description xml:lang="ar">مستودع لكافة حزم المصدر في أوبن سوزي 13.1. للخبراء فقط.</description>
-        <description xml:lang="ca">El repositori de tots els paquets font en openSUSE 13.1. Només per a experts.</description>
+        <description xml:lang="ca">El repositori de tots els paquets font a l'openSUSE 13.1. Només per a experts.</description>
         <description xml:lang="cs">Repozitář všech balíčků se zdrojovým kódem openSUSE 13.1. Jen pro zkušené uživatele.</description>
         <description xml:lang="da">Softwarekilden for alle kildekode-pakker i openSUSE 13.1. Kun for eksperter.</description>
         <description xml:lang="de">Das Repository aller Quellpakete in openSUSE 13.1. Nur für Experten.</description>
@@ -199,7 +227,7 @@
         <name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
         <summary>Main repository of openSUSE 13.1 including the debuginfo packages</summary>
         <summary xml:lang="ar">المستودع الرئيسي لأوبن سوزي 13.1 بما في ذلك حزم معلومات التحديث</summary>
-        <summary xml:lang="ca">Repositori principal d'openSUSE 13.1 incloent els paquets de debuginfo</summary>
+        <summary xml:lang="ca">Repositori principal d'openSUSE 13.1 que inclou els paquets d'informació de depuració</summary>
         <summary xml:lang="cs">Hlavní repozitář openSUSE 13.1 zahrnující balíčky debuginfo</summary>
         <summary xml:lang="da">Hovedsoftwarekilde for openSUSE 13.1 som inkluderer debuginfo-pakker</summary>
         <summary xml:lang="de">Haupt-Repository von openSUSE 13.1 (debuginfo-Pakete)</summary>
