@@ -6,7 +6,7 @@
     <repositories>
       <repository recommended="true" format="yast">
         <_name>Main Repository (OSS)</_name>
-        <_summary>Main repository of openSUSE Factory including only
+        <_summary>Main repository of openSUSE Tumbleweed including only
 		Open Source Software</_summary>
         <_description>The big Open Source Software (OSS) repository
 		for openSUSE, giving you access to thousands of
@@ -19,44 +19,24 @@
       </repository>
       <repository recommended="true" format="yast">
         <_name>Main Repository (NON-OSS)</_name>
-        <_summary>Non-Open Source Software Addon repository for openSUSE Factory</_summary>
-        <_description>The official openSUSE Factory repository for all
+        <_summary>Non-Open Source Software Addon repository for openSUSE Tumbleweed</_summary>
+        <_description>The official openSUSE Tumbleweed repository for all
 		Non-Open Source Software maintained by the openSUSE team,
 		including Opera, Flash, and more.</_description>
         <url>http://download.opensuse.org/tumbleweed/repo/non-oss/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>Main Repository (Sources)</_name>
-        <_summary>Main repository of openSUSE 13.1 (Source packages)</_summary>
-        <_description>The repository of all source packages in openSUSE 13.1. For experts only.</_description>
+        <_summary>Main repository of openSUSE Tumbleweed (Source packages)</_summary>
+        <_description>The repository of all source packages in openSUSE Tumbleweed. For experts only.</_description>
         <url>http://download.opensuse.org/source/tumbleweed/repo/oss/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>Main Repository (DEBUG)</_name>
-        <_summary>Main repository of openSUSE 13.1 including the debuginfo packages</_summary>
-        <_description>This repository is useful for those that want to debug applications on openSUSE 13.1. For experts only.</_description>
+        <_summary>Main repository of openSUSE Tumbleweed including the debuginfo packages</_summary>
+        <_description>This repository is useful for those that want to debug applications on openSUSE Tumbleweed. For experts only.</_description>
         <url>http://download.opensuse.org/debug/tumbleweed/repo/oss/</url>
       </repository>
-      <!--
-      <repository recommended="false" format="rpm-md">
-        <_name>Main Update Repository</_name>
-        <_summary>Repository for official updates to 13.1</_summary>
-        <_description>In this repository you find security and maintenance updates to openSUSE 13.1.</_description>
-        <url>http://download.opensuse.org/update/13.1/</url>
-      </repository>
-      <repository recommended="false" format="rpm-md">
-        <_name>Update Repository (Non-Oss)</_name>
-        <_summary>Repository for official non free updates to 13.1</_summary>
-        <_description>In this repository you find security and maintenance updates to openSUSE 13.1.</_description>
-        <url>http://download.opensuse.org/update/13.1-non-oss/</url>
-      </repository>
-            <repository recommended="false" format="yast">
-                <_name>Update Repository (DEBUG)</_name>
-                <_summary>Update repository of openSUSE 13.1 debuginfo packages</_summary>
-                <_description>This repository is useful for those that want to debug applications on openSUSE 13.1. For experts only.</_description>
-                <url>http://download.opensuse.org/debug/update/13.1/</url>
-            </repository>
--->
     </repositories>
   </group>
 </metapackage>
