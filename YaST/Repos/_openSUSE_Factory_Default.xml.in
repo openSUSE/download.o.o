@@ -37,6 +37,12 @@
         <_description>This repository is useful for those that want to debug applications on openSUSE Tumbleweed. For experts only.</_description>
         <url>http://download.opensuse.org/debug/tumbleweed/repo/oss/</url>
       </repository>
+      <repository recommended="true" format="rpm-md">
+        <_name>Main Update Repository</_name>
+        <_summary>Official update repository for Tumbleweed</_summary>
+        <_description>This repository provides urgent updates until they get integrated into the main repositories.</_description>
+        <url>http://download.opensuse.org/update/tumbleweed/</url>
+      </repository>
     </repositories>
   </group>
 </metapackage>
