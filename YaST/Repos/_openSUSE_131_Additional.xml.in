@@ -101,12 +101,14 @@
         <_description>Contains several packages which might be interesting for educational use</_description>
         <url>http://download.opensuse.org/repositories/Education/openSUSE_13.1/</url>
       </repository>
+      <!-- Java:packages has been removed for 13.1
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - Java:packages</_name>
         <_summary>Bleeding-edge Java packages</_summary>
         <_description>Provides uptodate Java packages (Factory backports)</_description>
         <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_13.1/</url>
       </repository>
+      -->
       <repository recommended="false" format="rpm-md">
         <_name>openSUSE BuildService - KDE:KDE3</_name>
         <_summary>Maintained KDE 3 packages</_summary>
