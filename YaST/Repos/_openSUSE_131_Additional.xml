@@ -177,7 +177,7 @@
         <description xml:lang="zh_CN">提供最新稳定版本的 LibreOffice — openSUSE 使用的办公套件。</description>
         <description xml:lang="zh_TW">提供您最新穩定版的 LibreOffice，openSUSE 使用的辦公室套裝軟體</description>
         
-        <url>http://download.opensuse.org/repositories/LibreOffice:/4.3/openSUSE_13.1/</url>
+        <url>http://download.opensuse.org/repositories/LibreOffice:/4.4/openSUSE_13.1/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - Mozilla</name>
@@ -1561,95 +1561,7 @@
         <description xml:lang="zh_TW">包含了很多教育人員會有興趣的套件</description>
         <url>http://download.opensuse.org/repositories/Education/openSUSE_13.1/</url>
       </repository>
-      <repository recommended="false" format="rpm-md">
-        <name>openSUSE BuildService - Java:packages</name>
-        <name xml:lang="ar">خدمة بناء أوبن سوزي-- حزم:جافا</name>
-        <name xml:lang="ca">Servei de construcció de l'openSUSE - Java:packages</name>
-        <name xml:lang="cs">openSUSE BuildService - Java:balíčky</name>
-        <name xml:lang="da">openSUSE BuildService - Java:packages</name>
-        <name xml:lang="de">openSUSE BuildService - Java-Pakete</name>
-        <name xml:lang="el">openSUSE BuildService - Java:packages</name>
-        <name xml:lang="es">openSUSE BuildService - Java:packages</name>
-        <name xml:lang="fi">openSUSEn paketointipalvelu - Java:packages</name>
-        <name xml:lang="fr">openSUSE BuildService - Java:packages</name>
-        <name xml:lang="gl">openSUSE BuildService - Java:packages</name>
-        <name xml:lang="hr">openSUSE BuildService - Java:paketi</name>
-        <name xml:lang="hu">openSUSE BuildService - Java:csomagok</name>
-        <name xml:lang="it">openSUSE BuildService - Java:packages</name>
-        <name xml:lang="ja">openSUSE ビルドサービス - Java:パッケージ</name>
-        <name xml:lang="km">openSUSE BuildService - Java ៖ កញ្ចប់​​</name>
-        <name xml:lang="lt">openSUSE Kūrimo Paslauga - Java: paketai</name>
-        <name xml:lang="nb">openSUSE BuildService - Java:pakker</name>
-        <name xml:lang="nl">openSUSE BuildService - Java pakketten</name>
-        <name xml:lang="pl">openSUSE BuildService - Java:packages</name>
-        <name xml:lang="pt">openSUSE BuildService - Java:pacotes</name>
-        <name xml:lang="pt_BR">openSUSE BuildService - Java:packages</name>
-        <name xml:lang="ro">openSUSE BuildService - Java:pachete</name>
-        <name xml:lang="ru">openSUSE BuildService - Java: пакеты</name>
-        <name xml:lang="tr">openSuse Derleme Servisi - Java:paketler</name>
-        <name xml:lang="uk">Служба складання пакунків openSUSE - Java:пакунки</name>
-        <name xml:lang="wa">openSUSE BuildService - Java:pacaedjes</name>
-        <name xml:lang="zh_CN">openSUSE 编译服务 - Java 软件包</name>
-        <name xml:lang="zh_TW">openSUSE BuildService - Java:套件</name>
-        <summary>Bleeding-edge Java packages</summary>
-        <summary xml:lang="ar">حزم جافا Bleeding-edge</summary>
-        <summary xml:lang="ca">Els paquets més nous de Java</summary>
-        <summary xml:lang="cs">Nejaktuálnější balíčky Java</summary>
-        <summary xml:lang="da">Bleeding-edge Java-pakker</summary>
-        <summary xml:lang="de">Top-aktuelle Java-Pakete</summary>
-        <summary xml:lang="el">Πακέτα Java τεχνολογίας αιχμής</summary>
-        <summary xml:lang="es">Los últimos paquetes de Java</summary>
-        <summary xml:lang="fi">Uusimmat Java-paketit</summary>
-        <summary xml:lang="fr">Dernières versions des paquets Java</summary>
-        <summary xml:lang="gl">Os últimos paquetes de Java</summary>
-        <summary xml:lang="hr">Najnovije verzije Java paketa</summary>
-        <summary xml:lang="hu">Legfrissebb Java csomagok</summary>
-        <summary xml:lang="it">Gli ultimi pacchetti di Java</summary>
-        <summary xml:lang="ja">最先端の Java パッケージ</summary>
-        <summary xml:lang="km">កញ្ចប់ Java ដែល​មាន​កម្មសិទ្ធិ ។</summary>
-        <summary xml:lang="lt">Šviežiausi Java paketai</summary>
-        <summary xml:lang="nb">De nyeste Java-pakkene</summary>
-        <summary xml:lang="nl">Java-pakketten aan het front</summary>
-        <summary xml:lang="pl">Najnowsze pakiety Java (mogą być niestabilne).</summary>
-        <summary xml:lang="pt">Pacotes Java não estáveis</summary>
-        <summary xml:lang="pt_BR">Pacotes Java recentes</summary>
-        <summary xml:lang="ro">Pachete Java recente</summary>
-        <summary xml:lang="ru">Новейшие пакеты Java</summary>
-        <summary xml:lang="tr">Yeni teknoloji Java paketleri</summary>
-        <summary xml:lang="uk">Найновіші пакунки Java</summary>
-        <summary xml:lang="wa">Les pus noûs pacaedjes Java</summary>
-        <summary xml:lang="zh_CN">还热乎的 Java 软件包。</summary>
-        <summary xml:lang="zh_TW">最新的 Java 套件</summary>
-        <description>Provides uptodate Java packages (Factory backports)</description>
-        <description xml:lang="ar">يوفر تحديث حزم جافا (Factory backports)</description>
-        <description xml:lang="ca">Proporciona paquets actualitzats de Java (Factory backports)</description>
-        <description xml:lang="cs">Nabízí aktuální balíčky Java  (Factory backporty)</description>
-        <description xml:lang="da">Leverer fuldt opdaterede Java-pakker (Factory backports)</description>
-        <description xml:lang="de">Enthält aktuelle Java-Pakete (Rückportierungen aus Factory)</description>
-        <description xml:lang="el">Παρέχει ενημερωμένα πακέτα Java (backports του Factory)</description>
-        <description xml:lang="es">Paquetes actualizados de Java (Factory)</description>
-        <description xml:lang="fi">Tarjoaa ajan tasalla olevat Java-paketit (Factorysta)</description>
-        <description xml:lang="fr">Fournit des paquets Java à jour (backport de Factory)</description>
-        <description xml:lang="gl">Fornece paquetes actualizados de Java (Factory)</description>
-        <description xml:lang="hu">A Java-csomagok legfrissebb verzióját tartalmazza (Factory backport)</description>
-        <description xml:lang="it">Fornisce pacchetti aggiornati di Java (backport da Factory)</description>
-        <description xml:lang="ja">最新の Java パッケージを提供しています (Factory からのバックポート)</description>
-        <description xml:lang="km">ផ្ដល់​កញ្ចប់​ Java ទាន់សម័យ​​ (បំណះ​ដើម​​)</description>
-        <description xml:lang="lt">Pateikia pačius naujausius Java paketus (atkelti iš vystomo kamieno)</description>
-        <description xml:lang="nb">Inneholder oppdaterte Java-pakker (tilbakeporteringer fra Factory)</description>
-        <description xml:lang="nl">Levert de nieuwste Java pakketten (Factory backports)</description>
-        <description xml:lang="pl">Dostarcza zaktualizowane pakiety Java (Factory backports)</description>
-        <description xml:lang="pt">Fornece pacotes Java actualizados (backports por defeito)</description>
-        <description xml:lang="pt_BR">Fornece pacotes Java atualizados (Factory backports)</description>
-        <description xml:lang="ro">Oferă cele mai recente pachete Java (Retroportare Factory)</description>
-        <description xml:lang="ru">Предоставляет актуальные пакеты Java (обратное портирование из Factory)</description>
-        <description xml:lang="tr">Güncel Java paketleri sağlar (Fabrika geri dönümleri)</description>
-        <description xml:lang="uk">Надає актуальні пакети Java (зворотне портування з Factory)</description>
-        <description xml:lang="wa">Dene des pacaedjes Java a djoû (rapoirtés dispoy Factory)</description>
-        <description xml:lang="zh_CN">提供最新的 Java 软件包(工厂版的向后移植)</description>
-        <description xml:lang="zh_TW">提供了最新版的 Java 套件 (Factory backports)</description>
-        <url>http://download.opensuse.org/repositories/Java:/packages/openSUSE_13.1/</url>
-      </repository>
+      
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - KDE:KDE3</name>
         <name xml:lang="ar">خدمة بناء أوبن سوزي-- كدي:KDE3</name>
