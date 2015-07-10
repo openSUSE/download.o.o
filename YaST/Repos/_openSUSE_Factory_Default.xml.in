@@ -29,13 +29,13 @@
         <_name>Main Repository (Sources)</_name>
         <_summary>Main repository of openSUSE Tumbleweed (Source packages)</_summary>
         <_description>The repository of all source packages in openSUSE Tumbleweed. For experts only.</_description>
-        <url>http://download.opensuse.org/source/tumbleweed/repo/oss/</url>
+        <url>http://download.opensuse.org/tumbleweed/repo/src-oss/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>Main Repository (DEBUG)</_name>
         <_summary>Main repository of openSUSE Tumbleweed including the debuginfo packages</_summary>
         <_description>This repository is useful for those that want to debug applications on openSUSE Tumbleweed. For experts only.</_description>
-        <url>http://download.opensuse.org/debug/tumbleweed/repo/oss/</url>
+        <url>http://download.opensuse.org/tumbleweed/repo/debug/</url>
       </repository>
       <repository recommended="true" format="rpm-md">
         <_name>Main Update Repository</_name>
