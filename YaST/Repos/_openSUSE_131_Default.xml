@@ -40,7 +40,7 @@
 		<name xml:lang="zh_CN">主软件源 (开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (OSS)</name>
 		<summary>Main repository of openSUSE 13.1 including only Open Source Software</summary>
-		<summary xml:lang="ar">المستودع الرئيسي من أوبن سوزي 13.1 ويحتوي فقط برمجيات المصدر المفتوح</summary>
+		<summary xml:lang="ar">المستودع الرئيسي من أوبن سوزي 13.1 ويحتوي فقط برمجيات المصدر الحر</summary>
 		<summary xml:lang="ca">Repositori principal d'openSUSE 13.1 que inclou només el programari de codi obert</summary>
 		<summary xml:lang="cs">Hlavní repozitář openSUSE 13.1 zahrnující pouze software s otevřeným zdrojovým kódem</summary>
 		<summary xml:lang="da">Hovedsoftwarekilden for openSUSE 13.1, som kun inkluderer open source software</summary>
@@ -57,11 +57,12 @@
 		<summary xml:lang="pl">Główne repozytorium openSUSE 13.1 zawierające tylko oprogramowanie open source</summary>
 		<summary xml:lang="pt_BR">Repositório principal do openSUSE 13.1 contendo somente software de código aberto</summary>
 		<summary xml:lang="ru">Основной репозиторий openSUSE 13.1, включающий только программное обеспечение с открытым кодом</summary>
+		<summary xml:lang="sk">Hlavný repozitár openSUSE 13.1, ktorý obsahuje iba Open Source Software</summary>
 		<summary xml:lang="uk">Головне сховище openSUSE 13.1, яке містить лише ПЗ з відкритим кодом</summary>
 		<summary xml:lang="zh_CN">openSUSE 13.1 主软件源，仅包含开源软件</summary>
 		<summary xml:lang="zh_TW">openSUSE 13.1 的主要套件庫，僅包含開放原碼的軟體</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 13.1, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
-		<description xml:lang="ar">مستودع البرمجيات المفتوحه المصادر (OSS) الكبرى لاوبن سوزي13.1، تتيح لك الوصول إلى آلاف الحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، مضيفا انها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)</description>
+		<description xml:lang="ar">مستودع البرمجيات حرة المصادر (OSS) الكبرى لاوبن سوزي 13.1، تتيح لك الوصول إلى آلاف الحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، مضيفا انها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)</description>
 		<description xml:lang="ca">El repositori Open Source Software (OSS) per a l'openSUSE 13.1, que us dóna accés a milers de paquets mantinguts per l'equip d'openSUSE. (A causa de la mida del repositori, afegir-lo pot trigar força estona. És molt recomanable tenir una partició d'intercanvi activa o un mínim de 512 MB de RAM en cas que hi vulgueu accedir durant la instal·lació.)</description>
 		<description xml:lang="cs">Velký repozitář OSS - softwaru s otevřeným zdrojovým kódem - pro openSUSE 13.1, který vám zpřístupní tisíce balíčků, spravovaných týmem openSUSE. (Z důvodu velikosti repozitáře může jeho přidání trvat nějakou dobu. Pokud chcete tento repozitář využít po čas instalace, důrazně doporučujeme 512 MB RAM nebo zapnutý odkládací oddíl.)</description>
 		<description xml:lang="da">Den store open source softwarekilde (OSS) til openSUSE 13.1, som giver dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. 512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have adgang til denne softwarekilde under installation.)</description>
@@ -78,6 +79,7 @@
 		<description xml:lang="pl">Wielkie repozytorium Open Source Software (OSS) dla openSUSE 13.1, które zawiera tysiące pakietów utrzymywanych przez zespół openSUSE. (Z racji rozmiarów dodanie tego repozytorium może zająć trochę czasu. (Jeśli to repozytorium ma być użyte podczas instalacji, zalecane jest posiadanie 512MB pamięci RAM lub aktywnej partycji wymiany.)</description>
 		<description xml:lang="pt_BR">O grande repositório de software de código aberto (OSS) para o openSUSE 13.1, fornecendo acesso a milhares de pacotes mantidos pela equipe do openSUSE. (Devido ao tamanho do repositório, sua inclusão pode demorar algum tempo. É altamente recomendado possuir 512 MB de RAM ou uma partição de troca ativada caso você deseje acessar este repositório durante a instalação).</description>
 		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 13.1, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 МБ RAM или включённый раздел подкачки.)</description>
+		<description xml:lang="sk">Veľký repozitár Open Source Software (OSS) pre openSUSE 13.1, ktorý vám dáva prístup k tisícom balíkom, ktoré sú udržované tímom openSUSE. (Ak chcete mať prístup k tomuto repozitáru počas inštalácie, doporučujeme mať 512 MB RAM alebo povolený odkladací diskový oddiel SWAP kvôli veľkosti repozitára. Jeho pridanie môže trvať istý čas.)</description>
 		<description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE 13.1, яке надає вам доступ до тисяч пакунків, які підтримуються командою openSUSE. (Через те, що сховище має величезний розмір, його додавання може тривати довго. Рекомендовано мати 512 МБ операційної пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під час встановлення системи.)</description>
 		<description xml:lang="zh_CN">庞大的 openSUSE 13.1 开源软件源，提供由 openSUSE 团队维护的数千个软件包。(由于软件源容量太大，添加它可能要花费点时间。若想要在系统安装时访问该源，强烈建议有 512MB 内存或启用硬盘交换分区。)</description>
 		<description xml:lang="zh_TW">openSUSE 13.1 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 團隊維護的套件讓您取用。(由於這個套件庫非常大，要加入它會花上一些時間。如果您要在安裝時存取此套件庫，強烈建議至少 512 MB 的記憶體或可用的 SWAP 分割區。)</description>
@@ -120,7 +122,7 @@
 		<name xml:lang="zh_CN">主软件源 (非开源软件)</name>
 		<name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
 		<summary>Non-Open Source Software Addon repository for openSUSE 13.1</summary>
-		<summary xml:lang="ar">مستودع المصادر غير المفتوحة لأوبن سوزي 13.1</summary>
+		<summary xml:lang="ar">مستودع المصادر غير الحرة لأوبن سوزي 13.1</summary>
 		<summary xml:lang="ca">Repositori complementari de programari que no és de codi obert per a l'openSUSE 13.1</summary>
 		<summary xml:lang="cs">Repozitář openSUSE 13.1 obsahující doplňkový software s uzavřeným zdrojovým kódem</summary>
 		<summary xml:lang="da">Tillægssoftware kilde med ikke-open source software til openSUSE 13.1</summary>
@@ -137,6 +139,7 @@
 		<summary xml:lang="pl">Repozytorium z dodatkowym oprogramowaniem non-open source dla openSUSE 13.1 </summary>
 		<summary xml:lang="pt_BR">Repositório adicional para software de código fechado para o openSUSE 13.1</summary>
 		<summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE 13.1</summary>
+		<summary xml:lang="sk">Non-Open Source Software doplnkový repozitár pre openSUSE 13.1</summary>
 		<summary xml:lang="uk">Додаткове сховище openSUSE 13.1, яке містить ПЗ з закритим кодом</summary>
 		<summary xml:lang="zh_CN">openSUSE 13.1 非开源软件附加源</summary>
 		<summary xml:lang="zh_TW">openSUSE 13.1 的非開放原碼軟體附加套件庫</summary>
@@ -158,6 +161,7 @@
 		<description xml:lang="pl">Oficjalne repozytorium openSUSE 13.1, które zawiera pakiety z zamkniętym oprogramowaniem utrzymywane przez zespół openSUSE. Zawiera programy takie jak Opera, Java, Flash i inne.</description>
 		<description xml:lang="pt_BR">O repositório oficial do openSUSE 13.1 para todos os softwares de código fechado mantido pela equipe do openSUSE, incluindo Opera, Java, Flash e outros.</description>
 		<description xml:lang="ru">Официальный репозиторий openSUSE 13.1 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Java, Flash и многое другое.</description>
+		<description xml:lang="sk">Oficiálny repozitár openSUSE 13.1 pre všetok Non-Open Source Software udržovaný tímom openSUSE, ktorý obsahuje Opera, Java, Flash a ďalšie.</description>
 		<description xml:lang="uk">Офіційне сховище openSUSE 13.1 для всіх програм з закритим кодом, які підтримуються командою openSUSE: Opera, Java, Flash та інших.</description>
 		<description xml:lang="zh_CN">openSUSE 13.1 全部非开源软件的官方软件源，由 openSUSE 团队维护，包括 Opera 浏览器、Java、Flash 以及更多。</description>
 		<description xml:lang="zh_TW">由 openSUSE 團隊維護之非開放原始碼軟體的官方 openSUSE 13.1 套件庫，包含了 Opera, Java, Flash 以及其他更多軟體。</description>
@@ -190,7 +194,7 @@
         <name xml:lang="pt_BR">Repositório principal (fontes)</name>
         <name xml:lang="ro">Sursă de instalare principală (cod sursă)</name>
         <name xml:lang="ru">Основной репозиторий (Исходные коды)</name>
-        <name xml:lang="sk">Hlavný repozitár (zdrojové kódy)</name>
+        <name xml:lang="sk">Hlavný repozitár (Zdrojové kódy)</name>
         <name xml:lang="sv">Huvudförråd (Källkod)</name>
         <name xml:lang="th">คลังแพกเกจหลัก (ต้นฉบับ)</name>
         <name xml:lang="tr">Ana Depo (Kaynaklar)</name>
@@ -216,6 +220,7 @@
         <summary xml:lang="pl">Główne repozytorium openSUSE 13.1 (Pakiety źródłowe)</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE 13.1 (Pacotes fonte)</summary>
         <summary xml:lang="ru">Основной репозиторий openSUSE 13.1 (Пакеты с исходным кодом)</summary>
+        <summary xml:lang="sk">Hlavný repozitár openSUSE 13.1 (Zdrojové balíky)</summary>
         <summary xml:lang="uk">Головне сховище для openSUSE 13.1 (джерельні пакунки)</summary>
         <summary xml:lang="zh_CN">openSUSE 13.1 主软件源 (源代码包)</summary>
         <summary xml:lang="zh_TW">openSUSE 13.1 的主要套件庫(原始碼套件)</summary>
@@ -237,6 +242,7 @@
         <description xml:lang="pl">Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 13.1. Tylko dla zaawansowanych.</description>
         <description xml:lang="pt_BR">Repositório de todos os pacotes fonte no openSUSE 13.1. Somente para usuários avançados.</description>
         <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE 13.1. Только для экспертов.</description>
+        <description xml:lang="sk">Repozitár všetkých zdrojových balíkov v openSUSE 13.1. Iba pre expertov.</description>
         <description xml:lang="uk">Сховище для всіх джерельних пакунків в openSUSE 13.1. Тільки для знавців.</description>
         <description xml:lang="zh_CN">openSUSE 13.1 全部源代码包的软件源。仅供专家使用。</description>
         <description xml:lang="zh_TW">openSUSE 13.1 所有原始碼套件的套件庫。僅提供專家使用。</description>
@@ -270,7 +276,7 @@
 		<name xml:lang="pt_BR">Repositório principal (DEBUG)</name>
 		<name xml:lang="ro">Sursă de instalare principală (DEBUG)</name>
 		<name xml:lang="ru">Основной репозиторий (DEBUG)</name>
-		<name xml:lang="sk">Hlavný repozitár (debug)</name>
+		<name xml:lang="sk">Hlavný repozitár (DEBUG)</name>
 		<name xml:lang="sv">Huvudförrådet (DEBUG)</name>
 		<name xml:lang="th">คลังแพกเกจหลัก (แพกเกจดีบั๊ก)</name>
 		<name xml:lang="tr">Ana Depo (HATA AYIKLAMA)</name>
@@ -296,6 +302,7 @@
 		<summary xml:lang="pl">Główne repozytorium openSUSE 13.1 zawierające pakiety debuginfo</summary>
 		<summary xml:lang="pt_BR">Repositório principal do openSUSE 13.1 contendo os pacotes deubginfo</summary>
 		<summary xml:lang="ru">Основной репозиторий openSUSE 13.1, включающий пакеты debuginfo</summary>
+		<summary xml:lang="sk">Hlavný repozitár pre openSUSE 13.1, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
 		<summary xml:lang="uk">Головне сховище openSUSE 13.1, яке містить пакунки debuginfo</summary>
 		<summary xml:lang="zh_CN">openSUSE 13.1 主软件源包含调试信息包</summary>
 		<summary xml:lang="zh_TW">openSUSE 13.1 的主要套件庫，包含偵錯套件</summary>
@@ -317,6 +324,7 @@
 		<description xml:lang="pl">Repozytorium dla tych, którzy pragną debugować programy na openSUSE 13.1. Tylko dla zaawansowanych.</description>
 		<description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE 13.1. Somente para usuários avançados.</description>
 		<description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 13.1. Только для экспертов.</description>
+		<description xml:lang="sk">Tento repozitár je užitočný pre tých, ktorí chcú ladiť programy na openSUSE 13.1. Len pre expertov.</description>
 		<description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 13.1. Тільки для знавців.</description>
 		<description xml:lang="zh_CN">本软件源只对那些想要在 openSUSE 13.1 中调试程序的人有用。仅供专家使用。</description>
 		<description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 13.1 偵錯應用程式非常有用。僅提供專家使用。</description>
@@ -375,6 +383,7 @@
         <summary xml:lang="pl">Repozytorium oficjalnych aktualizacji dla systemu openSUSE 13.1</summary>
         <summary xml:lang="pt_BR">Repositório para atualizações oficiais da versão 13.1</summary>
         <summary xml:lang="ru">Репозиторий официальных обновлений для 13.1</summary>
+        <summary xml:lang="sk">Repozitár s oficiálnymi aktualizáciami pre 13.1</summary>
         <summary xml:lang="uk">Сховище для офіційних оновлень в 13.1</summary>
         <summary xml:lang="zh_CN">13.1 的官方更新源</summary>
         <summary xml:lang="zh_TW">13.1 的官方更新套件庫</summary>
@@ -396,6 +405,7 @@
         <description xml:lang="pl">To repozytorium zawiera aktualizacje i poprawki bezpieczeństwa dla openSUSE 13.1.</description>
         <description xml:lang="pt_BR">Neste repositório você encontra atualizações de segurança e manutenção para o openSUSE 13.1.</description>
         <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 13.1.</description>
+        <description xml:lang="sk">V tomto repozitári nájdete bezpečnostné a opravné aktualizácie pre openSUSE 13.1.</description>
         <description xml:lang="uk">У цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 13.1.</description>
         <description xml:lang="zh_CN">在此软件源中，您可找到 openSUSE 13.1 的安全和维护更新。</description>
         <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 13.1 的安全性與維護性更新</description>
@@ -403,7 +413,7 @@
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>Update Repository (Non-Oss)</name>
-        <name xml:lang="ar">تحديث مستودع (برمجيات غير مفتوحة المصدر)</name>
+        <name xml:lang="ar">تحديث مستودع (برمجيات غير حرة المصدر)</name>
         <name xml:lang="ca">Repositori d'actualització (No OSS)</name>
         <name xml:lang="cs">Aktualizační repozitář (uzavřený software)</name>
         <name xml:lang="da">Opdateringskilde (Non-OSS)</name>
@@ -422,6 +432,7 @@
         <name xml:lang="pl">Repozytorium aktualizacji (non-oss)</name>
         <name xml:lang="pt_BR">Repositório de atualização (Non-OSS)</name>
         <name xml:lang="ru">Репозиторий обновлений (Non-Oss)</name>
+        <name xml:lang="sk">Repozitár s aktualizáciami (Non-Oss)</name>
         <name xml:lang="uk">Сховище оновлень (Non-Oss)</name>
         <name xml:lang="zh_CN">主更新源 (非开源软件)</name>
         <name xml:lang="zh_TW">更新套件庫 (非開放原始碼)</name>
@@ -443,6 +454,7 @@
         <summary xml:lang="pl">Repozytorium oficjalnych aktualizacji (non free) dla systemu openSUSE 13.3</summary>
         <summary xml:lang="pt_BR">Repositório para atualizações oficiais não livres da versão 13.1</summary>
         <summary xml:lang="ru">Репозиторий официальных несвободных обновлений для 13.1</summary>
+        <summary xml:lang="sk">Repozitár pre oficiálne neslobodné aktualizácie na 13.1</summary>
         <summary xml:lang="uk">Сховище для офіційних оновлень невільних програм у 13.1</summary>
         <summary xml:lang="zh_CN">13.1 的官方非开源软件更新源</summary>
         <summary xml:lang="zh_TW">13.1 的官方非開放原始碼更新套件庫</summary>
@@ -464,6 +476,7 @@
         <description xml:lang="pl">To repozytorium zawiera aktualizacje i poprawki bezpieczeństwa dla openSUSE 13.1.</description>
         <description xml:lang="pt_BR">Neste repositório você encontra atualizações de segurança e manutenção para o openSUSE 13.1.</description>
         <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 13.1.</description>
+        <description xml:lang="sk">V tomto repozitári nájdete bezpečnostné a opravné aktualizácie pre openSUSE 13.1.</description>
         <description xml:lang="uk">У цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 13.1.</description>
         <description xml:lang="zh_CN">在此软件源中，您可找到 openSUSE 13.1 的安全和维护更新。</description>
         <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 13.1 的安全性與維護性更新</description>
@@ -494,6 +507,7 @@
                 <name xml:lang="pt_BR">Repositório de atualização (DEBUG)</name>
                 <name xml:lang="ro">Sursă de instalare actualizări(DEPANARE)</name>
                 <name xml:lang="ru">Репозиторий обновлений (DEBUG)</name>
+                <name xml:lang="sk">Repozitár s aktualizáciami (DEBUG)</name>
                 <name xml:lang="tr">Güncelleme Deposu (HATA AYIKLAMA)</name>
                 <name xml:lang="uk">Сховище оновлень (DEBUG)</name>
                 <name xml:lang="wa">Depot des metaedjes a djoû (DISBUG)</name>
@@ -517,6 +531,7 @@
                 <summary xml:lang="pl">Repozytorium aktualizacji openSUSE 13.1 zawierające pakiety debuginfo</summary>
                 <summary xml:lang="pt_BR">Repositório de atualizações dos pacotes debuginfo do openSUSE 13.1</summary>
                 <summary xml:lang="ru">Репозиторий обновлений openSUSE 13.1, включающий пакеты debuginfo</summary>
+                <summary xml:lang="sk">Repozitár s aktualizáciami pre openSUSE 13.1, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
                 <summary xml:lang="uk">Головне сховище openSUSE 13.1, яке містить пакунки debuginfo</summary>
                 <summary xml:lang="zh_CN">openSUSE 13.1 调试信息包的主升级源</summary>
                 <summary xml:lang="zh_TW">openSUSE 13.1 的主要套件庫，包含偵錯套件</summary>
@@ -538,6 +553,7 @@
                 <description xml:lang="pl">Repozytorium dla tych, którzy pragną debugować programy na openSUSE 13.1. Tylko dla zaawansowanych.</description>
                 <description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE 13.1. Somente para usuários avançados.</description>
                 <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 13.1. Только для экспертов.</description>
+                <description xml:lang="sk">Tento repozitár je užitočný pre tých, ktorí chcú ladiť programy na openSUSE 13.1. Len pre expertov.</description>
                 <description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE 13.1. Тільки для знавців.</description>
                 <description xml:lang="zh_CN">本软件源只对那些想要在 openSUSE 13.1 中调试程序的人有用。仅供专家使用。</description>
                 <description xml:lang="zh_TW">這個套件庫對想要在 openSUSE 13.1 偵錯應用程式非常有用。僅提供專家使用。</description>
