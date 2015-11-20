@@ -49,6 +49,7 @@
 		<summary xml:lang="es">Repositorio principal de openSUSE 13.1 incluyendo sólo Software Libre</summary>
 		<summary xml:lang="fi">openSUSE 13.1 -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 13.1 contenant seulement les logiciels Open Source</summary>
+		<summary xml:lang="gl">Repositorio principal de openSUSE 13.1 que inclúe só software de código aberto</summary>
 		<summary xml:lang="it">Repository principale di openSUSE 13.1 che include solo programmi Open Source</summary>
 		<summary xml:lang="ja">オープンソースソフトウエアだけを含む、 openSUSE 13.1 のメインリポジトリ</summary>
 		<summary xml:lang="lt">openSUSE 13.1 pagrindinė saugykla, turinti tik atviro kodo programinę įrangą</summary>
@@ -71,6 +72,7 @@
 		<description xml:lang="es">El repositorio de Software Libre (OSS) para openSUSE 13.1, con miles de paquetes mantenidos por el equipo de openSUSE. (Debido al tamaño de este repositorio, añadirlo puede tomar algo de tiempo, 512 MB de RAM or una partición SWAP habilitada son altamente recomendados en caso de querer acceder a este repositorio durante la instalación.)</description>
 		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 13.1:lle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
 		<description xml:lang="fr">Le principal dépôt de logiciels Open Source (OSS) pour openSUSE 13.1, vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (En raison de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active sont fortement recommandés si vous voulez y accéder au moment de l'installation.)</description>
+		<description xml:lang="gl">O gran repositorio de Software de código aberto (OSS) para openSUSE 13.1, dalle acceso a milleiros de paquetes mantidos polo equipo de openSUSE. (Debido ao tamaño do repositorio, engadilo podería levar algún tempo. É moi recomendábel ter 512 MB de RAM ou ter activada a partición de intercambio ou SWAP se desexa acceder a este repositorio á hora de instalar.)</description>
 		<description xml:lang="it">Il grande repository di programmi Open Source (OSS) di openSUSE 13.1, che fornisce l'accesso a migliaia di pacchetti mantenuti dal team openSUSE. A causa delle dimensioni del repository, la sua aggiunta potrebbe richiedere un po' di tempo. Si consiglia fortemente di utilizzare un sistema con almeno 512MB di RAM o con una partizione di SWAP attiva qualora si desideri avere accesso a questo repository durante l'installazione.</description>
 		<description xml:lang="ja">openSUSE 13.1 向けの巨大なオープンソースのソフトウエアリポジトリ。 openSUSE チームによって管理されている何千ものパッケージにアクセスすることができます。 (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。インストールの際にリポジトリにアクセスする場合、512 MB の RAM とスワップの利用を強くお勧めします。)</description>
 		<description xml:lang="lt">Didelė atviro kodo programinės įrangos openSUSE 13.1 saugykla, leidžianti parsisiųsti tūkstančius openSUSE komandos prižiūrimų paketų. (Dėl saugyklos didumo, jos pridėjimas gali užtrukti. Jei norite šią saugyklą pasiekti diegimo metu, patariame turėti bent 512 MB RAM arba įgalintą mainų (SWAP) skaidinį.)</description>
@@ -131,6 +133,7 @@
 		<summary xml:lang="es">Repositorio de software No Libre para openSUSE 13.1</summary>
 		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 13.1:lle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 13.1</summary>
+		<summary xml:lang="gl">Repositorio de complementos de software que non son de código aberto para openSUSE 13.1</summary>
 		<summary xml:lang="it">Repository aggiuntivo dei programmi Non Open Source per openSUSE 13.1</summary>
 		<summary xml:lang="ja">非オープンソースパッケージを含む openSUSE 13.1 の追加リポジトリ</summary>
 		<summary xml:lang="lt">openSUSE 13.1 uždaro kodo programinės įrangos papildoma saugykla</summary>
@@ -153,6 +156,7 @@
 		<description xml:lang="es">El repositorio oficial de openSUSE 13.1 para todo el software No Libre mantenido por el equipo openSUSE, incluye Opera, Java, Flash y otros.</description>
 		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE 13.1 -asennuslähde kaikille suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Java, Flash ja niin edelleen.</description>
 		<description xml:lang="fr">Le dépôt officiel d'openSUSE 13.1 pour tous les logiciels Non-Open Source, maintenus par l'équipe d'openSUSE, dont Opera, Java, Flash, et bien d'autres.</description>
+		<description xml:lang="gl">O repositorio oficial de openSUSE 13.1 para todo o software que non é de código aberto mantido polo equipo de openSUSE, incluíndo Opera, Java, Flash e máis.</description>
 		<description xml:lang="it">Il repository ufficiale di openSUSE 13.1 per tutti i programmi non open source mantenuti dal team openSUSE, inclusi Opera, Java, Flash e altro.</description>
 		<description xml:lang="ja">Opera, Java, Flash などの非オープンソースソフトウエアを含む openSUSE チーム管理の openSUSE 13.1 公式リポジトリ</description>
 		<description xml:lang="lt">Oficiali openSUSE 13.1 saugykla visai uždaro kodo programinei įrangai, kurią palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt.</description>
@@ -212,6 +216,7 @@
         <summary xml:lang="es">Repositorio principal de openSUSE 13.1 (packages fuente)</summary>
         <summary xml:lang="fi">openSUSE 13.1 -jakelun perusasennuslähde (lähdekoodipaketit)</summary>
         <summary xml:lang="fr">Dépôt principal d'openSUSE 13.1 (Paquets Sources)</summary>
+        <summary xml:lang="gl">Repositorio principal de openSUSE 13.1 (Paquetes de fontes)</summary>
         <summary xml:lang="it">Repository principale di openSUSE 13.1 (Pacchetti sorgente)</summary>
         <summary xml:lang="ja">openSUSE 13.1 のメインリポジトリ (ソースパッケージ)</summary>
         <summary xml:lang="lt">openSUSE 13.1 pagrindinė saugykla (šaltinių paketai)</summary>
@@ -234,6 +239,7 @@
         <description xml:lang="es">El repositorio de paquetes fuentes de openSUSE 13.1. Sólo para expertos.</description>
         <description xml:lang="fi">Asennuslähde kaikille openSUSE 13.1 -jakelun lähdekoodipaketeille. Vain asiantuntijoille.</description>
         <description xml:lang="fr">Le dépôt de tous les paquets source d'openSUSE 13.1. Pour experts seulement.</description>
+        <description xml:lang="gl">O repositorio de todos os paquetes de fontes de openSUSE 13.1. Só para expertos.</description>
         <description xml:lang="it">Il repository di tutti i pacchetti dei sorgenti di openSUSE 13.1. Solo per esperti.</description>
         <description xml:lang="ja">openSUSE 13.1 の全てのソースパッケージを含むリポジトリ。熟練者向けです。</description>
         <description xml:lang="lt">Visų openSUSE 13.1 šaltinių paketų saugykla. Tik ekspertams.</description>
@@ -294,13 +300,14 @@
 		<summary xml:lang="es">Repositorio principal de openSUSE 13.1 incluyendo paquetes de depuración</summary>
 		<summary xml:lang="fi">openSUSE 13.1 debuginfo-paketit perusasennuslähteen paketeille</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 13.1 contenant les paquets debuginfo</summary>
+		<summary xml:lang="gl">Repositorio principal de openSUSE 13.1 que inclúe paquetes de información de depuración (debuginfo)</summary>
 		<summary xml:lang="it">Repository principale di openSUSE 13.1 che include i pacchetti debuginfo</summary>
 		<summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 13.1 のメインリポジトリ</summary>
 		<summary xml:lang="lt">openSUSE 13.1 pagrindinė saugykla, turinti derinimo informacijos paketus</summary>
 		<summary xml:lang="nb">Hovedpakkebrønn for openSUSE 13.1 som inneholder pakker med feilsøkingsinformasjon</summary>
 		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 13.1, met debuginfo-pakketten</summary>
 		<summary xml:lang="pl">Główne repozytorium openSUSE 13.1 zawierające pakiety debuginfo</summary>
-		<summary xml:lang="pt_BR">Repositório principal do openSUSE 13.1 contendo os pacotes deubginfo</summary>
+		<summary xml:lang="pt_BR">Repositório principal do openSUSE 13.1 contendo os pacotes debuginfo</summary>
 		<summary xml:lang="ru">Основной репозиторий openSUSE 13.1, включающий пакеты debuginfo</summary>
 		<summary xml:lang="sk">Hlavný repozitár pre openSUSE 13.1, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
 		<summary xml:lang="uk">Головне сховище openSUSE 13.1, яке містить пакунки debuginfo</summary>
@@ -316,6 +323,7 @@
 		<description xml:lang="es">Este repositorio es útil para quienes necesitan depurar aplicaciones incluidas en openSUSE 13.1. Sólo para expertos.</description>
 		<description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja openSUSE 13.1:ssa. Vain asiantuntijoille.</description>
 		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE 13.1. Pour experts seulement.</description>
+		<description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE 13.1. Só para expertos.</description>
 		<description xml:lang="it">Questo repository è utile per coloro che desiderano effettuare il debug delle applicazioni su openSUSE 13.1. Solo per esperti.</description>
 		<description xml:lang="ja">このリポジトリは openSUSE 13.1 のアプリケーションをデバッグする際に便利です。熟練者向けです。</description>
 		<description xml:lang="lt">Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE 13.1. Tik ekspertams.</description>
@@ -375,6 +383,7 @@
         <summary xml:lang="es">Repositorio oficial de actualizaciones para 13.1</summary>
         <summary xml:lang="fi">13.1:n virallinen päivitysten asennuslähde.</summary>
         <summary xml:lang="fr">Dépôt pour les mises à jour officielles pour la 13.1</summary>
+        <summary xml:lang="gl">Repositorio de actualizacións oficiais para 13.1</summary>
         <summary xml:lang="it">Repository degli aggiornamenti ufficiali per la versione 13.1</summary>
         <summary xml:lang="ja">13.1 用の公式更新リポジトリ</summary>
         <summary xml:lang="lt">Oficiali 13.1 atnaujinimų saugykla</summary>
@@ -397,6 +406,7 @@
         <description xml:lang="es">En este repositorio se encuentran las actualizaciones programadas y de seguridad para openSUSE 13.1.</description>
         <description xml:lang="fi">Tästä asennuslähteestä löydät openSUSE 13.1:n tietoturva- ja ylläpitopäivityksiä.</description>
         <description xml:lang="fr">Dans ce dépôt, vous trouverez des mise à jour de sécurité et de maintenance pour openSUSE 13.1.</description>
+        <description xml:lang="gl">Neste repositorio poderá atopar actualizacións de seguridade e mantemento para openSUSE 13.1.</description>
         <description xml:lang="it">In questo repository sono disponibili gli aggiornamenti di sicurezza e di manutenzione per openSUSE 13.1.</description>
         <description xml:lang="ja">このリポジトリには openSUSE 13.1 用のセキュリティ／メンテナンスアップデートがあります。</description>
         <description xml:lang="lt">Šioje saugykloje rasite openSUSE 13.1 saugumo ir palaikymo atnaujinimus.</description>
@@ -446,6 +456,7 @@
         <summary xml:lang="es">Repositorio oficial para actualizaciones de paquetes no libres para 13.1</summary>
         <summary xml:lang="fi">13.1:n virallinen suljettujen ohjelmien päivitysten asennuslähde.</summary>
         <summary xml:lang="fr">Dépôt pour les mises à jour officielles non libres pour la 13.1</summary>
+        <summary xml:lang="gl">Repositorio de actualizacións oficiais non libres para 13.1</summary>
         <summary xml:lang="it">Repository degli aggiornamenti ufficiali non free per la versione 13.1</summary>
         <summary xml:lang="ja">非オープンソース用の 13.1 向け公式更新リポジトリ</summary>
         <summary xml:lang="lt">Oficiali 13.1 uždaro kodo atnaujinimų saugykla</summary>
@@ -468,6 +479,7 @@
         <description xml:lang="es">En este repositorio se encuentran las actualizaciones programadas y de seguridad para openSUSE 13.1.</description>
         <description xml:lang="fi">Tästä asennuslähteestä löydät openSUSE 13.1:n tietoturva- ja ylläpitopäivityksiä.</description>
         <description xml:lang="fr">Dans ce dépôt, vous trouverez des mise à jour de sécurité et de maintenance pour openSUSE 13.1.</description>
+        <description xml:lang="gl">Neste repositorio poderá atopar actualizacións de seguridade e mantemento para openSUSE 13.1.</description>
         <description xml:lang="it">In questo repository sono disponibili gli aggiornamenti di sicurezza e di manutenzione per openSUSE 13.1.</description>
         <description xml:lang="ja">このリポジトリには openSUSE 13.1 用のセキュリティ／メンテナンスアップデートがあります。</description>
         <description xml:lang="lt">Šioje saugykloje rasite openSUSE 13.1 saugumo ir palaikymo atnaujinimus.</description>
@@ -523,6 +535,7 @@
                 <summary xml:lang="es">Repositorio de actualizaciones para openSUSE 13.1 de paquetes de depuración</summary>
                 <summary xml:lang="fi">openSUSE 13.1-jakelun päivitysasennuslähde vianjäljitystietoa sisältäville paketeille</summary>
                 <summary xml:lang="fr">Dépôt de mise à jour d'openSUSE 13.1 contenant les paquets debuginfo</summary>
+                <summary xml:lang="gl">Repositorio de actualización de openSUSE 13.1 paquetes debuginfo</summary>
                 <summary xml:lang="it">Repository degli aggiornamenti dei pacchetti debuginfo di openSUSE 13.1</summary>
                 <summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 13.1 の更新リポジトリ</summary>
                 <summary xml:lang="lt">openSUSE 13.1 atnaujinimų saugykla, turinti derinimo informacijos paketus</summary>
@@ -545,6 +558,7 @@
                 <description xml:lang="es">Este repositorio es útil para quienes necesitan depurar aplicaciones incluidas en openSUSE 13.1. Sólo para expertos.</description>
                 <description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja openSUSE 13.1:ssa. Vain asiantuntijoille.</description>
                 <description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE 13.1. Pour experts seulement.</description>
+                <description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE 13.1. Só para expertos.</description>
                 <description xml:lang="it">Questo repository è utile per coloro che desiderano effettuare il debug delle applicazioni su openSUSE 13.1. Solo per esperti.</description>
                 <description xml:lang="ja">このリポジトリは openSUSE 13.1 のアプリケーションをデバッグする際に便利です。熟練者向けです。</description>
                 <description xml:lang="lt">Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE 13.1. Tik ekspertams.</description>
