@@ -51,6 +51,12 @@
                 <_description>This repository is useful for those that want to debug applications on openSUSE Leap 42.1. For experts only.</_description>
                 <url>http://download.opensuse.org/debug/update/leap/42.1/</url>
             </repository>
+            <repository recommended="false" format="rpm-md">
+                <_name>Untested Updates</_name>
+                <_summary>Repository of not yet tested updates</_summary>
+                <_description>Repository contains security and maintenance updates that still need testing by quality assurance. Add this repository only if you want to participate in testing openSUSE updates.</_description>
+                <url>http://download.opensuse.org/update/leap/42.1-test/</url>
+            </repository>
         </repositories>
     </group>
 </metapackage>
