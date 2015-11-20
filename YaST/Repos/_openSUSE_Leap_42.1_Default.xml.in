@@ -38,13 +38,13 @@
 		<_description>This repository is useful for those that want to debug applications on openSUSE Leap 42.1. For experts only.</_description>
 		<url>http://download.opensuse.org/debug/distribution/leap/42.1/repo/oss/</url>
 	    </repository>
-      <repository recommended="false" format="rpm-md">
+      <repository recommended="true" format="rpm-md">
         <_name>Main Update Repository</_name>
         <_summary>Repository for official updates to openSUSE Leap 42.1</_summary>
         <_description>In this repository you find security and maintenance updates to openSUSE Leap 42.1.</_description>
         <url>http://download.opensuse.org/update/leap/42.1/oss</url>
       </repository>
-      <repository recommended="false" format="rpm-md">
+      <repository recommended="true" format="rpm-md">
         <_name>Update Repository (Non-Oss)</_name>
         <_summary>Repository for official non free updates to openSUSE Leap 42.1</_summary>
         <_description>In this repository you find security and maintenance updates to openSUSE Leap 42.1.</_description>
