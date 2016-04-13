@@ -1,0 +1,1360 @@
+# translation of community-repositories.po to Czech
+# translation of community-repositories.po to
+# Klára Cihlářová <koty@seznam.cz>, 2007.
+# Marek Stopka <marekstopka@gmail.com>, 2008.
+# Klara Cihlarova <koty@seznam.cz>, 2008.
+# Marek Stopka <mstopka@opensuse.org>, 2008.
+# Vojtěch Zeisek <vojta.sc@seznam.cz>, 2008.
+# Radomír Černoch <radomir.cernoch@gmail.com>, 2009.
+# Vojtěch Zeisek <Vojtech.Zeisek@opensuse.org>, 2010.
+# Vít Pelčák <vit@pelcak.org>, 2011.
+# Jan Papež <honyczek@centrum.cz>, 2011.
+# Jan Papez <honyczek@centrum.cz>, 2012, 2013, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: community-repositories\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-13 18:46+0200\n"
+"PO-Revision-Date: 2015-10-09 23:11+0100\n"
+"Last-Translator: Jan Papez (honyczek) <honyczek@centrum.cz>\n"
+"Language-Team: Czech <opensuse-translation@opensuse.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms:  nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:1
+msgid "openSUSE BuildService - LXDE"
+msgstr "openSUSE BuildService - LXDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:2
+msgid "Latest LXDE release"
+msgstr "Nejnovější vydání LXDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:3
+msgid ""
+"The LXDE repository in the openSUSE Build Service, which provides you with "
+"the unsupported but latest version of the LX desktop environment and "
+"software."
+msgstr ""
+"Repozitář LXDE z openSUSE Build Service poskytující nejnovější "
+"nepodporovanou verzi grafického prostředí a programů LXDE."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:4
+msgid "openSUSE BuildService - LibreOffice"
+msgstr "openSUSE BuildService - LibreOffice"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:5
+msgid "Latest stable LibreOffice release"
+msgstr "Poslední stabilní verze LibreOffice"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:6
+msgid ""
+"Provides you with the latest stable version of LibreOffice, the Office suite "
+"that openSUSE uses."
+msgstr ""
+"Poskytuje nejnovější stabilní verzi LibreOffice, kancelářského balíčku "
+"používaného v openSUSE."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:7
+msgid "openSUSE BuildService - Mozilla"
+msgstr "openSUSE BuildService - Mozilla"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:8
+msgid "Most recent builds of Mozilla Software like Firefox"
+msgstr "Nejnovější vydání Mozilla softwaru, např. Firefox"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:9
+msgid ""
+"Containing the latest releases of all Mozilla software, such as the popular "
+"Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
+msgstr ""
+"Obsahuje nejnovější vydání softwaru Mozilla, jako poštovní klient "
+"Thunderbird a prohlížeče Firefox a SeaMonkey."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:10
+msgid "openSUSE BuildService - Wine CVS Builds"
+msgstr "openSUSE BuildService - Vývojové verze Wine"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:11
+msgid "Snapshots of Wine CVS"
+msgstr "Vývojové verze Wine"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:12
+msgid ""
+"Wine is an Open Source implementation of the Windows API, so it allows you "
+"to run some Windows applications in openSUSE. This repository provides the "
+"latest CVS (development) snapshot packages of Wine."
+msgstr ""
+"Wine je opensource implementace Windows API, které umožňuje spouštět některé "
+"aplikace Windows v systému openSUSE. Tento repozitář obsahuje balíčky s "
+"nejnovějšími vývojovými verzemi Wine."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:13
+msgid "openSUSE BuildService - Games"
+msgstr "openSUSE BuildService - Hry"
+
+# 28049 AttribValues/label
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:14
+msgid "A collection of action games"
+msgstr "Sbírka akčních her"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:15
+msgid ""
+"Contains several action games including Open Arena (shoot 'em up), Flight "
+"Gear (flight simulator) and Torcs (3D racing simulator)."
+msgstr ""
+"Obsahuje několik akčních her včetně her Open Arena (střílečka), Flight Gear "
+"(letecký simulátor) a Torcs (3D závodní simulátor)."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:16
+msgid "openSUSE BuildService - Drivers for webcams"
+msgstr "openSUSE BuildService - Ovladače pro webové kamery"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:17
+msgid "Recent drivers for webcams"
+msgstr "Nejnovější ovladače pro webové kamery"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:18
+msgid "Contains recent drivers for hundreds of different webcams."
+msgstr "Obsahuje nejnovější ovladače pro stovky typů webových kamer."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:16
+msgid "openSUSE BuildService - Virtualization (VirtualBox)"
+msgstr "openSUSE BuildService - Virtualizace (VirtualBox)"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:17
+msgid "Latest builds of Virtualbox"
+msgstr "Poslední verze Virtualbox"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:18
+msgid ""
+"Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
+"virtualizer for x86 hardware."
+msgstr ""
+"Obsahuje aktuální verzi VirtualBoxu, opensource nástroje pro virtualizaci "
+"x86 hardwaru."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:19
+msgid "openSUSE BuildService - PHP"
+msgstr "openSUSE BuildService - PHP"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:20
+msgid "Latest updates for PHP software"
+msgstr "Poslední aktualizace PHP"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:21
+msgid ""
+"Provides the latest packages and multiple-version builds of PHP software."
+msgstr "Obsahuje nejnovější balíčky a několik verzí PHP."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:19
+msgid "openSUSE BuildService - Database"
+msgstr "openSUSE BuildService - Databáze"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:20
+msgid "Latest updates for database software"
+msgstr "Poslední aktualizace databázového softwaru"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:21
+msgid "Latest updates for database software including Firebird and MySQL."
+msgstr "Poslední aktualizace databázového softwaru včetně Firebird a MySQL."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:22
+msgid "openSUSE BuildService - KDE:Extra"
+msgstr "openSUSE BuildService - KDE:Extra"
+
+# 48955 AttribValues/label
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:23
+msgid "Community repository for KDE"
+msgstr "Komunitní repozitář s KDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:24
+msgid ""
+"Provides additional KDE software maintained by the openSUSE KDE community."
+msgstr "Obsahuje dodatečný software pro KDE udržovaný openSUSE KDE komunitou."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:25
+msgid "openSUSE BuildService - GNOME:Apps"
+msgstr "openSUSE BuildService - GNOME:Apps"
+
+# 61643 AttribValues/label
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:26
+msgid "Backports of GNOME applications"
+msgstr "Zpětné porty GNOME aplikací"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:27
+msgid ""
+"Updates to the GNOME software that is shipped with the distribution "
+"(backports)."
+msgstr "Aktualizace GNOME softwaru dodávaného s distribucí (zpětné porty)."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:31
+msgid "openSUSE BuildService - Mono:Community"
+msgstr "openSUSE BuildService - Mono:Community"
+
+# 50318 AttribValues/label
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:32
+msgid "Community repository for Mono applications"
+msgstr "Komunitní repozitář s MONO aplikacemi"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:33
+msgid "Updates and Additions of applications written in Mono."
+msgstr "Aktualizace a rozšíření pro aplikace naprogramované v jazyku Mono."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:28
+msgid "openSUSE BuildService - devel:languages:perl"
+msgstr "openSUSE BuildService - devel:languages:perl"
+
+# 48955 AttribValues/label
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:29
+msgid "Community repository for Perl modules"
+msgstr "Komunitní repozitář pro moduly Perl"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:30
+msgid "Updates and Additions for Perl modules"
+msgstr "Aktualizace a rozšíření pro moduly Perl"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:31
+msgid "openSUSE BuildService - devel:languages:python"
+msgstr "openSUSE BuildService - devel:languages:python"
+
+# 48955 AttribValues/label
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:32
+msgid "Community repository for Python modules"
+msgstr "Komunitní repozitář pro moduly Python"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:33
+msgid "Updates and Additions for Python modules"
+msgstr "Aktualizace a rozšíření pro moduly Python"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:34
+msgid "openSUSE BuildService - filesystems"
+msgstr "openSUSE BuildService - filesystems"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:35
+msgid "Filesystem tools and FUSE-related packages"
+msgstr "Nástroje pro souborové systémy a balíčky pro FUSE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
+msgid "Filesystem tools and FUSE-related packages."
+msgstr "Nástroje pro souborové systémy a balíčky pro FUSE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:37
+msgid "openSUSE BuildService - Education"
+msgstr "openSUSE BuildService - Výuka"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:47
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:38
+msgid "Applications for education users"
+msgstr "Aplikace pro výuku uživatelů"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:48
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:39
+msgid ""
+"Contains several packages which might be interesting for educational use"
+msgstr "Obsahuje několik balíčků, které by mohly být zajímavé pro vzdělávání"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:49
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:49
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:43
+msgid "openSUSE BuildService - KDE:KDE3"
+msgstr "openSUSE BuildService - KDE:KDE3"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:50
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:50
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:44
+msgid "Maintained KDE 3 packages"
+msgstr "Spravované balíčky pro KDE 3"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:51
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:51
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:45
+msgid "Provides old KDE for newer openSUSE"
+msgstr "Poskytuje staré KDE pro nové openSUSE"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:1
+msgid "Main Repository (OSS)"
+msgstr "Hlavní repozitář (OSS)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:2
+msgid "Main repository of openSUSE 13.1 including only Open Source Software"
+msgstr ""
+"Hlavní repozitář openSUSE 13.1 zahrnující pouze software s otevřeným "
+"zdrojovým kódem"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE 13.1, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"Velký repozitář OSS - softwaru s otevřeným zdrojovým kódem - pro openSUSE "
+"13.1, který vám zpřístupní tisíce balíčků, spravovaných týmem openSUSE. (Z "
+"důvodu velikosti repozitáře může jeho přidání trvat nějakou dobu. Pokud "
+"chcete tento repozitář využít po čas instalace, důrazně doporučujeme 512 MB "
+"RAM nebo zapnutý odkládací oddíl.)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:4
+msgid "Main Repository (NON-OSS)"
+msgstr "Hlavní repozitář (NON-OSS)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
+msgstr ""
+"Repozitář openSUSE 13.1 obsahující doplňkový software s uzavřeným zdrojovým "
+"kódem"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:6
+msgid ""
+"The official openSUSE 13.1 repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgstr ""
+"Oficiální repozitář openSUSE 13.1 pro všechen software s uzavřeným zdrojovým "
+"kódem, který spravuje tým openSUSE, zahrnující programy Opera, Java, Flash a "
+"další."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:7
+msgid "Main Repository (Sources)"
+msgstr "Hlavní repozitář (zdroje)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:8
+msgid "Main repository of openSUSE 13.1 (Source packages)"
+msgstr "Hlavní repozitář openSUSE 13.1 (Zdrojové balíčky)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE 13.1. For experts only."
+msgstr ""
+"Repozitář všech balíčků se zdrojovým kódem openSUSE 13.1. Jen pro zkušené "
+"uživatele."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:10
+msgid "Main Repository (DEBUG)"
+msgstr "Hlavní repozitář (DEBUG)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:11
+msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
+msgstr "Hlavní repozitář openSUSE 13.1 zahrnující balíčky debuginfo"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE 13.1. For experts only."
+msgstr ""
+"Tento repozitář je užitečný pro ty, kdo chtějí v openSUSE 13.1 ladit "
+"aplikace. Jen pro zkušené uživatele."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:13
+msgid "Main Update Repository"
+msgstr "Hlavní aktualizační repozitář"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:14
+msgid "Repository for official updates to 13.1"
+msgstr "Repozitář oficiálních aktualizací openSUSE 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"13.1."
+msgstr ""
+"V tomto repozitáři naleznete bezpečnostní a údržbové aktualizace pro "
+"openSUSE 13.1."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:16
+msgid "Update Repository (Non-Oss)"
+msgstr "Aktualizační repozitář (uzavřený software)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:17
+msgid "Repository for official non free updates to 13.1"
+msgstr "Repozitář oficiálních uzavřených aktualizací openSUSE 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:18
+msgid "Update Repository (DEBUG)"
+msgstr "Aktualizační repozitář (DEBUG)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:19
+msgid "Update repository of openSUSE 13.1 debuginfo packages"
+msgstr "Repozitář aktualizací debuginfo balíčků openSUSE 13.1"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:46
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:40
+msgid "openSUSE BuildService - Java:packages"
+msgstr "openSUSE BuildService - Java:balíčky"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:47
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:41
+msgid "Bleeding-edge Java packages"
+msgstr "Nejaktuálnější balíčky Java"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:48
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:42
+msgid "Provides uptodate Java packages (Factory backports)"
+msgstr "Nabízí aktuální balíčky Java  (Factory backporty)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:2
+msgid "Main repository of openSUSE 13.2 including only Open Source Software"
+msgstr ""
+"Hlavní repozitář openSUSE 13.2 obsahující pouze software s otevřeným kódem"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"Velký repozitář se softwarem s otevřeným kódem pro openSUSE 13.2 vám dává "
+"přístup k tisícům balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti "
+"tohoto repozitáře může jeho přidání vyžadovat delší čas. Pokud k repozitáři "
+"chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo "
+"aktivní odkládací oddíl.)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
+msgstr ""
+"Repozitář openSUSE 13.2 obsahující doplňkový software s uzavřeným zdrojovým "
+"kódem"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:6
+msgid ""
+"The official openSUSE 13.2 repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgstr ""
+"Oficiální repozitář openSUSE 13.2 pro veškerý software bez dostupného "
+"zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Javy, "
+"Flashe atd."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:8
+msgid "Main repository of openSUSE 13.2 (Source packages)"
+msgstr "Hlavní repozitář openSUSE 13.2 (zdrojové balíčky)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE 13.2. For experts only."
+msgstr ""
+"Repozitář všech zdrojových balíčků openSUSE 13.2. Pouze pro zkušené "
+"uživatele."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:11
+msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
+msgstr "Hlavní repozitář openSUSE 13.2 obsahující balíčky debuginfo"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE 13.2. For experts only."
+msgstr ""
+"Tento repozitář je užitečný pro všechny, kdo chtějí ladit aplikace pro "
+"openSUSE 13.2. Určeno pouze pro experty."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:14
+msgid "Repository for official updates to 13.2"
+msgstr "Repozitář oficiálních aktualizací openSUSE 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"13.2."
+msgstr ""
+"V tomto repozitáři naleznete bezpečnostní a údržbové aktualizace pro "
+"openSUSE 13.2."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:17
+msgid "Repository for official non free updates to 13.2"
+msgstr "Repozitář oficiálních uzavřených aktualizací openSUSE 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:19
+msgid "Update repository of openSUSE 13.2 debuginfo packages"
+msgstr "Repozitář s aktualizacemi openSUSE 13.2 obsahující balíčky debuginfo"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:2
+msgid ""
+"Main repository of openSUSE Tumbleweed including only Open Source Software"
+msgstr ""
+"Hlavní repozitář openSUSE Tumbleweed obsahující pouze software s otevřeným "
+"kódem"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"Velký repozitář se softwarem s otevřeným kódem pro openSUSE Factory vám dává "
+"přístup k tisícům balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti "
+"tohoto repozitáře může jeho přidání vyžadovat delší čas. Pokud k repozitáři "
+"chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo "
+"aktivní odkládací oddíl.)"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
+msgstr ""
+"Repozitář s doplňkovým softwarem bez dostupného kódu pro openSUSE Tumbleweed"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:6
+msgid ""
+"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Flash, and more."
+msgstr ""
+"Oficiální repozitář openSUSE Tumbleweed pro veškerý software bez dostupného "
+"zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Flashe "
+"atd."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:8
+msgid "Main repository of openSUSE Tumbleweed (Source packages)"
+msgstr "Hlavní repozitář openSUSE Tumbleweed (zdrojové balíčky)"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE Tumbleweed. For experts "
+"only."
+msgstr ""
+"Repozitář všech zdrojových balíčků z openSUSE Tumbleweedu. Pouze pro zkušené "
+"uživatele."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:11
+msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
+msgstr "Hlavní repozitář openSUSE Tumbleweed obsahující balíčky debuginfo"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Tumbleweed. For experts only."
+msgstr ""
+"Tento repozitář je užitečný pro všechny, kdo chtějí ladit aplikace pro "
+"openSUSE Tumbleweed. Určeno pouze pro experty."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:14
+msgid "Official update repository for Tumbleweed"
+msgstr "Oficiální aktualizační repozitář pro Tumbleweed"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:15
+msgid ""
+"This repository provides urgent updates until they get integrated into the "
+"main repositories."
+msgstr ""
+"Tento repozitář poskytuje akutní aktualizace, dokud nejsou zaintegrovány do "
+"hlavních repozitářů."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:2
+msgid ""
+"Main repository of openSUSE Leap 42.1 including only Open Source Software"
+msgstr ""
+"Hlavní repozitář openSUSE Leap 42.1 obsahující pouze open-source software"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
+#, fuzzy
+#| msgid ""
+#| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
+#| "giving you access to thousands of packages maintained by the openSUSE "
+#| "team. (Due to the size of the repository, adding it may take some time. "
+#| "512 MB of RAM or an enabled SWAP partition are highly recommended in case "
+#| "you want to access this repository at installation time.)"
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
+"you access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"Velký repozitář s open-source softwarem pro openSUSE Leap 42.1. Obsahuje "
+"tisíce balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti může "
+"přidání tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete "
+"přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní "
+"odkládací oddíl.) "
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
+msgstr ""
+"Repozitář s doplňkovým softwarem bez dostupného kódu pro openSUSE Leap 42.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
+#, fuzzy
+#| msgid ""
+#| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
+#| "Software maintained by the openSUSE team, including Opera, Steam, Flash, "
+#| "and more."
+msgid ""
+"The official openSUSE Leap 42.1 repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam, Flash, and "
+"more."
+msgstr ""
+"Oficiální repozitář openSUSE Tumbleweed pro veškerý software bez dostupného "
+"zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Steamu, "
+"Flashe atd."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
+msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
+msgstr "Hlavní repozitář openSUSE Leap 42.1 (zdrojové balíčky)"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE Leap 42.1. For experts "
+"only."
+msgstr ""
+"Repozitář všech zdrojových balíčků z openSUSE  Leap 42.1. Pouze pro zkušené "
+"uživatele."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:11
+msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
+msgstr "Hlavní repozitář openSUSE Leap 42.1 obsahující balíčky debuginfo"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap 42.1. For experts only."
+msgstr ""
+"Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro "
+"openSUSE Leap 42.1. Určeno pouze pro experty."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:14
+msgid "Repository for official updates to openSUSE Leap 42.1"
+msgstr "Repozitář s oficiálními aktualizacemi openSUSE Leap 42.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap 42.1."
+msgstr ""
+"V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE Leap 42.1."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:17
+msgid "Repository for official non free updates to openSUSE Leap 42.1"
+msgstr ""
+"Repozitář s oficiálními aktualizacemi nesvobodného softwaru pro openSUSE "
+"Leap 42.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:19
+msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
+msgstr ""
+"Repozitář s aktualizacemi openSUSE Leap 42.1 obsahující balíčky debuginfo"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
+msgid "Untested Updates"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
+#, fuzzy
+#| msgid "Repository for official non free updates to 12.3"
+msgid "Repository of not yet tested updates"
+msgstr ""
+"Repozitář s oficiálními aktualizacemi nesvobodného softwaru pro openSUSE 12.3"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+
+#~ msgid "openSUSE BuildService - Banshee"
+#~ msgstr "openSUSE BuildService - Banshee"
+
+#~ msgid "Latest builds of the Banshee Media Player"
+#~ msgstr "Poslední sestavení Banshee Media Player"
+
+#~ msgid "Provides up-to-date builds of Banshee"
+#~ msgstr "Poskytuje aktuální sestavení Banshee"
+
+#~ msgid "Main repository of openSUSE 12.2 including only Open Source Software"
+#~ msgstr ""
+#~ "Hlavní repozitář openSUSE 12.2 obsahující pouze software s otevřeným kódem"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.2, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Velký repozitář se softwarem s otevřeným kódem pro openSUSE 12.2 vám dává "
+#~ "přístup k tisícům balíčků spravovaných týmem openSUSE. (Vzhledem k "
+#~ "velikosti tohoto repozitáře může jeho přidání vyžadovat delší čas. Pokud "
+#~ "k repozitáři chcete přistupovat během instalace, doporučujeme minimálně "
+#~ "512 MB RAM nebo aktivní odkládací oddíl.)"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
+#~ msgstr ""
+#~ "Repozitář s doplňkovým softwarem bez dostupného kódu pro openSUSE 12.2"
+
+#~ msgid ""
+#~ "The official openSUSE 12.2 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Oficiální repozitář openSUSE 12.2 pro veškerý software bez dostupného "
+#~ "zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Javy, "
+#~ "Flashe atd."
+
+#~ msgid "Main repository of openSUSE 12.2 (Source packages)"
+#~ msgstr "Hlavní repozitář openSUSE 12.2 (zdrojové balíčky)"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 12.2. For experts only."
+#~ msgstr ""
+#~ "Repozitář všech zdrojových balíčků openSUSE 12.2. Pouze pro zkušené "
+#~ "uživatele."
+
+#~ msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
+#~ msgstr "Hlavní repozitář openSUSE 12.2 obsahující balíčky debuginfo"
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 12.2. For experts only."
+#~ msgstr ""
+#~ "Tento repozitář je užitečný pro všechny, kdo chtějí ladit aplikace pro "
+#~ "openSUSE 12.2. Určeno pouze pro experty."
+
+#~ msgid "Repository for official updates to 12.2"
+#~ msgstr "Repozitář s oficiálními aktualizacemi pro openSUSE 12.2"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.2."
+#~ msgstr ""
+#~ "V tomto repozitáři naleznete bezpečnostní a údržbové aktualizace pro "
+#~ "openSUSE 12.2."
+
+#~ msgid "Update repository of openSUSE 12.2 debuginfo packages"
+#~ msgstr ""
+#~ "Repozitář s aktualizacemi openSUSE 12.2 obsahující balíčky debuginfo"
+
+#~ msgid "Main repository of openSUSE 12.3 including only Open Source Software"
+#~ msgstr "Hlavní repozitář openSUSE 12.3 obsahující pouze otevřený software"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Velký repozitář s otevřeným softwarem pro openSUSE 12.3. Obsahuje tisíce "
+#~ "balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti může přidání "
+#~ "tohoto repozitáře vyžadovat delší čas. Pokud chcete k repozitáři "
+#~ "přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo "
+#~ "aktivní odkládací oddíl.) "
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 12.3"
+#~ msgstr "Doplňkový repozitář s uzavřeným softwarem pro openSUSE 12.3"
+
+#~ msgid ""
+#~ "The official openSUSE 12.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Oficiální repozitář openSUSE 12.3 pro software bez otevřeného zdrojového "
+#~ "kódu spravovaný týmem openSUSE, který zahrnuje Operu, Javu, Flash a další "
+#~ "programy."
+
+#~ msgid "Main repository of openSUSE 12.3 (Source packages)"
+#~ msgstr "Hlavní repozitář openSUSE 12.3 (zdrojové balíčky)"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 12.3. For experts only."
+#~ msgstr ""
+#~ "Repozitář všech zdrojových balíčků openSUSE 12.3. Pouze pro zkušené "
+#~ "uživatele."
+
+#~ msgid "Main repository of openSUSE 12.3 including the debuginfo packages"
+#~ msgstr "Hlavní repozitář openSUSE 12.3 obsahující balíčky debuginfo"
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 12.3. For experts only."
+#~ msgstr ""
+#~ "Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro "
+#~ "openSUSE 12.3. Určeno pouze pro experty."
+
+#~ msgid "Repository for official updates to 12.3"
+#~ msgstr "Repozitář s oficiálními aktualizacemi openSUSE 12.3"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.3."
+#~ msgstr ""
+#~ "V tomto repozitáři naleznete bezpečnostní a údržbové aktualizace pro "
+#~ "openSUSE 12.3."
+
+#~ msgid "Update repository of openSUSE 12.3 debuginfo packages"
+#~ msgstr ""
+#~ "Repozitář s aktualizacemi openSUSE 12.3 obsahující balíčky debuginfo"
+
+#~ msgid ""
+#~ "Main repository of openSUSE Factory including only Open Source Software"
+#~ msgstr ""
+#~ "Hlavní repozitář openSUSE Factory obsahující pouze software s otevřeným "
+#~ "kódem"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE Factory"
+#~ msgstr ""
+#~ "Repozitář s doplňkovým softwarem bez dostupného kódu pro openSUSE Factory"
+
+#~ msgid "openSUSE BuildService - KDE:UpdatedApps"
+#~ msgstr "openSUSE BuildService - KDE:UpdatedApps"
+
+# 61643 AttribValues/label
+#~ msgid "Updated versions of KDE applications"
+#~ msgstr "Aktualizované verze aplikací KDE"
+
+#~ msgid ""
+#~ "Updates to the KDE software that is shipped with the distribution "
+#~ "(backports)."
+#~ msgstr "Aktualizace KDE softwaru dodávaného s distribucí (zpětné porty)."
+
+#~ msgid ""
+#~ "Contrib project contains lots of useful additions to the main "
+#~ "distribution by our community contributors. See http://en.opensuse.org/"
+#~ "Contrib for details."
+#~ msgstr ""
+#~ "Projekt Contrib obsahuje mnoho užitečných doplňků k hlavní distribuci "
+#~ "připravených našimi přispěvateli. Více informací na http://en.opensuse."
+#~ "org/Contrib"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.4."
+#~ msgstr ""
+#~ "V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE 11.4."
+
+#~ msgid "Main Repository (Contrib)"
+#~ msgstr "Hlavní repozitář (Contrib)"
+
+#~ msgid "Main repository of openSUSE 11.4 (Source packages)"
+#~ msgstr "Hlavní repozitář openSUSE 11.4 (zdrojové balíčky)"
+
+#~ msgid "Repository for community contributions to 11.4"
+#~ msgstr "Repozitář pro komunitní distribuce 11.4"
+
+#~ msgid "Repository for official updates to 11.4"
+#~ msgstr "Repozitář s oficiálními aktualizacemi openSUSE 11.4"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.4. For experts only."
+#~ msgstr ""
+#~ "Repozitář všech zdrojových balíčků openSUSE 11.4. Pouze pro zkušené "
+#~ "uživatele."
+
+#~ msgid "Main repository of openSUSE 11.4 including only Open Source Software"
+#~ msgstr ""
+#~ "Hlavní repozitář openSUSE 11.4 obsahující pouze open-source software"
+
+#~ msgid "Main repository of openSUSE 11.4 including the debuginfo packages"
+#~ msgstr "Hlavní repozitář openSUSE 11.4 obsahující debuginfo balíčky"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.4"
+#~ msgstr "Repozitář s ne-open-source doplňkovým softwarem pro openSUSE 11.4"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.4, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Velký repozitář s open-source softwarem pro openSUSE 11.4. Obsahuje "
+#~ "tisíce balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti může "
+#~ "přidání tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete "
+#~ "přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo "
+#~ "aktivní odkládací oddíl.) "
+
+#~ msgid ""
+#~ "The official openSUSE 11.4 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Oficiální repozitář openSUSE 11.4 pro software šířený pod non-open-source "
+#~ "licencemi spravovaný týmem openSUSE; včetně Opery, Javy, Flashe a dalších "
+#~ "programů."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.4. For experts only."
+#~ msgstr ""
+#~ "Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro "
+#~ "openSUSE 11.4. Určeno pouze pro experty."
+
+#~ msgid "Update repository of openSUSE 11.4 debuginfo packages"
+#~ msgstr ""
+#~ "Repozitář s aktualizacemi openSUSE 11.4 obsahující balíčky debuginfo"
+
+#~ msgid "Backport of latest stable GNOME"
+#~ msgstr "Zpětný port nejnovější stabilní verze GNOME"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.3."
+#~ msgstr ""
+#~ "V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE 11.3."
+
+#~ msgid "Main repository of openSUSE 11.3 (Source packages)"
+#~ msgstr "Hlavní repozitář openSUSE 11.3 (zdrojové balíčky)"
+
+#~ msgid "Repository for community contributions to 11.3"
+#~ msgstr "Repozitář pro komunitní distribuce 11.3"
+
+#~ msgid "Repository for official updates to 11.3"
+#~ msgstr "Repozitář s oficiálními aktualizacemi openSUSE 11.3"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.3. For experts only."
+#~ msgstr ""
+#~ "Repozitář všech zdrojových balíčků openSUSE 11.3. Pouze pro zkušené "
+#~ "uživatele."
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.3."
+#~ msgstr ""
+#~ "Obsahuje nejnovější stabilní nepodporované vydání GNOME pro openSUSE 11.3."
+
+#~ msgid "openSUSE BuildService - GNOME:STABLE:2.30"
+#~ msgstr "openSUSE BuildService - GNOME:STABLE:2.30"
+
+#~ msgid "Main repository of openSUSE 11.3 including only Open Source Software"
+#~ msgstr ""
+#~ "Hlavní repozitář openSUSE 11.3 obsahující pouze open-source software"
+
+#~ msgid "Main repository of openSUSE 11.3 including the debuginfo packages"
+#~ msgstr "Hlavní repozitář openSUSE 11.3 obsahující debuginfo balíčky"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.3"
+#~ msgstr "Repozitář s ne-open-source doplňkovým softwarem pro openSUSE 11.3"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Velký repozitář s open-source softwarem pro openSUSE 11.3. Obsahuje "
+#~ "tisíce balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti může "
+#~ "přidání tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete "
+#~ "přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo "
+#~ "aktivní odkládací oddíl.) "
+
+#~ msgid ""
+#~ "The official openSUSE 11.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Oficiální repozitář openSUSE 11.3 pro software šířený pod non-open-source "
+#~ "licencemi spravovaný týmem openSUSE; včetně Opery, Javy, Flashe a dalších "
+#~ "programů."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.3. For experts only."
+#~ msgstr ""
+#~ "Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro "
+#~ "openSUSE 11.3. Určeno pouze pro experty."
+
+# 61643 AttribValues/label
+#~ msgid "Backports of KDE applications"
+#~ msgstr "Zpětné porty KDE aplikací"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.2."
+#~ msgstr ""
+#~ "V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE 11.2."
+
+#~ msgid "Main repository of openSUSE 11.2 (Source packages)"
+#~ msgstr "Hlavní repozitář openSUSE 11.2 (zdrojové balíky)"
+
+#~ msgid "Repository for community contributions to 11.2"
+#~ msgstr "Repozitář pro komunitní distribuce 11.2"
+
+#~ msgid "Repository for official updates to 11.2"
+#~ msgstr "Repozitář s oficiálními aktualizacemi openSUSE 11.2"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.2. For experts only."
+#~ msgstr ""
+#~ "Repozitář všech zdrojových balíků openSUSE 11.2. Pouze pro zkušené "
+#~ "uživatele."
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.2."
+#~ msgstr ""
+#~ "Obsahuje nejnovější stabilní nepodporované vydání GNOME pro openSUSE 11.2."
+
+#~ msgid "openSUSE BuildService - GNOME:STABLE:2.28"
+#~ msgstr "openSUSE BuildService - GNOME:STABLE:2.28"
+
+#~ msgid "openSUSE BuildService - KDE:Backports"
+#~ msgstr "openSUSE BuildService - KDE:Backports"
+
+#~ msgid "openSUSE BuildService - KDE:KDE4:Community"
+#~ msgstr "openSUSE BuildService - KDE:KDE4:Community"
+
+#~ msgid "Main repository of openSUSE 11.2 including only Open Source Software"
+#~ msgstr "Hlavní repozitář openSUSE 11.2 obsahující pouze opensource software"
+
+#~ msgid "Main repository of openSUSE 11.2 including the debuginfo packages"
+#~ msgstr "Hlavní repozitář openSUSE 11.2 obsahující debuginfo balíčky"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.2"
+#~ msgstr "Repozitář s ne-opensource softwarem pro openSUSE 11.2"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.2, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Velký repozitář s opensource softwarem (OSS) pro openSUSE 11.2. Obsahuje "
+#~ "tisíce balíků spravovaných týmem openSUSE. (Vzhledem k velikosti může "
+#~ "přidání tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete "
+#~ "přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo "
+#~ "aktivní odkládací oddíl.)"
+
+#~ msgid ""
+#~ "The official openSUSE 11.2 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Oficiální repozitář openSUSE 11.2 pro software šířený pod non-opensource "
+#~ "licencemi spravovaný týmem openSUSE; včetně Opery, Javy, Flashe a dalších "
+#~ "programů."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.2. For experts only."
+#~ msgstr ""
+#~ "Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro "
+#~ "openSUSE 11.2. Určeno pouze pro zkušené uživatele."
+
+#, fuzzy
+#~| msgid "Repository for community contributions to 11.2"
+#~ msgid "Repository for community contributions to 12.1"
+#~ msgstr "Repozitář pro komunitní distribuce 11.2"
+
+#~ msgid "Latest XFCE release"
+#~ msgstr "Nejnovější vydání XFCE"
+
+#~ msgid ""
+#~ "The XFCE repository in the openSUSE Build Service, which provides you "
+#~ "with the unsupported but latest version of the XFCE desktop environment "
+#~ "and software."
+#~ msgstr ""
+#~ "XFCE repozitář z openSUSE Build Service poskytující nejnovější "
+#~ "nepodporovanou verzi grafického prostředí XFCE."
+
+#~ msgid "openSUSE BuildService - XFCE"
+#~ msgstr "openSUSE BuildService - XFCE"
+
+#, fuzzy
+#~| msgid ""
+#~| "This provides the latest stable, unsupported release of GNOME for "
+#~| "openSUSE 11.1."
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.4."
+#~ msgstr ""
+#~ "Obsahuje nejnovější stabilní nepodporované vydání GNOME pro openSUSE 11.1."
+
+# 50318 AttribValues/label
+#~ msgid "Community repository for GNOME"
+#~ msgstr "Komunitní repozitář s GNOME"
+
+#~ msgid "Latest Compiz release"
+#~ msgstr "Nejnovější vydání Compiz"
+
+#~ msgid "Latest builds of Qemu"
+#~ msgstr "Poslední verze Qemu"
+
+#~ msgid "Latest updates for postfix, exim and tools around them."
+#~ msgstr "Poslední aktualizace pro postfix, exim a související nástroje."
+
+#~ msgid ""
+#~ "Provides additional KDE software maintained by the openSUSE KDE "
+#~ "community. This includes filelight, d3lphin, kooldock, and much more."
+#~ msgstr ""
+#~ "Obsahuje dodatečný software pro KDE udržovaný openSUSE KDE komunitou, "
+#~ "mimo jiné filelight, d3lphin, kooldock a další."
+
+#~ msgid ""
+#~ "Provides up-to-date builds of QEMU, a generic and open source machine "
+#~ "emulator and virtualizer."
+#~ msgstr ""
+#~ "Obsahuje aktuální verzi QEMU, opensource emulátoru a virtualizačního "
+#~ "nástroje."
+
+#~ msgid ""
+#~ "Providing the latest updates for postfix, exim and tools around them."
+#~ msgstr ""
+#~ "Poskytuje nejnovější aktualizace pro postfix, exim a související nástroje."
+
+#~ msgid ""
+#~ "This repository contains the latest software that brings you composite "
+#~ "effects and technology. It includes Xgl, Compiz, and Compiz Fusion "
+#~ "packages maintained by the openSUSE Community."
+#~ msgstr ""
+#~ "Tento repozitář obsahuje nejnovější software pro kompozitní grafické "
+#~ "technologie. Obsahuje balíky Xgl, Compiz a Compiz Fusion spravované "
+#~ "komunitou openSUSE."
+
+#~ msgid "openSUSE BuildService - GNOME:Community"
+#~ msgstr "openSUSE BuildService - GNOME:Community"
+
+#~ msgid "openSUSE BuildService - GNOME:STABLE"
+#~ msgstr "openSUSE BuildService - GNOME:STABLE"
+
+#~ msgid "openSUSE BuildService - KDE:Community"
+#~ msgstr "openSUSE BuildService - KDE:Community"
+
+#~ msgid "openSUSE BuildService - Mail Server"
+#~ msgstr "openSUSE BuildService - Poštovní server"
+
+#~ msgid "openSUSE BuildService - Virtualization (QEMU)"
+#~ msgstr "openSUSE BuildService - Virtualizace (QEMU)"
+
+#~ msgid "openSUSE BuildService - X11:Compiz"
+#~ msgstr "openSUSE BuildService - X11:Compiz"
+
+# 52646 AttribValues/label
+#~ msgid "Contains up-to-date drivers for Wireless LAN."
+#~ msgstr "Obsahuje aktuální ovladače pro bezdrátové LAN karty."
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "10.3."
+#~ msgstr ""
+#~ "V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE 10.3."
+
+#~ msgid "Main repository of openSUSE 10.3 (Source packages)"
+#~ msgstr "Hlavní repozitář openSUSE 10.3 (zdrojové balíky)"
+
+# 30902 AttribValues/description, AttribValues/label
+#~ msgid "Recent drivers for wlan"
+#~ msgstr "Nejnovější ovladače pro wlan"
+
+#~ msgid "Repository for official updates to 10.3"
+#~ msgstr "Repozitář s oficiálními aktualizacemi openSUSE 10.3"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 10.3. For experts only."
+#~ msgstr ""
+#~ "Repozitář všech zdrojových balíků openSUSE 10.3. Pouze pro zkušené "
+#~ "uživatele."
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 10.3."
+#~ msgstr ""
+#~ "Obsahuje nejnovější stabilní nepodporované vydání GNOME pro openSUSE 10.3."
+
+# 52646 AttribValues/label
+#~ msgid "openSUSE BuildService - Drivers for Wireless LAN"
+#~ msgstr "openSUSE BuildService - Ovladače pro bezdrátové LAN karty"
+
+#~ msgid "openSUSE BuildService - X11:XGL"
+#~ msgstr "openSUSE BuildService - X11:XGL"
+
+#~ msgid "Main repository of openSUSE 10.3 including only Open Source Software"
+#~ msgstr "Hlavní repozitář openSUSE 10.3 obsahující pouze opensource software"
+
+#~ msgid "Main repository of openSUSE 10.3 including the debuginfo packages"
+#~ msgstr "Hlavní repozitář openSUSE včetně debuginfo balíčků"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 10.3"
+#~ msgstr "Repozitář s ne-opensource softwarem pro openSUSE 10.3"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 10.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Velký repozitář s opensource softwarem pro openSUSE 10.3. Obsahuje tisíce "
+#~ "balíků spravovaných týmem openSUSE. (Vzhledem k velikosti může přidání "
+#~ "tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete "
+#~ "přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo "
+#~ "aktivní odkládací oddíl.) "
+
+#~ msgid ""
+#~ "The official openSUSE 10.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including RealPlayer, Opera, Java, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "Oficiální repozitář openSUSE 10.3 pro software šířený pod non-opensource "
+#~ "licencemi spravovaný týmem openSUSE; včetně RealPlayeru, Opery, Javy, "
+#~ "Flashe a dalších programů."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 10.3. For experts only."
+#~ msgstr ""
+#~ "Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro "
+#~ "openSUSE 10.3. Určeno pouze pro experty."
+
+#~ msgid "Latest KDE4 Builds"
+#~ msgstr "Poslední verze KDE4"
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.0."
+#~ msgstr ""
+#~ "Obsahuje nejnovější stabilní nepodporované vydání GNOME pro openSUSE "
+#~ "11.0.."
+
+#~ msgid ""
+#~ "Updates the KDE4 desktop to the latest version (not necessarly stable)"
+#~ msgstr ""
+#~ "Aktualizovat prostředí KDE4 na nejnovější verzi (nemusí být stabilní)"
+
+#~ msgid "openSUSE BuildService - KDE4:Factory:Desktop"
+#~ msgstr "openSUSE BuildService - KDE4:Factory:Desktop"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.0."
+#~ msgstr ""
+#~ "V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE 11.0."
+
+#~ msgid "Main repository of openSUSE 11.0 including only Open Source Software"
+#~ msgstr "Hlavní repozitář openSUSE 11.0 obsahující pouze opensource software"
+
+#~ msgid "Main repository of openSUSE 11.0 including the debuginfo packages"
+#~ msgstr "Hlavní repozitář openSUSE 11.0 obsahující debuginfo balíčky"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.0"
+#~ msgstr "Repozitář s ne-opensource softwarem pro openSUSE 11.0"
+
+#~ msgid "Repository for official updates to 11.0"
+#~ msgstr "Repozitář s oficiálními aktualizacemi openSUSE 11.0"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.0, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Velký repozitář s opensource softwarem pro openSUSE 11.0. Obsahuje tisíce "
+#~ "balíků spravovaných týmem openSUSE. (Vzhledem k velikosti může přidání "
+#~ "tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete "
+#~ "přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo "
+#~ "aktivní odkládací oddíl.) "
+
+#~ msgid ""
+#~ "The official openSUSE 11.0 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including RealPlayer, Opera, Java, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "Oficiální repozitář openSUSE 11.0 pro software šířený pod non-opensource "
+#~ "licencemi spravovaný týmem openSUSE; včetně RealPlayeru, Opery, Javy, "
+#~ "Flashe a dalších programů."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.0. For experts only."
+#~ msgstr ""
+#~ "Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro "
+#~ "openSUSE 11.0. Určeno pouze pro experty."

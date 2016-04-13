@@ -1,0 +1,1393 @@
+# translation of community-repositories.po to Ukrainian
+# Translation of community-repositories.uk.po to Ukrainian
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Ivan Petrouchtchak <ivanpetrouchtchak@yahoo.com>, 2007.
+# Yuri Chornoivan <yurchor@ukr.net>, 2008.
+# Ivan Petrouchtchak <fr.ivan@ukrainian-orthodox.org>, 2008, 2009, 2010.
+# Andriy Bandura <andriykopanytsia@gmail.com>, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: community-repositories.uk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-13 18:46+0200\n"
+"PO-Revision-Date: 2015-12-02 10:07+0200\n"
+"Last-Translator: Andriy Bandura <andriykopanytsia@gmail.com>\n"
+"Language-Team: Ukrainian <>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:1
+msgid "openSUSE BuildService - LXDE"
+msgstr "Служба складання пакунків openSUSE - LXDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:2
+msgid "Latest LXDE release"
+msgstr "Найновіший випуск LXDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:3
+msgid ""
+"The LXDE repository in the openSUSE Build Service, which provides you with "
+"the unsupported but latest version of the LX desktop environment and "
+"software."
+msgstr ""
+"Сховище LXDE в службі складання пакунків openSUSE, яке надає найновіші "
+"версії стільничного середовища LX і його програм."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:4
+msgid "openSUSE BuildService - LibreOffice"
+msgstr "Служба складання пакунків openSUSE - LibreOffice"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:5
+msgid "Latest stable LibreOffice release"
+msgstr "Найновіша стабільна версія LibreOffice"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:6
+msgid ""
+"Provides you with the latest stable version of LibreOffice, the Office suite "
+"that openSUSE uses."
+msgstr ""
+"Надає найновішу стабільну версію LibreOffice, офісного набору, який "
+"вживається в openSUSE."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:7
+msgid "openSUSE BuildService - Mozilla"
+msgstr "Служба складання пакунків openSUSE - Mozilla"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:8
+msgid "Most recent builds of Mozilla Software like Firefox"
+msgstr "Оновлення для програм Mozilla, напр., Firefox"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:9
+msgid ""
+"Containing the latest releases of all Mozilla software, such as the popular "
+"Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
+msgstr ""
+"Містить найновіші випуски програм Mozilla, таких як Thunderbird (поштовий "
+"клієнт), Firefox і SeaMonkey (навігатори Тенет)."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:10
+msgid "openSUSE BuildService - Wine CVS Builds"
+msgstr "Служба складання пакунків openSUSE - Wine CVS"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:11
+msgid "Snapshots of Wine CVS"
+msgstr "Версія в розробці (CVS) Wine"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:12
+msgid ""
+"Wine is an Open Source implementation of the Windows API, so it allows you "
+"to run some Windows applications in openSUSE. This repository provides the "
+"latest CVS (development) snapshot packages of Wine."
+msgstr ""
+"Wine - це (ВПЗ) впровадження Windows API, що дозволяє запускати деякі "
+"програми Windows в openSUSE. Це сховище надає пакунки Wine з найновішими "
+"модифікаціями з CVS (версія в розробці)."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:13
+msgid "openSUSE BuildService - Games"
+msgstr "Служба складання пакунків openSUSE - Ігри"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:14
+msgid "A collection of action games"
+msgstr "Збірка ігор"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:15
+msgid ""
+"Contains several action games including Open Arena (shoot 'em up), Flight "
+"Gear (flight simulator) and Torcs (3D racing simulator)."
+msgstr ""
+"Містить декілька ігор: Open Arena (стрілянина), Flight Gear (симуляція "
+"польотів) і Torcs (3D симуляція гонок)."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:16
+msgid "openSUSE BuildService - Drivers for webcams"
+msgstr "Служба складання пакунків openSUSE - Драйвери для веб-камер"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:17
+msgid "Recent drivers for webcams"
+msgstr "Найновіші драйвери для веб-камер"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:18
+msgid "Contains recent drivers for hundreds of different webcams."
+msgstr "Містить найновіші драйвери для сотень різних веб-камер."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:16
+msgid "openSUSE BuildService - Virtualization (VirtualBox)"
+msgstr "Служба складання пакунків openSUSE - Віртуалізація (VirtualBox)"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:17
+msgid "Latest builds of Virtualbox"
+msgstr "Найновіші версії Virtualbox"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:18
+msgid ""
+"Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
+"virtualizer for x86 hardware."
+msgstr ""
+"Найновіші пакунки VirtualBox, програма (з відкритим кодом) загального вжитку "
+"для віртуалізації апаратного обладнання x86."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:19
+msgid "openSUSE BuildService - PHP"
+msgstr "Служба складання пакунків openSUSE - PHP"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:20
+msgid "Latest updates for PHP software"
+msgstr "Оновлення для PHP"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:21
+msgid ""
+"Provides the latest packages and multiple-version builds of PHP software."
+msgstr "Надає найновіші пакунки програмного забезпечення для PHP."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:19
+msgid "openSUSE BuildService - Database"
+msgstr "Служба складання пакунків openSUSE - Бази даних"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:20
+msgid "Latest updates for database software"
+msgstr "Оновлення для баз даних"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:21
+msgid "Latest updates for database software including Firebird and MySQL."
+msgstr "Оновлення для ПЗ баз даних, таких як Firebird і MySQL."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:22
+msgid "openSUSE BuildService - KDE:Extra"
+msgstr "Служба складання пакунків openSUSE - KDE:Extra"
+
+# 48955 AttribValues/label
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:23
+msgid "Community repository for KDE"
+msgstr "Громадські сховища для KDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:24
+msgid ""
+"Provides additional KDE software maintained by the openSUSE KDE community."
+msgstr "Надає додаткове ПЗ KDE, яке підтримується спільнотою openSUSE KDE."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:25
+msgid "openSUSE BuildService - GNOME:Apps"
+msgstr "Служба складання пакунків openSUSE - GNOME:Apps"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:26
+msgid "Backports of GNOME applications"
+msgstr "Портовані програми GNOME"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:27
+msgid ""
+"Updates to the GNOME software that is shipped with the distribution "
+"(backports)."
+msgstr "Оновлення для програм GNOME, які прийшли з дистрибутивом (backports)."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:31
+msgid "openSUSE BuildService - Mono:Community"
+msgstr "Служба складання пакунків openSUSE - Mono:Community"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:32
+msgid "Community repository for Mono applications"
+msgstr "Громадське сховище для програм Mono"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:33
+msgid "Updates and Additions of applications written in Mono."
+msgstr "Оновлення і додатки для програм написаних на Mono."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:28
+msgid "openSUSE BuildService - devel:languages:perl"
+msgstr "Служба складання пакунків openSUSE - devel:languages:perl"
+
+# 48955 AttribValues/label
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:29
+msgid "Community repository for Perl modules"
+msgstr "Громадські сховища для модулів Perl"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:30
+msgid "Updates and Additions for Perl modules"
+msgstr "Оновлення і додатки для програм написаних на Perl"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:31
+msgid "openSUSE BuildService - devel:languages:python"
+msgstr "Служба складання пакунків openSUSE - devel:languages:python"
+
+# 48955 AttribValues/label
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:32
+msgid "Community repository for Python modules"
+msgstr "Громадські сховища для модулів Python"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:33
+msgid "Updates and Additions for Python modules"
+msgstr "Оновлення і додатки для модулів Python"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:34
+msgid "openSUSE BuildService - filesystems"
+msgstr "Служба складання пакунків openSUSE - файлові системи"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:35
+msgid "Filesystem tools and FUSE-related packages"
+msgstr "Засоби файлової системи та пакунки, пов'язані із FUSE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
+msgid "Filesystem tools and FUSE-related packages."
+msgstr "Засоби файлової системи та пакунки, пов'язані із FUSE."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:37
+msgid "openSUSE BuildService - Education"
+msgstr "Служба складання пакунків openSUSE - Освіта"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:47
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:38
+msgid "Applications for education users"
+msgstr "Програми для освіти користувачів"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:48
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:39
+msgid ""
+"Contains several packages which might be interesting for educational use"
+msgstr ""
+"Містить окремі пакунки, які можуть виявитися корисними для освітніх цілей"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:49
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:49
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:43
+msgid "openSUSE BuildService - KDE:KDE3"
+msgstr "Служба складання пакунків openSUSE - KDE:KDE3"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:50
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:50
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:44
+msgid "Maintained KDE 3 packages"
+msgstr "Підтримувані пакунки KDE 3"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:51
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:51
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:45
+msgid "Provides old KDE for newer openSUSE"
+msgstr "Надає старе KDE для нової openSUSE"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:1
+msgid "Main Repository (OSS)"
+msgstr "Головне сховище (ВПЗ)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:2
+msgid "Main repository of openSUSE 13.1 including only Open Source Software"
+msgstr "Головне сховище openSUSE 13.1, яке містить лише ПЗ з відкритим кодом"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE 13.1, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+"openSUSE 13.1, яке надає вам доступ до тисяч пакунків, які підтримуються "
+"командою openSUSE. (Через те, що сховище має величезний розмір, його "
+"додавання може тривати довго. Рекомендовано мати 512 МБ операційної пам'яті "
+"або розділ свопінгу, якщо ви хочете мати доступ до сховища під час "
+"встановлення системи.)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:4
+msgid "Main Repository (NON-OSS)"
+msgstr "Головне сховище (НЕ-ВПЗ)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
+msgstr "Додаткове сховище openSUSE 13.1, яке містить ПЗ з закритим кодом"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:6
+msgid ""
+"The official openSUSE 13.1 repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgstr ""
+"Офіційне сховище openSUSE 13.1 для всіх програм з закритим кодом, які "
+"підтримуються командою openSUSE: Opera, Java, Flash та інших."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:7
+msgid "Main Repository (Sources)"
+msgstr "Головне сховище (джерела)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:8
+msgid "Main repository of openSUSE 13.1 (Source packages)"
+msgstr "Головне сховище для openSUSE 13.1 (джерельні пакунки)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE 13.1. For experts only."
+msgstr ""
+"Сховище для всіх джерельних пакунків в openSUSE 13.1. Тільки для знавців."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:10
+msgid "Main Repository (DEBUG)"
+msgstr "Головне сховище (DEBUG)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:11
+msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
+msgstr "Головне сховище openSUSE 13.1, яке містить пакунки debuginfo"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE 13.1. For experts only."
+msgstr ""
+"Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
+"13.1. Тільки для знавців."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:13
+msgid "Main Update Repository"
+msgstr "Головне сховище з оновленнями"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:14
+msgid "Repository for official updates to 13.1"
+msgstr "Сховище для офіційних оновлень в 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"13.1."
+msgstr ""
+"У цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 13.1."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:16
+msgid "Update Repository (Non-Oss)"
+msgstr "Сховище оновлень (Non-Oss)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:17
+msgid "Repository for official non free updates to 13.1"
+msgstr "Сховище для офіційних оновлень невільних програм у 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:18
+msgid "Update Repository (DEBUG)"
+msgstr "Сховище оновлень (DEBUG)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:19
+msgid "Update repository of openSUSE 13.1 debuginfo packages"
+msgstr "Головне сховище openSUSE 13.1, яке містить пакунки debuginfo"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:46
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:40
+msgid "openSUSE BuildService - Java:packages"
+msgstr "Служба складання пакунків openSUSE - Java:пакунки"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:47
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:41
+msgid "Bleeding-edge Java packages"
+msgstr "Найновіші пакунки Java"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:48
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:42
+msgid "Provides uptodate Java packages (Factory backports)"
+msgstr "Надає актуальні пакети Java (зворотне портування з Factory)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:2
+msgid "Main repository of openSUSE 13.2 including only Open Source Software"
+msgstr "Головне сховище openSUSE 13.2, яке містить лише ПЗ з відкритим кодом"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+"openSUSE 13.2, яке надає вам доступ до тисяч пакунків, які підтримуються "
+"командою openSUSE. (Через те, що сховище має величезний розмір, його "
+"додавання може тривати довго. Рекомендовано мати 512 МБ операційної пам'яті "
+"або розділ свопінгу, якщо ви хочете мати доступ до сховища під час "
+"встановлення системи.)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
+msgstr "Додаткове сховище openSUSE 13.2, яке містить ПЗ з закритим кодом"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:6
+msgid ""
+"The official openSUSE 13.2 repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgstr ""
+"Офіційне сховище openSUSE 13.2 для всіх програм з закритим кодом, які "
+"підтримуються командою openSUSE: Opera, Java, Flash та інших."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:8
+msgid "Main repository of openSUSE 13.2 (Source packages)"
+msgstr "Головне сховище для openSUSE 13.2 (джерельні пакунки)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE 13.2. For experts only."
+msgstr ""
+"Сховище для всіх джерельних пакунків в openSUSE 13.2. Тільки для знавців."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:11
+msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
+msgstr "Головне сховище openSUSE 13.2, яке містить пакунки debuginfo"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE 13.2. For experts only."
+msgstr ""
+"Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
+"13.2. Тільки для знавців."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:14
+msgid "Repository for official updates to 13.2"
+msgstr "Сховище для офіційних оновлень в 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"13.2."
+msgstr ""
+"У цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 13.2."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:17
+msgid "Repository for official non free updates to 13.2"
+msgstr "Сховище для офіційних оновлень невільних програм у 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:19
+msgid "Update repository of openSUSE 13.2 debuginfo packages"
+msgstr "Сховище оновлень openSUSE 13.2, яке містить пакунки debuginfo"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:2
+msgid ""
+"Main repository of openSUSE Tumbleweed including only Open Source Software"
+msgstr ""
+"Головне сховище openSUSE Tumbleweed, яке містить лише ПЗ з відкритим кодом"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+"openSUSE, яке надає вам доступ до тисяч пакунків, які підтримуються командою "
+"openSUSE. (Через те, що сховище має величезний розмір, його додавання може "
+"тривати довго. Рекомендовано мати 512 МБ операційної пам'яті або розділ "
+"свопінгу, якщо ви хочете мати доступ до сховища під час встановлення "
+"системи.)"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
+msgstr ""
+"Додаткове сховище openSUSE Tumbleweed, яке містить ПЗ із закритим кодом"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:6
+msgid ""
+"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Flash, and more."
+msgstr ""
+"Офіційне сховище openSUSE Tumbleweed для всіх програм із закритим кодом, які "
+"підтримуються командою openSUSE: Opera, Flash та інших."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:8
+msgid "Main repository of openSUSE Tumbleweed (Source packages)"
+msgstr "Головне сховище для openSUSE Tumbleweed (джерельні пакунки)"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE Tumbleweed. For experts "
+"only."
+msgstr ""
+"Сховище для всіх джерельних пакунків у openSUSE Tumbleweed. Тільки для "
+"знавців."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:11
+msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
+msgstr "Головне сховище openSUSE Tumbleweed, яке містить пакунки debuginfo"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Tumbleweed. For experts only."
+msgstr ""
+"Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
+"Tumbleweed. Тільки для знавців."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:14
+msgid "Official update repository for Tumbleweed"
+msgstr "Офіційне сховище оновлень для Tumbleweed"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:15
+msgid ""
+"This repository provides urgent updates until they get integrated into the "
+"main repositories."
+msgstr ""
+"Це сховище надає термінові оновлення до того, поки вони інтегруються в "
+"основні сховища."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:2
+msgid ""
+"Main repository of openSUSE Leap 42.1 including only Open Source Software"
+msgstr ""
+"Головне сховище openSUSE Leap 42.1, яке містить лише ПЗ з відкритим кодом"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
+"you access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+"openSUSE  Leap 42.1, яке надає вам доступ до тисяч пакунків, що "
+"підтримуються командою openSUSE."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
+msgstr "Додаткове сховище openSUSE  Leap 42.1, яке містить ПЗ з закритим кодом"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
+msgid ""
+"The official openSUSE Leap 42.1 repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam, Flash, and "
+"more."
+msgstr ""
+"Офіційне сховище openSUSE Leap 42.1 для всіх програм із закритим кодом, які "
+"підтримуються командою openSUSE: Opera, Steam, Flash та інших."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
+msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
+msgstr "Головне сховище для openSUSE  Leap 42.1 (джерельні пакунки)"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE Leap 42.1. For experts "
+"only."
+msgstr ""
+"Сховище для всіх джерельних пакунків в openSUSE  Leap 42.1. Тільки для "
+"експертів."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:11
+msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
+msgstr "Головне сховище openSUSE  Leap 42.1, яке містить пакунки debuginfo"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap 42.1. For experts only."
+msgstr ""
+"Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE Leap "
+"42.1. Тільки для знавців."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:14
+msgid "Repository for official updates to openSUSE Leap 42.1"
+msgstr "Сховище для офіційних оновлень у openSUSE Leap 42.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap 42.1."
+msgstr ""
+"У цьому сховищі знаходяться латки безпеки і оновлення для  openSUSE Leap 42.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:17
+msgid "Repository for official non free updates to openSUSE Leap 42.1"
+msgstr "Сховище для офіційних оновлень невільних програм у openSUSE Leap 42.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:19
+msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
+msgstr "Сховище оновлень openSUSE Leap 42.1 для пакунків debuginfo"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
+msgid "Untested Updates"
+msgstr "Неперевірені оновлення"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
+msgid "Repository of not yet tested updates"
+msgstr "Сховище для неперевірених оновлень"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+"Сховище містить оновлення безпеки та обслуговування, які ще потрібно "
+"тестуватищодо забезпечення якості. Додайте його лише, якщо ви хочете взяти "
+"участь ву тестуванні оновлень OpenSUSE."
+
+#~ msgid "openSUSE BuildService - Banshee"
+#~ msgstr "Служба складання пакунків openSUSE - Banshee"
+
+#~ msgid "Latest builds of the Banshee Media Player"
+#~ msgstr "Останні збірки медіапрогравача Banshee"
+
+#~ msgid "Provides up-to-date builds of Banshee"
+#~ msgstr "Забезпечує оновлення збірок Banshee"
+
+#~ msgid "Main repository of openSUSE 12.2 including only Open Source Software"
+#~ msgstr ""
+#~ "Головне сховище openSUSE 12.2, яке містить лише ПЗ з відкритим кодом"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.2, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+#~ "openSUSE 12.2, яке надає вам доступ до тисяч пакунків, які підтримуються "
+#~ "командою openSUSE. (Через те, що сховище має величезний розмір, його "
+#~ "додавання може тривати довго. Рекомендовано мати 512 МБ операційної "
+#~ "пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під "
+#~ "час встановлення системи.)"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
+#~ msgstr "Додаткове сховище openSUSE 12.2, яке містить ПЗ з закритим кодом"
+
+#~ msgid ""
+#~ "The official openSUSE 12.2 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Офіційне сховище openSUSE 12.2 для всіх програм з закритим кодом, які "
+#~ "підтримуються командою openSUSE: Opera, Java, Flash та інших."
+
+#~ msgid "Main repository of openSUSE 12.2 (Source packages)"
+#~ msgstr "Головне сховище для openSUSE 12.2 (джерельні пакунки)"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 12.2. For experts only."
+#~ msgstr ""
+#~ "Сховище для всіх джерельних пакунків в openSUSE 12.2. Тільки для знавців."
+
+#~ msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
+#~ msgstr "Головне сховище openSUSE 12.2, яке містить пакунки debuginfo"
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 12.2. For experts only."
+#~ msgstr ""
+#~ "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
+#~ "12.2. Тільки для знавців."
+
+#~ msgid "Repository for official updates to 12.2"
+#~ msgstr "Сховище для офіційних оновлень у 12.2"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.2."
+#~ msgstr ""
+#~ "У цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 12.2"
+
+#~ msgid "Update repository of openSUSE 12.2 debuginfo packages"
+#~ msgstr "Сховище оновлень openSUSE 12.2, яке містить пакунки debuginfo"
+
+#~ msgid "Main repository of openSUSE 12.3 including only Open Source Software"
+#~ msgstr ""
+#~ "Головне сховище openSUSE 12.3, яке містить лише ПЗ з відкритим кодом"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+#~ "openSUSE 12.3, яке надає вам доступ до тисяч пакунків, які підтримуються "
+#~ "командою openSUSE. (Через те, що сховище має величезний розмір, його "
+#~ "додавання може тривати довго. Рекомендовано мати 512 МБ операційної "
+#~ "пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під "
+#~ "час встановлення системи.)"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 12.3"
+#~ msgstr "Додаткове сховище openSUSE 12.3, яке містить ПЗ з закритим кодом"
+
+#~ msgid ""
+#~ "The official openSUSE 12.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Офіційне сховище openSUSE 12.3 для всіх програм з закритим кодом, які "
+#~ "підтримуються командою openSUSE: Opera, Java, Flash та інших."
+
+#~ msgid "Main repository of openSUSE 12.3 (Source packages)"
+#~ msgstr "Головне сховище для openSUSE 12.3 (джерельні пакунки)"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 12.3. For experts only."
+#~ msgstr ""
+#~ "Сховище для всіх джерельних пакунків в openSUSE 12.3. Тільки для знавців."
+
+#~ msgid "Main repository of openSUSE 12.3 including the debuginfo packages"
+#~ msgstr "Головне сховище openSUSE 12.3, яке містить пакунки debuginfo"
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 12.3. For experts only."
+#~ msgstr ""
+#~ "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
+#~ "12.3. Тільки для знавців."
+
+#~ msgid "Repository for official updates to 12.3"
+#~ msgstr "Сховище для офіційних оновлень в 12.2"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.3."
+#~ msgstr ""
+#~ "2В цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 12.3."
+
+#~ msgid "Update repository of openSUSE 12.3 debuginfo packages"
+#~ msgstr "Сховище оновлень openSUSE 12.3, яке містить пакунки debuginfo"
+
+#~ msgid ""
+#~ "Main repository of openSUSE Factory including only Open Source Software"
+#~ msgstr ""
+#~ "Головне сховище openSUSE Factory, яке містить лише ПЗ з відкритим кодом"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE Factory"
+#~ msgstr ""
+#~ "Додаткове сховище openSUSE Factory, яке містить ПЗ із закритим кодом"
+
+#, fuzzy
+#~ msgid "openSUSE BuildService - KDE:UpdatedApps"
+#~ msgstr "Служба складання пакунків openSUSE - GNOME:Apps"
+
+#, fuzzy
+#~ msgid "Updated versions of KDE applications"
+#~ msgstr "Оновлені програми KDE"
+
+#~ msgid ""
+#~ "Updates to the KDE software that is shipped with the distribution "
+#~ "(backports)."
+#~ msgstr "Оновлення для програм KDE, які прийшли з дистрибутивом (backports)."
+
+#~ msgid ""
+#~ "Contrib project contains lots of useful additions to the main "
+#~ "distribution by our community contributors. See http://en.opensuse.org/"
+#~ "Contrib for details."
+#~ msgstr ""
+#~ "Проект громадських доробок містить багато корисних додатків до головного "
+#~ "дистрибутиву. Подробиці на http://en.opensuse.org/Contrib."
+
+#, fuzzy
+#~| msgid ""
+#~| "In this repository you find security and maintenance updates to openSUSE "
+#~| "11.1."
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.4."
+#~ msgstr ""
+#~ "В цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 11.1."
+
+#~ msgid "Main Repository (Contrib)"
+#~ msgstr "Головне сховище (громадські)"
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 11.1 (Source packages)"
+#~ msgid "Main repository of openSUSE 11.4 (Source packages)"
+#~ msgstr "Головне сховище для openSUSE 11.1 (джерельні пакунки)"
+
+#, fuzzy
+#~| msgid "Repository for community contributions to 11.2"
+#~ msgid "Repository for community contributions to 11.4"
+#~ msgstr "Сховище для громадських доробок 11.2"
+
+#, fuzzy
+#~| msgid "Repository for official updates to 11.1"
+#~ msgid "Repository for official updates to 11.4"
+#~ msgstr "Сховище для офіційних оновлень в 11.1"
+
+#, fuzzy
+#~| msgid ""
+#~| "The repository of all source packages in openSUSE 11.1. For experts only."
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.4. For experts only."
+#~ msgstr ""
+#~ "Сховище для всіх джерельних пакунків в openSUSE 11.1. Тільки для "
+#~ "експертів."
+
+#, fuzzy
+#~| msgid ""
+#~| "Main repository of openSUSE 11.1 including only Open Source Software"
+#~ msgid "Main repository of openSUSE 11.4 including only Open Source Software"
+#~ msgstr ""
+#~ "Головне сховище openSUSE 11.1, яке містить лише ПЗ з відкритим кодом"
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 11.1 including the debuginfo packages"
+#~ msgid "Main repository of openSUSE 11.4 including the debuginfo packages"
+#~ msgstr "Головне сховище openSUSE 11.1, яке містить пакунки debuginfo"
+
+#, fuzzy
+#~| msgid "Non-Open Source Software Addon repository for openSUSE 11.1"
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.4"
+#~ msgstr "Додаткове сховище openSUSE 11.1, яке містить ПЗ з закритим кодом"
+
+#, fuzzy
+#~| msgid ""
+#~| "The big Open Source Software (OSS) repository for openSUSE 11.1, giving "
+#~| "you access to thousands of packages maintained by the openSUSE team. "
+#~| "(Due to the size of the repository, adding it may take some time. 512 MB "
+#~| "of RAM or an enabled SWAP partition are highly recommended in case you "
+#~| "want to access this repository at installation time.)"
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.4, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+#~ "openSUSE 11.1, яке надає вам доступ до тисяч пакунків, які підтримуються "
+#~ "командою openSUSE. (Через те, що сховище має величезний розмір, його "
+#~ "додавання може тривати довго. Рекомендовано мати 512 МБ операційної "
+#~ "пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під "
+#~ "час встановлення системи.)"
+
+#, fuzzy
+#~| msgid ""
+#~| "The official openSUSE 11.1 repository for all Non-Open Source Software "
+#~| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgid ""
+#~ "The official openSUSE 11.4 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Офіційне сховище openSUSE 11.1 для всіх програм з закритим кодом, які "
+#~ "підтримуються командою openSUSE: Opera, Java, Flash та інших."
+
+#, fuzzy
+#~| msgid ""
+#~| "This repository is useful for those that want to debug applications on "
+#~| "openSUSE 11.1. For experts only."
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.4. For experts only."
+#~ msgstr ""
+#~ "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
+#~ "11.1. Тільки для знавців."
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 11.1 including the debuginfo packages"
+#~ msgid "Update repository of openSUSE 11.4 debuginfo packages"
+#~ msgstr "Головне сховище openSUSE 11.1, яке містить пакунки debuginfo"
+
+#~ msgid "Backport of latest stable GNOME"
+#~ msgstr "Найновіший стабільний GNOME"
+
+#, fuzzy
+#~| msgid ""
+#~| "In this repository you find security and maintenance updates to openSUSE "
+#~| "10.3."
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.3."
+#~ msgstr ""
+#~ "В цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 10.3."
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 10.3 (Source packages)"
+#~ msgid "Main repository of openSUSE 11.3 (Source packages)"
+#~ msgstr "Головне сховище для openSUSE 10.3 (джерельні пакунки)"
+
+#, fuzzy
+#~| msgid "Repository for community contributions to 11.2"
+#~ msgid "Repository for community contributions to 11.3"
+#~ msgstr "Сховище для громадських доробок 11.2"
+
+#, fuzzy
+#~| msgid "Repository for official updates to 10.3"
+#~ msgid "Repository for official updates to 11.3"
+#~ msgstr "Сховище для офіційних оновлень в 10.3"
+
+#, fuzzy
+#~| msgid ""
+#~| "The repository of all source packages in openSUSE 10.3. For experts only."
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.3. For experts only."
+#~ msgstr ""
+#~ "Сховище для всіх джерельних пакунків в openSUSE 10.3. Тільки для "
+#~ "експертів."
+
+#, fuzzy
+#~| msgid ""
+#~| "This provides the latest stable, unsupported release of GNOME for "
+#~| "openSUSE 10.3."
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.3."
+#~ msgstr "Містить найновіший стабільний випуск GNOME для openSUSE 10.3."
+
+#, fuzzy
+#~| msgid "openSUSE BuildService - GNOME:STABLE:2.28"
+#~ msgid "openSUSE BuildService - GNOME:STABLE:2.30"
+#~ msgstr "Служба складання пакунків openSUSE - GNOME:STABLE:2.28"
+
+#, fuzzy
+#~| msgid ""
+#~| "Main repository of openSUSE 10.3 including only Open Source Software"
+#~ msgid "Main repository of openSUSE 11.3 including only Open Source Software"
+#~ msgstr ""
+#~ "Головне сховище openSUSE 10.3, яке містить тільки ПЗ з відкритим кодом"
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 10.3 including the debuginfo packages"
+#~ msgid "Main repository of openSUSE 11.3 including the debuginfo packages"
+#~ msgstr "Головне сховище openSUSE 10.3, яке містить пакунки debuginfo"
+
+#, fuzzy
+#~| msgid "Non-Open Source Software Addon repository for openSUSE 10.3"
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.3"
+#~ msgstr "Додаткове сховище openSUSE 10.3, яке містить ПЗ з закритим кодом"
+
+#, fuzzy
+#~| msgid ""
+#~| "The big Open Source Software (OSS) repository for openSUSE 10.3, giving "
+#~| "you access to thousands of packages maintained by the openSUSE team. "
+#~| "(Due to the size of the repository, adding it may take some time. 512 MB "
+#~| "of RAM or an enabled SWAP partition are highly recommended in case you "
+#~| "want to access this repository at installation time.)"
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+#~ "openSUSE 10.3, яке надає вам доступ до тисяч пакунків, які підтримуються "
+#~ "командою openSUSE. (Через те, що сховище має величезний розмір, його "
+#~ "додавання може зайняти багато часу. Рекомендовано мати 512 МБ операційної "
+#~ "пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під "
+#~ "час встановлення системи.)"
+
+#, fuzzy
+#~| msgid ""
+#~| "The official openSUSE 11.1 repository for all Non-Open Source Software "
+#~| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgid ""
+#~ "The official openSUSE 11.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Офіційне сховище openSUSE 11.1 для всіх програм з закритим кодом, які "
+#~ "підтримуються командою openSUSE: Opera, Java, Flash та інших."
+
+#, fuzzy
+#~| msgid ""
+#~| "This repository is useful for those that want to debug applications on "
+#~| "openSUSE 10.3. For experts only."
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.3. For experts only."
+#~ msgstr ""
+#~ "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
+#~ "10.3. Тільки для експертів."
+
+#~ msgid "Backports of KDE applications"
+#~ msgstr "Оновлені програми KDE"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.2."
+#~ msgstr ""
+#~ "В цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 11.2."
+
+#~ msgid "Main repository of openSUSE 11.2 (Source packages)"
+#~ msgstr "Головне сховище для openSUSE 11.2 (джерельні пакунки)"
+
+#~ msgid "Repository for community contributions to 11.2"
+#~ msgstr "Сховище для громадських доробок 11.2"
+
+#~ msgid "Repository for official updates to 11.2"
+#~ msgstr "Сховище для офіційних оновлень в 11.2"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.2. For experts only."
+#~ msgstr ""
+#~ "Сховище для всіх джерельних пакунків в openSUSE 11.2. Тільки для "
+#~ "експертів."
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.2."
+#~ msgstr ""
+#~ "Містить найновіший стабільний випуск GNOME без супроводу для openSUSE "
+#~ "11.2."
+
+#~ msgid "openSUSE BuildService - GNOME:STABLE:2.28"
+#~ msgstr "Служба складання пакунків openSUSE - GNOME:STABLE:2.28"
+
+#~ msgid "openSUSE BuildService - KDE:Backports"
+#~ msgstr "Служба складання пакунків openSUSE - KDE:Backports"
+
+#~ msgid "openSUSE BuildService - KDE:KDE4:Community"
+#~ msgstr "Служба складання пакунків openSUSE - KDE:KDE4:Community"
+
+#~ msgid "Main repository of openSUSE 11.2 including only Open Source Software"
+#~ msgstr ""
+#~ "Головне сховище openSUSE 11.2, яке містить лише ПЗ з відкритим кодом"
+
+#~ msgid "Main repository of openSUSE 11.2 including the debuginfo packages"
+#~ msgstr "Головне сховище openSUSE 11.2, яке містить пакунки debuginfo"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.2"
+#~ msgstr "Додаткове сховище openSUSE 11.2, яке містить ПЗ з закритим кодом"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.2, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+#~ "openSUSE 11.2, що надає вам доступ до тисяч пакунків, які підтримуються "
+#~ "командою openSUSE. (Через те, що сховище має величезний розмір, його "
+#~ "додавання може тривати довго. Рекомендовано мати 512 МБ операційної "
+#~ "пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під "
+#~ "час встановлення системи.)"
+
+#~ msgid ""
+#~ "The official openSUSE 11.2 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Офіційне сховище openSUSE 11.2 для всіх програм з закритим кодом, які "
+#~ "підтримуються командою openSUSE: Opera, Java, Flash та інших."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.2. For experts only."
+#~ msgstr ""
+#~ "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
+#~ "11.2. Тільки для експертів."
+
+#, fuzzy
+#~| msgid "Repository for community contributions to 11.2"
+#~ msgid "Repository for community contributions to 12.1"
+#~ msgstr "Сховище для громадських доробок 11.2"
+
+#~ msgid "Latest XFCE release"
+#~ msgstr "Найновіший випуск XFCE"
+
+#~ msgid ""
+#~ "The XFCE repository in the openSUSE Build Service, which provides you "
+#~ "with the unsupported but latest version of the XFCE desktop environment "
+#~ "and software."
+#~ msgstr ""
+#~ "Сховище XFCE в службі складання пакунків openSUSE, яке надає найновіші "
+#~ "версії стільничного середовища XFCE і його програм."
+
+#~ msgid "openSUSE BuildService - XFCE"
+#~ msgstr "Служба складання пакунків openSUSE - XFCE"
+
+#, fuzzy
+#~| msgid ""
+#~| "This provides the latest stable, unsupported release of GNOME for "
+#~| "openSUSE 11.1."
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.4."
+#~ msgstr ""
+#~ "Містить найновіший стабільний випуск GNOME без супроводу для openSUSE "
+#~ "11.1."
+
+#~ msgid "Community repository for GNOME"
+#~ msgstr "Громадські сховища для GNOME"
+
+#~ msgid "Latest Compiz release"
+#~ msgstr "Найновіший випуск Compiz"
+
+#~ msgid "Latest builds of Qemu"
+#~ msgstr "Найновіші версії Qemu"
+
+#~ msgid "Latest updates for postfix, exim and tools around them."
+#~ msgstr "Оновлення для postfix, exim і засоби навколо них."
+
+#~ msgid ""
+#~ "Provides additional KDE software maintained by the openSUSE KDE "
+#~ "community. This includes filelight, d3lphin, kooldock, and much more."
+#~ msgstr ""
+#~ "Надає додаткове ПЗ KDE, яке підтримується спільнотою openSUSE KDE. "
+#~ "Включає filelight, dоlphin, kooldock і багато інших."
+
+#~ msgid ""
+#~ "Provides up-to-date builds of QEMU, a generic and open source machine "
+#~ "emulator and virtualizer."
+#~ msgstr ""
+#~ "Найновіші пакунки QEMU, емуляція і віртуалізація (з відкритим кодом) "
+#~ "машин."
+
+#~ msgid ""
+#~ "Providing the latest updates for postfix, exim and tools around them."
+#~ msgstr "Надає оновлення для postfix, exim і засобів для них."
+
+#~ msgid ""
+#~ "This repository contains the latest software that brings you composite "
+#~ "effects and technology. It includes Xgl, Compiz, and Compiz Fusion "
+#~ "packages maintained by the openSUSE Community."
+#~ msgstr ""
+#~ "Це сховище містить найновіше ПЗ, яке надає ефекти і технологію composite. "
+#~ "Включає пакунки Xgl, Compiz і Compiz Fusion, які підтримуються спільнотою "
+#~ "openSUSE."
+
+#~ msgid "openSUSE BuildService - GNOME:Community"
+#~ msgstr "Служба складання пакунків openSUSE - GNOME:Community"
+
+#~ msgid "openSUSE BuildService - GNOME:STABLE"
+#~ msgstr "Служба складання пакунків openSUSE - GNOME:STABLE"
+
+#~ msgid "openSUSE BuildService - KDE:Community"
+#~ msgstr "Служба складання пакунків openSUSE - KDE:Community"
+
+#~ msgid "openSUSE BuildService - Mail Server"
+#~ msgstr "Служба складання пакунків openSUSE - Поштовий сервер"
+
+#~ msgid "openSUSE BuildService - Virtualization (QEMU)"
+#~ msgstr "Служба складання пакунків openSUSE - Віртуалізація (QEMU)"
+
+#~ msgid "openSUSE BuildService - X11:Compiz"
+#~ msgstr "Служба складання пакунків openSUSE - X11:Compiz"
+
+#~ msgid "Contains up-to-date drivers for Wireless LAN."
+#~ msgstr "Містить найновіші драйвери бездротової ЛОМ."
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "10.3."
+#~ msgstr ""
+#~ "В цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 10.3."
+
+#~ msgid "Main repository of openSUSE 10.3 (Source packages)"
+#~ msgstr "Головне сховище для openSUSE 10.3 (джерельні пакунки)"
+
+#~ msgid "Recent drivers for wlan"
+#~ msgstr "Найновіші драйвери для wlan"
+
+#~ msgid "Repository for official updates to 10.3"
+#~ msgstr "Сховище для офіційних оновлень в 10.3"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 10.3. For experts only."
+#~ msgstr ""
+#~ "Сховище для всіх джерельних пакунків в openSUSE 10.3. Тільки для "
+#~ "експертів."
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 10.3."
+#~ msgstr "Містить найновіший стабільний випуск GNOME для openSUSE 10.3."
+
+#~ msgid "openSUSE BuildService - Drivers for Wireless LAN"
+#~ msgstr "Служба складання пакунків openSUSE - Драйвери для Wireless LAN"
+
+#~ msgid "openSUSE BuildService - X11:XGL"
+#~ msgstr "Служба складання пакунків openSUSE - X11:XGL"
+
+#~ msgid "Main repository of openSUSE 10.3 including only Open Source Software"
+#~ msgstr ""
+#~ "Головне сховище openSUSE 10.3, яке містить тільки ПЗ з відкритим кодом"
+
+#~ msgid "Main repository of openSUSE 10.3 including the debuginfo packages"
+#~ msgstr "Головне сховище openSUSE 10.3, яке містить пакунки debuginfo"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 10.3"
+#~ msgstr "Додаткове сховище openSUSE 10.3, яке містить ПЗ з закритим кодом"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 10.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+#~ "openSUSE 10.3, яке надає вам доступ до тисяч пакунків, які підтримуються "
+#~ "командою openSUSE. (Через те, що сховище має величезний розмір, його "
+#~ "додавання може зайняти багато часу. Рекомендовано мати 512 МБ операційної "
+#~ "пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під "
+#~ "час встановлення системи.)"
+
+#~ msgid ""
+#~ "The official openSUSE 10.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including RealPlayer, Opera, Java, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "Офіційне сховище openSUSE 10.3 для всіх програм з закритим кодом, які "
+#~ "підтримуються командою openSUSE: RealPlayer, Opera, Java, Flash та інших."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 10.3. For experts only."
+#~ msgstr ""
+#~ "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
+#~ "10.3. Тільки для експертів."
+
+#~ msgid "Latest KDE4 Builds"
+#~ msgstr "Найновіші версії KDE4"
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.0."
+#~ msgstr ""
+#~ "Містить найновіший стабільний випуск GNOME без супроводу для openSUSE "
+#~ "11.0."
+
+#~ msgid ""
+#~ "Updates the KDE4 desktop to the latest version (not necessarly stable)"
+#~ msgstr "Оновлює стільницю KDE4 до найновішої версії (можливо, нестабільної)"
+
+#~ msgid "openSUSE BuildService - KDE4:Factory:Desktop"
+#~ msgstr "Служба складання пакунків openSUSE - KDE4:Factory:Desktop"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.0."
+#~ msgstr ""
+#~ "В цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 11.0."
+
+#~ msgid "Main repository of openSUSE 11.0 including only Open Source Software"
+#~ msgstr ""
+#~ "Головне сховище openSUSE 11.0, яке містить лише ПЗ з відкритим кодом"
+
+#~ msgid "Main repository of openSUSE 11.0 including the debuginfo packages"
+#~ msgstr "Головне сховище openSUSE 11.0, яке містить пакунки debuginfo"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.0"
+#~ msgstr "Додаткове сховище openSUSE 11.0, яке містить ПЗ з закритим кодом"
+
+#~ msgid "Repository for official updates to 11.0"
+#~ msgstr "Сховище для офіційних оновлень в 11.0"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.0, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
+#~ "openSUSE 11.0, яке надає вам доступ до тисяч пакунків, які підтримуються "
+#~ "командою openSUSE. (Через те, що сховище має величезний розмір, його "
+#~ "додавання може тривати довго. Рекомендовано мати 512 МБ операційної "
+#~ "пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під "
+#~ "час встановлення системи.)"
+
+#~ msgid ""
+#~ "The official openSUSE 11.0 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including RealPlayer, Opera, Java, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "Офіційне сховище openSUSE 11.0 для всіх програм з закритим кодом, які "
+#~ "підтримуються командою openSUSE: RealPlayer, Opera, Java, Flash та інших."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.0. For experts only."
+#~ msgstr ""
+#~ "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
+#~ "11.0. Тільки для знавців."
