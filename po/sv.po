@@ -1,0 +1,1352 @@
+# translation of community-repositories.po to svenska
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Jonas Björk <jonas@jonasbjork.net>, 2008.
+# Jonas Svensson <jks@ekhorva.se>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: community-repositories\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-13 18:46+0200\n"
+"PO-Revision-Date: 2016-01-22 15:37+0100\n"
+"Last-Translator: Jonas Svensson <jks@ekhorva.se>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:1
+msgid "openSUSE BuildService - LXDE"
+msgstr "openSUSE BuildService - LXDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:2
+msgid "Latest LXDE release"
+msgstr "Senaste versionen av LXDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:3
+msgid ""
+"The LXDE repository in the openSUSE Build Service, which provides you with "
+"the unsupported but latest version of the LX desktop environment and "
+"software."
+msgstr ""
+"LXDE-förrådet i openSUSE Build Service som tillhandahåller den senaste, men "
+"osupporterade, versionen av skrivbordsmiljön LXDE."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:4
+msgid "openSUSE BuildService - LibreOffice"
+msgstr "openSUSE BuildService - LibreOffice"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:5
+msgid "Latest stable LibreOffice release"
+msgstr "Senaste stabila LibreOffice versionen"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:6
+msgid ""
+"Provides you with the latest stable version of LibreOffice, the Office suite "
+"that openSUSE uses."
+msgstr ""
+"Tillhandahåller den senaste stabila versionen av LibreOffice, officepaketet "
+"openSUSE använder."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:7
+msgid "openSUSE BuildService - Mozilla"
+msgstr "openSUSE BuildService - Mozilla"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:8
+msgid "Most recent builds of Mozilla Software like Firefox"
+msgstr "Senaste byggen av Mozillas mjukvara som Firefox"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:9
+msgid ""
+"Containing the latest releases of all Mozilla software, such as the popular "
+"Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
+msgstr ""
+"Innehåller de senaste versionerna av all Mozillas mjukvara. som den populära "
+"e-postklienten Thunderbird, webbläsarna Firefox och SeaMonkey."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:10
+msgid "openSUSE BuildService - Wine CVS Builds"
+msgstr "openSUSE BuildService - Wine CVS-byggen"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:11
+msgid "Snapshots of Wine CVS"
+msgstr "Snapshot av Wine CVS"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:12
+msgid ""
+"Wine is an Open Source implementation of the Windows API, so it allows you "
+"to run some Windows applications in openSUSE. This repository provides the "
+"latest CVS (development) snapshot packages of Wine."
+msgstr ""
+"Wine är en open source implementation av Windows API, så den hjälper dig att "
+"köra vissa windowsprogram i openSUSE. Det här förrådet tillhandahåller den "
+"senaste CVS-versionen (utvecklingsversionen) av Wine."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:13
+msgid "openSUSE BuildService - Games"
+msgstr "openSUSE BuildService - Spel"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:14
+msgid "A collection of action games"
+msgstr "En samling av action-spel."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:15
+msgid ""
+"Contains several action games including Open Arena (shoot 'em up), Flight "
+"Gear (flight simulator) and Torcs (3D racing simulator)."
+msgstr ""
+"Innehåller flera action-spel som Open Arena (shoot 'em up), Flight Gear "
+"(flygsimulator) och Torcs (3D racingsimulator)."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:16
+msgid "openSUSE BuildService - Drivers for webcams"
+msgstr "openSUSE BuildService - Drivrutiner för webbkameror"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:17
+msgid "Recent drivers for webcams"
+msgstr "Senaste drivrutinerna för webbkameror"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:18
+msgid "Contains recent drivers for hundreds of different webcams."
+msgstr "Innehåller drivrutiner för hundratals olika webbkameror."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:16
+msgid "openSUSE BuildService - Virtualization (VirtualBox)"
+msgstr "openSUSE BuildService - Virtualisering (VirtualBox)"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:17
+msgid "Latest builds of Virtualbox"
+msgstr "Senaste versionen av VirtualBox"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:18
+msgid ""
+"Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
+"virtualizer for x86 hardware."
+msgstr ""
+"Tillhandahåller uppdaterade byggen av VirtualBox, en "
+"öppenkällkodsvirtualiseringslösning för x86 hårdvara."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:19
+msgid "openSUSE BuildService - PHP"
+msgstr "openSUSE BuildService - PHP"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:20
+msgid "Latest updates for PHP software"
+msgstr "Senaste uppdateringarna för PHP-mjukvara"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:21
+msgid ""
+"Provides the latest packages and multiple-version builds of PHP software."
+msgstr ""
+"Tillhandahåller de senaste paketeten och flera versioner av PHP-mjukvara."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:19
+msgid "openSUSE BuildService - Database"
+msgstr "openSUSE BuildService - Databas"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:20
+msgid "Latest updates for database software"
+msgstr "Senaste uppdateringarna för databasmjukvara"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:21
+msgid "Latest updates for database software including Firebird and MySQL."
+msgstr ""
+"Senaste uppdateringarna för databasmjukvara inklusive Firebird och MySQL"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:22
+msgid "openSUSE BuildService - KDE:Extra"
+msgstr "openSUSE BuildService - KDE:Extra"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:23
+msgid "Community repository for KDE"
+msgstr "Communityförråd för KDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:24
+msgid ""
+"Provides additional KDE software maintained by the openSUSE KDE community."
+msgstr ""
+"Tillhandahåller ytterligare KDE-mjukvara underhållen av openSUSE KDE "
+"community."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:25
+msgid "openSUSE BuildService - GNOME:Apps"
+msgstr "openSUSE BuildService - GNOME:Apps"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:26
+msgid "Backports of GNOME applications"
+msgstr "Bakåtportning av GNOME-applikationer"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:27
+msgid ""
+"Updates to the GNOME software that is shipped with the distribution "
+"(backports)."
+msgstr "Uppdaterar GNOME som skickades med distributionen (bakåtportningar)"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:31
+msgid "openSUSE BuildService - Mono:Community"
+msgstr "openSUSE BuildService - Mono:Community"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:32
+msgid "Community repository for Mono applications"
+msgstr "Communityförråd för Mono-applikationer"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:33
+msgid "Updates and Additions of applications written in Mono."
+msgstr "Uppdateringar och utökningar för program skrivna i Mono."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:28
+msgid "openSUSE BuildService - devel:languages:perl"
+msgstr "openSUSE BuildService - devel:languages:perl"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:29
+msgid "Community repository for Perl modules"
+msgstr "Communityförråd för Perl-moduler"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:30
+msgid "Updates and Additions for Perl modules"
+msgstr "Uppdateringar och utökningar för Perl-moduler"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:31
+msgid "openSUSE BuildService - devel:languages:python"
+msgstr "openSUSE BuildService - devel:languages:python"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:32
+msgid "Community repository for Python modules"
+msgstr "Communityförråd för Python-moduler"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:33
+msgid "Updates and Additions for Python modules"
+msgstr "Uppdateringar och utökningar för Python-moduler"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:34
+msgid "openSUSE BuildService - filesystems"
+msgstr "openSUSE BuildService - filsystem"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:35
+msgid "Filesystem tools and FUSE-related packages"
+msgstr "Verktyg för filsystem och FUSE-relaterade paket"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
+msgid "Filesystem tools and FUSE-related packages."
+msgstr "Verktyg för filsystem och FUSE-relaterade paket."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:37
+msgid "openSUSE BuildService - Education"
+msgstr "openSUSE BuildService - utbildning"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:47
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:38
+msgid "Applications for education users"
+msgstr "Program för utbildning"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:48
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:39
+msgid ""
+"Contains several packages which might be interesting for educational use"
+msgstr "Innehåller flera paket som kan vara intressanta för utbildningssyfte"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:49
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:49
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:43
+msgid "openSUSE BuildService - KDE:KDE3"
+msgstr "openSUSE BuildService - KDE:KDE3"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:50
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:50
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:44
+msgid "Maintained KDE 3 packages"
+msgstr "Underhållna KDE 3 paket"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:51
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:51
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:45
+msgid "Provides old KDE for newer openSUSE"
+msgstr "Tillhandahåller äldre KDE för nyare openSUSE"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:1
+msgid "Main Repository (OSS)"
+msgstr "Huvudförrådet (OSS)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:2
+msgid "Main repository of openSUSE 13.1 including only Open Source Software"
+msgstr ""
+"Huvudförrådet för openSUSE 13.1, innehåller enbart open source-mjukvara"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE 13.1, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"Det stora Open Source Software (OSS) förrådet för openSUSE 13.1 som ger dig "
+"åtkomst till tusentals paket underhållna av openSUSE teamet. (På grund av "
+"dess storlek kan det ta ett tag att lägga till förrådet. 512 MB RAM eller en "
+"SWAP-partition är mycket rekommenderat om du vill ha tillgång till detta "
+"förråd under installationen.)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:4
+msgid "Main Repository (NON-OSS)"
+msgstr "Huvudförrådet (NON-OSS)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
+msgstr "Icke-open source tilläggsförråd för openSUSE 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:6
+msgid ""
+"The official openSUSE 13.1 repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgstr ""
+"Det officiella openSUSE 13.1 förrådet för all icke-open source mjukvara som "
+"underhålls av openSUSE-teamet. Inkluderar Opera, Java, Flash med mera."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:7
+msgid "Main Repository (Sources)"
+msgstr "Huvudförråd (källkod)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:8
+msgid "Main repository of openSUSE 13.1 (Source packages)"
+msgstr "Huvudförråd för openSUSE 13.1 (källkodspaket)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE 13.1. For experts only."
+msgstr "Förrådet med alla källkodspaket i openSUSE 13.1. För experter."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:10
+msgid "Main Repository (DEBUG)"
+msgstr "Huvudförrådet (DEBUG)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:11
+msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
+msgstr "Huvudförrådet för openSUSE 13.1, innehåller debuginfo-paketen"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE 13.1. For experts only."
+msgstr ""
+"Detta förråd är användbart för dem som vill avlusa program i openSUSE 13.1. "
+"Enbart för experter."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:13
+msgid "Main Update Repository"
+msgstr "Huvuduppderingsförråd"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:14
+msgid "Repository for official updates to 13.1"
+msgstr "Förråd för officiella uppdateringar för 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"13.1."
+msgstr ""
+"I det här förrådet hittar du säkerhets- och underhållsuppdateringar för "
+"openSUSE 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:16
+msgid "Update Repository (Non-Oss)"
+msgstr "Uppdateringsförråd (DEBUG)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:17
+msgid "Repository for official non free updates to 13.1"
+msgstr "Förråd för officiella uppdateringar för 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:18
+msgid "Update Repository (DEBUG)"
+msgstr "Uppdateringsförråd (DEBUG)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:19
+msgid "Update repository of openSUSE 13.1 debuginfo packages"
+msgstr "Uppdateringsförråd för openSUSE 13.1, innehåller debuginfo-paketen"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:46
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:40
+msgid "openSUSE BuildService - Java:packages"
+msgstr "openSUSE BuildService -  Java:packages"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:47
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:41
+msgid "Bleeding-edge Java packages"
+msgstr "Bleeding-edge Javapaket"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:48
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:42
+msgid "Provides uptodate Java packages (Factory backports)"
+msgstr "Tillhandahåller uppdaterade Java paket (Factory backports)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:2
+msgid "Main repository of openSUSE 13.2 including only Open Source Software"
+msgstr ""
+"Huvudförrådet för openSUSE 13.1, innehåller enbart open source-mjukvara"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"Det stora Open Source Software (OSS) förrådet för openSUSE 13.2 som ger dig "
+"åtkomst till tusentals paket underhållna av openSUSE teamet. (På grund av "
+"dess storlek kan det ta ett tag att lägga till förrådet. 512 MB RAM eller en "
+"SWAP-partition är mycket rekommenderat om du vill ha tillgång till detta "
+"förråd under installationen.)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
+msgstr "Icke-open source tilläggsförråd för openSUSE 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:6
+msgid ""
+"The official openSUSE 13.2 repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgstr ""
+"Det officiella openSUSE 13.2 förrådet för all icke-open source mjukvara som "
+"underhålls av openSUSE-teamet. Inkluderar Opera, Java, Flash med mera."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:8
+msgid "Main repository of openSUSE 13.2 (Source packages)"
+msgstr "Huvudförråd för openSUSE 13.1 (källkodspaket)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE 13.2. For experts only."
+msgstr "Förrådet med alla källkodspaket i openSUSE 13.2. För experter."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:11
+msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
+msgstr "Huvudförrådet för openSUSE 13.2 innehåller debuginfo-paketen"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE 13.2. For experts only."
+msgstr ""
+"Detta förråd är användbart för dem som vill avlusa program i openSUSE 13.2. "
+"Enbart för experter."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:14
+msgid "Repository for official updates to 13.2"
+msgstr "Förråd för officiella uppdateringar för 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"13.2."
+msgstr ""
+"I det här förrådet hittar du säkerhets- och underhållsuppdateringar för "
+"openSUSE 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:17
+msgid "Repository for official non free updates to 13.2"
+msgstr "Förråd för officiella uppdateringar för 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:19
+msgid "Update repository of openSUSE 13.2 debuginfo packages"
+msgstr "Huvudförrådet för openSUSE 13.2 innehåller debuginfo-paketen"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:2
+msgid ""
+"Main repository of openSUSE Tumbleweed including only Open Source Software"
+msgstr ""
+"Huvudförrådet för openSUSE Tumbleweed , innehåller enbart open source-"
+"mjukvara"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"Det stora Open Source Software (OSS) förrådet för openSUSE som ger dig "
+"åtkomst till tusentals paket underhållna av openSUSE teamet. (På grund av "
+"dess storlek kan det ta ett tag att lägga till förrådet. 512 MB RAM eller en "
+"SWAP-partition är mycket rekommenderat om du vill ha tillgång till detta "
+"förråd under installationen.)"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
+msgstr "Icke-open source tilläggsförråd för openSUSE Tumbleweed"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:6
+msgid ""
+"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Flash, and more."
+msgstr ""
+"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:8
+msgid "Main repository of openSUSE Tumbleweed (Source packages)"
+msgstr "Huvudförråd för openSUSE Tumbleweed (källkodspaket)"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE Tumbleweed. For experts "
+"only."
+msgstr "Förrådet med alla källkodspaket i openSUSE Tumbleweed. För experter."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:11
+msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
+msgstr "Huvudförrådet för openSUSE Tumbleweed innehåller debuginfo-paketen"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Tumbleweed. For experts only."
+msgstr ""
+"Detta förråd är användbart för dem som vill avlusa program i openSUSE "
+"Tumbleweed. Enbart för experter."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:14
+msgid "Official update repository for Tumbleweed"
+msgstr "Förråd för officiella uppdateringar av Tumbleweed"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:15
+msgid ""
+"This repository provides urgent updates until they get integrated into the "
+"main repositories."
+msgstr ""
+"Detta förråd tillhandahåller kritiska uppdateringar fram tills de blivit "
+"integrerade i huvudförrådet"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:2
+msgid ""
+"Main repository of openSUSE Leap 42.1 including only Open Source Software"
+msgstr ""
+"Huvudförrådet för openSUSE Leap 42.1 innehåller enbart open source-mjukvara"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
+"you access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"Det stora Open Source Software (OSS) förrådet för openSUSE som ger dig "
+"åtkomst till tusentals paket underhållna av openSUSE teamet."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
+msgstr "Icke-open source tilläggsförråd för openSUSE Leap 42.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
+msgid ""
+"The official openSUSE Leap 42.1 repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam, Flash, and "
+"more."
+msgstr ""
+"Det officiella openSUSE Leap 42.1 förrådet för all icke-open source mjukvara "
+"som underhålls av openSUSE-teamet. Inkluderar Opera, Java, Flash med mera."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
+msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
+msgstr "Huvudförråd för openSUSE Leap 42.1 (källkodspaket)"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE Leap 42.1. For experts "
+"only."
+msgstr "Förrådet med alla källkodspaket i openSUSE Leap 42.1. För experter."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:11
+msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
+msgstr "Huvudförrådet för openSUSE Leap 42.1, innehåller debuginfo-paketen"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap 42.1. For experts only."
+msgstr ""
+"Detta förråd är användbart för dem som vill avlusa program i openSUSE Leap "
+"42.1. Enbart för experter."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:14
+msgid "Repository for official updates to openSUSE Leap 42.1"
+msgstr "Förråd för officiella uppdateringar av openSUSE Leap 42.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap 42.1."
+msgstr ""
+"I det här förrådet hittar du säkerhets- och underhållsuppdateringar för "
+"openSUSE Leap 42.1."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:17
+msgid "Repository for official non free updates to openSUSE Leap 42.1"
+msgstr "Förråd för officiella icke-fria uppdateringar av openSUSE Leap 42.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:19
+msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
+msgstr "Huvudförrådet för openSUSE Leap 42.1, innehåller debuginfo-paketen"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
+msgid "Untested Updates"
+msgstr "Icke testade uppdateringar"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
+msgid "Repository of not yet tested updates"
+msgstr "Förråd för icke testade uppdateringar"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+"Förråd innehållande säkerhets- och underhållsuppdateringar vars kvalitet "
+"fortfarande behöver testas. Lägg endast till detta förråd om du deltar i "
+"utprovningen av nya openSUSE-uppdateringar."
+
+#, fuzzy
+#~ msgid "openSUSE BuildService - Banshee"
+#~ msgstr "openSUSE BuildService - Spel"
+
+#, fuzzy
+#~ msgid "Repository for official updates to 12.2"
+#~ msgstr "Förråd för officiella uppdateringar för 11.0"
+
+#, fuzzy
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.2."
+#~ msgstr ""
+#~ "I det här förrådet hittar du säkerhets- och underhållsuppdateringar för "
+#~ "openSUSE 11.0"
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 12.3 including only Open Source Software"
+#~ msgstr ""
+#~ "Huvudförrådet för openSUSE 11.0, innehåller enbart open source-mjukvara"
+
+#, fuzzy
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Det stora Open Source Software (OSS) förrådet för openSUSE 11.0 som ger "
+#~ "dig åtkomst till tusentals paket underhållna av openSUSE teamet. (På "
+#~ "grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB "
+#~ "RAM eller en SWAP-partition är mycket rekommenderat om du vill ha "
+#~ "tillgång till detta förråd under installationen.)"
+
+#, fuzzy
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 12.3"
+#~ msgstr "Icke-open source tilläggsförråd för openSUSE 11.0"
+
+#, fuzzy
+#~ msgid ""
+#~ "The official openSUSE 12.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Det officiella openSUSE 11.0 förrådet för all icke-open source mjukvara "
+#~ "som underhålls av openSUSE-teamet. Inkluderar RealPlayer, Opera, Java, "
+#~ "Flash med mera."
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 12.3 (Source packages)"
+#~ msgstr "Huvudförråd för openSUSE 10.3 (källkodspaket)"
+
+#, fuzzy
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 12.3. For experts only."
+#~ msgstr "Förrådet med alla källkodspaket i openSUSE 10.3. För experter."
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 12.3 including the debuginfo packages"
+#~ msgstr "Huvudförrådet för openSUSE 11.0, innehåller debuginfo-paketen"
+
+#, fuzzy
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 12.3. For experts only."
+#~ msgstr ""
+#~ "Detta förråd är användbart för dem som vill avlusa program i openSUSE "
+#~ "11.0. Enbart för experter."
+
+#, fuzzy
+#~ msgid "Repository for official updates to 12.3"
+#~ msgstr "Förråd för officiella uppdateringar för 11.0"
+
+#, fuzzy
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.3."
+#~ msgstr ""
+#~ "I det här förrådet hittar du säkerhets- och underhållsuppdateringar för "
+#~ "openSUSE 11.0"
+
+#, fuzzy
+#~ msgid "Update repository of openSUSE 12.3 debuginfo packages"
+#~ msgstr "Huvudförrådet för openSUSE 11.1, innehåller debuginfo-paketen"
+
+#, fuzzy
+#~ msgid "openSUSE BuildService - KDE:UpdatedApps"
+#~ msgstr "openSUSE BuildService - GNOME:STABLE"
+
+#, fuzzy
+#~ msgid "Updated versions of KDE applications"
+#~ msgstr "Bakåtportning av KDE-applikationer"
+
+#~ msgid ""
+#~ "Updates to the KDE software that is shipped with the distribution "
+#~ "(backports)."
+#~ msgstr "Uppdaterar KDE som skickades med distributionen (bakåtportningar)"
+
+#, fuzzy
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.1, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Det stora Open Source Software (OSS) förrådet för openSUSE 11.0 som ger "
+#~ "dig åtkomst till tusentals paket underhållna av openSUSE teamet. (På "
+#~ "grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB "
+#~ "RAM eller en SWAP-partition är mycket rekommenderat om du vill ha "
+#~ "tillgång till detta förråd under installationen.)"
+
+#, fuzzy
+#~| msgid ""
+#~| "In this repository you find security and maintenance updates to openSUSE "
+#~| "11.1."
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.4."
+#~ msgstr ""
+#~ "I detta förråd hittar du säkerhets- och underhållsuppdateringar för "
+#~ "openSUSE 11.1"
+
+#, fuzzy
+#~| msgid "Main Repository (Sources)"
+#~ msgid "Main Repository (Contrib)"
+#~ msgstr "Huvudförråd (Källkod)"
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 11.4 (Source packages)"
+#~ msgstr "Huvudförråd för openSUSE 10.3 (källkodspaket)"
+
+#, fuzzy
+#~ msgid "Repository for community contributions to 11.4"
+#~ msgstr "Förråd för officiella uppdateringar för 11.0"
+
+#, fuzzy
+#~| msgid "Repository for official updates to 11.1"
+#~ msgid "Repository for official updates to 11.4"
+#~ msgstr "Förrådet med officiella uppdateringar för 11.1"
+
+#, fuzzy
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.4. For experts only."
+#~ msgstr "Förrådet med alla källkodspaket i openSUSE 10.3. För experter."
+
+#, fuzzy
+#~| msgid ""
+#~| "Main repository of openSUSE 11.1 including only Open Source Software"
+#~ msgid "Main repository of openSUSE 11.4 including only Open Source Software"
+#~ msgstr ""
+#~ "Huvudförrådet för openSUSE 11.1, innehåller enbart open source-mjukvara"
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 11.1 including the debuginfo packages"
+#~ msgid "Main repository of openSUSE 11.4 including the debuginfo packages"
+#~ msgstr "Huvudförrådet för openSUSE 11.1, innehåller debuginfo-paketen"
+
+#, fuzzy
+#~| msgid "Non-Open Source Software Addon repository for openSUSE 11.1"
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.4"
+#~ msgstr "Icke-open source tilläggsförråd för openSUSE 11.1"
+
+#, fuzzy
+#~| msgid ""
+#~| "The big Open Source Software (OSS) repository for openSUSE 11.1, giving "
+#~| "you access to thousands of packages maintained by the openSUSE team. "
+#~| "(Due to the size of the repository, adding it may take some time. 512 MB "
+#~| "of RAM or an enabled SWAP partition are highly recommended in case you "
+#~| "want to access this repository at installation time.)"
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.4, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Det stora Open Source Software (OSS) förrådet för openSUSE 11.1 som ger "
+#~ "dig åtkomst till tusentals paket underhållna av openSUSE-teamet. (På "
+#~ "grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB "
+#~ "RAM eller en SWAP-partition är mycket rekommenderat om du vill ha "
+#~ "tillgång till detta förråd under installationen.)"
+
+#, fuzzy
+#~ msgid ""
+#~ "The official openSUSE 11.4 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Det officiella openSUSE 11.1 förrådet för all icke-open source mjukvara "
+#~ "som underhålls av openSUSE-teamet. Inkluderar RealPlayer, Opera, Java, "
+#~ "Flash med mera."
+
+#, fuzzy
+#~| msgid ""
+#~| "This repository is useful for those that want to debug applications on "
+#~| "openSUSE 11.1. For experts only."
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.4. For experts only."
+#~ msgstr ""
+#~ "Detta förråd är användbart för dem som vill avlusa programvara i openSUSE "
+#~ "11.1. Enbart för experter."
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 11.1 including the debuginfo packages"
+#~ msgid "Update repository of openSUSE 11.4 debuginfo packages"
+#~ msgstr "Huvudförrådet för openSUSE 11.1, innehåller debuginfo-paketen"
+
+#~ msgid "Backport of latest stable GNOME"
+#~ msgstr "Bakåtportning av den senast stabila GNOME"
+
+#, fuzzy
+#~| msgid ""
+#~| "In this repository you find security and maintenance updates to openSUSE "
+#~| "10.3."
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.3."
+#~ msgstr ""
+#~ "I det här förrådet hittar du säkerhets och underhållsuppdateringar för "
+#~ "openSUSE 10.3"
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 10.3 (Source packages)"
+#~ msgid "Main repository of openSUSE 11.3 (Source packages)"
+#~ msgstr "Huvudförråd för openSUSE 10.3 (källkodspaket)"
+
+#, fuzzy
+#~ msgid "Repository for community contributions to 11.3"
+#~ msgstr "Förråd för officiella uppdateringar för 11.0"
+
+#, fuzzy
+#~| msgid "Repository for official updates to 10.3"
+#~ msgid "Repository for official updates to 11.3"
+#~ msgstr "Förråd för officiella uppdateringar av 10.3"
+
+#, fuzzy
+#~| msgid ""
+#~| "The repository of all source packages in openSUSE 10.3. For experts only."
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.3. For experts only."
+#~ msgstr "Förrådet med alla källkodspaket i openSUSE 10.3. För experter."
+
+#, fuzzy
+#~| msgid ""
+#~| "This provides the latest stable, unsupported release of GNOME for "
+#~| "openSUSE 10.3."
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.3."
+#~ msgstr ""
+#~ "Tillhandahåller den senaste stabila, osupporterade, versionen av GNOME "
+#~ "för openSUSE 10.3."
+
+#, fuzzy
+#~| msgid "openSUSE BuildService - GNOME:STABLE"
+#~ msgid "openSUSE BuildService - GNOME:STABLE:2.30"
+#~ msgstr "openSUSE BuildService - GNOME:STABLE"
+
+#, fuzzy
+#~| msgid ""
+#~| "Main repository of openSUSE 10.3 including only Open Source Software"
+#~ msgid "Main repository of openSUSE 11.3 including only Open Source Software"
+#~ msgstr ""
+#~ "Huvudförrådet för openSUSE 10.3, innehåller enbart open source-mjukvara"
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 10.3 including the debuginfo packages"
+#~ msgid "Main repository of openSUSE 11.3 including the debuginfo packages"
+#~ msgstr "Huvudförrådet för openSUSE 10.3, innehåller debuginfo-paketeten "
+
+#, fuzzy
+#~| msgid "Non-Open Source Software Addon repository for openSUSE 10.3"
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.3"
+#~ msgstr "Icke-open source tilläggsförråd för openSUSE 10.3"
+
+#, fuzzy
+#~| msgid ""
+#~| "The big Open Source Software (OSS) repository for openSUSE 10.3, giving "
+#~| "you access to thousands of packages maintained by the openSUSE team. "
+#~| "(Due to the size of the repository, adding it may take some time. 512 MB "
+#~| "of RAM or an enabled SWAP partition are highly recommended in case you "
+#~| "want to access this repository at installation time.)"
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Det stora Open Source Software (OSS) förrådet för openSUSE 10.3 som ger "
+#~ "dig åtkomst till tusentals paket underhållna av openSUSE-teamet. (På "
+#~ "grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB "
+#~ "RAM eller en SWAP-partition är mycket rekommenderat om du vill ha "
+#~ "tillgång till detta förråd under installationen.)"
+
+#, fuzzy
+#~ msgid ""
+#~ "The official openSUSE 11.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Det officiella openSUSE 11.1 förrådet för all icke-open source mjukvara "
+#~ "som underhålls av openSUSE-teamet. Inkluderar RealPlayer, Opera, Java, "
+#~ "Flash med mera."
+
+#, fuzzy
+#~| msgid ""
+#~| "This repository is useful for those that want to debug applications on "
+#~| "openSUSE 10.3. For experts only."
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.3. For experts only."
+#~ msgstr ""
+#~ "Detta förråd är användbart för dem som vill avlusa programvara i openSUSE "
+#~ "10.3. Enbart för experter."
+
+#~ msgid "Backports of KDE applications"
+#~ msgstr "Bakåtportning av KDE-applikationer"
+
+#, fuzzy
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.2."
+#~ msgstr ""
+#~ "I det här förrådet hittar du säkerhets- och underhållsuppdateringar för "
+#~ "openSUSE 11.0"
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 11.2 (Source packages)"
+#~ msgstr "Huvudförråd för openSUSE 10.3 (källkodspaket)"
+
+#, fuzzy
+#~ msgid "Repository for community contributions to 11.2"
+#~ msgstr "Förråd för officiella uppdateringar för 11.0"
+
+#, fuzzy
+#~ msgid "Repository for official updates to 11.2"
+#~ msgstr "Förråd för officiella uppdateringar för 11.0"
+
+#, fuzzy
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.2. For experts only."
+#~ msgstr "Förrådet med alla källkodspaket i openSUSE 10.3. För experter."
+
+#, fuzzy
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.2."
+#~ msgstr ""
+#~ "Tillhandahåller den senaste stabila, osupporterade, versionen av GNOME "
+#~ "för openSUSE 11.0"
+
+#, fuzzy
+#~| msgid "openSUSE BuildService - GNOME:STABLE"
+#~ msgid "openSUSE BuildService - GNOME:STABLE:2.28"
+#~ msgstr "openSUSE BuildService - GNOME:STABLE"
+
+#~ msgid "openSUSE BuildService - KDE:Backports"
+#~ msgstr "openSUSE BuildService - KDE:Bakåtportningar"
+
+#, fuzzy
+#~| msgid "openSUSE BuildService - KDE:Community"
+#~ msgid "openSUSE BuildService - KDE:KDE4:Community"
+#~ msgstr "openSUSE BuildService - KDE:Community"
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 11.2 including only Open Source Software"
+#~ msgstr ""
+#~ "Huvudförrådet för openSUSE 11.0, innehåller enbart open source-mjukvara"
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 11.2 including the debuginfo packages"
+#~ msgstr "Huvudförrådet för openSUSE 11.0, innehåller debuginfo-paketen"
+
+#, fuzzy
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.2"
+#~ msgstr "Icke-open source tilläggsförråd för openSUSE 11.0"
+
+#, fuzzy
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.2, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Det stora Open Source Software (OSS) förrådet för openSUSE 11.0 som ger "
+#~ "dig åtkomst till tusentals paket underhållna av openSUSE teamet. (På "
+#~ "grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB "
+#~ "RAM eller en SWAP-partition är mycket rekommenderat om du vill ha "
+#~ "tillgång till detta förråd under installationen.)"
+
+#, fuzzy
+#~ msgid ""
+#~ "The official openSUSE 11.2 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "Det officiella openSUSE 11.0 förrådet för all icke-open source mjukvara "
+#~ "som underhålls av openSUSE-teamet. Inkluderar RealPlayer, Opera, Java, "
+#~ "Flash med mera."
+
+#, fuzzy
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.2. For experts only."
+#~ msgstr ""
+#~ "Detta förråd är användbart för dem som vill avlusa program i openSUSE "
+#~ "11.0. Enbart för experter."
+
+#, fuzzy
+#~ msgid "Repository for community contributions to 12.1"
+#~ msgstr "Förråd för officiella uppdateringar för 11.0"
+
+#~ msgid "Latest XFCE release"
+#~ msgstr "Senaste versionen av XFCE"
+
+#~ msgid ""
+#~ "The XFCE repository in the openSUSE Build Service, which provides you "
+#~ "with the unsupported but latest version of the XFCE desktop environment "
+#~ "and software."
+#~ msgstr ""
+#~ "XFCE-förrådet i openSUSE Build Service som tillhandahåller den senaste, "
+#~ "men osupporterade, versionen av skrivbordsmiljön XFCE."
+
+#~ msgid "openSUSE BuildService - XFCE"
+#~ msgstr "openSUSE BuildService - XFCE"
+
+#, fuzzy
+#~| msgid ""
+#~| "This provides the latest stable, unsupported release of GNOME for "
+#~| "openSUSE 11.1."
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.4."
+#~ msgstr ""
+#~ "Detta förråd tillhandahåller den senaste stabila, osupporterade, "
+#~ "versionen av GNOME för openSUSE 11.1"
+
+#~ msgid "Community repository for GNOME"
+#~ msgstr "Communityförråd för GNOME"
+
+#~ msgid "Latest Compiz release"
+#~ msgstr "Senaste versionen av Compiz"
+
+#~ msgid "Latest builds of Qemu"
+#~ msgstr "Senaste versionerna av Qemu"
+
+#~ msgid "Latest updates for postfix, exim and tools around them."
+#~ msgstr "Senaste uppdateringarna för postfix, exim och verktyg kring dem."
+
+#~ msgid ""
+#~ "Provides additional KDE software maintained by the openSUSE KDE "
+#~ "community. This includes filelight, d3lphin, kooldock, and much more."
+#~ msgstr ""
+#~ "Tillhandahåller ytterligare KDE-mjukvara underhållen av openSUSE KDE "
+#~ "community. Här hittar du filelight, d3lphin, kooldock och mycket mer."
+
+#~ msgid ""
+#~ "Provides up-to-date builds of QEMU, a generic and open source machine "
+#~ "emulator and virtualizer."
+#~ msgstr ""
+#~ "Tillhandahåller en uppdaterad bygge av Qemu, en generell och "
+#~ "öppenkällkods maskinemulator och virtualiserare."
+
+#~ msgid ""
+#~ "Providing the latest updates for postfix, exim and tools around them."
+#~ msgstr ""
+#~ "Tillhandahåller de senaste uppdateringarna för postfix, exim och "
+#~ "verktygen kring dem."
+
+#~ msgid ""
+#~ "This repository contains the latest software that brings you composite "
+#~ "effects and technology. It includes Xgl, Compiz, and Compiz Fusion "
+#~ "packages maintained by the openSUSE Community."
+#~ msgstr ""
+#~ "Det här förrådet tillhandahåller den senaste mjukvaran för "
+#~ "skrivbordseffekter och teknik. Här hittar du Xgl, Compiz och Compiz "
+#~ "Fusion paket underhållna av openSUSE-communityn."
+
+#~ msgid "openSUSE BuildService - GNOME:Community"
+#~ msgstr "openSUSE BuildService - GNOME:Community"
+
+#~ msgid "openSUSE BuildService - GNOME:STABLE"
+#~ msgstr "openSUSE BuildService - GNOME:STABLE"
+
+#~ msgid "openSUSE BuildService - KDE:Community"
+#~ msgstr "openSUSE BuildService - KDE:Community"
+
+#~ msgid "openSUSE BuildService - Mail Server"
+#~ msgstr "openSUSE BuildService - E-postserver"
+
+#~ msgid "openSUSE BuildService - Virtualization (QEMU)"
+#~ msgstr "openSUSE BuildService - Virtualisering (QEMU)"
+
+#~ msgid "openSUSE BuildService - X11:Compiz"
+#~ msgstr "openSUSE BuildService - X11:Compiz"
+
+#~ msgid "Contains up-to-date drivers for Wireless LAN."
+#~ msgstr "Innehåller uppdaterade drivrutiner för trådlösa nätverkskort (WLAN)"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "10.3."
+#~ msgstr ""
+#~ "I det här förrådet hittar du säkerhets och underhållsuppdateringar för "
+#~ "openSUSE 10.3"
+
+#~ msgid "Main repository of openSUSE 10.3 (Source packages)"
+#~ msgstr "Huvudförråd för openSUSE 10.3 (källkodspaket)"
+
+#~ msgid "Recent drivers for wlan"
+#~ msgstr "Senaste drivrutinerna för WLAN"
+
+#~ msgid "Repository for official updates to 10.3"
+#~ msgstr "Förråd för officiella uppdateringar av 10.3"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 10.3. For experts only."
+#~ msgstr "Förrådet med alla källkodspaket i openSUSE 10.3. För experter."
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 10.3."
+#~ msgstr ""
+#~ "Tillhandahåller den senaste stabila, osupporterade, versionen av GNOME "
+#~ "för openSUSE 10.3."
+
+#~ msgid "openSUSE BuildService - Drivers for Wireless LAN"
+#~ msgstr "openSUSE BuildService - Drivrutiner för trådlösa nätverk (WLAN)"
+
+#~ msgid "openSUSE BuildService - X11:XGL"
+#~ msgstr "openSUSE BuildService - X11:XGL"
+
+#~ msgid "Main repository of openSUSE 10.3 including only Open Source Software"
+#~ msgstr ""
+#~ "Huvudförrådet för openSUSE 10.3, innehåller enbart open source-mjukvara"
+
+#~ msgid "Main repository of openSUSE 10.3 including the debuginfo packages"
+#~ msgstr "Huvudförrådet för openSUSE 10.3, innehåller debuginfo-paketeten "
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 10.3"
+#~ msgstr "Icke-open source tilläggsförråd för openSUSE 10.3"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 10.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Det stora Open Source Software (OSS) förrådet för openSUSE 10.3 som ger "
+#~ "dig åtkomst till tusentals paket underhållna av openSUSE-teamet. (På "
+#~ "grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB "
+#~ "RAM eller en SWAP-partition är mycket rekommenderat om du vill ha "
+#~ "tillgång till detta förråd under installationen.)"
+
+#~ msgid ""
+#~ "The official openSUSE 10.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including RealPlayer, Opera, Java, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "Det officiella openSUSE 10.3 förrådet för all icke-open source mjukvara "
+#~ "som underhålls av openSUSE-teamet. Inkluderar RealPlayer, Opera, Java, "
+#~ "Flash med mera."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 10.3. For experts only."
+#~ msgstr ""
+#~ "Detta förråd är användbart för dem som vill avlusa programvara i openSUSE "
+#~ "10.3. Enbart för experter."
+
+#~ msgid "Latest KDE4 Builds"
+#~ msgstr "Senaste KDE4 byggena"
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.0."
+#~ msgstr ""
+#~ "Tillhandahåller den senaste stabila, osupporterade, versionen av GNOME "
+#~ "för openSUSE 11.0"
+
+#~ msgid ""
+#~ "Updates the KDE4 desktop to the latest version (not necessarly stable)"
+#~ msgstr ""
+#~ "Uppdaterar skrivbordet KDE4 till den senaste versionen (inte alltid "
+#~ "stabilt)"
+
+#~ msgid "openSUSE BuildService - KDE4:Factory:Desktop"
+#~ msgstr "openSUSE BuildService - KDE4:Factory:Desktop"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.0."
+#~ msgstr ""
+#~ "I det här förrådet hittar du säkerhets- och underhållsuppdateringar för "
+#~ "openSUSE 11.0"
+
+#~ msgid "Main repository of openSUSE 11.0 including only Open Source Software"
+#~ msgstr ""
+#~ "Huvudförrådet för openSUSE 11.0, innehåller enbart open source-mjukvara"
+
+#~ msgid "Main repository of openSUSE 11.0 including the debuginfo packages"
+#~ msgstr "Huvudförrådet för openSUSE 11.0, innehåller debuginfo-paketen"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.0"
+#~ msgstr "Icke-open source tilläggsförråd för openSUSE 11.0"
+
+#~ msgid "Repository for official updates to 11.0"
+#~ msgstr "Förråd för officiella uppdateringar för 11.0"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.0, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "Det stora Open Source Software (OSS) förrådet för openSUSE 11.0 som ger "
+#~ "dig åtkomst till tusentals paket underhållna av openSUSE teamet. (På "
+#~ "grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB "
+#~ "RAM eller en SWAP-partition är mycket rekommenderat om du vill ha "
+#~ "tillgång till detta förråd under installationen.)"
+
+#~ msgid ""
+#~ "The official openSUSE 11.0 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including RealPlayer, Opera, Java, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "Det officiella openSUSE 11.0 förrådet för all icke-open source mjukvara "
+#~ "som underhålls av openSUSE-teamet. Inkluderar RealPlayer, Opera, Java, "
+#~ "Flash med mera."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.0. For experts only."
+#~ msgstr ""
+#~ "Detta förråd är användbart för dem som vill avlusa program i openSUSE "
+#~ "11.0. Enbart för experter."

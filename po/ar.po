@@ -1,0 +1,1310 @@
+# translation of community-repositories.ar.po to
+# Feras Ahmed <ferasodh@gmail.com>, 2008.
+# Mohammad Alhargan <malham1@gmail.com>, 2011.
+# mohammad <malham1@gmail.com>, 2012.
+# Mohammad Alhargan <malham1@hotmail.com>, 2012.
+# محمد الحرقان <malham1@gmail.com>, 2013.
+# malhargan <malham1@gmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: community-repositories.ar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-13 18:46+0200\n"
+"PO-Revision-Date: 2015-06-01 14:39+0300\n"
+"Last-Translator: malhargan <malham1@gmail.com>\n"
+"Language-Team: سوزي\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:1
+msgid "openSUSE BuildService - LXDE"
+msgstr "خدمة بناء أوبن سوزي-- LXDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:2
+msgid "Latest LXDE release"
+msgstr "إخر نسخة من LXDE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:3
+msgid ""
+"The LXDE repository in the openSUSE Build Service, which provides you with "
+"the unsupported but latest version of the LX desktop environment and "
+"software."
+msgstr ""
+"مستودع LXDE في أوبن سوزي خدمة البناء، مما يوفر لك استخدام الإصدار غير معتمد "
+"ولكن أحدث LX بيئة سطح المكتب والبرامج."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:4
+msgid "openSUSE BuildService - LibreOffice"
+msgstr "خدمة بناء أوبن سوزي-- ليبر أوفيس"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:5
+msgid "Latest stable LibreOffice release"
+msgstr "أحدث إصداره مستقرة من ليبريوفيسي"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:6
+msgid ""
+"Provides you with the latest stable version of LibreOffice, the Office suite "
+"that openSUSE uses."
+msgstr ""
+"يزودك بأحدث نسخة مستقرة من ليبريوفيسي، المكتب الرئيسي المستخدم في أوبن سوزي."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:7
+msgid "openSUSE BuildService - Mozilla"
+msgstr "خدمة بناء أوبن سوزي-- موزيلا"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:8
+msgid "Most recent builds of Mozilla Software like Firefox"
+msgstr "آخر برامج موزيريلا مثل فيرفكس"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:9
+msgid ""
+"Containing the latest releases of all Mozilla software, such as the popular "
+"Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
+msgstr ""
+"يحتوي على أحدث الإصدارات من جميع برمجيات موزيلا، مثل ثندربيرد (عميل البريد)، "
+"وفيرفكس و SeaMonkey (متصفحات الويب)."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:10
+msgid "openSUSE BuildService - Wine CVS Builds"
+msgstr "خدمة بناء اوبن سوزي لخدمات Wine لتشغيل برامج الوندوز"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:11
+msgid "Snapshots of Wine CVS"
+msgstr "لقطات من Wine CVS"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:12
+msgid ""
+"Wine is an Open Source implementation of the Windows API, so it allows you "
+"to run some Windows applications in openSUSE. This repository provides the "
+"latest CVS (development) snapshot packages of Wine."
+msgstr ""
+"برنامج Wine حر المصدر لتنفيذ اوامر يندوز API ، بحيث تسمح بتشغيل بعض تطبيقات "
+"ويندوز في اوبن سوزي. ويوفر هذا المستودع أحدث CVS و(تطوير) حزم Wine."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:13
+msgid "openSUSE BuildService - Games"
+msgstr "خدمة بناء أوبن سوزي-- ألعاب"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:14
+msgid "A collection of action games"
+msgstr "مجموعة من العاب الاثارة"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:15
+msgid ""
+"Contains several action games including Open Arena (shoot 'em up), Flight "
+"Gear (flight simulator) and Torcs (3D racing simulator)."
+msgstr ""
+"يحتوي على العديد من الألعاب المثيرة، بما في ذلك الساحة المفتوحة (shoot 'em "
+"up)، رحلة جير (جهاز محاكاة الطيران) وتركس (محاكاة سباقات 3 الأبعاد)."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:16
+msgid "openSUSE BuildService - Drivers for webcams"
+msgstr "خدمة بناء أوبن سوزي-- تعريف كاميرات الويب"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:17
+msgid "Recent drivers for webcams"
+msgstr "التعريفات الحديثة لكاميرا الانترنت"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:18
+msgid "Contains recent drivers for hundreds of different webcams."
+msgstr "يتضمن التعريف الاخير لمئات من كاميرات الويب المختلفة."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:16
+msgid "openSUSE BuildService - Virtualization (VirtualBox)"
+msgstr "خدمة بناء اوبن سوزي لخدمات المحاكاة الافتراضية (Virtualbox)"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:17
+msgid "Latest builds of Virtualbox"
+msgstr "آخر نسخة من Virtualbox"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:18
+msgid ""
+"Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
+"virtualizer for x86 hardware."
+msgstr ""
+"يوفر أحدث اصدارات VirtualBox، ومحاكي حر المصدر كامل للاغراض العامة لاجهزة "
+"x86."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:19
+msgid "openSUSE BuildService - PHP"
+msgstr "خدمة بناء أوبن سوزي-- PHP"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:20
+msgid "Latest updates for PHP software"
+msgstr "آخر تحديث لبرامج PHP"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:21
+msgid ""
+"Provides the latest packages and multiple-version builds of PHP software."
+msgstr "يوفر أحدث الحزم ونسخ متعددة ببرمجيات مبنية على PHP."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:19
+msgid "openSUSE BuildService - Database"
+msgstr "خدمة بناء أوبن سوزي-- قاعدة البيانات"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:20
+msgid "Latest updates for database software"
+msgstr "آخر تحديث لقواعد البيانات"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:21
+msgid "Latest updates for database software including Firebird and MySQL."
+msgstr "آخر تحديث لقواعد البيانات متضمن Firebird و MySQL."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:22
+msgid "openSUSE BuildService - KDE:Extra"
+msgstr "خدمة بناء أوبن سوزي-- كدي:إضافي"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:23
+msgid "Community repository for KDE"
+msgstr "مستودع مجتمع كدي"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:24
+msgid ""
+"Provides additional KDE software maintained by the openSUSE KDE community."
+msgstr "يوفر برامج كدي الإضافية التي يحتفظ بها مجتمع أوبن سوزي لكدي."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:25
+msgid "openSUSE BuildService - GNOME:Apps"
+msgstr "خدمة بناء أوبن سوزي-- تطبيقات:جنوم"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:26
+msgid "Backports of GNOME applications"
+msgstr "تطبيقات جنوم المستقرة"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:27
+msgid ""
+"Updates to the GNOME software that is shipped with the distribution "
+"(backports)."
+msgstr "تحديثات لبرامج جنوم المرفقة مع التوزيعة (backports)."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:31
+msgid "openSUSE BuildService - Mono:Community"
+msgstr "خدمة بناء أوبن سوزي-- مونو:المجتمع"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:32
+msgid "Community repository for Mono applications"
+msgstr "مستودع مجتمع تطبيقات مونو"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:33
+msgid "Updates and Additions of applications written in Mono."
+msgstr "التحديثات والإضافات للتطبيقات المكتوبة في مونو."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:28
+msgid "openSUSE BuildService - devel:languages:perl"
+msgstr "خدمة بناء أوبن سوزي-- مجموعة:لغات:perl"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:29
+msgid "Community repository for Perl modules"
+msgstr "مستودع مجتمع وحدات بيرل"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:30
+msgid "Updates and Additions for Perl modules"
+msgstr "التحديثات والإضافات لوحدات Perl"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:31
+msgid "openSUSE BuildService - devel:languages:python"
+msgstr "خدمة بناء أوبن سوزي-- مجموعة:لغات:python"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:32
+msgid "Community repository for Python modules"
+msgstr "مستودع مجتمع gوحدات بايثون"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:33
+msgid "Updates and Additions for Python modules"
+msgstr "التحديثات والإضافات للوحدات النمطية بيثون"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:34
+msgid "openSUSE BuildService - filesystems"
+msgstr "خدمة بناء أوبن سوزي-- نظام الملفات"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:35
+msgid "Filesystem tools and FUSE-related packages"
+msgstr "أدوات نظام الملفات وحزم FUSE-related"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
+msgid "Filesystem tools and FUSE-related packages."
+msgstr "أدوات نظام الملفات وحزم FUSE-related."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:37
+msgid "openSUSE BuildService - Education"
+msgstr "خدمة بناء أوبن سوزي-- تعليم"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:47
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:38
+msgid "Applications for education users"
+msgstr "تطبيقات لتعليم المستخدمين"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:48
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:39
+msgid ""
+"Contains several packages which might be interesting for educational use"
+msgstr "يحتوي على العديد من الحزم للاستخدام التعليمي"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:49
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:49
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:43
+msgid "openSUSE BuildService - KDE:KDE3"
+msgstr "خدمة بناء أوبن سوزي-- كدي:KDE3"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:50
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:50
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:44
+msgid "Maintained KDE 3 packages"
+msgstr "صيانة حزم كدي3"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:51
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:51
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:45
+msgid "Provides old KDE for newer openSUSE"
+msgstr "يوفر كدي القديمة لأوبن سوزي الحديثة"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:1
+msgid "Main Repository (OSS)"
+msgstr "المستودع الرئيسي (حرة)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:2
+msgid "Main repository of openSUSE 13.1 including only Open Source Software"
+msgstr "المستودع الرئيسي من أوبن سوزي 13.1 ويحتوي فقط برمجيات المصدر الحر"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE 13.1, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"مستودع البرمجيات حرة المصادر (OSS) الكبرى لاوبن سوزي 13.1، تتيح لك الوصول "
+"إلى آلاف الحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، "
+"مضيفا انها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة الوصول "
+"العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت "
+"التركيب.)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:4
+msgid "Main Repository (NON-OSS)"
+msgstr "المستودع الرئيسي (غير-حرة)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
+msgstr "مستودع المصادر غير الحرة لأوبن سوزي 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:6
+msgid ""
+"The official openSUSE 13.1 repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgstr ""
+"مستودع أوبن سوزي الرسمي 13.1 لجميع برمجيات المصادر غير الحرة التي يحتفظ بها "
+"فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:7
+msgid "Main Repository (Sources)"
+msgstr "المستودع الرئيسي (المصادر)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:8
+msgid "Main repository of openSUSE 13.1 (Source packages)"
+msgstr "المستودع الرئيسي من أوبن سوزي 13.1 (مصدر الحزم)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE 13.1. For experts only."
+msgstr "مستودع لكافة حزم المصدر في أوبن سوزي 13.1. للخبراء فقط."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:10
+msgid "Main Repository (DEBUG)"
+msgstr "المستودع الرئيسي (التصحيح)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:11
+msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
+msgstr "المستودع الرئيسي لأوبن سوزي 13.1 بما في ذلك حزم معلومات التحديث"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE 13.1. For experts only."
+msgstr ""
+"هذا المستودع مفيد للذين يريدون تصحيح التطبيقات على أوبن سوزي 13.1. للخبراء "
+"فقط."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:13
+msgid "Main Update Repository"
+msgstr "مستودع التحديث الرئيسي"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:14
+msgid "Repository for official updates to 13.1"
+msgstr "مستودع الترقية الرسمي إلى 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"13.1."
+msgstr ""
+"في هذا المستودع يمكنك العثور على تحديثات الأمان وتحديثات الصيانة لأوبن سوزي "
+"13.1."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:16
+msgid "Update Repository (Non-Oss)"
+msgstr "تحديث مستودع (برمجيات غير حرة المصدر)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:17
+msgid "Repository for official non free updates to 13.1"
+msgstr "مستودع الترقية الرسمي إلى 13.1"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:18
+msgid "Update Repository (DEBUG)"
+msgstr "تحديث المستودع (تصحيح)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:19
+msgid "Update repository of openSUSE 13.1 debuginfo packages"
+msgstr "تحديث مستودع حزم معلومات التصحيح لأوبن سوزي 13.1"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:46
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:40
+msgid "openSUSE BuildService - Java:packages"
+msgstr "خدمة بناء أوبن سوزي-- حزم:جافا"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:47
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:41
+msgid "Bleeding-edge Java packages"
+msgstr "حزم جافا Bleeding-edge"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:48
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:42
+msgid "Provides uptodate Java packages (Factory backports)"
+msgstr "يوفر تحديث حزم جافا (Factory backports)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:2
+msgid "Main repository of openSUSE 13.2 including only Open Source Software"
+msgstr "المستودع الرئيسي من أوبن سوزي 13.2 ويحتوي فقط برمجيات حرة المصدر"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"مستودع البرمجيات حرة المصادر (OSS) الكبرى لاوبن سوزي 13.2، تتيح لك الوصول "
+"إلى آلاف الحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، "
+"مضيفا انها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة الوصول "
+"العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت "
+"التركيب.)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
+msgstr "مستودع المصادر غير الحرة لأوبن سوزي 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:6
+msgid ""
+"The official openSUSE 13.2 repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgstr ""
+"مستودع أوبن سوزي الرسمي 13.2 لجميع برمجيات المصدر غير الحرة التي يحتفظ بها "
+"فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:8
+msgid "Main repository of openSUSE 13.2 (Source packages)"
+msgstr "المستودع الرئيسي من أوبن سوزي 13.2 (مصدر الحزم)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE 13.2. For experts only."
+msgstr "مستودع لكافة مصادر الحزم في أوبن سوزي 13.2. للخبراء فقط."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:11
+msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
+msgstr "المستودع الرئيسي لأوبن سوزي 13.2 بما في ذلك حزم معلومات التحديث"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE 13.2. For experts only."
+msgstr ""
+"هذا المستودع مفيد لمن يريد تصحيح التطبيقات على أوبن سوزي 13.2. للخبراء فقط."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:14
+msgid "Repository for official updates to 13.2"
+msgstr "مستودع الترقية الرسمي إلى 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"13.2."
+msgstr ""
+"في هذا المستودع يمكنك العثور على تحديثات الأمان وتحديثات الصيانة لأوبن سوزي "
+"13.2."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:17
+msgid "Repository for official non free updates to 13.2"
+msgstr "مستودع الترقية الرسمي إلى 13.2"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:19
+msgid "Update repository of openSUSE 13.2 debuginfo packages"
+msgstr "تحديث مستودع حزم معلومات التصحيح لأوبن سوزي 13.2"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:2
+msgid ""
+"Main repository of openSUSE Tumbleweed including only Open Source Software"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"مستودع البرمجيات الحرة (OSS) الكبرى لاوبن سوزي تتيح الوصول إلى آلاف الحزم "
+"التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع، فإنها قد تستغرق بعض "
+"الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP "
+"نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:6
+msgid ""
+"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Flash, and more."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:8
+msgid "Main repository of openSUSE Tumbleweed (Source packages)"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE Tumbleweed. For experts "
+"only."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:11
+msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Tumbleweed. For experts only."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:14
+msgid "Official update repository for Tumbleweed"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:15
+msgid ""
+"This repository provides urgent updates until they get integrated into the "
+"main repositories."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:2
+msgid ""
+"Main repository of openSUSE Leap 42.1 including only Open Source Software"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
+"you access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
+msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
+#, fuzzy
+#| msgid ""
+#| "The official openSUSE 12.1 repository for all Non-Open Source Software "
+#| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgid ""
+"The official openSUSE Leap 42.1 repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam, Flash, and "
+"more."
+msgstr ""
+"مستودع أوبن سوزي الرسمي 12.1 لجميع برمجيات المصادر غير الحرة التي يحتفظ بها "
+"فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
+msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:9
+msgid ""
+"The repository of all source packages in openSUSE Leap 42.1. For experts "
+"only."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:11
+msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap 42.1. For experts only."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:14
+msgid "Repository for official updates to openSUSE Leap 42.1"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap 42.1."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:17
+msgid "Repository for official non free updates to openSUSE Leap 42.1"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:19
+msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
+msgid "Untested Updates"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
+#, fuzzy
+#| msgid "Repository for official non free updates to 12.3"
+msgid "Repository of not yet tested updates"
+msgstr "مستودع الترقية الرسمي إلى 12.3"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+
+#~ msgid "openSUSE BuildService - Banshee"
+#~ msgstr "خدمة بناء أوبن سوزي-- Banshee"
+
+#~ msgid "Latest builds of the Banshee Media Player"
+#~ msgstr "بنيات أحدث من مشغل الوسائط Banshee"
+
+#~ msgid "Provides up-to-date builds of Banshee"
+#~ msgstr "توفر بنيات حديثة من Banshee"
+
+#~ msgid "Main repository of openSUSE 12.2 including only Open Source Software"
+#~ msgstr "المستودع الرئيسي من أوبن سوزي 12.2 لبرمجيات حرة المصدر فقط"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.2, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "مستودع البرمجيات حرة المصدر (OSS) الكبير لاوبن سوزي 12.2، يتيح لك الوصول "
+#~ "الى آلاف الحزم التي يحفظها فريق اوبن سوزي. (ونظرا لحجم المستودع ، فإنه قد "
+#~ "يستغرق بعض الوقت لإضافته ويستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او "
+#~ "من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
+#~ msgstr "مستودع الإضافات المصادر غير الحرة لأوبن سوزي 12.2"
+
+#~ msgid ""
+#~ "The official openSUSE 12.2 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "مستودع أوبن سوزي الرسمي 12.2 لجميع برمجيات المصادر غير الحرة التي يحتفظ "
+#~ "بها فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر."
+
+#~ msgid "Main repository of openSUSE 12.2 (Source packages)"
+#~ msgstr "المستودع الرئيسي من أوبن سوزي 12.2 (مصدر الحزم)"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 12.2. For experts only."
+#~ msgstr "مستودع لكافة حزم المصدر في أوبن سوزي 12.2. للخبراء فقط."
+
+#~ msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
+#~ msgstr "المستودع الرئيسي من أوبن سوزي 12.2 بما في ذلك حزم معلومات التصحيح"
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 12.2. For experts only."
+#~ msgstr ""
+#~ "هذا المستودع مفيدة للذين يريدون تصحيح التطبيقات على أوبن سوزي 12.2. "
+#~ "للخبراء فقط."
+
+#~ msgid "Repository for official updates to 12.2"
+#~ msgstr "مستودع الترقية الرسمي إلى 12.2"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.2."
+#~ msgstr ""
+#~ "في هذا المستودع يمكنك العثور على تحديثات الأمان لتحديثات الصيانة لأوبن "
+#~ "سوزي 12.2."
+
+#~ msgid "Update repository of openSUSE 12.2 debuginfo packages"
+#~ msgstr "مستودع تحديث لحزم تصحيح العلل لأوبن سوزي 12.2"
+
+#~ msgid "Main repository of openSUSE 12.3 including only Open Source Software"
+#~ msgstr "المستودع الرئيسي من أوبن سوزي 12.3 ويحتوي فقط برمجيات حرة المصدر"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "مستودع البرمجيات حرة المصادر (OSS) الكبرى لاوبن سوزي 12.3، تتيح الوصول "
+#~ "إلى آلاف الحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، "
+#~ "مضيفا انها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة "
+#~ "الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء "
+#~ "وقت التركيب.)"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 12.3"
+#~ msgstr "مستودع المصادر غير الحرة لأوبن سوزي 12.3"
+
+#~ msgid ""
+#~ "The official openSUSE 12.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "مستودع أوبن سوزي الرسمي 12.3 لجميع برمجيات المصادر غير الحرة التي يحتفظ "
+#~ "بها فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر."
+
+#~ msgid "Main repository of openSUSE 12.3 (Source packages)"
+#~ msgstr "المستودع الرئيسي من أوبن سوزي 12.3 (مصدر الحزم)"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 12.3. For experts only."
+#~ msgstr "مستودع لكافة حزم المصدر في أوبن سوزي 12.3. للخبراء فقط."
+
+#~ msgid "Main repository of openSUSE 12.3 including the debuginfo packages"
+#~ msgstr "المستودع الرئيسي لأوبن سوزي 12.3 بما في ذلك حزم معلومات التحديث"
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 12.3. For experts only."
+#~ msgstr ""
+#~ "هذا المستودع مفيد للذين يريدون تصحيح التطبيقات على أوبن سوزي 12.3. "
+#~ "للخبراء فقط."
+
+#~ msgid "Repository for official updates to 12.3"
+#~ msgstr "مستودع الترقية الرسمي إلى 12.3"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.3."
+#~ msgstr ""
+#~ "في هذا المستودع يمكنك العثور على تحديثات الأمان وتحديثات الصيانة لأوبن "
+#~ "سوزي 12.3."
+
+#~ msgid "Update repository of openSUSE 12.3 debuginfo packages"
+#~ msgstr "تحديث مستودع حزم معلومات التصحيح لأوبن سوزي 12.3"
+
+#~ msgid ""
+#~ "Main repository of openSUSE Factory including only Open Source Software"
+#~ msgstr "المستودع الرئيسي من أوبن سوزي بما في ذلك برمجيات المصدر الحر فقط"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE Factory"
+#~ msgstr "مستودع المصادر غير الحرة لأوبن سوزي"
+
+#~ msgid ""
+#~ "The official openSUSE Factory repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Flash, and more."
+#~ msgstr ""
+#~ "مستودع أوبن سوزي الرسمية لجميع البرمجيات غير حرة المصدر التي يحتفظ بها "
+#~ "فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر."
+
+#~ msgid "Main repository of openSUSE 12.1 (Source packages)"
+#~ msgstr "المستودع الرئيسي من أوبن سوزي 12.1 (مصدر الحزم)"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 12.1. For experts only."
+#~ msgstr "مستودع لكافة حزم المصدر في أوبن سوزي 12.1. للخبراء فقط."
+
+#~ msgid "Repository for official updates to 12.1"
+#~ msgstr "مستودع الترقية الرسمي إلى 12.1"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.1."
+#~ msgstr ""
+#~ "في هذا المستودع يمكنك العثور على تحديثات الأمان وتحديثات الصيانة لأوبن "
+#~ "سوزي 12.1."
+
+#~ msgid "openSUSE BuildService - KDE:UpdatedApps"
+#~ msgstr "خدمة بناء أوبن سوزي-- كدي:تطبيقات محدثة"
+
+#~ msgid "Updated versions of KDE applications"
+#~ msgstr "الإصدارات المحدثة من تطبيقات كدي"
+
+#~ msgid ""
+#~ "Updates to the KDE software that is shipped with the distribution "
+#~ "(backports)."
+#~ msgstr "تحديث برمجيات كدي التي ترفق مع التوزيع (backports)."
+
+#~ msgid "Main repository of openSUSE 12.1 including only Open Source Software"
+#~ msgstr ""
+#~ "المستودع الرئيسي من أوبن سوزي 12.1 ويحتوي فقط برمجيات المصدر المفتوح"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.1, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "مستودع البرمجيات المفتوحه المصادر (OSS) الكبرى لاوبن سوزي12.1، تتيح لك "
+#~ "الوصول إلى آلاف الحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم "
+#~ "المستودع ، مضيفا انها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت "
+#~ "من ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه "
+#~ "المستودعات اثناء وقت التركيب.)"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
+#~ msgstr "مستودع المصادر غير المفتوحة لأوبن سوزي 12.1"
+
+#~ msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
+#~ msgstr "المستودع الرئيسي لأوبن سوزي 12.1 بما في ذلك حزم معلومات التحديث"
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 12.1. For experts only."
+#~ msgstr ""
+#~ "هذا المستودع مفيد للذين يريدون تصحيح التطبيقات على أوبن سوزي 12.1. "
+#~ "للخبراء فقط."
+
+#~ msgid "Update repository of openSUSE 12.1 debuginfo packages"
+#~ msgstr "تحديث مستودع حزم معلومات التصحيح لأوبن سوزي 12.1"
+
+#~ msgid ""
+#~ "Contrib project contains lots of useful additions to the main "
+#~ "distribution by our community contributors. See http://en.opensuse.org/"
+#~ "Contrib for details."
+#~ msgstr ""
+#~ "مشروع Contrib تحتوي على الكثير من الإضافات مفيدة للتوزيعة الرئيسية عبر "
+#~ "مساهموا المجتمع. انظر http://en.opensuse.org/Contrib للحصول على التفاصيل."
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.4."
+#~ msgstr ""
+#~ "في هذا المستودع يمكنك العثور على تحديثات الأمان وتحديثات الصيانة لأوبن "
+#~ "سوزي 11.4."
+
+#~ msgid "Main Repository (Contrib)"
+#~ msgstr "المستودع الرئيسي (Contrib)"
+
+#~ msgid "Main repository of openSUSE 11.4 (Source packages)"
+#~ msgstr "المستودع الرئيسي من أوبن سوزي 11.4 (مصادر الحزم)"
+
+#~ msgid "Repository for community contributions to 11.4"
+#~ msgstr "مستودع مساهمات المجتمع إلى 11.4"
+
+#~ msgid "Repository for official updates to 11.4"
+#~ msgstr "مستودع للتحديثات الرسمية إلى 11.4"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.4. For experts only."
+#~ msgstr "مستودع لكافة حزم المصدر في أوبن سوزي 11.4. للخبراء فقط."
+
+#~ msgid "Main repository of openSUSE 11.4 including only Open Source Software"
+#~ msgstr ""
+#~ "المستودع الرئيسي من أوبن سوزي 11.4 بما في ذلك برمجيات المصدر المفتوح فقط"
+
+#~ msgid "Main repository of openSUSE 11.4 including the debuginfo packages"
+#~ msgstr "المستودع الرئيسي من أوبن سوزي 11.4 بما في ذلك حزم معلومات التصحيح"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.4"
+#~ msgstr "مستودع غير المفتوحة المصدر لأوبن سوزي 11.4"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.4, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "مستودع البرمجيات المفتوحه المصادر (OSS) الكبرى لاوبن سوزي11.4، تتيح لك "
+#~ "الوصول إلى آلاف الحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم "
+#~ "المستودع، فإنها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت من "
+#~ "ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات "
+#~ "اثناء وقت التركيب.)"
+
+#~ msgid ""
+#~ "The official openSUSE 11.4 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "مستودع أوبن سوزي الرسمية 11.4 لجميع برمجيات غير مفتوحة المصدر التي يحتفظ "
+#~ "بها فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.4. For experts only."
+#~ msgstr ""
+#~ "هذا المستودع مفيدة لأولئك الذين يريدون تصحيح التطبيقات على أوبن سوزي "
+#~ "11.4. للخبراء فقط."
+
+#~ msgid "Update repository of openSUSE 11.4 debuginfo packages"
+#~ msgstr "تحديث مستودع للحزم معلومات التصحيح لأوبن سوزي 11.4"
+
+#~ msgid "Backport of latest stable GNOME"
+#~ msgstr "الرجوع إلى آخر جنوم مستقرة"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.3."
+#~ msgstr "في هذا المستودع تجد تحديثات الأمن والصيانة لاوبن سوزه 11.3."
+
+#~ msgid "Main repository of openSUSE 11.3 (Source packages)"
+#~ msgstr "مستودع التحديث الرئيسي لاوبن سوزه 11.3 (مصدر الحزم)"
+
+#~ msgid "Repository for community contributions to 11.3"
+#~ msgstr "مستودع لمساهمات المجتمع إلى 11.3"
+
+#~ msgid "Repository for official updates to 11.3"
+#~ msgstr "مستودع للتحديثات الرسمية إلى 11.3"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.3. For experts only."
+#~ msgstr "المستودع لكل مصادر الحزم في أوبن سوزي 11.3. للمحترفين فقط."
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.3."
+#~ msgstr "يوفر الإصدار أحدث مستقرة، غير معتمد من جنوم لأوبن سوزي 11.3."
+
+#~ msgid "openSUSE BuildService - GNOME:STABLE:2.30"
+#~ msgstr "خدمة بناء أوبن سوزي-- جنوم: مستقرة 2.30"
+
+#~ msgid "Main repository of openSUSE 11.3 including only Open Source Software"
+#~ msgstr ""
+#~ "المستودع الرئيسي من أوبن سوزي 11.3 بما في ذلك برمجيات المصدر المفتوح فقط"
+
+#~ msgid "Main repository of openSUSE 11.3 including the debuginfo packages"
+#~ msgstr "المستودع الرئيسي من أوبن سوزي 11.3 بما في ذلك حزم ديبوجينفو"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.3"
+#~ msgstr "مستودع غير المفتوحة المصدر لأوبن سوزي 11.3"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "مستودع البرمجيات المفتوحه المصادر (OSS) الكبرى لاوبن سوزي11.3، تتيح لك "
+#~ "الوصول الى الالاف من الاحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى "
+#~ "حجم المستودع ، مضيفا انها قد تستغرق بعض الوقت. 512 ميغابايت من ذاكرة "
+#~ "الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء "
+#~ "وقت التركيب.)"
+
+#~ msgid ""
+#~ "The official openSUSE 11.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "مستودع أوبن سوزي الرسمية 11.3 لجميع برمجيات المصدر المفتوح عدم التي يحتفظ "
+#~ "بها فريق أوبن سوزي، بما فيها الأوبرا، جافا، فلاش، وأكثر."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.3. For experts only."
+#~ msgstr ""
+#~ "هذا المستودع مفيدة لأولئك الذين يريدون تصحيح التطبيقات على أوبن سوزي "
+#~ "11.3. للخبراء فقط."
+
+#, fuzzy
+#~ msgid "Backports of KDE applications"
+#~ msgstr "إصدار من هذا التطبيق"
+
+#, fuzzy
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.2."
+#~ msgstr "في هذا المستودع تجد تحديثات الأمن والصيانة لاوبن سوزه 10،3"
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 11.2 (Source packages)"
+#~ msgstr "مستودع التحديث الرئيسي لاوبن سوزه 10.3 (مصدر الحزم)"
+
+#, fuzzy
+#~ msgid "Repository for community contributions to 11.2"
+#~ msgstr "مستودع للتحديثات الرسمية الى 10،3"
+
+#, fuzzy
+#~ msgid "Repository for official updates to 11.2"
+#~ msgstr "مستودع للتحديثات الرسمية الى 10،3"
+
+#, fuzzy
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.2. For experts only."
+#~ msgstr "مستودعات لجميع مصدر الحزم في اوبن سوزه 10،3. للخبراء فقط"
+
+#, fuzzy
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.2."
+#~ msgstr "يتوفر الاصدار الاخير مستقرة ، وغير المستقر من جنوم  لاوبن سوزه "
+
+#, fuzzy
+#~| msgid "openSUSE BuildService - GNOME:STABLE"
+#~ msgid "openSUSE BuildService - GNOME:STABLE:2.28"
+#~ msgstr "اوبن سوزي تبني خدمات GNOME المستقرة"
+
+#~ msgid "openSUSE BuildService - KDE:Backports"
+#~ msgstr "اوبن سوزي تبني خدمات لحزم KDE"
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 11.2 including only Open Source Software"
+#~ msgstr "هذا المستودع يحتوي البرامج المفتوحة المصدر فقط"
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 11.2 including the debuginfo packages"
+#~ msgstr "هذا المستودع يحتوي حزم تصحيح الاخطاء لاوبن سوزي 11.0"
+
+#, fuzzy
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.2"
+#~ msgstr "هذا المستودع يحتوي الحزم غير مفتوحة المصدر لاوبن سوزي 11.0"
+
+#, fuzzy
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.2, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "مستودع البرمجيات المفتوحه المصادر (OSS) الكبرى  لاوبن سوزي11.0 ، تتيح لك "
+#~ "الوصول الى الالاف من الاحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى "
+#~ "حجم المستودع ، مضيفا انها قد تستغرق بعض الوقت. 512 ميغابايت من ذاكرة "
+#~ "الوصول العشوائي او من قسم  SWAP نوصى بشده بالوصول إلى هذه المستودعات "
+#~ "اثناء وقت التركيب.)"
+
+#, fuzzy
+#~ msgid ""
+#~ "The official openSUSE 11.2 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "المستودع الرئيسي لأوبن سوزي 11.0 للبرمجيات غير مفتوحه المصدر التي يؤمنها "
+#~ "فريق الأوبن سوزي منها  RealPlayer ، الاوبرا ، جافا ، فلاش بلير ، واكثر"
+
+#, fuzzy
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.2. For experts only."
+#~ msgstr "هذا المستودع مفيد للخبراء فقط للتصحيح على تطبيقات اوبن سوزي 11.0"
+
+#, fuzzy
+#~ msgid "Repository for community contributions to 12.1"
+#~ msgstr "مستودع للتحديثات الرسمية الى 10،3"
+
+#~ msgid "Latest XFCE release"
+#~ msgstr "آخر اصدارات الواجهة XFCE"
+
+#~ msgid ""
+#~ "The XFCE repository in the openSUSE Build Service, which provides you "
+#~ "with the unsupported but latest version of the XFCE desktop environment "
+#~ "and software."
+#~ msgstr ""
+#~ "مستودع XFCE غير مدعومة في اوبن سوزه سابقاً ، لكن مع الاصدار الاخير من XFCE "
+#~ "بيئة سطح المكتب وبرمجيات اصبحت مدعومة"
+
+#~ msgid "openSUSE BuildService - XFCE"
+#~ msgstr "اوبن سوزي تبني خدمات XFCE"
+
+#, fuzzy
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.4."
+#~ msgstr "يتوفر الاصدار الاخير مستقرة ، وغير المستقر من جنوم  لاوبن سوزه "
+
+#~ msgid "Community repository for GNOME"
+#~ msgstr "مخزن مجموعة جنوم"
+
+#, fuzzy
+#~ msgid "Latest Compiz release"
+#~ msgstr "الزر محرر"
+
+#~ msgid "Latest builds of Qemu"
+#~ msgstr "آخر بناء Qemu"
+
+#~ msgid "Latest updates for postfix, exim and tools around them."
+#~ msgstr "آخر التحديثات postfix ، EXIM وادوات حولهم"
+
+#~ msgid ""
+#~ "Provides additional KDE software maintained by the openSUSE KDE "
+#~ "community. This includes filelight, d3lphin, kooldock, and much more."
+#~ msgstr ""
+#~ "يوفر برمجيات كيدي التي يحتفظ بها مجتمع كيدي اوبن سوزه. ويشمل هذا "
+#~ "filelight ، d3lphin ، kooldock ، واكثر بكثي"
+
+#~ msgid ""
+#~ "Provides up-to-date builds of QEMU, a generic and open source machine "
+#~ "emulator and virtualizer."
+#~ msgstr "يوفر آخر اصدارات QEMU والمحاكيات مفتوحة المصدر و virtualizer"
+
+#~ msgid ""
+#~ "Providing the latest updates for postfix, exim and tools around them."
+#~ msgstr "تقدم لك آخر تحديث postfix, exim وادواتها"
+
+#~ msgid ""
+#~ "This repository contains the latest software that brings you composite "
+#~ "effects and technology. It includes Xgl, Compiz, and Compiz Fusion "
+#~ "packages maintained by the openSUSE Community."
+#~ msgstr ""
+#~ "هذا المستودع تحتوي على احدث البرمجيات التي تجلب لك المؤثرات  "
+#~ "والتكنولوجيا. وهو يتضمن xgl ، compiz ، والانصهار compiz Fusion والحزم "
+#~ "التي يحتفظ بها مجتمع اوبن سوزه"
+
+#~ msgid "openSUSE BuildService - GNOME:Community"
+#~ msgstr "اوبن سوزي تبني خدمات لمجتمع GNUME"
+
+#~ msgid "openSUSE BuildService - GNOME:STABLE"
+#~ msgstr "اوبن سوزي تبني خدمات GNOME المستقرة"
+
+#~ msgid "openSUSE BuildService - KDE:Community"
+#~ msgstr "اوبن سوزي تبني خدمات لمجتمع KDE"
+
+#~ msgid "openSUSE BuildService - Mail Server"
+#~ msgstr "اوبن سوزي تبني خدمات البريد"
+
+#~ msgid "openSUSE BuildService - Virtualization (QEMU)"
+#~ msgstr "اوبن سوزي تبني خدمات المحاكاة الافتراضية (QEMU)"
+
+#, fuzzy
+#~ msgid "openSUSE BuildService - X11:Compiz"
+#~ msgstr "اوبن سوزي تبني خدمات X11:XGL"
+
+#~ msgid "Contains up-to-date drivers for Wireless LAN."
+#~ msgstr "ويتضمن احدث تعريفات للشبكة اللاسلكية"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "10.3."
+#~ msgstr "في هذا المستودع تجد تحديثات الأمن والصيانة لاوبن سوزه 10،3"
+
+#~ msgid "Main repository of openSUSE 10.3 (Source packages)"
+#~ msgstr "مستودع التحديث الرئيسي لاوبن سوزه 10.3 (مصدر الحزم)"
+
+#~ msgid "Recent drivers for wlan"
+#~ msgstr "التعريفات الحديثة للشبكة اللاسلكية"
+
+#~ msgid "Repository for official updates to 10.3"
+#~ msgstr "مستودع للتحديثات الرسمية الى 10،3"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 10.3. For experts only."
+#~ msgstr "مستودعات لجميع مصدر الحزم في اوبن سوزه 10،3. للخبراء فقط"
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 10.3."
+#~ msgstr "يتوفر الاصدار الاخير مستقرة ، وغير المستقر من جنوم  لاوبن سوزه "
+
+#~ msgid "openSUSE BuildService - Drivers for Wireless LAN"
+#~ msgstr "أوبن سوزي تبني تعريف الشبكة الاسلكية"
+
+#~ msgid "openSUSE BuildService - X11:XGL"
+#~ msgstr "اوبن سوزي تبني خدمات X11:XGL"
+
+#~ msgid "Main repository of openSUSE 10.3 including only Open Source Software"
+#~ msgstr "المستودع الرئيسي الأوبن سوزي 10.3 يحتوي المصادر المفتوحة فقط"
+
+#~ msgid "Main repository of openSUSE 10.3 including the debuginfo packages"
+#~ msgstr "المستودع الرئيسي الأوبن سوزي 10.3 يحتوي حزم تصحيح الاخطاء"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 10.3"
+#~ msgstr "مستودع الأوبن سوزي 10.3 يحتوي حزم واضافات غير مفتوحة المصدر"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 10.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "مستودع البرمجيات المفتوحه المصادر (OSS) الكبرى  لاوبن سوزي 10،3 ، تتيح لك "
+#~ "الوصول الى الالاف من الاحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى "
+#~ "حجم المستودع ، مضيفا انها قد تستغرق بعض الوقت. 512 ميغابايت من ذاكرة "
+#~ "الوصول العشوائي او من قسم  SWAP نوصى بشده بالوصول إلى هذه المستودعات "
+#~ "اثناء وقت التركيب.)"
+
+#~ msgid ""
+#~ "The official openSUSE 10.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including RealPlayer, Opera, Java, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "المستودع الرئيسي لأوبن سوزي 10،3 للبرمجيات غير مفتوحه المصدر التي يؤمنها "
+#~ "فريق الأوبن سوزي منها  RealPlayer ، الاوبرا ، جافا ، فلاش بلير ، واكثر"
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 10.3. For experts only."
+#~ msgstr "هذا المستودع مفيد للخبراء فقط للتصحيح على تطبيقات اوبن سوزي 10،3"
+
+#, fuzzy
+#~ msgid "Latest KDE4 Builds"
+#~ msgstr "آخر بناء Qemu"
+
+#, fuzzy
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.0."
+#~ msgstr "يتوفر الاصدار الاخير مستقرة ، وغير المستقر من جنوم  لاوبن سوزه "
+
+#, fuzzy
+#~ msgid "openSUSE BuildService - KDE4:Factory:Desktop"
+#~ msgstr "اوبن سوزي تبني خدمات لحزم KDE"
+
+#, fuzzy
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.0."
+#~ msgstr "في هذا المستودع تجد تحديثات الأمن والصيانة لاوبن سوزه 10،3"
+
+#~ msgid "Main repository of openSUSE 11.0 including only Open Source Software"
+#~ msgstr "هذا المستودع يحتوي البرامج المفتوحة المصدر فقط"
+
+#~ msgid "Main repository of openSUSE 11.0 including the debuginfo packages"
+#~ msgstr "هذا المستودع يحتوي حزم تصحيح الاخطاء لاوبن سوزي 11.0"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.0"
+#~ msgstr "هذا المستودع يحتوي الحزم غير مفتوحة المصدر لاوبن سوزي 11.0"
+
+#, fuzzy
+#~ msgid "Repository for official updates to 11.0"
+#~ msgstr "مستودع للتحديثات الرسمية الى 10،3"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.0, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "مستودع البرمجيات المفتوحه المصادر (OSS) الكبرى  لاوبن سوزي11.0 ، تتيح لك "
+#~ "الوصول الى الالاف من الاحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى "
+#~ "حجم المستودع ، مضيفا انها قد تستغرق بعض الوقت. 512 ميغابايت من ذاكرة "
+#~ "الوصول العشوائي او من قسم  SWAP نوصى بشده بالوصول إلى هذه المستودعات "
+#~ "اثناء وقت التركيب.)"
+
+#~ msgid ""
+#~ "The official openSUSE 11.0 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including RealPlayer, Opera, Java, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "المستودع الرئيسي لأوبن سوزي 11.0 للبرمجيات غير مفتوحه المصدر التي يؤمنها "
+#~ "فريق الأوبن سوزي منها  RealPlayer ، الاوبرا ، جافا ، فلاش بلير ، واكثر"
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.0. For experts only."
+#~ msgstr "هذا المستودع مفيد للخبراء فقط للتصحيح على تطبيقات اوبن سوزي 11.0"

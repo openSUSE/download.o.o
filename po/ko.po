@@ -1,0 +1,1333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: community-repositories.ko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-13 18:46+0200\n"
+"PO-Revision-Date: 2009-10-28 11:06+0900\n"
+"Last-Translator: Yunseok Choi <xein@naver.com>\n"
+"Language-Team: Korean <xein@naver.com>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+"X-Poedit-Language: Korean\n"
+"X-Poedit-Country: KOREA, REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:1
+#, fuzzy
+msgid "openSUSE BuildService - LXDE"
+msgstr "오픈수세 빌드서비스 - XFCE"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:2
+#, fuzzy
+msgid "Latest LXDE release"
+msgstr "최신 XFCE 공개"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:3
+#, fuzzy
+msgid ""
+"The LXDE repository in the openSUSE Build Service, which provides you with "
+"the unsupported but latest version of the LX desktop environment and "
+"software."
+msgstr ""
+"XFCE 데스크톱 환경과 소프트웨어의 최신 버전을 제공하는 오픈수세 빌드 서비스"
+"의 XFCE 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:4
+#, fuzzy
+msgid "openSUSE BuildService - LibreOffice"
+msgstr "오픈수세 빌드서비스 - 오픈오피스"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:5
+#, fuzzy
+msgid "Latest stable LibreOffice release"
+msgstr "최신 오픈오피스 안정판 공개"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:6
+#, fuzzy
+msgid ""
+"Provides you with the latest stable version of LibreOffice, the Office suite "
+"that openSUSE uses."
+msgstr "오픈수세에서 사용하는 최신 오픈오피스 안정판을 제공합니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:7
+msgid "openSUSE BuildService - Mozilla"
+msgstr "오픈수세 빌드서비스 - 모질라"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:8
+msgid "Most recent builds of Mozilla Software like Firefox"
+msgstr "불여우 같은 모질라 소프트웨어의 최근 빌드"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:9
+msgid ""
+"Containing the latest releases of all Mozilla software, such as the popular "
+"Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
+msgstr ""
+"모질라 소프트웨어(천둥새-메일 클라이언트, 불여우 및 씨몽키-웹 브라우저 같은) "
+"최신판이 들어 있습니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:10
+msgid "openSUSE BuildService - Wine CVS Builds"
+msgstr "오픈수세 빌드서비스 - 와인 CVS 빌드"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:11
+msgid "Snapshots of Wine CVS"
+msgstr "와인 CVS의 스냅샷"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:12
+msgid ""
+"Wine is an Open Source implementation of the Windows API, so it allows you "
+"to run some Windows applications in openSUSE. This repository provides the "
+"latest CVS (development) snapshot packages of Wine."
+msgstr ""
+"와인은 윈도우 API 의 오픈 소스 임플러멘테이션 입니다. 와인을 이용하여 오픈수"
+"세에서 윈도우 응용프로그램을 실행시킬 수 있습니다. 이 저장소는  와인의 최신"
+"의 CVS(개발) 스냅샷 꾸러미를 제공합니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:13
+msgid "openSUSE BuildService - Games"
+msgstr "오픈수세 빌드서비스 - 게임"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:14
+msgid "A collection of action games"
+msgstr "액션 게임 모음"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:15
+msgid ""
+"Contains several action games including Open Arena (shoot 'em up), Flight "
+"Gear (flight simulator) and Torcs (3D racing simulator)."
+msgstr ""
+"여러 액션 게임(오픈 아레나-FPS 게임, Flight Gear-비행 시뮬레이션, Torcs-3D 레"
+"이싱)이 들어 있습니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:16
+msgid "openSUSE BuildService - Drivers for webcams"
+msgstr "오픈수세 빌드서비스 - 웹캠 드라이버"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:17
+msgid "Recent drivers for webcams"
+msgstr "웹캠 최신 드라이버"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:18
+msgid "Contains recent drivers for hundreds of different webcams."
+msgstr "전세계에 있는 여러 웹캠들의 최신 드라이버가 들어있습니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:16
+msgid "openSUSE BuildService - Virtualization (VirtualBox)"
+msgstr "오픈수세 빌드서비스 - 가상화(VirtualBox)"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:17
+msgid "Latest builds of Virtualbox"
+msgstr "최신 Virtualbox 빌드"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:18
+msgid ""
+"Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
+"virtualizer for x86 hardware."
+msgstr "VirtualBox(오픈 소스 가상 머신)의 최신 업데이트를 제공합니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:19
+msgid "openSUSE BuildService - PHP"
+msgstr "오픈수세 빌드서비스 - PHP"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:20
+msgid "Latest updates for PHP software"
+msgstr "최신 PHP 소프트웨어 업데이트"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:21
+msgid ""
+"Provides the latest packages and multiple-version builds of PHP software."
+msgstr "PHP 소프트웨어 최신 꾸러미와, 기타 버전들을 제공합니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:19
+msgid "openSUSE BuildService - Database"
+msgstr "오픈수세 빌드서비스 - 데이터베이스"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:20
+msgid "Latest updates for database software"
+msgstr "최신 데이터베이스 소프트웨어 업데이트"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:21
+msgid "Latest updates for database software including Firebird and MySQL."
+msgstr "최신 데이터베이스 소프트웨어(파이어버드, MySQL) 업데이트"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:22
+#, fuzzy
+msgid "openSUSE BuildService - KDE:Extra"
+msgstr "오픈수세 빌드서비스 - 데이터베이스"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:23
+msgid "Community repository for KDE"
+msgstr "KDE 커뮤니티 저장소"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:24
+msgid ""
+"Provides additional KDE software maintained by the openSUSE KDE community."
+msgstr "오픈수세 KDE 커뮤니티에서 관리하는 추가 KDE 소프트웨어가 있습니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:25
+msgid "openSUSE BuildService - GNOME:Apps"
+msgstr "오픈수세 빌드서비스 - 그놈:Apps"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:26
+msgid "Backports of GNOME applications"
+msgstr "그놈 응용프로그램 백포트"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:27
+msgid ""
+"Updates to the GNOME software that is shipped with the distribution "
+"(backports)."
+msgstr "배포판의 그놈 소프트웨어 업데이트(백포트)"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:31
+msgid "openSUSE BuildService - Mono:Community"
+msgstr "오픈수세 빌드서비스 - Mono:커뮤니티"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:32
+msgid "Community repository for Mono applications"
+msgstr "Mono 응용프료그램용 커뮤니티 저장소"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:33
+msgid "Updates and Additions of applications written in Mono."
+msgstr "Mono 에서 응용프로그램 업데이트 및 추가사항을 기록합니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:28
+#, fuzzy
+msgid "openSUSE BuildService - devel:languages:perl"
+msgstr "오픈수세 빌드서비스 - 게임"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:29
+#, fuzzy
+msgid "Community repository for Perl modules"
+msgstr "KDE 커뮤니티 저장소"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:30
+#, fuzzy
+msgid "Updates and Additions for Perl modules"
+msgstr "Mono 에서 응용프로그램 업데이트 및 추가사항을 기록합니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:31
+#, fuzzy
+msgid "openSUSE BuildService - devel:languages:python"
+msgstr "오픈수세 빌드서비스 - 게임"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:32
+#, fuzzy
+msgid "Community repository for Python modules"
+msgstr "KDE 커뮤니티 저장소"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:33
+#, fuzzy
+msgid "Updates and Additions for Python modules"
+msgstr "Mono 에서 응용프로그램 업데이트 및 추가사항을 기록합니다."
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:34
+#, fuzzy
+msgid "openSUSE BuildService - filesystems"
+msgstr "오픈수세 빌드서비스 - 게임"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:35
+msgid "Filesystem tools and FUSE-related packages"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
+msgid "Filesystem tools and FUSE-related packages."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:37
+#, fuzzy
+msgid "openSUSE BuildService - Education"
+msgstr "오픈수세 빌드서비스 - XFCE"
+
+#  frame
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:47
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:38
+#, fuzzy
+msgid "Applications for education users"
+msgstr "응용프로그램 동작"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:48
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:39
+msgid ""
+"Contains several packages which might be interesting for educational use"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:49
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:49
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:43
+#, fuzzy
+msgid "openSUSE BuildService - KDE:KDE3"
+msgstr "오픈수세 빌드서비스 - 데이터베이스"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:50
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:50
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:44
+#, fuzzy
+msgid "Maintained KDE 3 packages"
+msgstr "꾸러미 찾기"
+
+#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:51
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:51
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:45
+msgid "Provides old KDE for newer openSUSE"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:1
+msgid "Main Repository (OSS)"
+msgstr "주 저장소 (OSS)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:2
+#, fuzzy
+msgid "Main repository of openSUSE 13.1 including only Open Source Software"
+msgstr "오픈소스 소프트웨어만 포함 되어 있는 오픈수세 11.1 의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:3
+#, fuzzy
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE 13.1, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"오픈수세 11.1의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유지 관"
+"리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시간이 좀 "
+"소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 SWAP 파티션"
+"의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:4
+msgid "Main Repository (NON-OSS)"
+msgstr "주 저장소 (NON-OSS)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:5
+#, fuzzy
+msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
+msgstr "비-오픈소스 소프트웨어가 포함되어 있는 오픈수세 11.1 저장소"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:6
+#, fuzzy
+msgid ""
+"The official openSUSE 13.1 repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgstr ""
+"오픈수세 팀에 의해 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플래"
+"시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:7
+msgid "Main Repository (Sources)"
+msgstr "주 저장소 (소스)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:8
+#, fuzzy
+msgid "Main repository of openSUSE 13.1 (Source packages)"
+msgstr "오픈수세 11.2 주 저장소 (소스 꾸러미)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:9
+#, fuzzy
+msgid ""
+"The repository of all source packages in openSUSE 13.1. For experts only."
+msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:10
+msgid "Main Repository (DEBUG)"
+msgstr "주 저장소 (디버그)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:11
+#, fuzzy
+msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
+msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:12
+#, fuzzy
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE 13.1. For experts only."
+msgstr ""
+"이 오픈수세 11.1 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:13
+msgid "Main Update Repository"
+msgstr "주 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:14
+#, fuzzy
+msgid "Repository for official updates to 13.1"
+msgstr "11.1 공식 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:15
+#, fuzzy
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"13.1."
+msgstr "오픈수세 11.1 의 보안 및 필수 업데이트 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:16
+#, fuzzy
+msgid "Update Repository (Non-Oss)"
+msgstr "주 저장소 (디버그)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:17
+#, fuzzy
+msgid "Repository for official non free updates to 13.1"
+msgstr "11.1 공식 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:18
+#, fuzzy
+msgid "Update Repository (DEBUG)"
+msgstr "주 저장소 (디버그)"
+
+#: YaST/Repos/_openSUSE_131_Default.xml.in.h:19
+#, fuzzy
+msgid "Update repository of openSUSE 13.1 debuginfo packages"
+msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:46
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:40
+#, fuzzy
+msgid "openSUSE BuildService - Java:packages"
+msgstr "오픈수세 빌드서비스 - 게임"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:47
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:41
+#, fuzzy
+msgid "Bleeding-edge Java packages"
+msgstr "독점 Java 꾸러미"
+
+#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:48
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:42
+msgid "Provides uptodate Java packages (Factory backports)"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:2
+#, fuzzy
+msgid "Main repository of openSUSE 13.2 including only Open Source Software"
+msgstr "오픈소스 소프트웨어만 포함 되어 있는 오픈수세 11.1 의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:3
+#, fuzzy
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"오픈수세 11.1의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유지 관"
+"리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시간이 좀 "
+"소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 SWAP 파티션"
+"의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:5
+#, fuzzy
+msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
+msgstr "비-오픈소스 소프트웨어가 포함되어 있는 오픈수세 11.1 저장소"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:6
+#, fuzzy
+msgid ""
+"The official openSUSE 13.2 repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgstr ""
+"오픈수세 팀에 의해 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플래"
+"시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:8
+#, fuzzy
+msgid "Main repository of openSUSE 13.2 (Source packages)"
+msgstr "오픈수세 11.2 주 저장소 (소스 꾸러미)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:9
+#, fuzzy
+msgid ""
+"The repository of all source packages in openSUSE 13.2. For experts only."
+msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:11
+#, fuzzy
+msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
+msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:12
+#, fuzzy
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE 13.2. For experts only."
+msgstr ""
+"이 오픈수세 11.1 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:14
+#, fuzzy
+msgid "Repository for official updates to 13.2"
+msgstr "11.1 공식 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:15
+#, fuzzy
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"13.2."
+msgstr "오픈수세 11.1 의 보안 및 필수 업데이트 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:17
+#, fuzzy
+msgid "Repository for official non free updates to 13.2"
+msgstr "11.1 공식 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_132_Default.xml.in.h:19
+#, fuzzy
+msgid "Update repository of openSUSE 13.2 debuginfo packages"
+msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:2
+#, fuzzy
+msgid ""
+"Main repository of openSUSE Tumbleweed including only Open Source Software"
+msgstr "오픈소스 소프트웨어만 포함 되어 있는 오픈수세 11.1 의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:3
+#, fuzzy
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE, giving you "
+"access to thousands of packages maintained by the openSUSE team. (Due to the "
+"size of the repository, adding it may take some time. 512 MB of RAM or an "
+"enabled SWAP partition are highly recommended in case you want to access "
+"this repository at installation time.)"
+msgstr ""
+"오픈수세 11.1의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유지 관"
+"리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시간이 좀 "
+"소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 SWAP 파티션"
+"의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:5
+#, fuzzy
+msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
+msgstr "비-오픈소스 소프트웨어가 포함되어 있는 오픈수세 11.1 저장소"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:6
+#, fuzzy
+msgid ""
+"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Flash, and more."
+msgstr ""
+"오픈수세 팀에 의해 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플래"
+"시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:8
+#, fuzzy
+msgid "Main repository of openSUSE Tumbleweed (Source packages)"
+msgstr "오픈수세 11.2 주 저장소 (소스 꾸러미)"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:9
+#, fuzzy
+msgid ""
+"The repository of all source packages in openSUSE Tumbleweed. For experts "
+"only."
+msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:11
+#, fuzzy
+msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
+msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:12
+#, fuzzy
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Tumbleweed. For experts only."
+msgstr ""
+"이 오픈수세 11.1 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:14
+msgid "Official update repository for Tumbleweed"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:15
+msgid ""
+"This repository provides urgent updates until they get integrated into the "
+"main repositories."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:2
+#, fuzzy
+msgid ""
+"Main repository of openSUSE Leap 42.1 including only Open Source Software"
+msgstr "오픈소스 소프트웨어만 포함 되어 있는 오픈수세 11.1 의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
+"you access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
+#, fuzzy
+msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
+msgstr "비-오픈소스 소프트웨어가 포함되어 있는 오픈수세 11.1 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
+#, fuzzy
+msgid ""
+"The official openSUSE Leap 42.1 repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam, Flash, and "
+"more."
+msgstr ""
+"오픈수세 팀에 의해 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플래"
+"시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
+#, fuzzy
+msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
+msgstr "오픈수세 11.2 주 저장소 (소스 꾸러미)"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:9
+#, fuzzy
+msgid ""
+"The repository of all source packages in openSUSE Leap 42.1. For experts "
+"only."
+msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:11
+#, fuzzy
+msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
+msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:12
+#, fuzzy
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap 42.1. For experts only."
+msgstr ""
+"이 오픈수세 11.1 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:14
+#, fuzzy
+msgid "Repository for official updates to openSUSE Leap 42.1"
+msgstr "11.1 공식 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:15
+#, fuzzy
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap 42.1."
+msgstr "오픈수세 11.1 의 보안 및 필수 업데이트 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:17
+#, fuzzy
+msgid "Repository for official non free updates to openSUSE Leap 42.1"
+msgstr "11.1 공식 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:19
+#, fuzzy
+msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
+msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
+msgid "Untested Updates"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
+#, fuzzy
+msgid "Repository of not yet tested updates"
+msgstr "11.1 공식 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+
+#, fuzzy
+#~ msgid "openSUSE BuildService - Banshee"
+#~ msgstr "오픈수세 빌드서비스 - 게임"
+
+#, fuzzy
+#~ msgid "Repository for official updates to 12.2"
+#~ msgstr "11.1 공식 업데이트 저장소"
+
+#, fuzzy
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.2."
+#~ msgstr "오픈수세 11.1 의 보안 및 필수 업데이트 저장소 입니다."
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 12.3 including only Open Source Software"
+#~ msgstr "오픈소스 소프트웨어만 포함 되어 있는 오픈수세 11.1 의 메인 저장소"
+
+#, fuzzy
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "오픈수세 11.1의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유"
+#~ "지 관리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시"
+#~ "간이 좀 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 "
+#~ "SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#, fuzzy
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 12.3"
+#~ msgstr "비-오픈소스 소프트웨어가 포함되어 있는 오픈수세 11.1 저장소"
+
+#, fuzzy
+#~ msgid ""
+#~ "The official openSUSE 12.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "오픈수세 팀에 의해 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플"
+#~ "래시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다."
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 12.3 (Source packages)"
+#~ msgstr "오픈수세 11.2 주 저장소 (소스 꾸러미)"
+
+#, fuzzy
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 12.3. For experts only."
+#~ msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다."
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE 12.3 including the debuginfo packages"
+#~ msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#, fuzzy
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 12.3. For experts only."
+#~ msgstr ""
+#~ "이 오픈수세 11.1 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#, fuzzy
+#~ msgid "Repository for official updates to 12.3"
+#~ msgstr "11.1 공식 업데이트 저장소"
+
+#, fuzzy
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "12.3."
+#~ msgstr "오픈수세 11.1 의 보안 및 필수 업데이트 저장소 입니다."
+
+#, fuzzy
+#~ msgid "Update repository of openSUSE 12.3 debuginfo packages"
+#~ msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#, fuzzy
+#~ msgid "openSUSE BuildService - KDE:UpdatedApps"
+#~ msgstr "오픈수세 빌드서비스 - 그놈:Apps"
+
+#, fuzzy
+#~ msgid "Updated versions of KDE applications"
+#~ msgstr "KDE 응용프로그램 백포트"
+
+#~ msgid ""
+#~ "Updates to the KDE software that is shipped with the distribution "
+#~ "(backports)."
+#~ msgstr "배포판의 KDE 소프트웨어 업데이트(백포트)"
+
+#, fuzzy
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 12.1, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "오픈수세 11.1의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유"
+#~ "지 관리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시"
+#~ "간이 좀 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 "
+#~ "SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#~ msgid ""
+#~ "Contrib project contains lots of useful additions to the main "
+#~ "distribution by our community contributors. See http://en.opensuse.org/"
+#~ "Contrib for details."
+#~ msgstr ""
+#~ "Contrib 프로젝트는 우리 커뮤니티 참여자들이 만든 주 배포판에 추가된 유용한"
+#~ "것들이 들어있습니다. http://en.opensuse.org/Contrib 를 참조하세요."
+
+#, fuzzy
+#~| msgid ""
+#~| "In this repository you find security and maintenance updates to openSUSE "
+#~| "11.1."
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.4."
+#~ msgstr "오픈수세 11.1 의 보안 및 필수 업데이트 저장소 입니다."
+
+#~ msgid "Main Repository (Contrib)"
+#~ msgstr "주 저장소 (Contrib)"
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 11.1 (Source packages)"
+#~ msgid "Main repository of openSUSE 11.4 (Source packages)"
+#~ msgstr "오픈수세 11.1 주 저장소 (소스 꾸러미)"
+
+#, fuzzy
+#~| msgid "Repository for community contributions to 11.2"
+#~ msgid "Repository for community contributions to 11.4"
+#~ msgstr "11.2의 커뮤니티 참여프로그램 저장소"
+
+#, fuzzy
+#~| msgid "Repository for official updates to 11.1"
+#~ msgid "Repository for official updates to 11.4"
+#~ msgstr "11.1 공식 업데이트 저장소"
+
+#, fuzzy
+#~| msgid ""
+#~| "The repository of all source packages in openSUSE 11.1. For experts only."
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.4. For experts only."
+#~ msgstr "전문가 전용 오픈수세 11.1 의 모든 소스 꾸러미 저장소"
+
+#, fuzzy
+#~| msgid ""
+#~| "Main repository of openSUSE 11.1 including only Open Source Software"
+#~ msgid "Main repository of openSUSE 11.4 including only Open Source Software"
+#~ msgstr "오픈소스 소프트웨어만 포함 되어 있는 오픈수세 11.1 의 메인 저장소"
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 11.1 including the debuginfo packages"
+#~ msgid "Main repository of openSUSE 11.4 including the debuginfo packages"
+#~ msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#, fuzzy
+#~| msgid "Non-Open Source Software Addon repository for openSUSE 11.1"
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.4"
+#~ msgstr "비-오픈소스 소프트웨어가 포함되어 있는 오픈수세 11.1 저장소"
+
+#, fuzzy
+#~| msgid ""
+#~| "The big Open Source Software (OSS) repository for openSUSE 11.1, giving "
+#~| "you access to thousands of packages maintained by the openSUSE team. "
+#~| "(Due to the size of the repository, adding it may take some time. 512 MB "
+#~| "of RAM or an enabled SWAP partition are highly recommended in case you "
+#~| "want to access this repository at installation time.)"
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.4, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "오픈수세 11.1의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유"
+#~ "지 관리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시"
+#~ "간이 좀 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 "
+#~ "SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#, fuzzy
+#~| msgid ""
+#~| "The official openSUSE 11.1 repository for all Non-Open Source Software "
+#~| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgid ""
+#~ "The official openSUSE 11.4 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "오픈수세 팀이 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플래시 "
+#~ "등)로 된 공식 오픈수세 11.1 저장소 입니다."
+
+#, fuzzy
+#~| msgid ""
+#~| "This repository is useful for those that want to debug applications on "
+#~| "openSUSE 11.1. For experts only."
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.4. For experts only."
+#~ msgstr ""
+#~ "이 오픈수세 11.1 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 11.1 including the debuginfo packages"
+#~ msgid "Update repository of openSUSE 11.4 debuginfo packages"
+#~ msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#~ msgid "Backport of latest stable GNOME"
+#~ msgstr "최신 그놈 안정판 백포트"
+
+#, fuzzy
+#~| msgid ""
+#~| "In this repository you find security and maintenance updates to openSUSE "
+#~| "10.3."
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.3."
+#~ msgstr "오픈수세 10.3의 보안 및 필수 업데이트 저장소 입니다."
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 10.3 (Source packages)"
+#~ msgid "Main repository of openSUSE 11.3 (Source packages)"
+#~ msgstr "오픈수세 10.3 주 저장소 (소스 꾸러미)"
+
+#, fuzzy
+#~| msgid "Repository for community contributions to 11.2"
+#~ msgid "Repository for community contributions to 11.3"
+#~ msgstr "11.2의 커뮤니티 참여프로그램 저장소"
+
+#, fuzzy
+#~| msgid "Repository for official updates to 10.3"
+#~ msgid "Repository for official updates to 11.3"
+#~ msgstr "10.3 공식 업데이트 저장소"
+
+#, fuzzy
+#~| msgid ""
+#~| "The repository of all source packages in openSUSE 10.3. For experts only."
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.3. For experts only."
+#~ msgstr "전문가 전용 오픈수세 10.3 의 모든 소스 꾸러미 저장소입니다."
+
+#, fuzzy
+#~| msgid ""
+#~| "This provides the latest stable, unsupported release of GNOME for "
+#~| "openSUSE 10.3."
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.3."
+#~ msgstr ""
+#~ "그놈에서 지원하지 않는 오픈수세 10.3 용 최신 안정판을 제공하고 있습니다."
+
+#, fuzzy
+#~| msgid "openSUSE BuildService - GNOME:STABLE:2.28"
+#~ msgid "openSUSE BuildService - GNOME:STABLE:2.30"
+#~ msgstr "오픈수세 빌드서비스 - 그놈:안정:2.28"
+
+#, fuzzy
+#~| msgid ""
+#~| "Main repository of openSUSE 10.3 including only Open Source Software"
+#~ msgid "Main repository of openSUSE 11.3 including only Open Source Software"
+#~ msgstr "오픈 소스 소프트웨어(OSS)만 포함하고 있는 오픈수세 10.3의 주 저장소"
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 10.3 including the debuginfo packages"
+#~ msgid "Main repository of openSUSE 11.3 including the debuginfo packages"
+#~ msgstr "디버그 꾸러미만 포함하고 있는 오픈수세 10.3의 주 저장소"
+
+#, fuzzy
+#~| msgid "Non-Open Source Software Addon repository for openSUSE 10.3"
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.3"
+#~ msgstr "비 오픈 소스 소프트웨어가 포함된 오픈수세 10.3 저장소"
+
+#, fuzzy
+#~| msgid ""
+#~| "The big Open Source Software (OSS) repository for openSUSE 10.3, giving "
+#~| "you access to thousands of packages maintained by the openSUSE team. "
+#~| "(Due to the size of the repository, adding it may take some time. 512 MB "
+#~| "of RAM or an enabled SWAP partition are highly recommended in case you "
+#~| "want to access this repository at installation time.)"
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "오픈수세 10.3의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유"
+#~ "지 관리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시"
+#~ "간이 좀 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 "
+#~ "SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#, fuzzy
+#~| msgid ""
+#~| "The official openSUSE 11.1 repository for all Non-Open Source Software "
+#~| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgid ""
+#~ "The official openSUSE 11.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "오픈수세 팀이 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플래시 "
+#~ "등)로 된 공식 오픈수세 11.1 저장소 입니다."
+
+#, fuzzy
+#~| msgid ""
+#~| "This repository is useful for those that want to debug applications on "
+#~| "openSUSE 10.3. For experts only."
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.3. For experts only."
+#~ msgstr ""
+#~ "이 오픈수세 10.3 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#~ msgid "Backports of KDE applications"
+#~ msgstr "KDE 응용프로그램 백포트"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.2."
+#~ msgstr ""
+#~ "이 저장소에서 오픈수세 11.2 의 보안 및 필수 업데이트를 찾을 수 있습니다."
+
+#~ msgid "Main repository of openSUSE 11.2 (Source packages)"
+#~ msgstr "오픈수세 11.2 주 저장소 (소스 꾸러미)"
+
+#~ msgid "Repository for community contributions to 11.2"
+#~ msgstr "11.2의 커뮤니티 참여프로그램 저장소"
+
+#~ msgid "Repository for official updates to 11.2"
+#~ msgstr "11.2 공식 업데이트 저장소"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 11.2. For experts only."
+#~ msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다."
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.2."
+#~ msgstr ""
+#~ "그놈에서 지원하지 않는 오픈수세 11.2 용 최신 안정판을 제공하고 있습니다."
+
+#~ msgid "openSUSE BuildService - GNOME:STABLE:2.28"
+#~ msgstr "오픈수세 빌드서비스 - 그놈:안정:2.28"
+
+#~ msgid "openSUSE BuildService - KDE:Backports"
+#~ msgstr "오픈수세 빌드서비스 - KDE:백포트"
+
+#~ msgid "openSUSE BuildService - KDE:KDE4:Community"
+#~ msgstr "오픈수세 빌드서비스 - KDE:KDE4:커뮤니티"
+
+#~ msgid "Main repository of openSUSE 11.2 including only Open Source Software"
+#~ msgstr "오픈 소스 소프트웨어만 포함 되어 있는 오픈수세 11.2 의 주 저장소"
+
+#~ msgid "Main repository of openSUSE 11.2 including the debuginfo packages"
+#~ msgstr "디버그정보 꾸러미가 들어있는 오픈수세 11.2 의 주 저장소"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.2"
+#~ msgstr "비-오픈소스 소프트웨어가 들어있는 오픈수세 11.2  Add-on 저장소"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.2, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "오픈수세 11.2 의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유"
+#~ "지 관리되는 규모가 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추"
+#~ "가에 시간이 조금 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 "
+#~ "RAM이나 SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#~ msgid ""
+#~ "The official openSUSE 11.2 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgstr ""
+#~ "오픈수세 팀에 의해 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플"
+#~ "래시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.2. For experts only."
+#~ msgstr ""
+#~ "이 오픈수세 11.2 저장소에는 전문가 전용의 유용한 디버그 응용프로그램이 들"
+#~ "어있습니다."
+
+#, fuzzy
+#~| msgid "Repository for community contributions to 11.2"
+#~ msgid "Repository for community contributions to 12.1"
+#~ msgstr "11.2의 커뮤니티 참여프로그램 저장소"
+
+#~ msgid "Latest XFCE release"
+#~ msgstr "최신 XFCE 공개"
+
+#~ msgid ""
+#~ "The XFCE repository in the openSUSE Build Service, which provides you "
+#~ "with the unsupported but latest version of the XFCE desktop environment "
+#~ "and software."
+#~ msgstr ""
+#~ "XFCE 데스크톱 환경과 소프트웨어의 최신 버전을 제공하는 오픈수세 빌드 서비"
+#~ "스의 XFCE 저장소 입니다."
+
+#~ msgid "openSUSE BuildService - XFCE"
+#~ msgstr "오픈수세 빌드서비스 - XFCE"
+
+#, fuzzy
+#~| msgid ""
+#~| "This provides the latest stable, unsupported release of GNOME for "
+#~| "openSUSE 11.1."
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.4."
+#~ msgstr ""
+#~ "그놈에서 지원하지 않는 오픈수세 11.1 용 최신 안정판을 제공하고 있습니다."
+
+#~ msgid "Community repository for GNOME"
+#~ msgstr "그놈 커뮤니티 저장소"
+
+#~ msgid "Latest Compiz release"
+#~ msgstr "최신 컴피즈 공개"
+
+#~ msgid "Latest builds of Qemu"
+#~ msgstr "최신 Qemu 빌드"
+
+#~ msgid "Latest updates for postfix, exim and tools around them."
+#~ msgstr "최신 postfix(도구 및 기타 주변의 것들)의 업데이트"
+
+#~ msgid ""
+#~ "Provides additional KDE software maintained by the openSUSE KDE "
+#~ "community. This includes filelight, d3lphin, kooldock, and much more."
+#~ msgstr ""
+#~ "오픈수세 KDE 커뮤니티에서 관리하는 추가 KDE 소프트웨어(filelight, "
+#~ "d3lphin, kooldock 같은 것) 제공."
+
+#~ msgid ""
+#~ "Provides up-to-date builds of QEMU, a generic and open source machine "
+#~ "emulator and virtualizer."
+#~ msgstr "QEMU(오픈 소스 가상 머신)의 최신 업데이트 제공"
+
+#~ msgid ""
+#~ "Providing the latest updates for postfix, exim and tools around them."
+#~ msgstr "postfix(도구 및 기타 주변의 것들)의 최신드라이버를 제공합니다."
+
+#~ msgid ""
+#~ "This repository contains the latest software that brings you composite "
+#~ "effects and technology. It includes Xgl, Compiz, and Compiz Fusion "
+#~ "packages maintained by the openSUSE Community."
+#~ msgstr ""
+#~ "복합 효과와 기술에 대한 최신 소프트웨어(오픈수세 커뮤니티에서 관리하는 "
+#~ "Xgl, Compiz, Compiz Fusion)가 들어 있습니다."
+
+#~ msgid "openSUSE BuildService - GNOME:Community"
+#~ msgstr "오픈수세 빌드서비스 - 그놈:커뮤니티"
+
+#~ msgid "openSUSE BuildService - GNOME:STABLE"
+#~ msgstr "오픈수세 빌드서비스 - 그놈:안정"
+
+#~ msgid "openSUSE BuildService - KDE:Community"
+#~ msgstr "오픈수세 빌드서비스 - KDE:커뮤니티"
+
+#~ msgid "openSUSE BuildService - Mail Server"
+#~ msgstr "오픈수세 빌드서비스 - 메일 서버"
+
+#~ msgid "openSUSE BuildService - Virtualization (QEMU)"
+#~ msgstr "오픈수세 빌드서비스 - 가상화 (QEMU)"
+
+#~ msgid "openSUSE BuildService - X11:Compiz"
+#~ msgstr "오픈수세 빌드서비스 - X11:컴피즈"
+
+#~ msgid "Contains up-to-date drivers for Wireless LAN."
+#~ msgstr "무선랜 최신드라이버가 들어있습니다."
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "10.3."
+#~ msgstr "오픈수세 10.3의 보안 및 필수 업데이트 저장소 입니다."
+
+#~ msgid "Main repository of openSUSE 10.3 (Source packages)"
+#~ msgstr "오픈수세 10.3 주 저장소 (소스 꾸러미)"
+
+#~ msgid "Recent drivers for wlan"
+#~ msgstr "무선랜 최신 드라이버"
+
+#~ msgid "Repository for official updates to 10.3"
+#~ msgstr "10.3 공식 업데이트 저장소"
+
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE 10.3. For experts only."
+#~ msgstr "전문가 전용 오픈수세 10.3 의 모든 소스 꾸러미 저장소입니다."
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 10.3."
+#~ msgstr ""
+#~ "그놈에서 지원하지 않는 오픈수세 10.3 용 최신 안정판을 제공하고 있습니다."
+
+#~ msgid "openSUSE BuildService - Drivers for Wireless LAN"
+#~ msgstr "오픈수세 빌드서비스 - 무선랜 드라이버"
+
+#~ msgid "openSUSE BuildService - X11:XGL"
+#~ msgstr "오픈수세 빌드서비스 - X11:XGL"
+
+#~ msgid "Main repository of openSUSE 10.3 including only Open Source Software"
+#~ msgstr "오픈 소스 소프트웨어(OSS)만 포함하고 있는 오픈수세 10.3의 주 저장소"
+
+#~ msgid "Main repository of openSUSE 10.3 including the debuginfo packages"
+#~ msgstr "디버그 꾸러미만 포함하고 있는 오픈수세 10.3의 주 저장소"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 10.3"
+#~ msgstr "비 오픈 소스 소프트웨어가 포함된 오픈수세 10.3 저장소"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 10.3, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "오픈수세 10.3의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유"
+#~ "지 관리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시"
+#~ "간이 좀 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 "
+#~ "SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#~ msgid ""
+#~ "The official openSUSE 10.3 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including RealPlayer, Opera, Java, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "오픈수세 팀에 의해 유지, 관리되는 비 오픈 소스 소프트웨어(리얼 플레이어, "
+#~ "오페라, 자바, 플래시 등 기타)로 된 공식 오픈수세 10.3 저장소 입니다."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 10.3. For experts only."
+#~ msgstr ""
+#~ "이 오픈수세 10.3 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#~ msgid "Latest KDE4 Builds"
+#~ msgstr "최신 KDE4 빌드"
+
+#~ msgid ""
+#~ "This provides the latest stable, unsupported release of GNOME for "
+#~ "openSUSE 11.0."
+#~ msgstr ""
+#~ "그놈에서 지원하지 않는 오픈수세 11.0 용 최신 안정판을 제공하고 있습니다."
+
+#~ msgid ""
+#~ "Updates the KDE4 desktop to the latest version (not necessarly stable)"
+#~ msgstr "KDE4 데스크톱을 최신버전으로 업데이트(not necessarly stable)"
+
+#~ msgid "openSUSE BuildService - KDE4:Factory:Desktop"
+#~ msgstr "오픈수세 빌드서비스 - KDE:Factory:데스크톱"
+
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "11.0."
+#~ msgstr "오픈수세 11.0 의 보안 및 필수 업데이트 저장소 입니다."
+
+#~ msgid "Main repository of openSUSE 11.0 including only Open Source Software"
+#~ msgstr "오픈 소스 소프트웨어가 포함 되어 있는 오픈수세 11.0 의 메인 저장소"
+
+#~ msgid "Main repository of openSUSE 11.0 including the debuginfo packages"
+#~ msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.0의 메인 저장소"
+
+#~ msgid "Non-Open Source Software Addon repository for openSUSE 11.0"
+#~ msgstr "비 오픈 소스 소프트웨어가 포함되어 있는 오픈수세 11.0 저장소"
+
+#~ msgid "Repository for official updates to 11.0"
+#~ msgstr "11.0 공식 업데이트 저장소"
+
+#~ msgid ""
+#~ "The big Open Source Software (OSS) repository for openSUSE 11.0, giving "
+#~ "you access to thousands of packages maintained by the openSUSE team. (Due "
+#~ "to the size of the repository, adding it may take some time. 512 MB of "
+#~ "RAM or an enabled SWAP partition are highly recommended in case you want "
+#~ "to access this repository at installation time.)"
+#~ msgstr ""
+#~ "오픈수세 11.0의 오픈 소스 소프트웨어(OSS) 저장소는 오픈수세 팀에 의해 유"
+#~ "지 관리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시"
+#~ "간이 좀 소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 "
+#~ "SWAP 파티션의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#~ msgid ""
+#~ "The official openSUSE 11.0 repository for all Non-Open Source Software "
+#~ "maintained by the openSUSE team, including RealPlayer, Opera, Java, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "오픈수세 팀에 의해 유지, 관리되는 비 오픈 소스 소프트웨어(리얼 플레이어, "
+#~ "오페라, 자바, 플래시 등 기타)로 된 공식 오픈수세 11.0 저장소 입니다."
+
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE 11.0. For experts only."
+#~ msgstr ""
+#~ "이 오픈수세 11.0 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
