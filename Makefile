@@ -8,6 +8,7 @@ all: $(OUTPUT)
 po/community-repositories.pot: $(INPUT)
 	@for i in $^; do intltool-extract --type=gettext/xml $$i; done
 	xgettext -kN_ -o $@ $(dir)/*.h
+	sed -i -e '/#:/s/.in.h:/.in:/g' $@
 	@rm -f $(dir)/*.h
 
 %.po: po/community-repositories.pot
