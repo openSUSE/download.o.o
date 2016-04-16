@@ -15,15 +15,16 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-13 18:46+0200\n"
-"PO-Revision-Date: 2015-10-09 23:11+0100\n"
-"Last-Translator: Jan Papez (honyczek) <honyczek@centrum.cz>\n"
-"Language-Team: Czech <opensuse-translation@opensuse.org>\n"
+"PO-Revision-Date: 2016-04-16 17:59+0000\n"
+"Last-Translator: Vojtech Zeisek <Vojtech.Zeisek@opensuse.org>\n"
+"Language-Team: Czech "
+"<http://l10n.opensuse.org/projects/download-o-o/master/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
-"Plural-Forms:  nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 2.5\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
@@ -318,7 +319,7 @@ msgstr "Nástroje pro souborové systémy a balíčky pro FUSE"
 #: YaST/Repos/_openSUSE_132_Additional.xml.in.h:42
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
 msgid "Filesystem tools and FUSE-related packages."
-msgstr "Nástroje pro souborové systémy a balíčky pro FUSE"
+msgstr "Nástroje pro souborové systémy a balíčky pro FUSE."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
 #: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
@@ -652,7 +653,6 @@ msgstr ""
 "Hlavní repozitář openSUSE Leap 42.1 obsahující pouze open-source software"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
 #| "giving you access to thousands of packages maintained by the openSUSE "
@@ -663,11 +663,8 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
-"Velký repozitář s open-source softwarem pro openSUSE Leap 42.1. Obsahuje "
-"tisíce balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti může "
-"přidání tohoto repozitáře vyžadovat delší čas. Pokud k repozitáři chcete "
-"přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní "
-"odkládací oddíl.) "
+"Velký repozitář s open-source softwarem pro openSUSE Leap 42.1 dávající vám "
+"přístup k tisícům balíčků spravovaných komunitou openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
@@ -675,7 +672,6 @@ msgstr ""
 "Repozitář s doplňkovým softwarem bez dostupného kódu pro openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE team, including Opera, Steam, Flash, "
@@ -685,9 +681,9 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"Oficiální repozitář openSUSE Tumbleweed pro veškerý software bez dostupného "
-"zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Steamu, "
-"Flashe atd."
+"Oficiální repozitář openSUSE Leap 42.1 pro veškerý software bez dostupného "
+"zdrojového kódu, který je spravovaný komunitou openSUSE, včetně Opery, "
+"Steamu, Flashe atd."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
@@ -737,14 +733,12 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
 msgid "Untested Updates"
-msgstr ""
+msgstr "Netestované aktualizace"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
-#, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository of not yet tested updates"
-msgstr ""
-"Repozitář s oficiálními aktualizacemi nesvobodného softwaru pro openSUSE 12.3"
+msgstr "Repozitář s netestovanými aktualizacemi"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
 msgid ""
@@ -752,6 +746,9 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"Repozitář obsahuje bezpečnostní a údržbářské aktualizace, které stále "
+"potřebují testování a kontrolu kvality. Přidejte tento repozitář pouze "
+"chcete-li pomoci s testováním aktualizací openSUSE."
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSE BuildService - Banshee"
