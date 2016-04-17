@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-13 18:46+0200\n"
-"PO-Revision-Date: 2016-04-15 19:16+0000\n"
-"Last-Translator: Benoît Monin <benoit.monin@gmx.fr>\n"
+"PO-Revision-Date: 2016-04-17 14:14+0000\n"
+"Last-Translator: Antoine Belvire <antoine.belvire@laposte.net>\n"
 "Language-Team: French "
 "<http://l10n.opensuse.org/projects/download-o-o/master/fr/>\n"
 "Language: fr\n"
@@ -643,13 +643,12 @@ msgstr ""
 "Source"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
-#, fuzzy
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
 "Le dépôt principal de logiciels Open Source pour openSUSE Leap 42.1, vous "
-"donnant accès des milliers de paquets maintenus par la communauté openSUSE"
+"donnant accès à des milliers de paquets maintenus par la communauté openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
@@ -657,7 +656,6 @@ msgstr ""
 "Dépôt de logiciels supplémentaires non-opensource pour openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
-#, fuzzy
 msgid ""
 "The official openSUSE Leap 42.1 repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
@@ -713,17 +711,14 @@ msgstr ""
 "Dépôt de mise à jour d'openSUSE Leap 42.1 contenant les paquets debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
-#, fuzzy
 msgid "Untested Updates"
 msgstr "Mises à jour non testées"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
-#, fuzzy
 msgid "Repository of not yet tested updates"
-msgstr "Dépôt des mises à jour pas encore testées"
+msgstr "Dépôt des mises à jour encore non testées"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
-#, fuzzy
 msgid ""
 "Repository contains security and maintenance updates that still need testing "
 "by quality assurance. Add this repository only if you want to participate in "
