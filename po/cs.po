@@ -6,7 +6,7 @@
 # Marek Stopka <mstopka@opensuse.org>, 2008.
 # Vojtěch Zeisek <vojta.sc@seznam.cz>, 2008.
 # Radomír Černoch <radomir.cernoch@gmail.com>, 2009.
-# Vojtěch Zeisek <Vojtech.Zeisek@opensuse.org>, 2010.
+# Vojtěch Zeisek <Vojtech.Zeisek@opensuse.org>, 2010, 2016.
 # Vít Pelčák <vit@pelcak.org>, 2011.
 # Jan Papež <honyczek@centrum.cz>, 2011.
 # Jan Papez <honyczek@centrum.cz>, 2012, 2013, 2015.
@@ -15,16 +15,15 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-13 18:46+0200\n"
-"PO-Revision-Date: 2016-04-16 17:59+0000\n"
-"Last-Translator: Vojtech Zeisek <Vojtech.Zeisek@opensuse.org>\n"
-"Language-Team: Czech "
-"<http://l10n.opensuse.org/projects/download-o-o/master/cs/>\n"
+"PO-Revision-Date: 2016-04-18 10:51+0100\n"
+"Last-Translator: Vojtěch Zeisek <vojta@trapa.cz>\n"
+"Language-Team: Czech <opensuse-cz@opensuse.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2.5\n"
+"X-Generator: Lokalize 2.0\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
@@ -113,9 +112,9 @@ msgid ""
 "to run some Windows applications in openSUSE. This repository provides the "
 "latest CVS (development) snapshot packages of Wine."
 msgstr ""
-"Wine je opensource implementace Windows API, které umožňuje spouštět některé "
-"aplikace Windows v systému openSUSE. Tento repozitář obsahuje balíčky s "
-"nejnovějšími vývojovými verzemi Wine."
+"Wine je open-source implementace Windows API, které umožňuje spouštět "
+"některé aplikace Windows v systému openSUSE. Tento repozitář obsahuje "
+"balíčky s nejnovějšími vývojovými verzemi Wine."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in.h:13
 #: YaST/Repos/_openSUSE_132_Additional.xml.in.h:13
@@ -137,8 +136,8 @@ msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
 msgstr ""
-"Obsahuje několik akčních her včetně her Open Arena (střílečka), Flight Gear "
-"(letecký simulátor) a Torcs (3D závodní simulátor)."
+"Obsahuje několik akčních her včetně her Open Arena (střílečka), Flight Gear ("
+"letecký simulátor) a Torcs (3D závodní simulátor)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in.h:16
 msgid "openSUSE BuildService - Drivers for webcams"
@@ -171,7 +170,7 @@ msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
 msgstr ""
-"Obsahuje aktuální verzi VirtualBoxu, opensource nástroje pro virtualizaci "
+"Obsahuje aktuální verzi VirtualBoxu, open-source nástroje pro virtualizaci "
 "x86 hardwaru."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in.h:22
