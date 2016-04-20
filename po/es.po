@@ -7,15 +7,16 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-13 18:46+0200\n"
-"PO-Revision-Date: 2013-09-28 13:18-0300\n"
-"Last-Translator: Gabriel <gabriel@opensuse.org>\n"
-"Language-Team: Spanish <opensuse-translation-es@opensuse.org>\n"
+"PO-Revision-Date: 2016-04-20 14:38+0000\n"
+"Last-Translator: Victor hck <correohck@gmail.com>\n"
+"Language-Team: Spanish "
+"<http://l10n.opensuse.org/projects/download-o-o/master/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.5\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
@@ -319,7 +320,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
 msgid "Filesystem tools and FUSE-related packages."
 msgstr ""
-"Herramientas para el sistema de archivos y paquetes relacionados con FUSE"
+"Herramientas para el sistema de archivos y paquetes relacionados con FUSE."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
 #: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
@@ -408,7 +409,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:7
 msgid "Main Repository (Sources)"
-msgstr "Repositorio Principal (fuentes) "
+msgstr "Repositorio Principal (fuentes)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in.h:8
 msgid "Main repository of openSUSE 13.1 (Source packages)"
@@ -499,6 +500,8 @@ msgstr "Paquetes actualizados de Java (Factory)"
 #: YaST/Repos/_openSUSE_132_Default.xml.in.h:2
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
 msgstr ""
+"Repositorio principal de openSUSE 13.2 que incluye sólo software de código "
+"abierto"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in.h:3
 msgid ""
@@ -626,7 +629,6 @@ msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE 12.1 repository for all Non-Open Source Software "
 #| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -635,9 +637,9 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"El repositorio oficial de openSUSE 12.1 para todo el software de código "
-"fuente no abierto mantenido por el equipo de openSUSE y que incluye Opera, "
-"Java, Flash y más."
+"El repositorio oficial de Leap 42.1 para todo el software de código fuente "
+"no abierto mantenido por la comunidad de openSUSE y que incluye Opera, "
+"Steam, Flash y más."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
@@ -682,10 +684,9 @@ msgid "Untested Updates"
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
-#, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository of not yet tested updates"
-msgstr "Repositorio de las actualizaciones oficiales para 12.3"
+msgstr "Repositorio de actualizaciones aún no comprobadas"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
 msgid ""
