@@ -13,15 +13,16 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-13 18:46+0200\n"
-"PO-Revision-Date: 2015-10-09 02:38+0800\n"
-"Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
-"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2016-05-13 18:21+0000\n"
+"Last-Translator: Ray chen <swyear@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) "
+"<http://l10n.opensuse.org/projects/download-o-o/master/zh_TW/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.5\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
@@ -605,7 +606,6 @@ msgid ""
 msgstr "openSUSE Leap 42.1 的主要套件庫，僅包含開放原碼的軟體"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
 #| "giving you access to thousands of packages maintained by the openSUSE "
@@ -615,18 +615,13 @@ msgstr "openSUSE Leap 42.1 的主要套件庫，僅包含開放原碼的軟體"
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
-msgstr ""
-"openSUSE Leap 42.1 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 "
-"openSUSE 團隊維護的套件讓您取用。(由於這個套件庫非常大，要加入它會花上一些時"
-"間。如果您要在安裝時存取此套件庫，強烈建議系統至少需有 512 MB 的記憶體或可用"
-"的置換分割區。)"
+msgstr "openSUSE Leap 42.1 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 社群維護的套件讓您取用。"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr "openSUSE Leap 42.1 的非開放原碼軟體附加套件庫"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE team, including Opera, Steam, Flash, "
@@ -636,8 +631,8 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"由 openSUSE 團隊維護之非開放原始碼軟體的官方 openSUSE Leap 42.1 套件庫，包含"
-"了 Opera, Steam, Flash 以及其他更多軟體。"
+"由 openSUSE 社群維護之非開放原始碼軟體的官方 openSUSE Leap 42.1 套件庫，包含了 Opera, Steam, Flash "
+"以及其他更多軟體。"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
@@ -680,20 +675,19 @@ msgstr "openSUSE Leap 42.1 的偵錯更新套件庫"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
 msgid "Untested Updates"
-msgstr ""
+msgstr "未測試的更新"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
-#, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository of not yet tested updates"
-msgstr "12.3 的官方非開放原始碼更新套件庫"
+msgstr "尚未測試的更新套件庫"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
 msgid ""
 "Repository contains security and maintenance updates that still need testing "
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
-msgstr ""
+msgstr "包含了仍須進行品質測試的安全及維護更新。除非您要參與測試 openSUSE 更新才需要加入此套件庫。"
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSE BuildService - Banshee"
