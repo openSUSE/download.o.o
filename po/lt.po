@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-13 18:46+0200\n"
+"POT-Creation-Date: 2016-07-28 17:00+0200\n"
 "PO-Revision-Date: 2015-10-23 09:49+0200\n"
 "Last-Translator: Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
@@ -21,21 +21,24 @@ msgstr ""
 "%10>=2 && (n%100<10 || n%100>=20) ? 2 : 3);\n"
 "X-Generator: Lokalize 2.0\n"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:1
 msgid "openSUSE BuildService - LXDE"
 msgstr "openSUSE kūrimo paslauga - LXDE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:2
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:2
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:2
 msgid "Latest LXDE release"
 msgstr "Naujausia LXDE laida"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:3
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:3
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:3
 msgid ""
 "The LXDE repository in the openSUSE Build Service, which provides you with "
 "the unsupported but latest version of the LX desktop environment and "
@@ -44,21 +47,24 @@ msgstr ""
 "LXDE saugykla iš openSUSE Kūrimo Paslaugos, kuri pateikia nepalaikomą, bet "
 "naujausią LX darbalaukio aplinkos ir programinės įrangos versiją."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:4
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:4
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:4
 msgid "openSUSE BuildService - LibreOffice"
 msgstr "openSUSE kūrimo paslauga - LibreOffice"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:5
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:5
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:5
 msgid "Latest stable LibreOffice release"
 msgstr "Naujausia stabili LibreOffice laida"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:6
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:6
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:6
 msgid ""
 "Provides you with the latest stable version of LibreOffice, the Office suite "
 "that openSUSE uses."
@@ -66,21 +72,24 @@ msgstr ""
 "Pateikia vėliausią stabilią LibreOffice versiją – tai openSUSE sistemoje "
 "naudojamas raštinės paketas."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:7
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:7
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:7
 msgid "openSUSE BuildService - Mozilla"
 msgstr "openSUSE kūrimo paslauga - Mozilla"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:8
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:8
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:8
 msgid "Most recent builds of Mozilla Software like Firefox"
 msgstr "Naujausia Mozilla programinė įranga, įskaitant Firefox"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:9
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:9
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:9
 msgid ""
 "Containing the latest releases of all Mozilla software, such as the popular "
 "Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
@@ -89,21 +98,24 @@ msgstr ""
 "pavyzdžiui, populiaraus Thunderbird (pašto kliento), Firefox and SeaMonkey "
 "(saityno naršyklės)."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:10
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:10
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:10
 msgid "openSUSE BuildService - Wine CVS Builds"
 msgstr "openSUSE kūrimo paslauga - Wine CVS kopijos"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:11
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:11
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:11
 msgid "Snapshots of Wine CVS"
 msgstr "Wine CVS kopija"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:12
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:12
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:12
 msgid ""
 "Wine is an Open Source implementation of the Windows API, so it allows you "
 "to run some Windows applications in openSUSE. This repository provides the "
@@ -113,21 +125,24 @@ msgstr ""
 "kai kurias Windows programas openSUSE sistemoje. Ši saugykla pateikia Wine "
 "paskiausias CVS (vystymo) momentines kopijas."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:13
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:13
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:13
 msgid "openSUSE BuildService - Games"
 msgstr "openSUSE kūrimo paslauga - Žaidimai"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:14
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:14
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:14
 msgid "A collection of action games"
 msgstr "Veiksmo žaidimų kolekcija"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:15
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:15
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:15
 msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
@@ -135,33 +150,36 @@ msgstr ""
 "Talpina keletą veiksmo žaidimų, įskaitant „Open Arena“ (šaudyklė), „Flight "
 "Gear“ (kovos simuliatorius) ir „Torcs“ (3D lenktynės)."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
 msgstr "openSUSE kūrimo paslauga - internetinių vaizdo kamerų tvarkyklės"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
 msgstr "Naujausios internetinių vaizdo kamerų tvarkyklės"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
 msgstr "Turi naujausias šimtų skirtingų internetinių vaizdo kamerų tvarkykles."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:19
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:16
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:19
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:16
 msgid "openSUSE BuildService - Virtualization (VirtualBox)"
 msgstr "openSUSE kūrimo paslauga - Virtualizacija (VirtualBox)"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:20
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:17
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:20
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:17
 msgid "Latest builds of Virtualbox"
 msgstr "Paskiausi Virtualbox kūrimai"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:21
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:18
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:21
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:18
 msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
@@ -169,80 +187,89 @@ msgstr ""
 "Pateikia paskiausius VirtualBox kūrinius, bendros paskirties atviro kodo "
 "pilną x86 aparatinės įrangos virtualizatorių."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:22
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:19
 msgid "openSUSE BuildService - PHP"
 msgstr "openSUSE kūrimo paslauga - PHP"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:23
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:20
 msgid "Latest updates for PHP software"
 msgstr "Paskutiniai atnaujinimai PHP programinei įrangai"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:24
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:21
 msgid ""
 "Provides the latest packages and multiple-version builds of PHP software."
 msgstr ""
 "Pateikiami įvairių versijų, kartu ir naujausi PHP programinės įrangos "
 "kūriniai."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:25
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:22
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:19
 msgid "openSUSE BuildService - Database"
 msgstr "openSUSE kūrimo paslauga - Duomenų bazės"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:26
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:23
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:20
 msgid "Latest updates for database software"
 msgstr "Paskutiniai atnaujinimai duomenų bazių programinei įrangai"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:27
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:24
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
 msgstr ""
 "Paskutiniai atnaujinimai duomenų bazių programinei įrangai, įskaitant "
 "Firebird ir MySQL."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:28
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:25
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:22
 msgid "openSUSE BuildService - KDE:Extra"
 msgstr "openSUSE kūrimo paslauga - KDE: Papildoma"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:29
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:26
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:23
 msgid "Community repository for KDE"
 msgstr "KDE bendruomenės saugykla"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:30
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:27
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:24
 msgid ""
 "Provides additional KDE software maintained by the openSUSE KDE community."
 msgstr ""
 "Pateikiama papildoma KDE programinė įranga, kurią ruošia openSUSE KDE "
 "bendruomenė."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:31
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:28
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:31
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:25
 msgid "openSUSE BuildService - GNOME:Apps"
 msgstr "openSUSE kūrimo paslauga - GNOME:Programos"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:32
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:29
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:32
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:26
 msgid "Backports of GNOME applications"
 msgstr "Oficialiai nepalaikomos GNOME programos"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:33
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:30
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:33
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:27
 msgid ""
 "Updates to the GNOME software that is shipped with the distribution "
 "(backports)."
@@ -250,126 +277,142 @@ msgstr ""
 "Atnaujinimai GNOME programinei įrangai, susiję su platinamuoju paketu "
 "(oficialiai nepalaikoma)."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:34
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:31
 msgid "openSUSE BuildService - Mono:Community"
 msgstr "openSUSE kūrimo paslauga - Mono:Bendruomenė"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:35
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:32
 msgid "Community repository for Mono applications"
 msgstr "Mono programų bendruomenės saugykla"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:36
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
 msgstr "Atnaujinimai ir papildymai Mono kalba parašytoms programoms."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:37
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:34
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:28
 msgid "openSUSE BuildService - devel:languages:perl"
 msgstr "openSUSE kūrimo paslauga - programavimas: kalbos: perl"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:38
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:35
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:29
 msgid "Community repository for Perl modules"
 msgstr "Bendruomenės Perl modulių saugykla"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:39
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:36
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
 msgstr "Perl modulių atnaujinimai ir papildymai."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:40
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:37
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:31
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:31
 msgid "openSUSE BuildService - devel:languages:python"
 msgstr "openSUSE kūrimo paslauga - programavimas: kalbos: python"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:41
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:38
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
 msgid "Community repository for Python modules"
 msgstr "Bendruomenės Python modulių saugykla"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:42
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:39
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 msgid "Updates and Additions for Python modules"
 msgstr "Python modulių atnaujinimai ir papildymai."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:43
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:40
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:34
 msgid "openSUSE BuildService - filesystems"
 msgstr "openSUSE kūrimo paslauga - rinkmenų sistema"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:44
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:41
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:35
 msgid "Filesystem tools and FUSE-related packages"
 msgstr "Rinkmenų sistemos įrankiai ir su FUSE susiję paketai"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:45
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:42
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:36
 msgid "Filesystem tools and FUSE-related packages."
 msgstr "Rinkmenų sistemos įrankiai ir su FUSE susiję paketai."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:46
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:37
 msgid "openSUSE BuildService - Education"
 msgstr "openSUSE kūrimo paslauga - Švietimas"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:47
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:44
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:47
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:38
 msgid "Applications for education users"
 msgstr "Programoms mokslams"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:48
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:45
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:48
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:39
 msgid ""
 "Contains several packages which might be interesting for educational use"
 msgstr ""
 "Paketai, kuriais galėtų susidomėti besimokantieji, švietimo darbuotojai"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:49
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:49
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:49
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:49
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:43
 msgid "openSUSE BuildService - KDE:KDE3"
 msgstr "openSUSE kūrimo paslauga - KDE:KDE3"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:50
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:50
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:50
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:50
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:44
 msgid "Maintained KDE 3 packages"
 msgstr "Palaikomi KDE 3 paketai"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:51
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:51
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:51
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:51
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:45
 msgid "Provides old KDE for newer openSUSE"
 msgstr "Naujesnėms openSUSE versijoms pateikia seną KDE"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_131_Default.xml.in:1
+#: YaST/Repos/_openSUSE_132_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "Pagrindinė saugykla su AKPĮ (OSS)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_131_Default.xml.in:2
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
 msgstr ""
 "openSUSE 13.1 pagrindinė saugykla, turinti tik atviro kodo programinę įrangą"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_131_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE 13.1, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -383,18 +426,19 @@ msgstr ""
 "diegimo metu, patariame turėti bent 512 MB RAM arba įgalintą mainų (SWAP) "
 "skaidinį.)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_131_Default.xml.in:4
+#: YaST/Repos/_openSUSE_132_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
 msgstr "Pagrindinė saugykla su ne AKPĮ (NON-OSS)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_131_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
 msgstr "openSUSE 13.1 uždaro kodo programinės įrangos papildoma saugykla"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_131_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.1 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -402,35 +446,37 @@ msgstr ""
 "Oficiali openSUSE 13.1 saugykla visai uždaro kodo programinei įrangai, kurią "
 "palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt."
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_131_Default.xml.in:7
+#: YaST/Repos/_openSUSE_132_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 msgid "Main Repository (Sources)"
 msgstr "Pagrindinė saugykla (šaltiniai)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_131_Default.xml.in:8
 msgid "Main repository of openSUSE 13.1 (Source packages)"
 msgstr "openSUSE 13.1 pagrindinė saugykla (šaltinių paketai)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_131_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.1. For experts only."
 msgstr "Visų openSUSE 13.1 šaltinių paketų saugykla. Tik ekspertams."
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_131_Default.xml.in:10
+#: YaST/Repos/_openSUSE_132_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 msgid "Main Repository (DEBUG)"
 msgstr "Pagrindinė saugykla (Derinimui)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
 msgstr ""
 "openSUSE 13.1 pagrindinė saugykla, turinti derinimo informacijos paketus"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_131_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
@@ -438,66 +484,72 @@ msgstr ""
 "Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE 13.1. Tik "
 "ekspertams."
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_131_Default.xml.in:13
+#: YaST/Repos/_openSUSE_132_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 msgid "Main Update Repository"
 msgstr "Pagrindinė atnaujinimų saugykla"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
 msgstr "Oficiali 13.1 atnaujinimų saugykla"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.1."
 msgstr ""
 "Šioje saugykloje rasite openSUSE 13.1 saugumo ir palaikymo atnaujinimus."
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:16
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:16
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Default.xml.in:16
+#: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
 msgstr "Atnaujinimų saugykla (uždaro kodo)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
 msgstr "Oficiali 13.1 uždaro kodo atnaujinimų saugykla"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:18
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:18
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Default.xml.in:18
+#: YaST/Repos/_openSUSE_132_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
 msgstr "Atnaujinimų saugykla (Derinimui)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Default.xml.in:19
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
 msgstr ""
 "openSUSE 13.1 atnaujinimų saugykla, turinti derinimo informacijos paketus"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:46
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:46
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:40
 msgid "openSUSE BuildService - Java:packages"
 msgstr "openSUSE kūrimo paslauga - Java: paketai"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:47
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:47
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:41
 msgid "Bleeding-edge Java packages"
 msgstr "Šviežiausi Java paketai"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:48
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:48
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:42
 msgid "Provides uptodate Java packages (Factory backports)"
 msgstr "Pateikia pačius naujausius Java paketus (atkelti iš vystomo kamieno)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_132_Default.xml.in:2
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
 msgstr ""
 "openSUSE 13.2 pagrindinė saugykla, turinti tik atviro kodo programinę įrangą"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_132_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -511,11 +563,11 @@ msgstr ""
 "diegimo metu, patariame turėti bent 512 MB RAM arba įgalintą mainų (SWAP) "
 "skaidinį.)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
 msgstr "openSUSE 13.2 uždaro kodo programinės įrangos papildoma saugykla"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_132_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -523,21 +575,21 @@ msgstr ""
 "Oficiali openSUSE 13.2 saugykla visai uždaro kodo programinei įrangai, kurią "
 "palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt."
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_132_Default.xml.in:8
 msgid "Main repository of openSUSE 13.2 (Source packages)"
 msgstr "openSUSE 13.2 pagrindinė saugykla (šaltinių paketai)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_132_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr "Visų openSUSE 13.2 šaltinių paketų saugykla. Tik ekspertams."
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_132_Default.xml.in:11
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
 msgstr ""
 "openSUSE 13.2 pagrindinė saugykla, turinti derinimo informacijos paketus"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_132_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.2. For experts only."
@@ -545,34 +597,34 @@ msgstr ""
 "Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE 13.2. Tik "
 "ekspertams."
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
 msgstr "Oficiali 13.2 atnaujinimų saugykla"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_132_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.2."
 msgstr ""
 "Šioje saugykloje rasite openSUSE 13.2 saugumo ir palaikymo atnaujinimus."
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
 msgstr "Oficiali 13.2 uždaro kodo atnaujinimų saugykla"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr ""
 "openSUSE 13.2 atnaujinimų saugykla, turinti derinimo informacijos paketus"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr ""
 "openSUSE Tumbleweed pagrindinė saugykla, turinti tik atviro kodo programinę "
 "įrangą"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -586,12 +638,12 @@ msgstr ""
 "diegimo metu, patariame turėti bent 512 MB RAM arba įgalintą mainų (SWAP) "
 "skaidinį.)"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr ""
 "openSUSE  Tumbleweed uždaro kodo programinės įrangos papildoma saugykla"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
@@ -599,23 +651,23 @@ msgstr ""
 "Oficiali openSUSE Tumbleweed saugykla visai uždaro kodo programinei įrangai, "
 "kurią palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt."
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
 msgstr "openSUSE Tumbleweed pagrindinė saugykla (šaltinių paketai)"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr "Visų openSUSE Tumbleweed šaltinių paketų saugykla. Tik ekspertams."
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
 msgstr ""
 "openSUSE Tumbleweed pagrindinė saugykla, turinti derinimo informacijos "
 "paketus"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
@@ -623,11 +675,11 @@ msgstr ""
 "Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE "
 "Tumbleweed. Tik ekspertams."
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
 msgstr "Oficiali openSUSE Tumbleweed atnaujinimų saugykla"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
@@ -635,14 +687,14 @@ msgstr ""
 "Šioje saugykloje pateikiami neatidėliotini atnaujinimai dar iki tol, kol jie "
 "patenka į pagrindines saugyklas."
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr ""
 "openSUSE Leap 42.1 pagrindinė saugykla, turinti tik atviro kodo programinę "
 "įrangą"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 #, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
@@ -660,11 +712,11 @@ msgstr ""
 "pasiekti diegimo metu, patariame turėti bent 512 MB RAM arba įgalintą mainų "
 "(SWAP) skaidinį.)"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr "openSUSE Leap 42.1 uždaro kodo programinės įrangos papildoma saugykla"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 #, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
@@ -678,22 +730,22 @@ msgstr ""
 "Oficiali openSUSE Leap 42.1 saugykla visai uždaro kodo programinei įrangai, "
 "kurią palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt."
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgstr "openSUSE Leap 42.1 pagrindinė saugykla (šaltinių paketai)"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr "Visų openSUSE Leap 42.1 šaltinių paketų saugykla. Tik ekspertams."
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgstr ""
 "openSUSE Leap 42.1 pagrindinė saugykla, turinti derinimo informacijos paketus"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
@@ -701,43 +753,161 @@ msgstr ""
 "Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE Leap "
 "42.1. Tik ekspertams."
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
 msgstr "Oficiali openSUSE Leap 42.1 atnaujinimų saugykla"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
 msgstr ""
 "Šioje saugykloje rasite openSUSE Leap 42.1 saugumo ir palaikymo atnaujinimus."
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr "Oficiali openSUSE Leap 42.1 uždaro kodo atnaujinimų saugykla"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr ""
 "openSUSE Leap 42.1 atnaujinimų saugykla, turinti derinimo informacijos "
 "paketus"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 msgid "Untested Updates"
 msgstr ""
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 #, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository of not yet tested updates"
 msgstr "Oficiali 12.3 uždaro kodo atnaujinimų saugykla"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
 msgid ""
 "Repository contains security and maintenance updates that still need testing "
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
+#, fuzzy
+#| msgid ""
+#| "Main repository of openSUSE Leap 42.1 including only Open Source Software"
+msgid ""
+"Main repository of openSUSE Leap 42.2 including only Open Source Software"
+msgstr ""
+"openSUSE Leap 42.1 pagrindinė saugykla, turinti tik atviro kodo programinę "
+"įrangą"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
+#, fuzzy
+#| msgid ""
+#| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
+#| "giving you access to thousands of packages maintained by the openSUSE "
+#| "team. (Due to the size of the repository, adding it may take some time. "
+#| "512 MB of RAM or an enabled SWAP partition are highly recommended in case "
+#| "you want to access this repository at installation time.)"
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
+"you access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"Didelė atviro kodo programinės įrangos openSUSE Leap 42.1 saugykla, "
+"leidžianti parsisiųsti tūkstančius openSUSE komandos prižiūrimų paketų. (Dėl "
+"saugyklos didumo, jos pridėjimas gali užtrukti. Jei norite šią saugyklą "
+"pasiekti diegimo metu, patariame turėti bent 512 MB RAM arba įgalintą mainų "
+"(SWAP) skaidinį.)"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
+#, fuzzy
+#| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
+msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
+msgstr "openSUSE Leap 42.1 uždaro kodo programinės įrangos papildoma saugykla"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
+#, fuzzy
+#| msgid ""
+#| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
+#| "Software maintained by the openSUSE team, including Opera, Steam, Flash, "
+#| "and more."
+msgid ""
+"The official openSUSE Leap 42.2 repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam, Flash, and "
+"more."
+msgstr ""
+"Oficiali openSUSE Leap 42.1 saugykla visai uždaro kodo programinei įrangai, "
+"kurią palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt."
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
+#, fuzzy
+#| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
+msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
+msgstr "openSUSE Leap 42.1 pagrindinė saugykla (šaltinių paketai)"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
+#, fuzzy
+#| msgid ""
+#| "The repository of all source packages in openSUSE Leap 42.1. For experts "
+#| "only."
+msgid ""
+"The repository of all source packages in openSUSE Leap 42.2. For experts "
+"only."
+msgstr "Visų openSUSE Leap 42.1 šaltinių paketų saugykla. Tik ekspertams."
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
+#, fuzzy
+#| msgid ""
+#| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
+msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
+msgstr ""
+"openSUSE Leap 42.1 pagrindinė saugykla, turinti derinimo informacijos paketus"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
+#, fuzzy
+#| msgid ""
+#| "This repository is useful for those that want to debug applications on "
+#| "openSUSE Leap 42.1. For experts only."
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap 42.2. For experts only."
+msgstr ""
+"Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE Leap "
+"42.1. Tik ekspertams."
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
+#, fuzzy
+#| msgid "Repository for official updates to openSUSE Leap 42.1"
+msgid "Repository for official updates to openSUSE Leap 42.2"
+msgstr "Oficiali openSUSE Leap 42.1 atnaujinimų saugykla"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
+#, fuzzy
+#| msgid ""
+#| "In this repository you find security and maintenance updates to openSUSE "
+#| "Leap 42.1."
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap 42.2."
+msgstr ""
+"Šioje saugykloje rasite openSUSE Leap 42.1 saugumo ir palaikymo atnaujinimus."
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
+#, fuzzy
+#| msgid "Repository for official non free updates to openSUSE Leap 42.1"
+msgid "Repository for official non free updates to openSUSE Leap 42.2"
+msgstr "Oficiali openSUSE Leap 42.1 uždaro kodo atnaujinimų saugykla"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
+#, fuzzy
+#| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
+msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
+msgstr ""
+"openSUSE Leap 42.1 atnaujinimų saugykla, turinti derinimo informacijos "
+"paketus"
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSE kūrimo paslauga - Banshee"

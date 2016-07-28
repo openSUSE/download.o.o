@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-13 18:46+0200\n"
+"POT-Creation-Date: 2016-07-28 17:00+0200\n"
 "PO-Revision-Date: 2013-09-21 17:58+0100\n"
 "Last-Translator: Piotr Krakowiak <piotr.krakowiak@opensuse.biz>\n"
 "Language-Team: Polish <opensuse-pl@opensuse.org>\n"
@@ -23,21 +23,24 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:1
 msgid "openSUSE BuildService - LXDE"
 msgstr "openSUSE BuildService - LXDE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:2
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:2
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:2
 msgid "Latest LXDE release"
 msgstr "Najnowsze wydanie LXDE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:3
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:3
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:3
 msgid ""
 "The LXDE repository in the openSUSE Build Service, which provides you with "
 "the unsupported but latest version of the LX desktop environment and "
@@ -46,21 +49,24 @@ msgstr ""
 "Repozytorium LXDE w openSUSE Build Service, które zawiera najnowsze "
 "nieoficjalne wersje środowiska LXDE."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:4
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:4
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:4
 msgid "openSUSE BuildService - LibreOffice"
 msgstr "openSUSE BuildService - LibreOffice.org"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:5
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:5
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:5
 msgid "Latest stable LibreOffice release"
 msgstr "Najnowsze stabilne wydanie LibreOffice.org"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:6
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:6
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:6
 msgid ""
 "Provides you with the latest stable version of LibreOffice, the Office suite "
 "that openSUSE uses."
@@ -68,21 +74,24 @@ msgstr ""
 "Zawiera najnowszą stabilną wersję pakietu LibreOffice.org, który zawarty "
 "jest w openSUSE."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:7
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:7
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:7
 msgid "openSUSE BuildService - Mozilla"
 msgstr "openSUSE BuildService - Mozilla"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:8
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:8
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:8
 msgid "Most recent builds of Mozilla Software like Firefox"
 msgstr "Najnowsze kompilacje programów Mozilli, takich jak Firefox"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:9
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:9
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:9
 msgid ""
 "Containing the latest releases of all Mozilla software, such as the popular "
 "Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
@@ -90,21 +99,24 @@ msgstr ""
 "Zawiera najnowsze wydania programów Mozilli, takich jak klient poczty "
 "Thunderbird, przeglądarka Firefox oraz pakiet internetowy SeaMonkey."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:10
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:10
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:10
 msgid "openSUSE BuildService - Wine CVS Builds"
 msgstr "openSUSE BuildService - Wydania Wine z CVS"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:11
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:11
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:11
 msgid "Snapshots of Wine CVS"
 msgstr "Zrzuty bazy CVS programu Wine"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:12
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:12
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:12
 msgid ""
 "Wine is an Open Source implementation of the Windows API, so it allows you "
 "to run some Windows applications in openSUSE. This repository provides the "
@@ -114,21 +126,24 @@ msgstr ""
 "programy Windows w openSUSE. Repozytorium zawiera najnowsze nieoficjalne "
 "pakiety Wine."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:13
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:13
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:13
 msgid "openSUSE BuildService - Games"
 msgstr "openSUSE BuildService - Gry"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:14
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:14
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:14
 msgid "A collection of action games"
 msgstr "Zestaw gier akcji"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:15
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:15
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:15
 msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
@@ -136,33 +151,36 @@ msgstr ""
 "Zawiera kilka gier akcji, takich jak Open Arena (strzelanka), Flight Gear "
 "(symulator lotu) oraz Torcs (trójwymiarowy symulator wyścigów)."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
 msgstr "openSUSE BuildService - Sterowniki kamer internetowych"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
 msgstr "Najnowsze sterowniki kamer internetowych"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
 msgstr "Zawiera najnowsze sterowniki dla wielu różnych kamer internetowych."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:19
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:16
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:19
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:16
 msgid "openSUSE BuildService - Virtualization (VirtualBox)"
 msgstr "openSUSE BuildService - Wirtualizacja (VirtualBox)"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:20
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:17
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:20
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:17
 msgid "Latest builds of Virtualbox"
 msgstr "Najnowsze kompilacje Virtualbox"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:21
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:18
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:21
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:18
 msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
@@ -170,201 +188,226 @@ msgstr ""
 "Zawiera najnowsze kompilacje VirtualBox, otwartego programu do wirtualizacji "
 "dla platformy x86."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:22
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:19
 msgid "openSUSE BuildService - PHP"
 msgstr "openSUSE BuildService - PHP"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:23
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:20
 msgid "Latest updates for PHP software"
 msgstr "Najnowsze aktualizacje dla PHP"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:24
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:21
 msgid ""
 "Provides the latest packages and multiple-version builds of PHP software."
 msgstr "Zawiera najnowsze pakiety i różne wersje oprogramowania PHP."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:25
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:22
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:19
 msgid "openSUSE BuildService - Database"
 msgstr "openSUSE BuildService - Bazy danych"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:26
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:23
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:20
 msgid "Latest updates for database software"
 msgstr "Najnowsze aktualizacje dla baz danych"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:27
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:24
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
 msgstr "Najnowsze aktualizacje dla baz danych, takich jak Firebird oraz MySQL."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:28
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:25
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:22
 msgid "openSUSE BuildService - KDE:Extra"
 msgstr "openSUSE BuildService - KDE:Extra"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:29
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:26
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:23
 msgid "Community repository for KDE"
 msgstr "Repozytoria społeczności dla KDE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:30
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:27
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:24
 msgid ""
 "Provides additional KDE software maintained by the openSUSE KDE community."
 msgstr ""
 "Zawiera dodatkowe oprogramowanie dla KDE, które przygotowywane jest przez "
 "społeczność KDE."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:31
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:28
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:31
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:25
 msgid "openSUSE BuildService - GNOME:Apps"
 msgstr "openSUSE BuildService - GNOME:Apps"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:32
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:29
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:32
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:26
 msgid "Backports of GNOME applications"
 msgstr "Backporty aplikacji GNOME"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:33
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:30
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:33
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:27
 msgid ""
 "Updates to the GNOME software that is shipped with the distribution "
 "(backports)."
 msgstr "Aktualizacje oprogramowania GNOME wydanego w dystrybucji (backports)."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:34
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:31
 msgid "openSUSE BuildService - Mono:Community"
 msgstr "openSUSE BuildService - Społeczność Mono"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:35
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:32
 msgid "Community repository for Mono applications"
 msgstr "Repozytoria społeczności dla aplikacji Mono"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:36
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
 msgstr "Aktualizacje i dodatkowe aplikacje napisane w Mono."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:37
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:34
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:28
 msgid "openSUSE BuildService - devel:languages:perl"
 msgstr "openSUSE BuildService - devel:languages:perl"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:38
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:35
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:29
 msgid "Community repository for Perl modules"
 msgstr "Repozytoria społeczności dla modułów Perl"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:39
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:36
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
 msgstr "Aktualizacje i dodatki dla modułów Perl"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:40
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:37
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:31
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:31
 msgid "openSUSE BuildService - devel:languages:python"
 msgstr "openSUSE BuildService - devel:languages:python"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:41
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:38
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
 msgid "Community repository for Python modules"
 msgstr "Repozytoria społeczności dla modułów Python"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:42
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:39
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 msgid "Updates and Additions for Python modules"
 msgstr "Aktualizacje i dodatki dla modułów Python"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:43
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:40
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:34
 msgid "openSUSE BuildService - filesystems"
 msgstr "openSUSE BuildService - filesystems"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:44
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:41
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:35
 msgid "Filesystem tools and FUSE-related packages"
 msgstr "Narzędzia związane z systemami plików i FUSE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:45
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:42
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:36
 msgid "Filesystem tools and FUSE-related packages."
 msgstr "Narzędzia związane z systemami plików i FUSE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:46
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:37
 msgid "openSUSE BuildService - Education"
 msgstr "openSUSE BuildService - Education"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:47
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:44
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:47
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:38
 msgid "Applications for education users"
 msgstr "Aplikacje edukacyjne"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:48
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:45
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:48
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:39
 msgid ""
 "Contains several packages which might be interesting for educational use"
 msgstr "Zawiera pakiety przydatne do zastosowań edukacyjnych."
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:49
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:49
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:49
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:49
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:43
 msgid "openSUSE BuildService - KDE:KDE3"
 msgstr "openSUSE BuildService - KDE:KDE3"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:50
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:50
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:50
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:50
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:44
 msgid "Maintained KDE 3 packages"
 msgstr "Pakiety KDE 3"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:51
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:51
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:51
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:51
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:45
 msgid "Provides old KDE for newer openSUSE"
 msgstr "Zawiera stare KDE dla nowszych wersji openSUSE"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_131_Default.xml.in:1
+#: YaST/Repos/_openSUSE_132_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "Repozytorium główne (OSS)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_131_Default.xml.in:2
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
 msgstr ""
 "Główne repozytorium openSUSE 13.1 zawierające tylko oprogramowanie open "
 "source"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_131_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE 13.1, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -378,19 +421,20 @@ msgstr ""
 "repozytorium ma być użyte podczas instalacji, zalecane jest posiadanie 512MB "
 "pamięci RAM lub aktywnej partycji wymiany.)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_131_Default.xml.in:4
+#: YaST/Repos/_openSUSE_132_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
 msgstr "Repozytorium główne (NON-OSS)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_131_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
 msgstr ""
 "Repozytorium z dodatkowym oprogramowaniem non-open source dla openSUSE 13.1 "
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_131_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.1 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -399,36 +443,38 @@ msgstr ""
 "oprogramowaniem utrzymywane przez zespół openSUSE. Zawiera programy takie "
 "jak Opera, Java, Flash i inne."
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_131_Default.xml.in:7
+#: YaST/Repos/_openSUSE_132_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 msgid "Main Repository (Sources)"
 msgstr "Repozytorium główne (pakiety źródłowe)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_131_Default.xml.in:8
 msgid "Main repository of openSUSE 13.1 (Source packages)"
 msgstr "Główne repozytorium openSUSE 13.1 (Pakiety źródłowe)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_131_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.1. For experts only."
 msgstr ""
 "Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 13.1. Tylko "
 "dla zaawansowanych."
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_131_Default.xml.in:10
+#: YaST/Repos/_openSUSE_132_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 msgid "Main Repository (DEBUG)"
 msgstr "Repozytorium główne (DEBUG)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
 msgstr "Główne repozytorium openSUSE 13.1 zawierające pakiety debuginfo"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_131_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
@@ -436,18 +482,19 @@ msgstr ""
 "Repozytorium dla tych, którzy pragną debugować programy na openSUSE 13.1. "
 "Tylko dla zaawansowanych."
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_131_Default.xml.in:13
+#: YaST/Repos/_openSUSE_132_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 msgid "Main Update Repository"
 msgstr "Główne repozytorium aktualizacji"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
 msgstr "Repozytorium oficjalnych aktualizacji dla systemu openSUSE 13.1"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.1."
@@ -455,50 +502,55 @@ msgstr ""
 "To repozytorium zawiera aktualizacje i poprawki bezpieczeństwa dla openSUSE "
 "13.1."
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:16
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:16
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Default.xml.in:16
+#: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
 msgstr "Repozytorium aktualizacji (non-oss)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
 msgstr ""
 "Repozytorium oficjalnych aktualizacji (non free) dla systemu openSUSE 13.3"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:18
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:18
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Default.xml.in:18
+#: YaST/Repos/_openSUSE_132_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
 msgstr "Repozytorium aktualizacji (DEBUG)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Default.xml.in:19
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
 msgstr "Repozytorium aktualizacji openSUSE 13.1 zawierające pakiety debuginfo"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:46
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:46
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:40
 msgid "openSUSE BuildService - Java:packages"
 msgstr "openSUSE BuildService - Java:packages"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:47
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:47
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:41
 msgid "Bleeding-edge Java packages"
 msgstr "Najnowsze pakiety Java (mogą być niestabilne)."
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:48
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:48
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:42
 msgid "Provides uptodate Java packages (Factory backports)"
 msgstr "Dostarcza zaktualizowane pakiety Java (Factory backports)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_132_Default.xml.in:2
 #, fuzzy
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
 msgstr ""
 "Główne repozytorium openSUSE 12.2 zawierające tylko oprogramowanie Open "
 "Source"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_132_Default.xml.in:3
 #, fuzzy
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
@@ -513,13 +565,13 @@ msgstr ""
 "repozytorium ma być użyte podczas instalacji, zalecane jest posiadanie 512MB "
 "pamięci RAM lub aktywnej partycji wymiany.)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_132_Default.xml.in:5
 #, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
 msgstr ""
 "Repozytorium z dodatkowym oprogramowaniem non-open source dla openSUSE 13.1 "
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_132_Default.xml.in:6
 #, fuzzy
 msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
@@ -529,12 +581,12 @@ msgstr ""
 "oprogramowaniem utrzymywane przez zespół openSUSE. Zawiera programy takie "
 "jak Opera, Java, Flash i inne."
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_132_Default.xml.in:8
 #, fuzzy
 msgid "Main repository of openSUSE 13.2 (Source packages)"
 msgstr "Główne repozytorium openSUSE 12.2 (Pakiety źródłowe)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_132_Default.xml.in:9
 #, fuzzy
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
@@ -542,12 +594,12 @@ msgstr ""
 "Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 12.2. Tylko "
 "dla zaawansowanych."
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_132_Default.xml.in:11
 #, fuzzy
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
 msgstr "Główne repozytorium openSUSE 12.2 zawierające pakiety debuginfo"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_132_Default.xml.in:12
 #, fuzzy
 msgid ""
 "This repository is useful for those that want to debug applications on "
@@ -556,12 +608,12 @@ msgstr ""
 "Repozytorium dla tych, którzy pragną debugować programy w openSUSE 12.2. "
 "Tylko dla zaawansowanych."
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_132_Default.xml.in:14
 #, fuzzy
 msgid "Repository for official updates to 13.2"
 msgstr "Repozytorium oficjalnych aktualizacji dla systemu openSUSE 13.1"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_132_Default.xml.in:15
 #, fuzzy
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
@@ -570,18 +622,18 @@ msgstr ""
 "To repozytorium zawiera aktualizacje i poprawki bezpieczeństwa dla openSUSE "
 "13.1."
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_132_Default.xml.in:17
 #, fuzzy
 msgid "Repository for official non free updates to 13.2"
 msgstr ""
 "Repozytorium oficjalnych aktualizacji (non free) dla systemu openSUSE 13.3"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_132_Default.xml.in:19
 #, fuzzy
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr "Repozytorium aktualizacji openSUSE 12.2 zawierające pakiety debuginfo"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
 #, fuzzy
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
@@ -589,7 +641,7 @@ msgstr ""
 "Główne repozytorium openSUSE 12.2 zawierające tylko oprogramowanie Open "
 "Source"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
 #, fuzzy
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
@@ -604,13 +656,13 @@ msgstr ""
 "repozytorium ma być użyte podczas instalacji, zalecane jest posiadanie 512MB "
 "pamięci RAM lub aktywnej partycji wymiany.)"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr ""
 "Repozytorium z dodatkowym, zamkniętym oprogramowaniem dla openSUSE 12.2"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 #, fuzzy
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
@@ -620,12 +672,12 @@ msgstr ""
 "oprogramowaniem utrzymywane przez zespół openSUSE. Zawiera programy takie "
 "jak Opera, Java, Flash i inne."
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 #, fuzzy
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
 msgstr "Główne repozytorium openSUSE 12.2 (Pakiety źródłowe)"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
 #, fuzzy
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
@@ -634,12 +686,12 @@ msgstr ""
 "Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 12.2. Tylko "
 "dla zaawansowanych."
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 #, fuzzy
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
 msgstr "Główne repozytorium openSUSE 12.2 zawierające pakiety debuginfo"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
 #, fuzzy
 msgid ""
 "This repository is useful for those that want to debug applications on "
@@ -648,17 +700,17 @@ msgstr ""
 "Repozytorium dla tych, którzy pragną debugować programy w openSUSE 12.2. "
 "Tylko dla zaawansowanych."
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
 msgstr ""
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
 msgstr ""
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 #, fuzzy
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
@@ -666,7 +718,7 @@ msgstr ""
 "Główne repozytorium openSUSE 12.1 zawierające tylko oprogramowanie open "
 "source"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 #, fuzzy
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
@@ -678,13 +730,13 @@ msgstr ""
 "repozytorium ma być użyte podczas instalacji, zalecane jest posiadanie 512MB "
 "pamięci RAM lub aktywnej partycji wymiany.)"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 #, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr ""
 "Repozytorium z dodatkowym oprogramowaniem non-open source dla openSUSE 12.1 "
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 #, fuzzy
 msgid ""
 "The official openSUSE Leap 42.1 repository for all Non-Open Source Software "
@@ -695,12 +747,12 @@ msgstr ""
 "oprogramowaniem utrzymywane przez zespół openSUSE. Zawiera programy takie "
 "jak Opera, Java, Flash i inne."
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 #, fuzzy
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgstr "Główne repozytorium openSUSE 12.1 (Pakiety źródłowe)"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 #, fuzzy
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
@@ -709,12 +761,12 @@ msgstr ""
 "Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 12.1. Tylko "
 "dla zaawansowanych."
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 #, fuzzy
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgstr "Główne repozytorium openSUSE 12.1 zawierające pakiety debuginfo"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 #, fuzzy
 msgid ""
 "This repository is useful for those that want to debug applications on "
@@ -723,12 +775,12 @@ msgstr ""
 "Repozytorium dla tych, którzy pragną debugować programy na openSUSE 12.1. "
 "Tylko dla zaawansowanych."
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 #, fuzzy
 msgid "Repository for official updates to openSUSE Leap 42.1"
 msgstr "Repozytorium oficjalnych aktualizacji dla systemu openSUSE 12.1"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 #, fuzzy
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
@@ -737,32 +789,124 @@ msgstr ""
 "To repozytorium zawiera aktualizacje i poprawki bezpieczeństwa dla openSUSE "
 "12.1."
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 #, fuzzy
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr "Repozytorium oficjalnych aktualizacji dla systemu openSUSE 12.3"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 #, fuzzy
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr "Repozytorium aktualizacji openSUSE 12.1 zawierające pakiety debuginfo"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 msgid "Untested Updates"
 msgstr ""
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 #, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository of not yet tested updates"
 msgstr "Repozytorium oficjalnych aktualizacji dla systemu openSUSE 12.3"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
 msgid ""
 "Repository contains security and maintenance updates that still need testing "
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
+#, fuzzy
+msgid ""
+"Main repository of openSUSE Leap 42.2 including only Open Source Software"
+msgstr ""
+"Główne repozytorium openSUSE 12.1 zawierające tylko oprogramowanie open "
+"source"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
+#, fuzzy
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
+"you access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"Wielkie repozytorium Open Source Software (OSS) dla openSUSE 12.1, które "
+"zawiera tysiące pakietów utrzymywanych przez zespół openSUSE. (Z racji "
+"rozmiarów dodanie tego repozytorium może zająć trochę czasu. (Jeśli to "
+"repozytorium ma być użyte podczas instalacji, zalecane jest posiadanie 512MB "
+"pamięci RAM lub aktywnej partycji wymiany.)"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
+#, fuzzy
+msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
+msgstr ""
+"Repozytorium z dodatkowym oprogramowaniem non-open source dla openSUSE 12.1 "
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
+#, fuzzy
+msgid ""
+"The official openSUSE Leap 42.2 repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam, Flash, and "
+"more."
+msgstr ""
+"Oficjalne repozytorium openSUSE 12.1, które zawiera pakiety z zamkniętym "
+"oprogramowaniem utrzymywane przez zespół openSUSE. Zawiera programy takie "
+"jak Opera, Java, Flash i inne."
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
+#, fuzzy
+msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
+msgstr "Główne repozytorium openSUSE 12.1 (Pakiety źródłowe)"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
+#, fuzzy
+msgid ""
+"The repository of all source packages in openSUSE Leap 42.2. For experts "
+"only."
+msgstr ""
+"Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 12.1. Tylko "
+"dla zaawansowanych."
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
+#, fuzzy
+msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
+msgstr "Główne repozytorium openSUSE 12.1 zawierające pakiety debuginfo"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
+#, fuzzy
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap 42.2. For experts only."
+msgstr ""
+"Repozytorium dla tych, którzy pragną debugować programy na openSUSE 12.1. "
+"Tylko dla zaawansowanych."
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
+#, fuzzy
+msgid "Repository for official updates to openSUSE Leap 42.2"
+msgstr "Repozytorium oficjalnych aktualizacji dla systemu openSUSE 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
+#, fuzzy
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap 42.2."
+msgstr ""
+"To repozytorium zawiera aktualizacje i poprawki bezpieczeństwa dla openSUSE "
+"12.1."
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
+#, fuzzy
+msgid "Repository for official non free updates to openSUSE Leap 42.2"
+msgstr "Repozytorium oficjalnych aktualizacji dla systemu openSUSE 12.3"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
+#, fuzzy
+msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
+msgstr "Repozytorium aktualizacji openSUSE 12.1 zawierające pakiety debuginfo"
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSE BuildService - Banshee"

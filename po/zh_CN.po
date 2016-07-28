@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-13 18:46+0200\n"
+"POT-Creation-Date: 2016-07-28 17:00+0200\n"
 "PO-Revision-Date: 2015-12-23 18:10+0800\n"
 "Last-Translator: marguerite <marguerite@opensuse.org>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
@@ -22,21 +22,24 @@ msgstr ""
 "X-Generator: Lokalize 2.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:1
 msgid "openSUSE BuildService - LXDE"
 msgstr "openSUSE 编译服务 - LXDE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:2
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:2
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:2
 msgid "Latest LXDE release"
 msgstr "最新 LXDE 桌面环境"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:3
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:3
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:3
 msgid ""
 "The LXDE repository in the openSUSE Build Service, which provides you with "
 "the unsupported but latest version of the LX desktop environment and "
@@ -45,41 +48,47 @@ msgstr ""
 "openSUSE 编译服务上的 LXDE 源，提供不被官方支持但却是最新版本的 LX 桌面环境和"
 "软件。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:4
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:4
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:4
 msgid "openSUSE BuildService - LibreOffice"
 msgstr "openSUSE 编译服务 - LibreOffice"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:5
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:5
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:5
 msgid "Latest stable LibreOffice release"
 msgstr "最新稳定版本的 LibreOffice "
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:6
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:6
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:6
 msgid ""
 "Provides you with the latest stable version of LibreOffice, the Office suite "
 "that openSUSE uses."
 msgstr "提供最新稳定版本的 LibreOffice — openSUSE 使用的办公套件。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:7
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:7
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:7
 msgid "openSUSE BuildService - Mozilla"
 msgstr "openSUSE 编译服务 - Mozilla"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:8
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:8
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:8
 msgid "Most recent builds of Mozilla Software like Firefox"
 msgstr "最近编译的 Mozilla 软件，诸如火狐"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:9
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:9
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:9
 msgid ""
 "Containing the latest releases of all Mozilla software, such as the popular "
 "Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
@@ -87,21 +96,24 @@ msgstr ""
 "涵盖最新版本的全部 Mozilla 软件，诸如受欢迎的雷鸟邮件客户端，火狐和海猴网络浏"
 "览器。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:10
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:10
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:10
 msgid "openSUSE BuildService - Wine CVS Builds"
 msgstr "openSUSE 编译服务 - Wine CVS 抢先版"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:11
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:11
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:11
 msgid "Snapshots of Wine CVS"
 msgstr "Wine 模拟器在上游 CVS 版本管理系统中的抢先版"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:12
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:12
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:12
 msgid ""
 "Wine is an Open Source implementation of the Windows API, so it allows you "
 "to run some Windows applications in openSUSE. This repository provides the "
@@ -111,21 +123,24 @@ msgstr ""
 "一些 Windows 程序。此软件源提供了 Wine 在上游用于开发的 CVS 版本管理系统中的"
 "抢先版软件包。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:13
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:13
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:13
 msgid "openSUSE BuildService - Games"
 msgstr "openSUSE 编译服务 - 游戏"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:14
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:14
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:14
 msgid "A collection of action games"
 msgstr "一系列动作游戏"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:15
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:15
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:15
 msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
@@ -133,33 +148,36 @@ msgstr ""
 "涵盖一些动作游戏，诸如 Open Arena (射击)，Flight Gear (飞行模拟器)和 Torcs "
 "(3D 赛车模拟器)。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
 msgstr "openSUSE 编译服务 - 网络摄像头驱动"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
 msgstr "网络摄像头的近期驱动"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
 msgstr "涵盖上百种不同网络摄像头的近期驱动。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:19
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:16
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:19
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:16
 msgid "openSUSE BuildService - Virtualization (VirtualBox)"
 msgstr "openSUSE 编译服务 - 虚拟化 (VirtualBox)"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:20
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:17
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:20
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:17
 msgid "Latest builds of Virtualbox"
 msgstr "最新编译的 Virtualbox"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:21
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:18
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:21
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:18
 msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
@@ -167,197 +185,222 @@ msgstr ""
 "提供最新编译的 VirtualBox，它是用于一般目的的针对 x86 硬件的开源的完全虚拟"
 "器。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:22
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:19
 msgid "openSUSE BuildService - PHP"
 msgstr "openSUSE 编译服务 - PHP"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:23
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:20
 msgid "Latest updates for PHP software"
 msgstr "PHP 软件最新更新"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:24
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:21
 msgid ""
 "Provides the latest packages and multiple-version builds of PHP software."
 msgstr "提供最新软件包和编译的多版本 PHP 软件。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:25
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:22
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:19
 msgid "openSUSE BuildService - Database"
 msgstr "openSUSE 编译服务 - 数据库"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:26
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:23
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:20
 msgid "Latest updates for database software"
 msgstr "数据库软件最新更新"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:27
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:24
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
 msgstr "数据库软件的最新更新，诸如火鸟和 MySQL。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:28
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:25
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:22
 msgid "openSUSE BuildService - KDE:Extra"
 msgstr "openSUSE 编译服务 - KDE 额外软件"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:29
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:26
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:23
 msgid "Community repository for KDE"
 msgstr "KDE 社区源"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:30
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:27
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:24
 msgid ""
 "Provides additional KDE software maintained by the openSUSE KDE community."
 msgstr "提供 openSUSE KDE 社区维护的额外 KDE 软件。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:31
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:28
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:31
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:25
 msgid "openSUSE BuildService - GNOME:Apps"
 msgstr "openSUSE 编译服务 - GNOME 应用程序"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:32
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:29
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:32
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:26
 msgid "Backports of GNOME applications"
 msgstr "GNOME 应用程序的向后移植"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:33
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:30
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:33
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:27
 msgid ""
 "Updates to the GNOME software that is shipped with the distribution "
 "(backports)."
 msgstr "发行版中所带的 GNOME 软件的更新(向后移植)。"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:34
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:31
 msgid "openSUSE BuildService - Mono:Community"
 msgstr "openSUSE 编译服务 - Mono 社区源"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:35
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:32
 msgid "Community repository for Mono applications"
 msgstr "Mono 应用程序社区源"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:36
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
 msgstr "用 Mono 编写的程序的更新和附件"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:37
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:34
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:28
 msgid "openSUSE BuildService - devel:languages:perl"
 msgstr "openSUSE 编译服务 - Perl 开发源"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:38
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:35
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:29
 msgid "Community repository for Perl modules"
 msgstr "Perl 模块社区源"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:39
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:36
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
 msgstr "Perl 模块的更新和附件"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:40
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:37
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:31
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:31
 msgid "openSUSE BuildService - devel:languages:python"
 msgstr "openSUSE 编译服务 - Python 开发源"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:41
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:38
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
 msgid "Community repository for Python modules"
 msgstr "Python 模块社区源"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:42
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:39
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 msgid "Updates and Additions for Python modules"
 msgstr "Python 模块的更新和附件"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:43
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:40
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:34
 msgid "openSUSE BuildService - filesystems"
 msgstr "openSUSE 编译服务 - 文件系统"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:44
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:41
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:35
 msgid "Filesystem tools and FUSE-related packages"
 msgstr "文件系统工具和用户文件系统 (FUSE) 相关的软件包"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:45
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:42
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:36
 msgid "Filesystem tools and FUSE-related packages."
 msgstr "文件系统工具和用户文件系统 (FUSE) 相关的软件包"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:46
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:37
 msgid "openSUSE BuildService - Education"
 msgstr "openSUSE 编译服务 - 教育"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:47
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:44
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:47
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:38
 msgid "Applications for education users"
 msgstr "面向教育用户的应用程序"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:48
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:45
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:48
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:39
 msgid ""
 "Contains several packages which might be interesting for educational use"
 msgstr "涵盖学生用户可能感兴趣的一些软件包"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:49
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:49
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:49
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:49
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:43
 msgid "openSUSE BuildService - KDE:KDE3"
 msgstr "openSUSE 编译服务 - KDE3"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:50
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:50
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:50
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:50
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:44
 msgid "Maintained KDE 3 packages"
 msgstr "仍在维护的 KDE 3 软件包"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:51
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:51
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:51
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:51
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:45
 msgid "Provides old KDE for newer openSUSE"
 msgstr "提供针对新版 openSUSE 的旧版 KDE"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_131_Default.xml.in:1
+#: YaST/Repos/_openSUSE_132_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "主软件源 (开源软件)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_131_Default.xml.in:2
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
 msgstr "openSUSE 13.1 主软件源，仅包含开源软件"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_131_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE 13.1, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -369,18 +412,19 @@ msgstr ""
 "于软件源容量太大，添加它可能要花费点时间。若想要在系统安装时访问该源，强烈建"
 "议有 512MB 内存或启用硬盘交换分区。)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_131_Default.xml.in:4
+#: YaST/Repos/_openSUSE_132_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
 msgstr "主软件源 (非开源软件)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_131_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
 msgstr "openSUSE 13.1 非开源软件附加源"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_131_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.1 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -388,97 +432,105 @@ msgstr ""
 "openSUSE 13.1 全部非开源软件的官方软件源，由 openSUSE 团队维护，包括 Opera 浏"
 "览器、Java、Flash 以及更多。"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_131_Default.xml.in:7
+#: YaST/Repos/_openSUSE_132_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 msgid "Main Repository (Sources)"
 msgstr "主软件源 (源代码)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_131_Default.xml.in:8
 msgid "Main repository of openSUSE 13.1 (Source packages)"
 msgstr "openSUSE 13.1 主软件源 (源代码包)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_131_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.1. For experts only."
 msgstr "openSUSE 13.1 全部源代码包的软件源。仅供专家使用。"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_131_Default.xml.in:10
+#: YaST/Repos/_openSUSE_132_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 msgid "Main Repository (DEBUG)"
 msgstr "主调试源"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
 msgstr "openSUSE 13.1 主软件源包含调试信息包"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_131_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
 msgstr ""
 "本软件源只对那些想要在 openSUSE 13.1 中调试程序的人有用。仅供专家使用。"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_131_Default.xml.in:13
+#: YaST/Repos/_openSUSE_132_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 msgid "Main Update Repository"
 msgstr "主更新源"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
 msgstr "13.1 的官方更新源"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.1."
 msgstr "在此软件源中，您可找到 openSUSE 13.1 的安全和维护更新。"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:16
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:16
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Default.xml.in:16
+#: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
 msgstr "主更新源 (非开源软件)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
 msgstr "13.1 的官方非开源软件更新源"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:18
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:18
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Default.xml.in:18
+#: YaST/Repos/_openSUSE_132_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
 msgstr "主更新源 (调试)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Default.xml.in:19
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
 msgstr "openSUSE 13.1 调试信息包的主升级源"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:46
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:46
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:40
 msgid "openSUSE BuildService - Java:packages"
 msgstr "openSUSE 编译服务 - Java 软件包"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:47
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:47
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:41
 msgid "Bleeding-edge Java packages"
 msgstr "还热乎的 Java 软件包。"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:48
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:48
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:42
 msgid "Provides uptodate Java packages (Factory backports)"
 msgstr "提供最新的 Java 软件包(工厂版的向后移植)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_132_Default.xml.in:2
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
 msgstr "openSUSE 13.2 主软件源，仅包含开源软件"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_132_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -490,11 +542,11 @@ msgstr ""
 "于软件源容量太大，添加它可能要花费点时间。若想要在系统安装时访问该源，强烈建"
 "议有 512MB 内存或启用硬盘交换分区。)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
 msgstr "openSUSE 13.2 非开源软件附加源"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_132_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -502,50 +554,50 @@ msgstr ""
 "openSUSE 13.2 全部非开源软件的官方软件源，由 openSUSE 团队维护，包括 Opera 浏"
 "览器、Java、Flash 以及更多。"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_132_Default.xml.in:8
 msgid "Main repository of openSUSE 13.2 (Source packages)"
 msgstr "openSUSE 13.2 主软件源 (源代码包)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_132_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr "openSUSE 13.2 全部源代码包的软件源。仅供专家使用。"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_132_Default.xml.in:11
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
 msgstr "openSUSE 13.2 主软件源包含调试信息包"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_132_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.2. For experts only."
 msgstr ""
 "本软件源只对那些想要在 openSUSE 13.2 中调试程序的人有用。仅供专家使用。"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
 msgstr "13.2 官方更新源"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_132_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.2."
 msgstr "在此软件源中您可找到 openSUSE 13.2 的安全和维护更新。"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
 msgstr "13.2 官方非开源软件更新源"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr "openSUSE 13.2 调试信息包的主更新源"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr "openSUSE Tumbleweed 主软件源，仅包含开源软件"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -557,11 +609,11 @@ msgstr ""
 "源容量太大，添加它可能要花费点时间。若想要在系统安装时访问该源，强烈建议有 "
 "512MB 内存或启用硬盘交换分区。)"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr "openSUSE Tumbleweed 非开源软件附加源"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
@@ -569,43 +621,43 @@ msgstr ""
 "openSUSE Tumbleweed 全部非开源软件的官方源，由 openSUSE 团队维护，包括 "
 "Opera、Flash 等。"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
 msgstr "openSUSE Tumbleweed 主软件源 (源代码)"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr "openSUSE Tumbleweed 全部源代码包的软件源。仅供专家使用。"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
 msgstr "openSUSE Tumbleweed 主软件源包含调试信息包"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
 "本软件源只对那些想要在 openSUSE Tumbleweed 中调试程序的人有用。仅供专家使用。"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
 msgstr "Tumbleweed 官方更新源"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
 msgstr "此软件源提供了紧急更新，这些更新稍后会整合进主源。"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr "openSUSE Leap 42.1 主软件源，仅包含开源软件"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
@@ -613,11 +665,11 @@ msgstr ""
 "庞大的 openSUSE Leap 42.1 开源软件源，提供由 openSUSE 社区维护的数千个软件"
 "包。"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr "openSUSE Leap 42.1 非开源软件附加源"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 msgid ""
 "The official openSUSE Leap 42.1 repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
@@ -626,54 +678,57 @@ msgstr ""
 "openSUSE Leap 42.1 全部非开源软件的官方源，由 openSUSE 社区维护，包括 Opera、"
 "Steam、Flash 等。"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgstr "openSUSE Leap 42.1 主软件源 (源代码)"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr "openSUSE Leap 42.1 全部源代码包的软件源。仅供专家使用。"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgstr "openSUSE Leap 42.1 主软件源包含调试信息包"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
 "本软件源只对那些想要在 openSUSE Leap 42.1 中调试程序的人有用。仅供专家使用。"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
 msgstr "openSUSE Leap 42.1 官方更新源"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
 msgstr "在此软件源中您可找到 openSUSE Leap 42.1 的安全和维护更新。"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr "openSUSE Leap 42.1 官方非开源软件更新源"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr "openSUSE Leap 42.1 调试信息包更新源"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 msgid "Untested Updates"
 msgstr "未测试的更新"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 msgid "Repository of not yet tested updates"
 msgstr "尚未测试的更新的软件源"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
 msgid ""
 "Repository contains security and maintenance updates that still need testing "
 "by quality assurance. Add this repository only if you want to participate in "
@@ -681,6 +736,109 @@ msgid ""
 msgstr ""
 "涵盖仍需要经品质保证小组测试的安全性和维护更新的软件源。只有您想要参与测试 "
 "openSUSE 更新时才可以添加此软件源。"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
+#, fuzzy
+#| msgid ""
+#| "Main repository of openSUSE Leap 42.1 including only Open Source Software"
+msgid ""
+"Main repository of openSUSE Leap 42.2 including only Open Source Software"
+msgstr "openSUSE Leap 42.1 主软件源，仅包含开源软件"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
+#, fuzzy
+#| msgid ""
+#| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
+#| "giving you access to thousands of packages maintained by the openSUSE "
+#| "community."
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
+"you access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"庞大的 openSUSE Leap 42.1 开源软件源，提供由 openSUSE 社区维护的数千个软件"
+"包。"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
+#, fuzzy
+#| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
+msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
+msgstr "openSUSE Leap 42.1 非开源软件附加源"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
+#, fuzzy
+#| msgid ""
+#| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
+#| "Software maintained by the openSUSE community, including Opera, Steam, "
+#| "Flash, and more."
+msgid ""
+"The official openSUSE Leap 42.2 repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam, Flash, and "
+"more."
+msgstr ""
+"openSUSE Leap 42.1 全部非开源软件的官方源，由 openSUSE 社区维护，包括 Opera、"
+"Steam、Flash 等。"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
+#, fuzzy
+#| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
+msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
+msgstr "openSUSE Leap 42.1 主软件源 (源代码)"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
+#, fuzzy
+#| msgid ""
+#| "The repository of all source packages in openSUSE Leap 42.1. For experts "
+#| "only."
+msgid ""
+"The repository of all source packages in openSUSE Leap 42.2. For experts "
+"only."
+msgstr "openSUSE Leap 42.1 全部源代码包的软件源。仅供专家使用。"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
+#, fuzzy
+#| msgid ""
+#| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
+msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
+msgstr "openSUSE Leap 42.1 主软件源包含调试信息包"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
+#, fuzzy
+#| msgid ""
+#| "This repository is useful for those that want to debug applications on "
+#| "openSUSE Leap 42.1. For experts only."
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap 42.2. For experts only."
+msgstr ""
+"本软件源只对那些想要在 openSUSE Leap 42.1 中调试程序的人有用。仅供专家使用。"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
+#, fuzzy
+#| msgid "Repository for official updates to openSUSE Leap 42.1"
+msgid "Repository for official updates to openSUSE Leap 42.2"
+msgstr "openSUSE Leap 42.1 官方更新源"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
+#, fuzzy
+#| msgid ""
+#| "In this repository you find security and maintenance updates to openSUSE "
+#| "Leap 42.1."
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap 42.2."
+msgstr "在此软件源中您可找到 openSUSE Leap 42.1 的安全和维护更新。"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
+#, fuzzy
+#| msgid "Repository for official non free updates to openSUSE Leap 42.1"
+msgid "Repository for official non free updates to openSUSE Leap 42.2"
+msgstr "openSUSE Leap 42.1 官方非开源软件更新源"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
+#, fuzzy
+#| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
+msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
+msgstr "openSUSE Leap 42.1 调试信息包更新源"
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSE 编译服务 - Banshee"

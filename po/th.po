@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YaST (@memory@)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-13 18:46+0200\n"
+"POT-Creation-Date: 2016-07-28 17:00+0200\n"
 "PO-Revision-Date: 2010-07-01 21:40+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -17,23 +17,26 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 1.1\n"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:1
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:1
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:1
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:1
 #, fuzzy
 msgid "openSUSE BuildService - LXDE"
 msgstr "บริการสร้างแพกเกจของ openSUSE - ระบบ XFCE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:2
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:2
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:2
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:2
 #, fuzzy
 msgid "Latest LXDE release"
 msgstr "ระบบ XFCE รุ่นล่าสุด"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:3
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:3
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:3
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:3
 #, fuzzy
 msgid ""
 "The LXDE repository in the openSUSE Build Service, which provides you with "
@@ -44,23 +47,26 @@ msgstr ""
 "โดยได้จัดเตรียมระบบสภาพแวดล้อมของพื้นที่ทำงานแบบ XFCE และโปรแกรมต่าง ๆ "
 "ในชุดของมันมาให้คุณได้เลือกใช้ ซึ่งเป็นรุ่นที่ยังไม่ได้รับการสนับสนุน แต่ว่าเป็นรุ่นที่ใหม่ล่าสุดของมัน"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:4
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:4
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:4
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:4
 #, fuzzy
 msgid "openSUSE BuildService - LibreOffice"
 msgstr "บริการสร้างแพกเกจของ openSUSE - โปรแกรมชุด OpenOffice.org"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:5
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:5
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:5
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:5
 #, fuzzy
 msgid "Latest stable LibreOffice release"
 msgstr "โปรแกรมชุด OpenOffice.org รุ่นล่าสุด"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:6
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:6
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:6
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:6
 #, fuzzy
 msgid ""
 "Provides you with the latest stable version of LibreOffice, the Office suite "
@@ -69,21 +75,24 @@ msgstr ""
 "จัดเตรียมโปรแกรมชุด OpenOffice.org รุ่นล่าสุดไว้ให้คุณเลือกใช้งาน, "
 "โดยมันเป็นโปรแกรมชุดสำนักงานตัวหลักที่ openSUSE เลือกใช้"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:7
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:7
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:7
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:7
 msgid "openSUSE BuildService - Mozilla"
 msgstr "บริการสร้างแพกเกจของ openSUSE - ซอฟต์แวร์ในชุด Mozilla"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:8
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:8
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:8
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:8
 msgid "Most recent builds of Mozilla Software like Firefox"
 msgstr "แพกเกจที่ทำล่าสุดของซอฟต์แวร์ในกลุ่ม Mozilla เช่น Firefox เป็นต้น"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:9
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:9
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:9
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:9
 msgid ""
 "Containing the latest releases of all Mozilla software, such as the popular "
 "Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
@@ -91,21 +100,24 @@ msgstr ""
 "ที่เก็บแพกเกจของซอฟต์แวร์ต่าง ๆ ในชุด Mozilla ไม่ว่าจะเป็น Thunderbird (โปรแกรมรับ/"
 "ส่งจดหมาย), Firefox และ SeaMonkey (เว็บเบราว์เซอร์)"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:10
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:10
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:10
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:10
 msgid "openSUSE BuildService - Wine CVS Builds"
 msgstr "บริการสร้างแพกเกจของ openSUSE - Wine ตัวล่าสุดจาก CVS"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:11
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:11
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:11
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:11
 msgid "Snapshots of Wine CVS"
 msgstr "โปรแกรม Wine รุ่นล่าสุดจาก CVS"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:12
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:12
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:12
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:12
 msgid ""
 "Wine is an Open Source implementation of the Windows API, so it allows you "
 "to run some Windows applications in openSUSE. This repository provides the "
@@ -116,21 +128,24 @@ msgstr ""
 "โดยคลังแพกเกจนี้จะจัดเตรียมโปรแกรม Wine รุ่นล่าสุดบนระบบ (CVS) ของโครงการ Wine "
 "นั่นคือเป็นโปรแกรมที่อยู่ในระหว่างการพัฒนานั่นเอง"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:13
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:13
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:13
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:13
 msgid "openSUSE BuildService - Games"
 msgstr "บริการสร้างแพกเกจของ openSUSE - เกมส์"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:14
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:14
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:14
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:14
 msgid "A collection of action games"
 msgstr "ชุดสะสมของเกมแนวแอคชัน"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:15
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:15
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:15
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:15
 msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
@@ -138,33 +153,36 @@ msgstr ""
 "ที่เก็บเกมแนวแอคชันต่าง ๆ รวมถึง Open Arena (shoot 'em up), Flight Gear "
 "(เกมจำลองการบิน) และ Torcs (เกมจำลองการแข่งรถแบบ 3 มิติ)"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
 msgstr "บริการสร้างแพกเกจของ openSUSE - ไดรเวอร์ของเว็บแคมรุ่นต่าง ๆ"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
 msgstr "ไดรเวอร์ล่าสุดของเว็บแคม"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
 msgstr "ที่เก็บไดรเวอร์ที่ทันสมัยที่สุดของเว็บแคมรุ่นต่าง ๆ มากมายหลายรุ่น"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:19
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:16
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:19
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:16
 msgid "openSUSE BuildService - Virtualization (VirtualBox)"
 msgstr "บริการสร้างแพกเกจของ openSUSE - เวอร์ชวลไลเซชัน (VirtualBox)"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:20
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:17
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:20
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:17
 msgid "Latest builds of Virtualbox"
 msgstr "แพกเกจที่ทำล่าสุดของ Virtualbox "
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:21
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:18
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:21
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:18
 msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
@@ -172,211 +190,236 @@ msgstr ""
 "จัดเตรียมแพกเกจรุ่นทันสมัยที่สุดของ VirtualBox "
 "ซึ่งเป็นโปรแกรมเสรีสำหรับจำลองเป็นเครื่องคอมพิวเตอร์เสมือนอย่างเต็มรูปแบบ ไว้ให้ได้เลือกใช้งาน"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:22
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:19
 msgid "openSUSE BuildService - PHP"
 msgstr "บริการสร้างแพกเกจของ openSUSE - ซอฟต์แวร์ PHP"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:23
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:20
 msgid "Latest updates for PHP software"
 msgstr "ซอฟต์แวร์ PHP ที่ปรับรุ่นล่าสุด"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:24
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:21
 msgid ""
 "Provides the latest packages and multiple-version builds of PHP software."
 msgstr "จัดเตรียมซอฟต์แวร์ PHP ทั้งรุ่นล่าสุดและรุ่นอื่น ๆ ไว้ให้ได้เลือกใช้"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:25
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:22
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:19
 msgid "openSUSE BuildService - Database"
 msgstr "บริการสร้างแพกเกจของ openSUSE - ด้านฐานข้อมูล"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:26
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:23
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:20
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:20
 msgid "Latest updates for database software"
 msgstr "ซอฟต์แวร์ด้านฐานข้อมูลที่ปรับรุ่นล่าสุด"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:27
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:24
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:21
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
 msgstr "ซอฟต์แวร์ด้านฐานข้อมูลที่ปรับรุ่นล่าสุด รวมถึง Firebird และ MySQL"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:28
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:25
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:22
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:22
 #, fuzzy
 msgid "openSUSE BuildService - KDE:Extra"
 msgstr "บริการสร้างแพกเกจของ openSUSE - ด้านฐานข้อมูล"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:29
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:26
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:23
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:23
 msgid "Community repository for KDE"
 msgstr "คลังแพกเกจของชุมชน KDE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:30
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:27
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:24
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:24
 msgid ""
 "Provides additional KDE software maintained by the openSUSE KDE community."
 msgstr "จัดเตรียมโปรแกรมต่าง ๆ แบบ KDE ซึ่งดูแลโดยชุมชน KDE ของ openSUSE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:31
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:28
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:25
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:31
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:25
 msgid "openSUSE BuildService - GNOME:Apps"
 msgstr "บริการสร้างแพกเกจของ openSUSE - GNOME:Apps"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:32
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:29
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:26
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:32
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:26
 msgid "Backports of GNOME applications"
 msgstr "แบ็คพอร์ตต่าง ๆ ของ GNOME"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:33
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:30
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:27
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:33
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:27
 msgid ""
 "Updates to the GNOME software that is shipped with the distribution "
 "(backports)."
 msgstr "ปรับรุ่นของโปรแกรมแบบ GNOME ที่ติดมากับดิสทริบิวชัน (backports)"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:34
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:31
 msgid "openSUSE BuildService - Mono:Community"
 msgstr "บริการสร้างแพกเกจของ openSUSE - โปรแกรมแบบ Mono จากชุมชน"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:35
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:32
 msgid "Community repository for Mono applications"
 msgstr "คลังแพกเกจของชุมชนของโปรแกรมแบบ Mono"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:36
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
 msgstr "ปรับรุ่นและทำการเพิ่มเติมโปรแกรมแบบ Mono"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:37
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:34
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:28
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:28
 #, fuzzy
 msgid "openSUSE BuildService - devel:languages:perl"
 msgstr "บริการสร้างแพกเกจของ openSUSE - เกมส์"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:38
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:35
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:29
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:29
 #, fuzzy
 msgid "Community repository for Perl modules"
 msgstr "คลังแพกเกจของชุมชน KDE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:39
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:36
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:30
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 #, fuzzy
 msgid "Updates and Additions for Perl modules"
 msgstr "ปรับรุ่นและทำการเพิ่มเติมโปรแกรมแบบ Mono"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:40
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:37
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:31
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:31
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:31
 #, fuzzy
 msgid "openSUSE BuildService - devel:languages:python"
 msgstr "บริการสร้างแพกเกจของ openSUSE - เกมส์"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:41
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:38
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:32
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
 #, fuzzy
 msgid "Community repository for Python modules"
 msgstr "คลังแพกเกจของชุมชน KDE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:42
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:39
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:33
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 #, fuzzy
 msgid "Updates and Additions for Python modules"
 msgstr "ไม่มีตัวเลือกสำหรับมอดูลนี้"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:43
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:40
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:34
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:34
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:34
 #, fuzzy
 msgid "openSUSE BuildService - filesystems"
 msgstr "บริการสร้างแพกเกจของ openSUSE - เกมส์"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:44
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:41
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:35
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:35
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:35
 msgid "Filesystem tools and FUSE-related packages"
 msgstr ""
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:45
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:42
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:36
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:36
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:36
 #, fuzzy
 msgid "Filesystem tools and FUSE-related packages."
 msgstr "การติดตั้งแพกเกจโปรแกรมที่ต้องการล้มเหลว"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:46
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:43
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:37
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:46
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:37
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:37
 #, fuzzy
 msgid "openSUSE BuildService - Education"
 msgstr "บริการสร้างแพกเกจของ openSUSE - ระบบ XFCE"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:47
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:44
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:38
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:47
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:38
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:38
 #, fuzzy
 msgid "Applications for education users"
 msgstr "ชุดสะสมของเกมแนวแอคชัน"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:48
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:45
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:39
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:48
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:39
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:39
 msgid ""
 "Contains several packages which might be interesting for educational use"
 msgstr ""
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:49
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:49
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:43
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:49
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:49
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:43
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:43
 #, fuzzy
 msgid "openSUSE BuildService - KDE:KDE3"
 msgstr "บริการสร้างแพกเกจของ openSUSE - ด้านฐานข้อมูล"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:50
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:50
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:44
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:50
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:50
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:44
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:44
 #, fuzzy
 msgid "Maintained KDE 3 packages"
 msgstr "แพกเกจที่ไม่มีการดูแลแล้ว"
 
-#: YaST/Repos/_openSUSE_131_Additional.xml.in.h:51
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:51
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:45
+#: YaST/Repos/_openSUSE_131_Additional.xml.in:51
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:51
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:45
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:45
 msgid "Provides old KDE for newer openSUSE"
 msgstr ""
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:1
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:1
+#: YaST/Repos/_openSUSE_131_Default.xml.in:1
+#: YaST/Repos/_openSUSE_132_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "คลังแพกเกจหลัก (ซอฟต์แวร์เสรี)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_131_Default.xml.in:2
 #, fuzzy
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมไว้เฉพาะซอฟต์แวร์เสรีเท่านั้น"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_131_Default.xml.in:3
 #, fuzzy
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE 13.1, giving you "
@@ -392,19 +435,20 @@ msgstr ""
 "จึงขอแนะนำให้ใช้เครื่องที่มีหน่วยความจำขั้นต่ำ 512 เมกะไบต์ขึ้นไป "
 "และให้ทำการเปิดใช้งานพาร์ทิชันสวอปไว้ด้วย)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:4
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:4
+#: YaST/Repos/_openSUSE_131_Default.xml.in:4
+#: YaST/Repos/_openSUSE_132_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
 msgstr "คลังแพกเกจหลัก (ซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_131_Default.xml.in:5
 #, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
 msgstr "คลังแพกเกจเสริมของซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี สำหรับ openSUSE 11.2"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_131_Default.xml.in:6
 #, fuzzy
 msgid ""
 "The official openSUSE 13.1 repository for all Non-Open Source Software "
@@ -414,37 +458,39 @@ msgstr ""
 "และดูแลโดยทีมงานของ openSUSE ซึ่งซอฟต์แวร์เหล่านี้ยังรวมไปถึง Opera, Java, Flash, และอื่น "
 "ๆ อีกมากมาย"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:7
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:7
+#: YaST/Repos/_openSUSE_131_Default.xml.in:7
+#: YaST/Repos/_openSUSE_132_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 msgid "Main Repository (Sources)"
 msgstr "คลังแพกเกจหลัก (ต้นฉบับ)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_131_Default.xml.in:8
 #, fuzzy
 msgid "Main repository of openSUSE 13.1 (Source packages)"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 (แพกเกจต้นฉบับต่าง ๆ)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_131_Default.xml.in:9
 #, fuzzy
 msgid ""
 "The repository of all source packages in openSUSE 13.1. For experts only."
 msgstr "คลังแพกเกจของแพกเกจต้นฉบับทั้งหมดใน openSUSE 11.2 ซึ่งเหมาะสำหรับผู้เชี่ยวชาญเท่านั้น"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:10
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:10
+#: YaST/Repos/_openSUSE_131_Default.xml.in:10
+#: YaST/Repos/_openSUSE_132_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 msgid "Main Repository (DEBUG)"
 msgstr "คลังแพกเกจหลัก (แพกเกจดีบั๊ก)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_131_Default.xml.in:11
 #, fuzzy
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมแพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_131_Default.xml.in:12
 #, fuzzy
 msgid ""
 "This repository is useful for those that want to debug applications on "
@@ -453,19 +499,20 @@ msgstr ""
 "คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 11.2 "
 "ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:13
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:13
+#: YaST/Repos/_openSUSE_131_Default.xml.in:13
+#: YaST/Repos/_openSUSE_132_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 msgid "Main Update Repository"
 msgstr "คลังแพกเกจหลักสำหรับปรับรุ่น"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_131_Default.xml.in:14
 #, fuzzy
 msgid "Repository for official updates to 13.1"
 msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_131_Default.xml.in:15
 #, fuzzy
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
@@ -474,54 +521,59 @@ msgstr ""
 "ในคลังแพกเกจนี้ คุณจะพบกับรายการปรับรุ่นต่าง ๆ และด้านความปลอดภัยของระบบ "
 "สำหรับใช้ปรับรุ่นเป็น openSUSE 11.2"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:16
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:16
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:16
+#: YaST/Repos/_openSUSE_131_Default.xml.in:16
+#: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #, fuzzy
 msgid "Update Repository (Non-Oss)"
 msgstr "คลังแพกเกจหลัก (แพกเกจดีบั๊ก)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_131_Default.xml.in:17
 #, fuzzy
 msgid "Repository for official non free updates to 13.1"
 msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:18
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:18
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:18
+#: YaST/Repos/_openSUSE_131_Default.xml.in:18
+#: YaST/Repos/_openSUSE_132_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #, fuzzy
 msgid "Update Repository (DEBUG)"
 msgstr "คลังแพกเกจหลัก (แพกเกจดีบั๊ก)"
 
-#: YaST/Repos/_openSUSE_131_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_131_Default.xml.in:19
 #, fuzzy
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
 msgstr ""
 "คลังแพกเกจหลักของ openSUSE 11.1 ที่รวมไว้แพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:46
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:40
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:46
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:40
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:40
 #, fuzzy
 msgid "openSUSE BuildService - Java:packages"
 msgstr "บริการสร้างแพกเกจของ openSUSE - เกมส์"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:47
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:41
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:47
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:41
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:41
 #, fuzzy
 msgid "Bleeding-edge Java packages"
 msgstr "อ่านข้อมูลแพกเกจที่ต้องการใช้"
 
-#: YaST/Repos/_openSUSE_132_Additional.xml.in.h:48
-#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in.h:42
+#: YaST/Repos/_openSUSE_132_Additional.xml.in:48
+#: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:42
+#: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:42
 msgid "Provides uptodate Java packages (Factory backports)"
 msgstr ""
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_132_Default.xml.in:2
 #, fuzzy
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมไว้เฉพาะซอฟต์แวร์เสรีเท่านั้น"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_132_Default.xml.in:3
 #, fuzzy
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
@@ -537,12 +589,12 @@ msgstr ""
 "จึงขอแนะนำให้ใช้เครื่องที่มีหน่วยความจำขั้นต่ำ 512 เมกะไบต์ขึ้นไป "
 "และให้ทำการเปิดใช้งานพาร์ทิชันสวอปไว้ด้วย)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_132_Default.xml.in:5
 #, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
 msgstr "คลังแพกเกจเสริมของซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี สำหรับ openSUSE 11.2"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_132_Default.xml.in:6
 #, fuzzy
 msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
@@ -552,23 +604,23 @@ msgstr ""
 "และดูแลโดยทีมงานของ openSUSE ซึ่งซอฟต์แวร์เหล่านี้ยังรวมไปถึง Opera, Java, Flash, และอื่น "
 "ๆ อีกมากมาย"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_132_Default.xml.in:8
 #, fuzzy
 msgid "Main repository of openSUSE 13.2 (Source packages)"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 (แพกเกจต้นฉบับต่าง ๆ)"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_132_Default.xml.in:9
 #, fuzzy
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr "คลังแพกเกจของแพกเกจต้นฉบับทั้งหมดใน openSUSE 11.2 ซึ่งเหมาะสำหรับผู้เชี่ยวชาญเท่านั้น"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_132_Default.xml.in:11
 #, fuzzy
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมแพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_132_Default.xml.in:12
 #, fuzzy
 msgid ""
 "This repository is useful for those that want to debug applications on "
@@ -577,12 +629,12 @@ msgstr ""
 "คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 11.2 "
 "ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_132_Default.xml.in:14
 #, fuzzy
 msgid "Repository for official updates to 13.2"
 msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_132_Default.xml.in:15
 #, fuzzy
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
@@ -591,24 +643,24 @@ msgstr ""
 "ในคลังแพกเกจนี้ คุณจะพบกับรายการปรับรุ่นต่าง ๆ และด้านความปลอดภัยของระบบ "
 "สำหรับใช้ปรับรุ่นเป็น openSUSE 11.2"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_132_Default.xml.in:17
 #, fuzzy
 msgid "Repository for official non free updates to 13.2"
 msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
 
-#: YaST/Repos/_openSUSE_132_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_132_Default.xml.in:19
 #, fuzzy
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr ""
 "คลังแพกเกจหลักของ openSUSE 11.1 ที่รวมไว้แพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
 #, fuzzy
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมไว้เฉพาะซอฟต์แวร์เสรีเท่านั้น"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
 #, fuzzy
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
@@ -624,12 +676,12 @@ msgstr ""
 "จึงขอแนะนำให้ใช้เครื่องที่มีหน่วยความจำขั้นต่ำ 512 เมกะไบต์ขึ้นไป "
 "และให้ทำการเปิดใช้งานพาร์ทิชันสวอปไว้ด้วย)"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr "คลังแพกเกจเสริมของซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี สำหรับ openSUSE 11.2"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 #, fuzzy
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
@@ -639,24 +691,24 @@ msgstr ""
 "และดูแลโดยทีมงานของ openSUSE ซึ่งซอฟต์แวร์เหล่านี้ยังรวมไปถึง Opera, Java, Flash, และอื่น "
 "ๆ อีกมากมาย"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 #, fuzzy
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 (แพกเกจต้นฉบับต่าง ๆ)"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
 #, fuzzy
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr "คลังแพกเกจของแพกเกจต้นฉบับทั้งหมดใน openSUSE 11.2 ซึ่งเหมาะสำหรับผู้เชี่ยวชาญเท่านั้น"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 #, fuzzy
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมแพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
 #, fuzzy
 msgid ""
 "This repository is useful for those that want to debug applications on "
@@ -665,34 +717,34 @@ msgstr ""
 "คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 11.2 "
 "ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
 msgstr ""
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
 msgstr ""
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:2
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 #, fuzzy
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมไว้เฉพาะซอฟต์แวร์เสรีเท่านั้น"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:3
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:5
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 #, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr "คลังแพกเกจเสริมของซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี สำหรับ openSUSE 11.2"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:6
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 #, fuzzy
 msgid ""
 "The official openSUSE Leap 42.1 repository for all Non-Open Source Software "
@@ -703,24 +755,24 @@ msgstr ""
 "และดูแลโดยทีมงานของ openSUSE ซึ่งซอฟต์แวร์เหล่านี้ยังรวมไปถึง Opera, Java, Flash, และอื่น "
 "ๆ อีกมากมาย"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:8
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 #, fuzzy
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 (แพกเกจต้นฉบับต่าง ๆ)"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:9
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 #, fuzzy
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr "คลังแพกเกจของแพกเกจต้นฉบับทั้งหมดใน openSUSE 11.2 ซึ่งเหมาะสำหรับผู้เชี่ยวชาญเท่านั้น"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:11
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 #, fuzzy
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมแพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:12
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 #, fuzzy
 msgid ""
 "This repository is useful for those that want to debug applications on "
@@ -729,12 +781,12 @@ msgstr ""
 "คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 11.2 "
 "ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:14
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 #, fuzzy
 msgid "Repository for official updates to openSUSE Leap 42.1"
 msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:15
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 #, fuzzy
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
@@ -743,32 +795,114 @@ msgstr ""
 "ในคลังแพกเกจนี้ คุณจะพบกับรายการปรับรุ่นต่าง ๆ และด้านความปลอดภัยของระบบ "
 "สำหรับใช้ปรับรุ่นเป็น openSUSE 11.2"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:17
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 #, fuzzy
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:19
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 #, fuzzy
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr ""
 "คลังแพกเกจหลักของ openSUSE 11.1 ที่รวมไว้แพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:20
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 msgid "Untested Updates"
 msgstr ""
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:21
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 #, fuzzy
 msgid "Repository of not yet tested updates"
 msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in.h:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
 msgid ""
 "Repository contains security and maintenance updates that still need testing "
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
+#, fuzzy
+msgid ""
+"Main repository of openSUSE Leap 42.2 including only Open Source Software"
+msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมไว้เฉพาะซอฟต์แวร์เสรีเท่านั้น"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
+"you access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
+#, fuzzy
+msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
+msgstr "คลังแพกเกจเสริมของซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี สำหรับ openSUSE 11.2"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
+#, fuzzy
+msgid ""
+"The official openSUSE Leap 42.2 repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam, Flash, and "
+"more."
+msgstr ""
+"คลังแพกเกจอย่างเป็นทางการของ openSUSE 11.2 ที่จัดเก็บซอฟต์แวร์ทั้งหมดที่ไม่ใช่ซอฟต์แวร์แบบเสรี "
+"และดูแลโดยทีมงานของ openSUSE ซึ่งซอฟต์แวร์เหล่านี้ยังรวมไปถึง Opera, Java, Flash, และอื่น "
+"ๆ อีกมากมาย"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
+#, fuzzy
+msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
+msgstr "คลังแพกเกจหลักของ openSUSE 11.2 (แพกเกจต้นฉบับต่าง ๆ)"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
+#, fuzzy
+msgid ""
+"The repository of all source packages in openSUSE Leap 42.2. For experts "
+"only."
+msgstr "คลังแพกเกจของแพกเกจต้นฉบับทั้งหมดใน openSUSE 11.2 ซึ่งเหมาะสำหรับผู้เชี่ยวชาญเท่านั้น"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
+#, fuzzy
+msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
+msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมแพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
+#, fuzzy
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap 42.2. For experts only."
+msgstr ""
+"คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 11.2 "
+"ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
+#, fuzzy
+msgid "Repository for official updates to openSUSE Leap 42.2"
+msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
+#, fuzzy
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap 42.2."
+msgstr ""
+"ในคลังแพกเกจนี้ คุณจะพบกับรายการปรับรุ่นต่าง ๆ และด้านความปลอดภัยของระบบ "
+"สำหรับใช้ปรับรุ่นเป็น openSUSE 11.2"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
+#, fuzzy
+msgid "Repository for official non free updates to openSUSE Leap 42.2"
+msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
+
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
+#, fuzzy
+msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
+msgstr ""
+"คลังแพกเกจหลักของ openSUSE 11.1 ที่รวมไว้แพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
 
 #, fuzzy
 #~ msgid "openSUSE BuildService - Banshee"

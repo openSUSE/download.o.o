@@ -39,6 +39,7 @@
         <name xml:lang="zh_CN">主软件源 (开源软件)</name>
         <name xml:lang="zh_TW">主要套件庫 (OSS)</name>
         <summary>Main repository of openSUSE Tumbleweed including only Open Source Software</summary>
+        <summary xml:lang="ar">المستودع الرئيسي لأوبن سوزي  Tumbleweed مع البرمجيات مفتوحة المصدر فقط</summary>
         <summary xml:lang="ca">Repositori principal d'openSUSE Tumbleweed que inclou només programari de codi obert</summary>
         <summary xml:lang="cs">Hlavní repozitář openSUSE Tumbleweed obsahující pouze software s otevřeným kódem</summary>
         <summary xml:lang="da">Hovedsoftwarekilden for openSUSE Tumbleweed, som kun inkluderer open source software</summary>
@@ -50,6 +51,7 @@
         <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Tumbleweed met alleen opensource-software</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE Tumbleweed contendo somente software de código aberto</summary>
         <summary xml:lang="ru">Основной репозиторий openSUSE Tumbleweed, включающий только программное обеспечение с открытым кодом</summary>
+        <summary xml:lang="sk">Hlavný repozitár openSUSE Tumbleweed, ktorý obsahuje iba Open Source Software</summary>
         <summary xml:lang="sv">Huvudförrådet för openSUSE Tumbleweed , innehåller enbart open source-mjukvara</summary>
         <summary xml:lang="uk">Головне сховище openSUSE Tumbleweed, яке містить лише ПЗ з відкритим кодом</summary>
         <summary xml:lang="zh_CN">openSUSE Tumbleweed 主软件源，仅包含开源软件</summary>
@@ -113,6 +115,7 @@
         <name xml:lang="zh_CN">主软件源 (非开源软件)</name>
         <name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
         <summary>Non-Open Source Software Addon repository for openSUSE Tumbleweed</summary>
+        <summary xml:lang="ar">البرمجيات غير مفتوحة المصدر الملحقة بمستودع أوبن سوزي Tumbleweed</summary>
         <summary xml:lang="ca">Repositori complementari per a openSUSE Tumbleweed de programari que no és de codi obert</summary>
         <summary xml:lang="cs">Repozitář s doplňkovým softwarem bez dostupného kódu pro openSUSE Tumbleweed</summary>
         <summary xml:lang="da">Tillægssoftware kilde med ikke-open source software til openSUSE Tumbleweed</summary>
@@ -124,11 +127,13 @@
         <summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE Tumbleweed</summary>
         <summary xml:lang="pt_BR">Repositório adicional para software de código fechado para o openSUSE Tumbleweed</summary>
         <summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE Tumbleweed</summary>
+        <summary xml:lang="sk">Non-Open Source Software doplnkový repozitár pre openSUSE Tumbleweed</summary>
         <summary xml:lang="sv">Icke-open source tilläggsförråd för openSUSE Tumbleweed</summary>
         <summary xml:lang="uk">Додаткове сховище openSUSE Tumbleweed, яке містить ПЗ із закритим кодом</summary>
         <summary xml:lang="zh_CN">openSUSE Tumbleweed 非开源软件附加源</summary>
         <summary xml:lang="zh_TW">openSUSE Tumbleweed 的非開放原碼軟體附加套件庫</summary>
         <description>The official openSUSE Tumbleweed repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Flash, and more.</description>
+        <description xml:lang="ar">مستودع أوبن سوزي Tumbleweed الرسمي لجميع برمجيات المصدر المفتوح غير التي يحتفظ بها فريق أوبن سوزي، بما في ذلك أوبرا، فلاش، وأكثر من ذلك.</description>
         <description xml:lang="ca">El repositori oficial d'openSUSE Tumbleweed per a tot el programari que no és de codi obert mantingut per l'equip d'openSUSE. Inclou l'Opera, el Flash i més coses.</description>
         <description xml:lang="cs">Oficiální repozitář openSUSE Tumbleweed pro veškerý software bez dostupného zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Flashe atd.</description>
         <description xml:lang="da">Den officielle openSUSE Tumbleweed softwarekilde for al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer RealPlayer, Opera, Java, Flash og mere.</description>
@@ -140,6 +145,7 @@
         <description xml:lang="nl">De officiële openSUSE Tumbleweed-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals Opera, Flash en meer.</description>
         <description xml:lang="pt_BR">O repositório oficial do openSUSE Tumbleweed para todos os softwares de código fechado mantido pela equipe do openSUSE, incluindo Opera, Flash e outros.</description>
         <description xml:lang="ru">Официальный репозиторий openSUSE Tumbleweed для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Flash и многое другое.</description>
+        <description xml:lang="sk">Oficiálny repozitár openSUSE Tumbleweed pre všetok Non-Open Source Software udržovaný tímom openSUSE, ktorý obsahuje Opera, Flash a ďalšie.</description>
         <description xml:lang="sv">The official openSUSE Tumbleweed repository for all Non-Open Source Software maintained by the openSUSE team, including Opera, Java, Flash, and more.</description>
         <description xml:lang="uk">Офіційне сховище openSUSE Tumbleweed для всіх програм із закритим кодом, які підтримуються командою openSUSE: Opera, Flash та інших.</description>
         <description xml:lang="zh_CN">openSUSE Tumbleweed 全部非开源软件的官方源，由 openSUSE 团队维护，包括 Opera、Flash 等。</description>
@@ -154,7 +160,7 @@
         <name xml:lang="da">Hovedsoftwarekilde (kildekoder)</name>
         <name xml:lang="de">Haupt-Repository (Quellen)</name>
         <name xml:lang="el">Κύριο Αποθετήριο (Πηγές)</name>
-        <name xml:lang="es">Repositorio Principal (fuentes) </name>
+        <name xml:lang="es">Repositorio Principal (fuentes)</name>
         <name xml:lang="fi">Pääasennuslähde (lähdekoodit)</name>
         <name xml:lang="fr">Dépôt principal (Sources)</name>
         <name xml:lang="gl">Repositorio principal (Fontes)</name>
@@ -182,6 +188,7 @@
         <name xml:lang="zh_CN">主软件源 (源代码)</name>
         <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
         <summary>Main repository of openSUSE Tumbleweed (Source packages)</summary>
+        <summary xml:lang="ar">مستودع أوبن سوزي Tumbleweed الرئيسي (حزم المصدر)</summary>
         <summary xml:lang="ca">Repositori principal d'openSUSE Tumbleweed (Paquets de codi font)</summary>
         <summary xml:lang="cs">Hlavní repozitář openSUSE Tumbleweed (zdrojové balíčky)</summary>
         <summary xml:lang="da">Hovedsoftwarekilden for openSUSE Tumbleweed (kildekode-pakker)</summary>
@@ -193,11 +200,13 @@
         <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Tumbleweed (broncodepakketten)</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE Tumbleweed (pacotes fonte)</summary>
         <summary xml:lang="ru">Основной репозиторий openSUSE Tumbleweed (Пакеты с исходным кодом)</summary>
+        <summary xml:lang="sk">Hlavný repozitár openSUSE Tumbleweed (Zdrojové balíky)</summary>
         <summary xml:lang="sv">Huvudförråd för openSUSE Tumbleweed (källkodspaket)</summary>
         <summary xml:lang="uk">Головне сховище для openSUSE Tumbleweed (джерельні пакунки)</summary>
         <summary xml:lang="zh_CN">openSUSE Tumbleweed 主软件源 (源代码)</summary>
         <summary xml:lang="zh_TW">openSUSE Tumbleweed 的主要套件庫(原始碼套件)</summary>
         <description>The repository of all source packages in openSUSE Tumbleweed. For experts only.</description>
+        <description xml:lang="ar">مستودع جميع حزم المصدر في أوبن سوزي Tumbleweed. للخبراء فقط.</description>
         <description xml:lang="ca">El repositori de tots els paquets de codi font a l'openSUSE Tumbleweed. Només per a experts.</description>
         <description xml:lang="cs">Repozitář všech zdrojových balíčků z openSUSE Tumbleweedu. Pouze pro zkušené uživatele.</description>
         <description xml:lang="da">Softwarekilden for alle kildekode-pakker i openSUSE Tumbleweed. Kun for eksperter.</description>
@@ -209,6 +218,7 @@
         <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE Tumbleweed. Alleen voor ervaren gebruikers.</description>
         <description xml:lang="pt_BR">Repositório de todos os pacotes fonte no openSUSE Tumbleweed. Somente para usuários avançados.</description>
         <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE Tumbleweed. Только для экспертов.</description>
+        <description xml:lang="sk">Repozitár všetkých zdrojových balíkov v openSUSE Tumbleweed. Iba pre expertov.</description>
         <description xml:lang="sv">Förrådet med alla källkodspaket i openSUSE Tumbleweed. För experter.</description>
         <description xml:lang="uk">Сховище для всіх джерельних пакунків у openSUSE Tumbleweed. Тільки для знавців.</description>
         <description xml:lang="zh_CN">openSUSE Tumbleweed 全部源代码包的软件源。仅供专家使用。</description>
@@ -252,6 +262,7 @@
         <name xml:lang="zh_CN">主调试源</name>
         <name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
         <summary>Main repository of openSUSE Tumbleweed including the debuginfo packages</summary>
+        <summary xml:lang="ar">المستودع الرئيسي للأوبن سوزي Tumbleweed بما في ذلك حزم debuginfo</summary>
         <summary xml:lang="ca">Repositori principal d'openSUSE Tumbleweed que inclou els paquets d'informació de depuració</summary>
         <summary xml:lang="cs">Hlavní repozitář openSUSE Tumbleweed obsahující balíčky debuginfo</summary>
         <summary xml:lang="da">Hovedsoftwarekilde for openSUSE Tumbleweed som inkluderer debuginfo-pakker</summary>
@@ -263,11 +274,13 @@
         <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Tumbleweed, met debuginfo-pakketten</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE Tumbleweed contendo os pacotes debuginfo</summary>
         <summary xml:lang="ru">Основной репозиторий openSUSE Tumbleweed, включающий пакеты debuginfo</summary>
+        <summary xml:lang="sk">Hlavný repozitár pre openSUSE Tumbleweed, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
         <summary xml:lang="sv">Huvudförrådet för openSUSE Tumbleweed innehåller debuginfo-paketen</summary>
         <summary xml:lang="uk">Головне сховище openSUSE Tumbleweed, яке містить пакунки debuginfo</summary>
         <summary xml:lang="zh_CN">openSUSE Tumbleweed 主软件源包含调试信息包</summary>
         <summary xml:lang="zh_TW">openSUSE Tumbleweed 的主要套件庫，包含偵錯套件</summary>
         <description>This repository is useful for those that want to debug applications on openSUSE Tumbleweed. For experts only.</description>
+        <description xml:lang="ar">هذا المخزن مفيد لأولئك الذين يرغبون في تصحيح التطبيقات على أوبن سوزي Tumbleweed. للخبراء فقط.</description>
         <description xml:lang="ca">Aquest repositori és útil per a qui vulgui depurar aplicacions a l'openSUSE Tumbleweed. Només per a experts.</description>
         <description xml:lang="cs">Tento repozitář je užitečný pro všechny, kdo chtějí ladit aplikace pro openSUSE Tumbleweed. Určeno pouze pro experty.</description>
         <description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE Tumbleweed. Kun for eksperter.</description>
@@ -279,6 +292,7 @@
         <description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE Tumbleweed willen opsporen. Alleen voor ervaren gebruikers.</description>
         <description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE Tumbleweed. Somente para usuários avançados.</description>
         <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE Tumbleweed. Только для экспертов.</description>
+        <description xml:lang="sk">Tento repozitár je užitočný pre tých, ktorí chcú ladiť programy na openSUSE Tumbleweed. Len pre expertov.</description>
         <description xml:lang="sv">Detta förråd är användbart för dem som vill avlusa program i openSUSE Tumbleweed. Enbart för experter.</description>
         <description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE Tumbleweed. Тільки для знавців.</description>
         <description xml:lang="zh_CN">本软件源只对那些想要在 openSUSE Tumbleweed 中调试程序的人有用。仅供专家使用。</description>
@@ -321,6 +335,7 @@
         <name xml:lang="zh_CN">主更新源</name>
         <name xml:lang="zh_TW">主要更新套件庫</name>
         <summary>Official update repository for Tumbleweed</summary>
+        <summary xml:lang="ar">مستودع تحديث Tumbleweed الرئيسي</summary>
         <summary xml:lang="ca">Repositori d'actualització oficial per al Tumbleweed</summary>
         <summary xml:lang="cs">Oficiální aktualizační repozitář pro Tumbleweed</summary>
         <summary xml:lang="da">Officiel opdateringskilde til Tumbleweed</summary>
@@ -332,11 +347,13 @@
         <summary xml:lang="nl">Officiële installatiebron voor bijwerken van Tumbleweed</summary>
         <summary xml:lang="pt_BR">Repositório oficial de atualizações para o Tumbleweed</summary>
         <summary xml:lang="ru">Официальный репозиторий обновлений для Tumbleweed</summary>
+        <summary xml:lang="sk">Oficiálny repozitár s aktualizáciami pre Tumbleweed</summary>
         <summary xml:lang="sv">Förråd för officiella uppdateringar av Tumbleweed</summary>
         <summary xml:lang="uk">Офіційне сховище оновлень для Tumbleweed</summary>
         <summary xml:lang="zh_CN">Tumbleweed 官方更新源</summary>
         <summary xml:lang="zh_TW">Tumbleweed 官方更新套件庫</summary>
         <description>This repository provides urgent updates until they get integrated into the main repositories.</description>
+        <description xml:lang="ar">يوفر هذا المستودع تحديثات عاجلة حتى يتم دمجها في المستودعات الرئيسية.</description>
         <description xml:lang="ca">Aquest repositori proporciona actualitzacions urgents fins que s'integren als repositoris principals.</description>
         <description xml:lang="cs">Tento repozitář poskytuje akutní aktualizace, dokud nejsou zaintegrovány do hlavních repozitářů.</description>
         <description xml:lang="da">Denne softwarekilde leverer opdateringer som haster, indtil de bliver integreret i hovedsoftwarekilderne.</description>
@@ -348,7 +365,8 @@
         <description xml:lang="nl">Deze installatiebron levert urgente elementen voor bijwerken totdat ze geïntegreerd worden in de hoofdinstallatiebronnen.</description>
         <description xml:lang="pt_BR">Este repositório fornece atualizações urgentes até elas serem integradas nos repositórios oficiais.</description>
         <description xml:lang="ru">Этот репозиторий предоставляет срочные обновления до того, как они войдут в состав основных репозиториев.</description>
-        <description xml:lang="sv">Detta förråd tillhandahåller kritiska uppdateringar fram tills de blivit integrerade i huvudförrådet</description>
+        <description xml:lang="sk">Tento repozitár poskytuje naliehavé aktualizácie, kým nie sú začlenené do hlavných repozitárov.</description>
+        <description xml:lang="sv">Detta förråd tillhandahåller kritiska uppdateringar fram tills de blivit integrerade i huvudförrådet.</description>
         <description xml:lang="uk">Це сховище надає термінові оновлення до того, поки вони інтегруються в основні сховища.</description>
         <description xml:lang="zh_CN">此软件源提供了紧急更新，这些更新稍后会整合进主源。</description>
         <description xml:lang="zh_TW">這個套件庫提供急迫性高的更新，直到被整合進主要套件庫為止。</description>

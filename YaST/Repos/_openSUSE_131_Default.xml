@@ -80,7 +80,7 @@
 		<description xml:lang="nb">Den store pakkebrønnen for åpen kildekode (OSS) for openSUSE 13.1 gir deg tilgang til tusenvis av pakker som vedlikeholdes av openSUSE--gruppen. (På grunn av størrelsen kan det ta en stund å legge til pakkebrønnen (512 MB RAM eller en aktivert veksleminnepartisjon anbefales sterkt hvis du ønsker tilgang til denne pakkebrønnen under installasjonen).</description>
 		<description xml:lang="nl">De grote opensource-software (OSS) installatiebron van openSUSE 13.1 geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 MB RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
 		<description xml:lang="pl">Wielkie repozytorium Open Source Software (OSS) dla openSUSE 13.1, które zawiera tysiące pakietów utrzymywanych przez zespół openSUSE. (Z racji rozmiarów dodanie tego repozytorium może zająć trochę czasu. (Jeśli to repozytorium ma być użyte podczas instalacji, zalecane jest posiadanie 512MB pamięci RAM lub aktywnej partycji wymiany.)</description>
-		<description xml:lang="pt_BR">O grande repositório de software de código aberto (OSS) para o openSUSE 13.1, fornecendo acesso a milhares de pacotes mantidos pela equipe do openSUSE. (Devido ao tamanho do repositório, sua inclusão pode demorar algum tempo. É altamente recomendado possuir 512 MB de RAM ou uma partição de troca ativada caso você deseje acessar este repositório durante a instalação).</description>
+		<description xml:lang="pt_BR">O grande repositório de software de código aberto (OSS) para o openSUSE 13.1, fornecendo acesso a milhares de pacotes mantidos pela equipe do openSUSE. (Devido ao tamanho do repositório, sua inclusão pode demorar algum tempo. É altamente recomendado possuir 512 MB de RAM ou uma partição de troca ativada caso você deseje acessar este repositório durante a instalação.)</description>
 		<description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 13.1, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 МБ RAM или включённый раздел подкачки.)</description>
 		<description xml:lang="sk">Veľký repozitár Open Source Software (OSS) pre openSUSE 13.1, ktorý vám dáva prístup k tisícom balíkom, ktoré sú udržované tímom openSUSE. (Ak chcete mať prístup k tomuto repozitáru počas inštalácie, doporučujeme mať 512 MB RAM alebo povolený odkladací diskový oddiel SWAP kvôli veľkosti repozitára. Jeho pridanie môže trvať istý čas.)</description>
 		<description xml:lang="sv">Det stora Open Source Software (OSS) förrådet för openSUSE 13.1 som ger dig åtkomst till tusentals paket underhållna av openSUSE teamet. (På grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB RAM eller en SWAP-partition är mycket rekommenderat om du vill ha tillgång till detta förråd under installationen.)</description>
@@ -183,7 +183,7 @@
         <name xml:lang="da">Hovedsoftwarekilde (kildekoder)</name>
         <name xml:lang="de">Haupt-Repository (Quellen)</name>
         <name xml:lang="el">Κύριο Αποθετήριο (Πηγές)</name>
-        <name xml:lang="es">Repositorio Principal (fuentes) </name>
+        <name xml:lang="es">Repositorio Principal (fuentes)</name>
         <name xml:lang="fi">Pääasennuslähde (lähdekoodit)</name>
         <name xml:lang="fr">Dépôt principal (Sources)</name>
         <name xml:lang="gl">Repositorio principal (Fontes)</name>
@@ -425,10 +425,10 @@
         <description xml:lang="pt_BR">Neste repositório você encontra atualizações de segurança e manutenção para o openSUSE 13.1.</description>
         <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 13.1.</description>
         <description xml:lang="sk">V tomto repozitári nájdete bezpečnostné a opravné aktualizácie pre openSUSE 13.1.</description>
-        <description xml:lang="sv">I det här förrådet hittar du säkerhets- och underhållsuppdateringar för openSUSE 13.1</description>
+        <description xml:lang="sv">I det här förrådet hittar du säkerhets- och underhållsuppdateringar för openSUSE 13.1.</description>
         <description xml:lang="uk">У цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 13.1.</description>
         <description xml:lang="zh_CN">在此软件源中，您可找到 openSUSE 13.1 的安全和维护更新。</description>
-        <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 13.1 的安全性與維護性更新</description>
+        <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 13.1 的安全性與維護性更新。</description>
         <url>http://download.opensuse.org/update/13.1/</url>
       </repository>
       <repository recommended="false" format="rpm-md">
@@ -501,10 +501,10 @@
         <description xml:lang="pt_BR">Neste repositório você encontra atualizações de segurança e manutenção para o openSUSE 13.1.</description>
         <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 13.1.</description>
         <description xml:lang="sk">V tomto repozitári nájdete bezpečnostné a opravné aktualizácie pre openSUSE 13.1.</description>
-        <description xml:lang="sv">I det här förrådet hittar du säkerhets- och underhållsuppdateringar för openSUSE 13.1</description>
+        <description xml:lang="sv">I det här förrådet hittar du säkerhets- och underhållsuppdateringar för openSUSE 13.1.</description>
         <description xml:lang="uk">У цьому сховищі знаходяться латки безпеки і оновлення для openSUSE 13.1.</description>
         <description xml:lang="zh_CN">在此软件源中，您可找到 openSUSE 13.1 的安全和维护更新。</description>
-        <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 13.1 的安全性與維護性更新</description>
+        <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE 13.1 的安全性與維護性更新。</description>
         <url>http://download.opensuse.org/update/13.1-non-oss/</url>
       </repository>
             <repository recommended="false" format="yast">

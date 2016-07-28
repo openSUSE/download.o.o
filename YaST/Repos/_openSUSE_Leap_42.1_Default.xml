@@ -39,6 +39,7 @@
                 <name xml:lang="zh_CN">主软件源 (开源软件)</name>
                 <name xml:lang="zh_TW">主要套件庫 (OSS)</name>
                 <summary>Main repository of openSUSE Leap 42.1 including only Open Source Software</summary>
+                <summary xml:lang="ar">المستودع الرئيسي للأوبن سوزي Leap 42.1 مع البرمجيات مفتوحة المصدر فقط</summary>
                 <summary xml:lang="ca">Repositori principal de l'openSUSE Leap 42.1 que inclou només programari de codi obert</summary>
                 <summary xml:lang="cs">Hlavní repozitář openSUSE Leap 42.1 obsahující pouze open-source software</summary>
                 <summary xml:lang="da">Hovedsoftwarekilden for openSUSE Leap 42.1, som kun inkluderer open source software</summary>
@@ -50,19 +51,25 @@
                 <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Leap 42.1, met alleen opensource-software</summary>
                 <summary xml:lang="pt_BR">Repositório principal do openSUSE Leap 42.1 contendo somente software de código aberto</summary>
                 <summary xml:lang="ru">Основной репозиторий openSUSE Leap 42.1, включающий только программное обеспечение с открытым кодом</summary>
+                <summary xml:lang="sk">Hlavný repozitár openSUSE Leap 42.1, ktorý obsahuje iba Open Source Software</summary>
                 <summary xml:lang="sv">Huvudförrådet för openSUSE Leap 42.1 innehåller enbart open source-mjukvara</summary>
                 <summary xml:lang="uk">Головне сховище openSUSE Leap 42.1, яке містить лише ПЗ з відкритим кодом</summary>
                 <summary xml:lang="zh_CN">openSUSE Leap 42.1 主软件源，仅包含开源软件</summary>
                 <summary xml:lang="zh_TW">openSUSE Leap 42.1 的主要套件庫，僅包含開放原碼的軟體</summary>
                 <description>The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving you access to thousands of packages maintained by the openSUSE community.</description>
+                <description xml:lang="ar">برمجيات المصدر المفتوح (OSS) مستودع كبير لأوبن سوزي Leap 42.1، يتيح الوصول إلى الآلاف الحزم التي يحتفظ بها مجتمع أوبن سوزي.</description>
                 <description xml:lang="ca">El gran repositori de programari de codi obert (Open Source Software (OSS)) per a l'openSUSE Leap 42.1, que us dóna accés a milers de paquets mantinguts per la comunitat d'openSUSE.</description>
+                <description xml:lang="cs">Velký repozitář s open-source softwarem pro openSUSE Leap 42.1 dávající vám přístup k tisícům balíčků spravovaných komunitou openSUSE.</description>
+                <description xml:lang="fr">Le dépôt principal de logiciels Open Source pour openSUSE Leap 42.1, vous donnant accès à des milliers de paquets maintenus par la communauté openSUSE.</description>
                 <description xml:lang="ja">openSUSE Leap 42.1 向けの巨大なオープンソースのソフトウエアリポジトリ。 openSUSE コミュニティによって管理されている何千ものパッケージにアクセスすることができます。</description>
                 <description xml:lang="nl">De grote opensource-software (OSS) installatiebron van openSUSE Leap 42.1 geeft u toegang tot duizenden pakketten die door de openSUSE gemeenschap worden onderhouden.</description>
                 <description xml:lang="pt_BR">O grande repositório de software de código aberto (OSS) para o openSUSE Leap 42.1, fornecendo-lhe acesso a milhares de pacotes mantidos pela comunidade do openSUSE.</description>
                 <description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE Leap 42.1, дающий вам доступ к тысячам пакетов, поддерживаемых сообществом openSUSE.</description>
+                <description xml:lang="sk">Veľký repozitár Open Source Software (OSS) pre openSUSE Leap 42.1, ktorý vám dáva prístup k tisícom balíkom, ktoré sú udržované komunitou openSUSE.</description>
                 <description xml:lang="sv">Det stora Open Source Software (OSS) förrådet för openSUSE som ger dig åtkomst till tusentals paket underhållna av openSUSE teamet.</description>
                 <description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE  Leap 42.1, яке надає вам доступ до тисяч пакунків, що підтримуються командою openSUSE.</description>
                 <description xml:lang="zh_CN">庞大的 openSUSE Leap 42.1 开源软件源，提供由 openSUSE 社区维护的数千个软件包。</description>
+                <description xml:lang="zh_TW">openSUSE Leap 42.1 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 社群維護的套件讓您取用。</description>
                 <url>http://download.opensuse.org/distribution/leap/42.1/repo/oss/</url>
             </repository>
             <repository recommended="true" format="yast">
@@ -102,6 +109,7 @@
                 <name xml:lang="zh_CN">主软件源 (非开源软件)</name>
                 <name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
                 <summary>Non-Open Source Software Addon repository for openSUSE Leap 42.1</summary>
+                <summary xml:lang="ar">البرمجيات غير مفتوحة المصدر الملحقة بمستودع أوبن سوزي Leap 42.1</summary>
                 <summary xml:lang="ca">Repositori complementari de programari que no és de codi obert per a l'openSUSE Leap 42.1</summary>
                 <summary xml:lang="cs">Repozitář s doplňkovým softwarem bez dostupného kódu pro openSUSE Leap 42.1</summary>
                 <summary xml:lang="da">Tillægssoftware kilde med ikke-open source software til openSUSE Leap 42.1</summary>
@@ -113,19 +121,26 @@
                 <summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE Leap 42.1</summary>
                 <summary xml:lang="pt_BR">Repositório adicional para software de código fechado para o openSUSE Leap 42.1</summary>
                 <summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE Leap 42.1</summary>
+                <summary xml:lang="sk">Non-Open Source Software doplnkový repozitár pre openSUSE Leap 42.1</summary>
                 <summary xml:lang="sv">Icke-open source tilläggsförråd för openSUSE Leap 42.1</summary>
                 <summary xml:lang="uk">Додаткове сховище openSUSE  Leap 42.1, яке містить ПЗ з закритим кодом</summary>
                 <summary xml:lang="zh_CN">openSUSE Leap 42.1 非开源软件附加源</summary>
                 <summary xml:lang="zh_TW">openSUSE Leap 42.1 的非開放原碼軟體附加套件庫</summary>
                 <description>The official openSUSE Leap 42.1 repository for all Non-Open Source Software maintained by the openSUSE community, including Opera, Steam, Flash, and more.</description>
+                <description xml:lang="ar">مستودع الرسمي لجميع برمجيات المصدر المفتوح غير التي يحتفظ بها مجتمع أوبن سوزي Leap 42.1، بما في ذلك أوبرا، فلاش، وأكثر من ذلك.</description>
                 <description xml:lang="ca">El repositori oficial de l'openSUSE Leap 42.1 per a tot el programari que no és de codi obert mantingut per la comunitat d'openSUSE. Inclou l'Opera, l'Steam, el Flash i més coses.</description>
+                <description xml:lang="cs">Oficiální repozitář openSUSE Leap 42.1 pro veškerý software bez dostupného zdrojového kódu, který je spravovaný komunitou openSUSE, včetně Opery, Steamu, Flashe atd.</description>
+                <description xml:lang="es">El repositorio oficial de Leap 42.1 para todo el software de código fuente no abierto mantenido por la comunidad de openSUSE y que incluye Opera, Steam, Flash y más.</description>
+                <description xml:lang="fr">Le dépôt officiel d'openSUSE Leap 42.1 pour les logiciels non libre maintenus par la communauté openSUSE, comme Opera, Steam, Flash et plus encore.</description>
                 <description xml:lang="ja">Opera, Steam, Flash などの非オープンソースソフトウエアを含む、 openSUSE コミュニティ管理の openSUSE Leap 42.1 公式リポジトリ</description>
                 <description xml:lang="nl">De officiële installatiebron voor openSUSE Leap 42.1 voor alle niet-opensource-software die door de openSUSE gemeenschap wordt onderhouden; zoals Opera, Flash, etc.</description>
                 <description xml:lang="pt_BR">O repositório oficial do openSUSE Leap 42.1 para todos os softwares de código fechado mantido pela comunidade do openSUSE, incluindo Opera, Steam, Flash e outros.</description>
                 <description xml:lang="ru">Официальный репозиторий openSUSE Leap 42.1 для всего программного обеспечения с закрытым кодом, поддерживаемого сообществом openSUSE, включая Opera, Steam, Flash и многое другое.</description>
+                <description xml:lang="sk">Oficiálny repozitár openSUSE Leap 42.1 pre všetok Non-Open Source Software udržovaný komunitou openSUSE, ktorý obsahuje Opera, Steam, Flash a ďalšie.</description>
                 <description xml:lang="sv">Det officiella openSUSE Leap 42.1 förrådet för all icke-open source mjukvara som underhålls av openSUSE-teamet. Inkluderar Opera, Java, Flash med mera.</description>
                 <description xml:lang="uk">Офіційне сховище openSUSE Leap 42.1 для всіх програм із закритим кодом, які підтримуються командою openSUSE: Opera, Steam, Flash та інших.</description>
                 <description xml:lang="zh_CN">openSUSE Leap 42.1 全部非开源软件的官方源，由 openSUSE 社区维护，包括 Opera、Steam、Flash 等。</description>
+                <description xml:lang="zh_TW">由 openSUSE 社群維護之非開放原始碼軟體的官方 openSUSE Leap 42.1 套件庫，包含了 Opera, Steam, Flash 以及其他更多軟體。</description>
                 <url>http://download.opensuse.org/distribution/leap/42.1/repo/non-oss/</url>
             </repository>
             <repository recommended="false" format="yast">
@@ -136,7 +151,7 @@
                 <name xml:lang="da">Hovedsoftwarekilde (kildekoder)</name>
                 <name xml:lang="de">Haupt-Repository (Quellen)</name>
                 <name xml:lang="el">Κύριο Αποθετήριο (Πηγές)</name>
-                <name xml:lang="es">Repositorio Principal (fuentes) </name>
+                <name xml:lang="es">Repositorio Principal (fuentes)</name>
                 <name xml:lang="fi">Pääasennuslähde (lähdekoodit)</name>
                 <name xml:lang="fr">Dépôt principal (Sources)</name>
                 <name xml:lang="gl">Repositorio principal (Fontes)</name>
@@ -164,6 +179,7 @@
                 <name xml:lang="zh_CN">主软件源 (源代码)</name>
                 <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
                 <summary>Main repository of openSUSE Leap 42.1 (Source packages)</summary>
+                <summary xml:lang="ar">المستودع الرئيسي للأوبن سوزي Leap 42.1 (حزم المصدر)</summary>
                 <summary xml:lang="ca">Repositori principal de l'openSUSE Leap 42.1 (Paquets de codi font)</summary>
                 <summary xml:lang="cs">Hlavní repozitář openSUSE Leap 42.1 (zdrojové balíčky)</summary>
                 <summary xml:lang="da">Hovedsoftwarekilden for openSUSE Leap 42.1 (kildekode-pakker)</summary>
@@ -175,11 +191,13 @@
                 <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Leap 42.1 (broncodepakketten)</summary>
                 <summary xml:lang="pt_BR">Repositório principal do openSUSE Leap 42.1 (pacotes fonte)</summary>
                 <summary xml:lang="ru">Основной репозиторий openSUSE Leap 42.1 (Пакеты с исходным кодом)</summary>
+                <summary xml:lang="sk">Hlavný repozitár openSUSE Leap 42.1 (Zdrojové balíky)</summary>
                 <summary xml:lang="sv">Huvudförråd för openSUSE Leap 42.1 (källkodspaket)</summary>
                 <summary xml:lang="uk">Головне сховище для openSUSE  Leap 42.1 (джерельні пакунки)</summary>
                 <summary xml:lang="zh_CN">openSUSE Leap 42.1 主软件源 (源代码)</summary>
                 <summary xml:lang="zh_TW">openSUSE Leap 42.1 的主要套件庫(原始碼套件)</summary>
                 <description>The repository of all source packages in openSUSE Leap 42.1. For experts only.</description>
+                <description xml:lang="ar">مستودع لجميع حزم مصدر في أوبن سوزي Leap 42.1. للخبراء فقط.</description>
                 <description xml:lang="ca">El repositori de tots els paquets de codi font a l'openSUSE Leap 42.1. Només per a experts.</description>
                 <description xml:lang="cs">Repozitář všech zdrojových balíčků z openSUSE  Leap 42.1. Pouze pro zkušené uživatele.</description>
                 <description xml:lang="da">Softwarekilden for alle kildekode-pakker i openSUSE Leap 42.1. Kun for eksperter.</description>
@@ -191,6 +209,7 @@
                 <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE Leap 42.1. Alleen voor ervaren gebruikers.</description>
                 <description xml:lang="pt_BR">Repositório de todos os pacotes fonte no openSUSE Leap 42.1. Somente para usuários avançados.</description>
                 <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE Leap 42.1. Только для экспертов.</description>
+                <description xml:lang="sk">Repozitár všetkých zdrojových balíkov v openSUSE Leap 42.1. Iba pre expertov.</description>
                 <description xml:lang="sv">Förrådet med alla källkodspaket i openSUSE Leap 42.1. För experter.</description>
                 <description xml:lang="uk">Сховище для всіх джерельних пакунків в openSUSE  Leap 42.1. Тільки для експертів.</description>
                 <description xml:lang="zh_CN">openSUSE Leap 42.1 全部源代码包的软件源。仅供专家使用。</description>
@@ -234,6 +253,7 @@
                 <name xml:lang="zh_CN">主调试源</name>
                 <name xml:lang="zh_TW">主要套件庫 (偵錯)</name>
                 <summary>Main repository of openSUSE Leap 42.1 including the debuginfo packages</summary>
+                <summary xml:lang="ar">المستودع الرئيسي للأوبن سوزي Leap 42.1 بما في ذلك حزم معلومات العلل</summary>
                 <summary xml:lang="ca">Repositori principal de l'openSUSE Leap 42.1 que inclou paquets d'informació de depuració</summary>
                 <summary xml:lang="cs">Hlavní repozitář openSUSE Leap 42.1 obsahující balíčky debuginfo</summary>
                 <summary xml:lang="da">Hovedsoftwarekilde for openSUSE Leap 42.1 som inkluderer debuginfo-pakker</summary>
@@ -245,11 +265,13 @@
                 <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Leap 42.1, met debuginfo-pakketten</summary>
                 <summary xml:lang="pt_BR">Repositório principal do openSUSE Leap 42.1 contendo os pacotes debuginfo</summary>
                 <summary xml:lang="ru">Основной репозиторий openSUSE Leap 42.1, включающий пакеты debuginfo</summary>
+                <summary xml:lang="sk">Hlavný repozitár pre openSUSE Leap 42.1, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
                 <summary xml:lang="sv">Huvudförrådet för openSUSE Leap 42.1, innehåller debuginfo-paketen</summary>
                 <summary xml:lang="uk">Головне сховище openSUSE  Leap 42.1, яке містить пакунки debuginfo</summary>
                 <summary xml:lang="zh_CN">openSUSE Leap 42.1 主软件源包含调试信息包</summary>
                 <summary xml:lang="zh_TW">openSUSE Leap 42.1 的主要套件庫，包含偵錯套件</summary>
                 <description>This repository is useful for those that want to debug applications on openSUSE Leap 42.1. For experts only.</description>
+                <description xml:lang="ar">هذا المخزون هو مفيد لأولئك الذين يرغبون في تصحيح التطبيقات على أوبن سوزي Leap 42.1. للخبراء فقط.</description>
                 <description xml:lang="ca">Aquest repositori és útil per a qui vulgui depurar aplicacions a l'openSUSE Leap 42.1. Només per a experts.</description>
                 <description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE Leap 42.1. Určeno pouze pro experty.</description>
                 <description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE Leap 42.1. Kun for eksperter.</description>
@@ -261,6 +283,7 @@
                 <description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE Leap 42.1 willen opsporen. Alleen voor ervaren gebruikers.</description>
                 <description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE Leap 42.1. Somente para usuários avançados.</description>
                 <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE Leap 42.1. Только для экспертов.</description>
+                <description xml:lang="sk">Tento repozitár je užitočný pre tých, ktorí chcú ladiť programy na openSUSE Leap 42.1. Len pre expertov.</description>
                 <description xml:lang="sv">Detta förråd är användbart för dem som vill avlusa program i openSUSE Leap 42.1. Enbart för experter.</description>
                 <description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE Leap 42.1. Тільки для знавців.</description>
                 <description xml:lang="zh_CN">本软件源只对那些想要在 openSUSE Leap 42.1 中调试程序的人有用。仅供专家使用。</description>
@@ -303,6 +326,7 @@
                 <name xml:lang="zh_CN">主更新源</name>
                 <name xml:lang="zh_TW">主要更新套件庫</name>
                 <summary>Repository for official updates to openSUSE Leap 42.1</summary>
+                <summary xml:lang="ar">مستودع للحصول على التحديثات الرسمية لأوبن سوزي Leap 42.1</summary>
                 <summary xml:lang="ca">Repositori per a actualitzacions oficials de l'openSUSE Leap 42.1</summary>
                 <summary xml:lang="cs">Repozitář s oficiálními aktualizacemi openSUSE Leap 42.1</summary>
                 <summary xml:lang="da">Softwarekilde til officielle opdateringer til openSUSE Leap 42.1</summary>
@@ -314,11 +338,13 @@
                 <summary xml:lang="nl">Installatiebron met officiële elementen voor het bijwerken naar Leap 42.1</summary>
                 <summary xml:lang="pt_BR">Repositório para atualizações oficiais do openSUSE Leap 42.1</summary>
                 <summary xml:lang="ru">Репозиторий официальных обновлений для openSUSE Leap 42.1</summary>
+                <summary xml:lang="sk">Repozitár s oficiálnymi aktualizáciami pre openSUSE Leap 42.1</summary>
                 <summary xml:lang="sv">Förråd för officiella uppdateringar av openSUSE Leap 42.1</summary>
                 <summary xml:lang="uk">Сховище для офіційних оновлень у openSUSE Leap 42.1</summary>
                 <summary xml:lang="zh_CN">openSUSE Leap 42.1 官方更新源</summary>
                 <summary xml:lang="zh_TW">openSUSE Leap 42.1 的官方更新套件庫</summary>
                 <description>In this repository you find security and maintenance updates to openSUSE Leap 42.1.</description>
+                <description xml:lang="ar">في هذه مستودع تجد تحديثات الأمان والصيانة لأوبن سوزي Leap 42.1.</description>
                 <description xml:lang="ca">En aquest repositori trobareu actualitzacions de seguretat i de manteniment per a l'openSUSE Leap 42.1.</description>
                 <description xml:lang="cs">V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE Leap 42.1.</description>
                 <description xml:lang="da">På denne softwarekilde finder du sikkerheds- og vedligeholdelsesopdateringer til openSUSE Leap 42.1.</description>
@@ -330,10 +356,11 @@
                 <description xml:lang="nl">In deze installatiebron vindt u zaken voor het bijwerken t.b.v. veiligheid en onderhoud voor openSUSE Leap 42.1.</description>
                 <description xml:lang="pt_BR">Neste repositório você encontra atualizações de segurança e manutenção para o openSUSE Leap 42.1.</description>
                 <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE Leap 42.1.</description>
+                <description xml:lang="sk">V tomto repozitári nájdete bezpečnostné a opravné aktualizácie pre openSUSE Leap 42.1.</description>
                 <description xml:lang="sv">I det här förrådet hittar du säkerhets- och underhållsuppdateringar för openSUSE Leap 42.1.</description>
-                <description xml:lang="uk">У цьому сховищі знаходяться латки безпеки і оновлення для  openSUSE Leap 42.1</description>
+                <description xml:lang="uk">У цьому сховищі знаходяться латки безпеки і оновлення для  openSUSE Leap 42.1.</description>
                 <description xml:lang="zh_CN">在此软件源中您可找到 openSUSE Leap 42.1 的安全和维护更新。</description>
-                <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE Leap 42.1 的安全性與維護性更新</description>
+                <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE Leap 42.1 的安全性與維護性更新。</description>
                 <url>http://download.opensuse.org/update/leap/42.1/oss</url>
             </repository>
             <repository recommended="true" format="rpm-md">
@@ -363,6 +390,7 @@
                 <name xml:lang="zh_CN">主更新源 (非开源软件)</name>
                 <name xml:lang="zh_TW">更新套件庫 (非開放原始碼)</name>
                 <summary>Repository for official non free updates to openSUSE Leap 42.1</summary>
+                <summary xml:lang="ar">مستودع للتحديثات المجانية غير الرسمية لأوبن سوزي Leap 42.1</summary>
                 <summary xml:lang="ca">Repositori per a actualitzacions oficials no lliures de l'openSUSE Leap 42.1</summary>
                 <summary xml:lang="cs">Repozitář s oficiálními aktualizacemi nesvobodného softwaru pro openSUSE Leap 42.1</summary>
                 <summary xml:lang="da">Softwarekilde til officielle opdateringer som ikke er frie/open source openSUSE Leap 42.1</summary>
@@ -374,11 +402,13 @@
                 <summary xml:lang="nl">Installatiebron met officiële niet-vrije elementen voor het bijwerken naar openSUSE Leap 42.1</summary>
                 <summary xml:lang="pt_BR">Repositório para atualizações oficiais não livres do openSUSE Leap 42.1</summary>
                 <summary xml:lang="ru">Репозиторий официальных несвободных обновлений для openSUSE Leap 42.1</summary>
+                <summary xml:lang="sk">Repozitár pre oficiálne neslobodné aktualizácie pre openSUSE Leap  42.1</summary>
                 <summary xml:lang="sv">Förråd för officiella icke-fria uppdateringar av openSUSE Leap 42.1</summary>
                 <summary xml:lang="uk">Сховище для офіційних оновлень невільних програм у openSUSE Leap 42.1</summary>
                 <summary xml:lang="zh_CN">openSUSE Leap 42.1 官方非开源软件更新源</summary>
                 <summary xml:lang="zh_TW">openSUSE Leap 42.1 的官方非開放原始碼更新套件庫</summary>
                 <description>In this repository you find security and maintenance updates to openSUSE Leap 42.1.</description>
+                <description xml:lang="ar">في هذه مستودع تجد تحديثات الأمان والصيانة لأوبن سوزي Leap 42.1.</description>
                 <description xml:lang="ca">En aquest repositori trobareu actualitzacions de seguretat i de manteniment per a l'openSUSE Leap 42.1.</description>
                 <description xml:lang="cs">V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE Leap 42.1.</description>
                 <description xml:lang="da">På denne softwarekilde finder du sikkerheds- og vedligeholdelsesopdateringer til openSUSE Leap 42.1.</description>
@@ -390,10 +420,11 @@
                 <description xml:lang="nl">In deze installatiebron vindt u zaken voor het bijwerken t.b.v. veiligheid en onderhoud voor openSUSE Leap 42.1.</description>
                 <description xml:lang="pt_BR">Neste repositório você encontra atualizações de segurança e manutenção para o openSUSE Leap 42.1.</description>
                 <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE Leap 42.1.</description>
+                <description xml:lang="sk">V tomto repozitári nájdete bezpečnostné a opravné aktualizácie pre openSUSE Leap 42.1.</description>
                 <description xml:lang="sv">I det här förrådet hittar du säkerhets- och underhållsuppdateringar för openSUSE Leap 42.1.</description>
-                <description xml:lang="uk">У цьому сховищі знаходяться латки безпеки і оновлення для  openSUSE Leap 42.1</description>
+                <description xml:lang="uk">У цьому сховищі знаходяться латки безпеки і оновлення для  openSUSE Leap 42.1.</description>
                 <description xml:lang="zh_CN">在此软件源中您可找到 openSUSE Leap 42.1 的安全和维护更新。</description>
-                <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE Leap 42.1 的安全性與維護性更新</description>
+                <description xml:lang="zh_TW">在這個套件庫您可以找到 openSUSE Leap 42.1 的安全性與維護性更新。</description>
                 <url>http://download.opensuse.org/update/leap/42.1/non-oss/</url>
             </repository>
             <repository recommended="false" format="yast">
@@ -429,6 +460,7 @@
                 <name xml:lang="zh_CN">主更新源 (调试)</name>
                 <name xml:lang="zh_TW">更新套件庫 (偵錯)</name>
                 <summary>Update repository of openSUSE Leap 42.1 debuginfo packages</summary>
+                <summary xml:lang="ar">تحديث مستودع أوبن سوزي Leap حزم 42.1 معلومات العلل</summary>
                 <summary xml:lang="ca">Repositori d'actualització de l'openSUSE Leap 42.1 de paquets d'informació de depuració</summary>
                 <summary xml:lang="cs">Repozitář s aktualizacemi openSUSE Leap 42.1 obsahující balíčky debuginfo</summary>
                 <summary xml:lang="da">Opdateringskilde til openSUSE Leap 42.1 med debuginfo-pakker</summary>
@@ -440,11 +472,13 @@
                 <summary xml:lang="nl">Installatiebron voor bijwerken van openSUSE Leap 42.1 met debuginfo-pakketten</summary>
                 <summary xml:lang="pt_BR">Repositório de atualizações dos pacotes debuginfo do openSUSE Leap 42.1</summary>
                 <summary xml:lang="ru">Репозиторий обновлений openSUSE Leap 42.1, включающий пакеты debuginfo</summary>
+                <summary xml:lang="sk">Repozitár s aktualizáciami pre openSUSE Leap 42.1, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
                 <summary xml:lang="sv">Huvudförrådet för openSUSE Leap 42.1, innehåller debuginfo-paketen</summary>
                 <summary xml:lang="uk">Сховище оновлень openSUSE Leap 42.1 для пакунків debuginfo</summary>
                 <summary xml:lang="zh_CN">openSUSE Leap 42.1 调试信息包更新源</summary>
                 <summary xml:lang="zh_TW">openSUSE Leap 42.1 的偵錯更新套件庫</summary>
                 <description>This repository is useful for those that want to debug applications on openSUSE Leap 42.1. For experts only.</description>
+                <description xml:lang="ar">هذا المخزون هو مفيد لأولئك الذين يرغبون في تصحيح التطبيقات على أوبن سوزي Leap 42.1. للخبراء فقط.</description>
                 <description xml:lang="ca">Aquest repositori és útil per a qui vulgui depurar aplicacions a l'openSUSE Leap 42.1. Només per a experts.</description>
                 <description xml:lang="cs">Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro openSUSE Leap 42.1. Určeno pouze pro experty.</description>
                 <description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE Leap 42.1. Kun for eksperter.</description>
@@ -456,6 +490,7 @@
                 <description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE Leap 42.1 willen opsporen. Alleen voor ervaren gebruikers.</description>
                 <description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE Leap 42.1. Somente para usuários avançados.</description>
                 <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE Leap 42.1. Только для экспертов.</description>
+                <description xml:lang="sk">Tento repozitár je užitočný pre tých, ktorí chcú ladiť programy na openSUSE Leap 42.1. Len pre expertov.</description>
                 <description xml:lang="sv">Detta förråd är användbart för dem som vill avlusa program i openSUSE Leap 42.1. Enbart för experter.</description>
                 <description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE Leap 42.1. Тільки для знавців.</description>
                 <description xml:lang="zh_CN">本软件源只对那些想要在 openSUSE Leap 42.1 中调试程序的人有用。仅供专家使用。</description>
@@ -464,32 +499,48 @@
             </repository>
             <repository recommended="false" format="rpm-md">
                 <name>Untested Updates</name>
+                <name xml:lang="ar">تحديثات غير مجربة</name>
                 <name xml:lang="ca">Actualitzacions no provades</name>
+                <name xml:lang="cs">Netestované aktualizace</name>
+                <name xml:lang="fr">Mises à jour non testées</name>
                 <name xml:lang="ja">テスト中の更新のリポジトリ</name>
                 <name xml:lang="nl">Niet getest elementen voor bijwerken</name>
                 <name xml:lang="pt_BR">Atualizações não testadas</name>
                 <name xml:lang="ru">Непротестированные обновления</name>
+                <name xml:lang="sk">Netestované aktualizácie</name>
                 <name xml:lang="sv">Icke testade uppdateringar</name>
                 <name xml:lang="uk">Неперевірені оновлення</name>
                 <name xml:lang="zh_CN">未测试的更新</name>
+                <name xml:lang="zh_TW">未測試的更新</name>
                 <summary>Repository of not yet tested updates</summary>
+                <summary xml:lang="ar">مستودع للتحديثات التي لم تختبر حتى الآن</summary>
                 <summary xml:lang="ca">Repositori d'actualitzacions encara no provades</summary>
+                <summary xml:lang="cs">Repozitář s netestovanými aktualizacemi</summary>
+                <summary xml:lang="es">Repositorio de actualizaciones aún no comprobadas</summary>
+                <summary xml:lang="fr">Dépôt des mises à jour encore non testées</summary>
                 <summary xml:lang="ja">まだテストが完了していない更新のリポジトリ</summary>
                 <summary xml:lang="nl">Installatiebron met nog niet geteste elementen voor bijwerken</summary>
                 <summary xml:lang="pt_BR">Repositório de atualizações ainda não testadas</summary>
                 <summary xml:lang="ru">Репозиторий ещё не протестированных обновлений</summary>
+                <summary xml:lang="sk">Repozitár doteraz testovaných aktualizácií</summary>
                 <summary xml:lang="sv">Förråd för icke testade uppdateringar</summary>
                 <summary xml:lang="uk">Сховище для неперевірених оновлень</summary>
                 <summary xml:lang="zh_CN">尚未测试的更新的软件源</summary>
+                <summary xml:lang="zh_TW">尚未測試的更新套件庫</summary>
                 <description>Repository contains security and maintenance updates that still need testing by quality assurance. Add this repository only if you want to participate in testing openSUSE updates.</description>
+                <description xml:lang="ar">مستودع تحديثات الأمان والصيانة التي لا تزال بحاجة لاختبار لضمان الجودة. لا تضف هذا المستودع إلا إذا كنت ترغب في المشاركة في اختبار تحديثات أوبن سوزي.</description>
                 <description xml:lang="ca">Repositori que conté les actualitzacions de seguretat i manteniment que encara necessiten proves de control de qualitat. Afegiu aquest repositori si voleu participar en les proves de les actualitzacions de l'openSUSE.</description>
+                <description xml:lang="cs">Repozitář obsahuje bezpečnostní a údržbářské aktualizace, které stále potřebují testování a kontrolu kvality. Přidejte tento repozitář pouze chcete-li pomoci s testováním aktualizací openSUSE.</description>
+                <description xml:lang="fr">Dépôt contenant les mises à jour de sécurité et de maintenance qui doivent encore être testées. Ajoutez ce dépôt uniquement si vous souhaitez participer aux tests des mises à jour d'openSUSE.</description>
                 <description xml:lang="ja">現時点で品質保証チームがテスト中の状態にある、セキュリティおよびメンテナンス更新のパッケージを含むリポジトリ。 openSUSE のテストに参加したい方のみ、このリポジトリをご利用ください。</description>
                 <description xml:lang="nl">Installatiebron met elementen voor bijwerken van beveiliging en onderhoud die nog getest moeten worden door de kwaliteitsborging. Voeg deze installatiebron alleen toe als u wilt deelnemen in het testen van het bijwerken van openSUSE.</description>
                 <description xml:lang="pt_BR">O repositório contém atualizações de segurança e manutenção que ainda necessitam testes de garantia de qualidade. Adicione este repositório apenas se quiser participar de testes das atualizações do openSUSE.</description>
                 <description xml:lang="ru">Репозиторий содержит обновления сопровождения и безопасности, ещё не проверенные службой контроля качества. Добавляйте этот репозиторий только если хотите принять участие в тестировании обновлений openSUSE.</description>
+                <description xml:lang="sk">Repozitár obsahuje bezpečnostné a opravné aktualizácie, ktoré stále potrebujú testovanie kvôli zabezpečeniu kvality. Pridajte si tento repozitár, len ak sa chcete podieľať na testovaní aktualizácií openSUSE.</description>
                 <description xml:lang="sv">Förråd innehållande säkerhets- och underhållsuppdateringar vars kvalitet fortfarande behöver testas. Lägg endast till detta förråd om du deltar i utprovningen av nya openSUSE-uppdateringar.</description>
                 <description xml:lang="uk">Сховище містить оновлення безпеки та обслуговування, які ще потрібно тестуватищодо забезпечення якості. Додайте його лише, якщо ви хочете взяти участь ву тестуванні оновлень OpenSUSE.</description>
                 <description xml:lang="zh_CN">涵盖仍需要经品质保证小组测试的安全性和维护更新的软件源。只有您想要参与测试 openSUSE 更新时才可以添加此软件源。</description>
+                <description xml:lang="zh_TW">包含了仍須進行品質測試的安全及維護更新。除非您要參與測試 openSUSE 更新才需要加入此套件庫。</description>
                 <url>http://download.opensuse.org/update/leap/42.1-test/</url>
             </repository>
         </repositories>
