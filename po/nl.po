@@ -11,15 +11,16 @@ msgstr ""
 "Project-Id-Version: community-repositories.nl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2015-11-26 22:23+0100\n"
+"PO-Revision-Date: 2016-07-29 16:45+0000\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <opensuse-nl@opensuse.org>\n"
+"Language-Team: Dutch "
+"<https://l10n.opensuse.org/projects/download-o-o/master/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms: nplurals=2; plural= n != 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -797,16 +798,14 @@ msgstr ""
 "bijwerken van openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
-"Hoofd-installatiebron van openSUSE Leap 42.1, met alleen opensource-software"
+"Hoofd-installatiebron van openSUSE Leap 42.2, met alleen opensource-software"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
 #| "giving you access to thousands of packages maintained by the openSUSE "
@@ -815,18 +814,16 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
-"De grote opensource-software (OSS) installatiebron van openSUSE Leap 42.1 "
+"De grote opensource-software (OSS) installatiebron van openSUSE Leap 42.2 "
 "geeft u toegang tot duizenden pakketten die door de openSUSE gemeenschap "
 "worden onderhouden."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
-msgstr "Aanvullende, niet-opensource installatiebron voor openSUSE Leap 42.1"
+msgstr "Aanvullende, niet-opensource installatiebron voor openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE community, including Opera, Steam, "
@@ -836,18 +833,16 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"De officiële installatiebron voor openSUSE Leap 42.1 voor alle niet-"
+"De officiële installatiebron voor openSUSE Leap 42.2 voor alle niet-"
 "opensource-software die door de openSUSE gemeenschap wordt onderhouden; "
 "zoals Opera, Flash, etc."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr "Hoofd-installatiebron van openSUSE Leap 42.1 (broncodepakketten)"
+msgstr "Hoofd-installatiebron van openSUSE Leap 42.2 (broncodepakketten)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE Leap 42.1. For experts "
 #| "only."
@@ -855,18 +850,16 @@ msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
-"De installatiebron van alle broncodepakketten voor openSUSE Leap 42.1. "
+"De installatiebron van alle broncodepakketten voor openSUSE Leap 42.2. "
 "Alleen voor ervaren gebruikers."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
-msgstr "Hoofd-installatiebron van openSUSE Leap 42.1, met debuginfo-pakketten"
+msgstr "Hoofd-installatiebron van openSUSE Leap 42.2, met debuginfo-pakketten"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE Leap 42.1. For experts only."
@@ -875,17 +868,15 @@ msgid ""
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
 "Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE "
-"Leap 42.1 willen opsporen. Alleen voor ervaren gebruikers."
+"Leap 42.2 willen opsporen. Alleen voor ervaren gebruikers."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to openSUSE Leap 42.1"
 msgid "Repository for official updates to openSUSE Leap 42.2"
 msgstr ""
-"Installatiebron met officiële elementen voor het bijwerken naar Leap 42.1"
+"Installatiebron met officiële elementen voor het bijwerken naar Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "Leap 42.1."
@@ -894,22 +885,20 @@ msgid ""
 "Leap 42.2."
 msgstr ""
 "In deze installatiebron vindt u zaken voor het bijwerken t.b.v. veiligheid "
-"en onderhoud voor openSUSE Leap 42.1."
+"en onderhoud voor openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
 msgstr ""
 "Installatiebron met officiële niet-vrije elementen voor het bijwerken naar "
-"openSUSE Leap 42.1"
+"openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
-"Installatiebron voor bijwerken van openSUSE Leap 42.1 met debuginfo-pakketten"
+"Installatiebron voor bijwerken van openSUSE Leap 42.2 met debuginfo-pakketten"
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSE BuildService - Banshee"
