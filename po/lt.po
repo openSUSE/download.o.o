@@ -10,16 +10,17 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2015-10-23 09:49+0200\n"
+"PO-Revision-Date: 2016-08-13 06:39+0000\n"
 "Last-Translator: Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>\n"
-"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"Language-Team: Lithuanian "
+"<https://l10n.opensuse.org/projects/download-o-o/master/lt/>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10==1 && n%100!=11 ? 1 : n"
-"%10>=2 && (n%100<10 || n%100>=20) ? 2 : 3);\n"
-"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"(n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -695,7 +696,6 @@ msgstr ""
 "įrangą"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
 #| "giving you access to thousands of packages maintained by the openSUSE "
@@ -707,17 +707,13 @@ msgid ""
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
 "Didelė atviro kodo programinės įrangos openSUSE Leap 42.1 saugykla, "
-"leidžianti parsisiųsti tūkstančius openSUSE komandos prižiūrimų paketų. (Dėl "
-"saugyklos didumo, jos pridėjimas gali užtrukti. Jei norite šią saugyklą "
-"pasiekti diegimo metu, patariame turėti bent 512 MB RAM arba įgalintą mainų "
-"(SWAP) skaidinį.)"
+"leidžianti parsisiųsti tūkstančius openSUSE bendruomenės prižiūrimų paketų."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr "openSUSE Leap 42.1 uždaro kodo programinės įrangos papildoma saugykla"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE team, including Opera, Steam, Flash, "
@@ -728,7 +724,7 @@ msgid ""
 "more."
 msgstr ""
 "Oficiali openSUSE Leap 42.1 saugykla visai uždaro kodo programinei įrangai, "
-"kurią palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt."
+"kurią palaiko openSUSE bendruomenė. Įtraukta Opera, Java, Flash ir kt."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
@@ -777,14 +773,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 msgid "Untested Updates"
-msgstr ""
+msgstr "Neišbandyti atnaujinimai"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
-#, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository of not yet tested updates"
-msgstr "Oficiali 12.3 uždaro kodo atnaujinimų saugykla"
+msgstr "Dar neišbandytų atnaujinimų saugykla"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
@@ -793,19 +788,20 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"Saugykloje talpinami saugumo ir palaikymo atnaujinimai, tačiau juos dar "
+"reikia patikrinti. Šią saugyklą prisidėkite, tik jei norite testuoti "
+"openSUSE atnaujinimus."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
-"openSUSE Leap 42.1 pagrindinė saugykla, turinti tik atviro kodo programinę "
+"openSUSE Leap 42.2 pagrindinė saugykla, turinti tik atviro kodo programinę "
 "įrangą"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
 #| "giving you access to thousands of packages maintained by the openSUSE "
@@ -816,20 +812,15 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
-"Didelė atviro kodo programinės įrangos openSUSE Leap 42.1 saugykla, "
-"leidžianti parsisiųsti tūkstančius openSUSE komandos prižiūrimų paketų. (Dėl "
-"saugyklos didumo, jos pridėjimas gali užtrukti. Jei norite šią saugyklą "
-"pasiekti diegimo metu, patariame turėti bent 512 MB RAM arba įgalintą mainų "
-"(SWAP) skaidinį.)"
+"Didelė atviro kodo programinės įrangos openSUSE Leap 42.2 saugykla, "
+"leidžianti parsisiųsti tūkstančius openSUSE bendruomenės prižiūrimų paketų."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
-msgstr "openSUSE Leap 42.1 uždaro kodo programinės įrangos papildoma saugykla"
+msgstr "openSUSE Leap 42.2 uždaro kodo programinės įrangos papildoma saugykla"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE team, including Opera, Steam, Flash, "
@@ -839,35 +830,31 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"Oficiali openSUSE Leap 42.1 saugykla visai uždaro kodo programinei įrangai, "
-"kurią palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt."
+"Oficiali openSUSE Leap 42.2 saugykla visai uždaro kodo programinei įrangai, "
+"kurią palaiko openSUSE bendruomenė. Įtraukta Opera, Java, Flash ir kt."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr "openSUSE Leap 42.1 pagrindinė saugykla (šaltinių paketai)"
+msgstr "openSUSE Leap 42.2 pagrindinė saugykla (šaltinių paketai)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE Leap 42.1. For experts "
 #| "only."
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
-msgstr "Visų openSUSE Leap 42.1 šaltinių paketų saugykla. Tik ekspertams."
+msgstr "Visų openSUSE Leap 42.2 šaltinių paketų saugykla. Tik ekspertams."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
 msgstr ""
-"openSUSE Leap 42.1 pagrindinė saugykla, turinti derinimo informacijos paketus"
+"openSUSE Leap 42.2 pagrindinė saugykla, turinti derinimo informacijos paketus"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE Leap 42.1. For experts only."
@@ -876,16 +863,14 @@ msgid ""
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
 "Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE Leap "
-"42.1. Tik ekspertams."
+"42.2. Tik ekspertams."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to openSUSE Leap 42.1"
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr "Oficiali openSUSE Leap 42.1 atnaujinimų saugykla"
+msgstr "Oficiali openSUSE Leap 42.2 atnaujinimų saugykla"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "Leap 42.1."
@@ -893,20 +878,18 @@ msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
 msgstr ""
-"Šioje saugykloje rasite openSUSE Leap 42.1 saugumo ir palaikymo atnaujinimus."
+"Šioje saugykloje rasite openSUSE Leap 42.2 saugumo ir palaikymo atnaujinimus."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
-msgstr "Oficiali openSUSE Leap 42.1 uždaro kodo atnaujinimų saugykla"
+msgstr "Oficiali openSUSE Leap 42.2 uždaro kodo atnaujinimų saugykla"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
-"openSUSE Leap 42.1 atnaujinimų saugykla, turinti derinimo informacijos "
+"openSUSE Leap 42.2 atnaujinimų saugykla, turinti derinimo informacijos "
 "paketus"
 
 #~ msgid "openSUSE BuildService - Banshee"
