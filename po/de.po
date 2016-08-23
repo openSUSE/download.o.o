@@ -13,15 +13,16 @@ msgstr ""
 "Project-Id-Version: community-repositories.de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2015-02-21 11:35+0100\n"
-"Last-Translator: Sarah Kriesch <ada.lovelace@gmx.de>\n"
-"Language-Team: German <kde-i18n-de@kde.org>\n"
+"PO-Revision-Date: 2016-08-23 12:12+0000\n"
+"Last-Translator: Vader Berger <alexander.altersberger@gmail.com>\n"
+"Language-Team: German "
+"<https://l10n.opensuse.org/projects/download-o-o/master/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -628,9 +629,12 @@ msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr "Aktualisierungs-Repository von openSUSE 13.2 debuginfo-Pakete"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
+#, fuzzy
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr ""
+"Hauptverzeichnis von openSUSE Tumbleweed einschließlich nur Open-Source "
+"Software"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
 msgid ""
@@ -649,27 +653,34 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr ""
+msgstr "Nicht-Open-Source- Software Addon Repository für openSUSE Tumbleweed"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
+#, fuzzy
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
+"Das offizielle openSUSE Tumbleweed -Repository für alle Nicht-Open-Source "
+"Software, die vom openSUSE-Team gepflegt wird , darunter Opera , Flash und "
+"vieles mehr."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr ""
+msgstr "Hauptverzeichnis von openSUSE Tumbleweed ( Quellpakete )"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
+#, fuzzy
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
+"Das Repository aller Source-Pakete in openSUSE Tumbleweed . Nur für Experten."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
 msgstr ""
+"Hauptverzeichnis von openSUSE Tumbleweed einschließlich der debuginfo Pakete"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
 msgid ""
@@ -679,7 +690,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
-msgstr ""
+msgstr "Offizielles Update-Repository für Tumbleweed"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
 msgid ""
