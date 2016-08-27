@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2016-04-20 14:38+0000\n"
-"Last-Translator: Victor hck <correohck@gmail.com>\n"
-"Language-Team: Spanish <http://l10n.opensuse.org/projects/download-o-o/"
-"master/es/>\n"
+"PO-Revision-Date: 2016-08-27 17:51+0000\n"
+"Last-Translator: Gustavo Sobrales <newredboy@gmail.com>\n"
+"Language-Team: Spanish "
+"<https://l10n.opensuse.org/projects/download-o-o/master/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.5\n"
+"X-Generator: Weblate 2.6\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -563,58 +563,74 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"El gran repositorio de Software de código abierto (OSS) de OpenSUSE 13.2 le "
+"brinda acceso a miles de paquetes mantenidos por el equipo de openSUSE. ("
+"Debido al tamaño del repositorio, agregarlo lleva algo de tiempo, 512 MB de "
+"memoria RAM o habilitar una partición SWAP es altamente recomendable en caso "
+"que desee acceder a este repositorio en el momento de la instalación)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
-msgstr ""
+msgstr "Repositorio complementario de código propietario para openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
+"El repositorio oficial de openSUSE 13.2 para todo el Software de código "
+"propietario mantenido por el equipo de openSUSE, incluidos Opera, Java, "
+"Flash y otros."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:8
 msgid "Main repository of openSUSE 13.2 (Source packages)"
-msgstr ""
+msgstr "Repositorio principal de openSUSE 13.2 (código fuente)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr ""
+"El repositorio de todo el código fuente en openSUSE 13.2. Solo para expertos."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
 msgstr ""
+"Repositorio principal de openSUSE 13.2 incluyendo los paquetes de depuración"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.2. For experts only."
 msgstr ""
+"Este repositorio es útil para aquellos que quieren depurar aplicaciones en "
+"openSUSE 13.2. Solo para expertos."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
-msgstr ""
+msgstr "Repositorio oficial de actualizaciones a 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.2."
 msgstr ""
+"En este repositorio puede encontrar actualizaciones de seguridad y "
+"mantenimiento para openSUSE 13.2."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
-msgstr ""
+msgstr "Repositorio oficial de actualizaciones no libres a 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
-msgstr ""
+msgstr "Repositorio de actualización de paquetes de depuración de openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr ""
+"Repositorio principal de openSUSE Tumbleweed incluyendo solo Software de "
+"Código Abierto"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
 msgid ""
@@ -624,61 +640,84 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"El gran repositorio de Software de Código Abierto (OSS) de OpenSUSE le "
+"brinda acceso a miles de paquetes mantenidos por el equipo de openSUSE. ("
+"Debido al tamaño del repositorio, agregarlo lleva algo de tiempo, 512 MB de "
+"memoria RAM o habilitar una partición SWAP es altamente recomendable en caso "
+"que desee acceder a este repositorio en el momento de la instalación)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr ""
+"Repositorio complementario de código propietario para openSUSE Tumbleweed"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
+"El repositorio oficial de openSUSE Tumbleweed para todo el Software de "
+"código propietario mantenido por el equipo de openSUSE, incluyendo Opera, "
+"Flash, y más."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr ""
+msgstr "Repositorio principal de openSUSE Tumbleweed (código fuente)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
+"El repositorio de todo el código fuente en openSUSE Tumbleweed. Solo para "
+"expertos."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
 msgstr ""
+"Repositorio principal de openSUSE Tumbleweed incluyendo los paquetes de "
+"depuración"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
+"Este repositorio es útil para aquellos que quieren depurar aplicaciones en "
+"openSUSE Tumbleweed. Solo para expertos."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
-msgstr ""
+msgstr "Repositorio oficial de actualizaciones para Tumbleweed"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
 msgstr ""
+"Este repositorio provee actualizaciones urgentes hasta que sean integradas "
+"en los repositorios principales."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr ""
+"Repositorio principal de openSUSE Leap 42.1 incluyendo solo Software de "
+"Código Abierto"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"El gran repositorio de Software de Código Abierto (OSS) de OpenSUSE Leap "
+"42.1, le brinda acceso a miles de paquetes mantenidos por la comunidad de "
+"openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr ""
+"Repositorio complementario de código propietario para openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 msgid ""
@@ -692,46 +731,56 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr ""
+msgstr "Repositorio principal de openSUSE Leap 42.1 (código fuente)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
+"El repositorio de todo el código fuente en openSUSE Leap 42.1. Solo para "
+"expertos."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgstr ""
+"Repositorio principal de openSUSE Leap 42.1 incluyendo paquetes de depuración"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
+"Este repositorio es útil para aquellos que quieren depurar aplicaciones en "
+"openSUSE Leap 42.1. Solo para expertos."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "Repositorio oficial de actualizaciones para openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
 msgstr ""
+"En este repositorio puedes encontrar actualizaciones de seguridad y "
+"mantenimiento para openSUSE Leap 42.1."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr ""
+"Repositorio oficial de actualizaciones no libres para openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr ""
+"Repositorio de actualizaciones para paquetes de depuración de openSUSE Leap "
+"42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 msgid "Untested Updates"
-msgstr ""
+msgstr "Actualizaciones sin probar"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
@@ -745,32 +794,35 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"Repositorio que contiene actualizaciones de seguridad y mantenimiento que "
+"aun necesitan pruebas para asegurar su calidad. Agregue este repositorio "
+"solo si quiere participar en las pruebas de las actualizaciones de openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
-"Repositorio principal de openSUSE 12.2 que incluye sólo software de código "
-"abierto"
+"Repositorio principal de openSUSE Leap 42.2 que incluye sólo software de "
+"código abierto"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"El gran repositorio de Software de Código Abierto (OSS) de OpenSUSE Leap "
+"42.2, le brinda acceso a miles de paquetes mantenidos por la comunidad de "
+"openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
 msgstr ""
 "Repositorio complementario de software de código no abierto para openSUSE "
-"12.2"
+"Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE community, including Opera, Steam, "
@@ -780,36 +832,33 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"El repositorio oficial de Leap 42.1 para todo el software de código fuente "
+"El repositorio oficial de Leap 42.2 para todo el software de código fuente "
 "no abierto mantenido por la comunidad de openSUSE y que incluye Opera, "
 "Steam, Flash y más."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 (Source packages)"
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr "Repositorio principal de openSUSE 12.2 (Paquetes de fuentes)"
+msgstr "Repositorio principal de openSUSE Leap 42.2 (Paquetes de fuentes)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE 12.2. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
-"Repositorio de todos los paquetes de fuentes en openSUSE 12.2. Sólo para "
-"expertos."
+"Repositorio de todos los paquetes de fuentes en openSUSE Leap 42.2. Sólo "
+"para expertos."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
 msgstr ""
-"Repositorio principal de openSUSE 12.2 que incluye los paquetes debuginfo"
+"Repositorio principal de openSUSE Leap 42.2 que incluye los paquetes "
+"debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE 12.2. For experts only."
@@ -818,16 +867,14 @@ msgid ""
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
 "Este repositorio es útil para aquéllos que quieran depurar aplicaciones en "
-"openSUSE 12.2. Sólo para expertos."
+"openSUSE Leap 42.2. Sólo para expertos."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to 12.2"
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr "Repositorio de las actualizaciones oficiales para 12.2"
+msgstr "Repositorio de las actualizaciones oficiales para openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "12.2."
@@ -836,21 +883,21 @@ msgid ""
 "Leap 42.2."
 msgstr ""
 "En este repositorio se encuentran actualizaciones de seguridad y "
-"mantenimiento para openSUSE 12.2."
+"mantenimiento para openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to 13.1"
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
 msgstr ""
-"Repositorio oficial para actualizaciones de paquetes no libres para 13.1"
+"Repositorio oficial para actualizaciones de paquetes no libres para openSUSE "
+"Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE 12.2 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
-"Repositorio de actualizaciones de openSUSE 12.2 para paquetes de depuración"
+"Repositorio de actualizaciones de openSUSE Leap 42.2 para paquetes de "
+"depuración"
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSE BuildService - Banshee"
