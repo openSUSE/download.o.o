@@ -7,15 +7,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2015-10-06 21:29+0200\n"
-"Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
-"Language-Team: Danish <opensuse-translation@opensuse.org>\n"
+"PO-Revision-Date: 2016-08-27 10:32+0000\n"
+"Last-Translator: Claus Christensen <claus_chr@webspeed.dk>\n"
+"Language-Team: Danish "
+"<https://l10n.opensuse.org/projects/download-o-o/master/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -691,7 +692,6 @@ msgstr ""
 "software"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
 #| "giving you access to thousands of packages maintained by the openSUSE "
@@ -703,10 +703,7 @@ msgid ""
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
 "Den store open source softwarekilde (OSS) til openSUSE Leap 42.1, som giver "
-"dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På "
-"grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. "
-"512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have "
-"adgang til denne softwarekilde under installation.)"
+"dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-fællesskabet."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
@@ -714,7 +711,6 @@ msgstr ""
 "Tillægssoftware kilde med ikke-open source software til openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE team, including Opera, Steam, Flash, "
@@ -725,8 +721,8 @@ msgid ""
 "more."
 msgstr ""
 "Den officielle openSUSE Leap 42.1 softwarekilde for al ikke-open source "
-"software vedligeholdt af openSUSE-holdet, som inkluderer Opera, Steam, Flash "
-"m.m."
+"software vedligeholdt af openSUSE-fællesskabet, som inkluderer Opera, Steam, "
+"Flash m.m."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
@@ -778,14 +774,13 @@ msgstr "Opdateringskilde til openSUSE Leap 42.1 med debuginfo-pakker"
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 msgid "Untested Updates"
-msgstr ""
+msgstr "Utestede opdateringer"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
-#, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository of not yet tested updates"
-msgstr "Softwarekilde til officielle ufrie opdateringer til 12.3"
+msgstr "Softwarekilde til endnu ikke testede opdateringer"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
@@ -794,19 +789,20 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"Softwarekilden indeholder sikkerheds- og vedligeholdelsesopdateringer, som "
+"endnu mangler at blive testet af kvalitetssikringen. Tilføj kun denne kilde, "
+"hvis du vil deltage i testningen af openSUSE-opdateringer."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
-"Hovedsoftwarekilden for openSUSE Leap 42.1, som kun inkluderer open source "
+"Hovedsoftwarekilden for openSUSE Leap 42.2, som kun inkluderer open source "
 "software"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
 #| "giving you access to thousands of packages maintained by the openSUSE "
@@ -817,21 +813,16 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
-"Den store open source softwarekilde (OSS) til openSUSE Leap 42.1, som giver "
-"dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På "
-"grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. "
-"512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have "
-"adgang til denne softwarekilde under installation.)"
+"Den store open source softwarekilde (OSS) til openSUSE Leap 42.2, som giver "
+"dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-fællesskabet."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
 msgstr ""
-"Tillægssoftware kilde med ikke-open source software til openSUSE Leap 42.1"
+"Tillægssoftware kilde med ikke-open source software til openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE team, including Opera, Steam, Flash, "
@@ -841,18 +832,16 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"Den officielle openSUSE Leap 42.1 softwarekilde for al ikke-open source "
-"software vedligeholdt af openSUSE-holdet, som inkluderer Opera, Steam, Flash "
-"m.m."
+"Den officielle openSUSE Leap 42.2 softwarekilde for al ikke-open source "
+"software vedligeholdt af openSUSE-fællesskabet, som inkluderer Opera, Steam, "
+"Flash m.m."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr "Hovedsoftwarekilden for openSUSE Leap 42.1 (kildekode-pakker)"
+msgstr "Hovedsoftwarekilden for openSUSE Leap 42.2 (kildekode-pakker)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE Leap 42.1. For experts "
 #| "only."
@@ -860,19 +849,17 @@ msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
-"Softwarekilden for alle kildekode-pakker i openSUSE Leap 42.1. Kun for "
+"Softwarekilden for alle kildekode-pakker i openSUSE Leap 42.2. Kun for "
 "eksperter."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
 msgstr ""
-"Hovedsoftwarekilde for openSUSE Leap 42.1 som inkluderer debuginfo-pakker"
+"Hovedsoftwarekilde for openSUSE Leap 42.2 som inkluderer debuginfo-pakker"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE Leap 42.1. For experts only."
@@ -881,16 +868,14 @@ msgid ""
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
 "Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på "
-"openSUSE Leap 42.1. Kun for eksperter."
+"openSUSE Leap 42.2. Kun for eksperter."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to openSUSE Leap 42.1"
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr "Softwarekilde til officielle opdateringer til openSUSE Leap 42.1"
+msgstr "Softwarekilde til officielle opdateringer til openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "Leap 42.1."
@@ -899,21 +884,19 @@ msgid ""
 "Leap 42.2."
 msgstr ""
 "På denne softwarekilde finder du sikkerheds- og vedligeholdelsesopdateringer "
-"til openSUSE Leap 42.1."
+"til openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
 msgstr ""
 "Softwarekilde til officielle opdateringer som ikke er frie/open source "
-"openSUSE Leap 42.1"
+"openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
-msgstr "Opdateringskilde til openSUSE Leap 42.1 med debuginfo-pakker"
+msgstr "Opdateringskilde til openSUSE Leap 42.2 med debuginfo-pakker"
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSE BuildService - Banshee"
