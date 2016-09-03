@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2016-09-04 01:07+0700\n"
+"PO-Revision-Date: 2016-09-04 01:26+0700\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian "
 "<https://l10n.opensuse.org/projects/download-o-o/master/id/>\n"
@@ -113,7 +113,7 @@ msgid ""
 "to run some Windows applications in openSUSE. This repository provides the "
 "latest CVS (development) snapshot packages of Wine."
 msgstr ""
-"Wine adalah sebuah implementasi Open Source dari Windows API yang "
+"Wine adalah sebuah implementasi Sumber Terbuka dari Windows API yang "
 "memungkinkan anda untuk menjalankan beberapa aplikasi Windows di openSUSE. "
 "Repositori ini menyediakan paket-paket snapshot CVS (pengembangan) terbaru "
 "dari Wine."
@@ -140,8 +140,8 @@ msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
 msgstr ""
-"Berisi berbagai game aksi termasuk Open Arena (tembak-tembakan), Flight Gear "
-"(simulator penerbangan) dan Torcs (simulasi balapan 3D)."
+"Berisi berbagai permainan aksi termasuk Open Arena (tembak-tembakan), Flight "
+"Gear (simulator penerbangan) dan Torcs (simulasi balapan 3D)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
@@ -415,9 +415,9 @@ msgid ""
 msgstr ""
 "Repositori Perangkat Lunak Sumber Terbuka (OSS) besar untuk openSUSE 13.1, "
 "memberikan Anda akses ke ribuan paket yang dikelola oleh tim openSUSE. ("
-"Karena ukuran dari repositori, menambahkan mungkin diperlukan beberapa "
-"waktu. 512 MB RAM atau partisi SWAP yang tersedia sangat dianjurkan jika "
-"Anda ingin mengakses repositori ini pada saat instalasi.)"
+"Karena ukuran dari repositori, menambahkannya mungkin memerlukan waktu "
+"beberapa saat. 512 MB RAM atau partisi SWAP yang diaktifkan sangat "
+"dianjurkan jika Anda ingin mengakses repositori ini pada saat instalasi.)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
@@ -447,17 +447,17 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 msgid "Main Repository (Sources)"
-msgstr "Repositori Utama (Sources)"
+msgstr "Repositori Utama (Sumber)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:8
 msgid "Main repository of openSUSE 13.1 (Source packages)"
-msgstr "Repositori utama openSUSE 13.1 (Paket-paket Source)"
+msgstr "Repositori utama openSUSE 13.1 (Paket-paket Sumber)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.1. For experts only."
 msgstr ""
-"Repositori dari semua paket source di openSUSE 13.1. Untuk pengguna ahli "
+"Repositori dari semua paket sumber di openSUSE 13.1. Untuk pengguna ahli "
 "saja."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
@@ -477,8 +477,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
 msgstr ""
-"Repositori ini berguna bagi mereka yang ingin melakukan debug aplikasi pada "
-"openSUSE 13.1. Untuk pengguna ahli saja."
+"Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap "
+"aplikasi pada openSUSE 13.1. Untuk pengguna ahli saja."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -509,7 +509,7 @@ msgstr "Repositori Update (Non-Oss)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
-msgstr "Repositori pembaruan resmi selain perangkat lunak bebas untuk 13.1"
+msgstr "Repositori pembaruan resmi perangkat lunak tidak bebas untuk 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
@@ -556,9 +556,9 @@ msgid ""
 msgstr ""
 "Repositori Perangkat Lunak Sumber Terbuka (OSS) besar untuk openSUSE 13.2, "
 "memberikan Anda akses ke ribuan paket yang dikelola oleh tim openSUSE. ("
-"Karena ukuran dari repositori, menambahkan mungkin diperlukan beberapa "
-"waktu. 512 MB RAM atau partisi SWAP yang tersedia sangat dianjurkan jika "
-"Anda ingin mengakses repositori ini pada saat instalasi.)"
+"Karena ukuran dari repositori, menambahkannya mungkin memerlukan waktu "
+"beberapa saat. 512 MB RAM atau partisi SWAP yang diaktifkan sangat "
+"dianjurkan jika Anda ingin mengakses repositori ini pada saat instalasi.)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
@@ -576,13 +576,13 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:8
 msgid "Main repository of openSUSE 13.2 (Source packages)"
-msgstr "Repositori utama openSUSE 13.2 (Paket-paket Source)"
+msgstr "Repositori utama openSUSE 13.2 (Paket-paket Sumber)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr ""
-"Repositori dari semua paket source di openSUSE 13.2. Untuk pengguna ahli "
+"Repositori dari semua paket sumber di openSUSE 13.2. Untuk pengguna ahli "
 "saja."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
@@ -594,8 +594,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.2. For experts only."
 msgstr ""
-"Repositori ini berguna bagi mereka yang ingin melakukan debug aplikasi pada "
-"openSUSE 13.2. Untuk pengguna ahli saja."
+"Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap "
+"aplikasi pada openSUSE 13.2. Untuk pengguna ahli saja."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
@@ -611,8 +611,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
-msgstr ""
-"Repositori pembaruan resmi untuk selain perangkat lunak bebas untuk 13.2"
+msgstr "Repositori pembaruan resmi perangkat lunak tidak bebas untuk 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
@@ -635,9 +634,9 @@ msgid ""
 msgstr ""
 "Repositori Perangkat Lunak Sumber Terbuka (OSS) besar untuk openSUSE, "
 "memberikan Anda akses ke ribuan paket yang dikelola oleh tim openSUSE. ("
-"Karena ukuran dari repositori, menambahkan mungkin diperlukan beberapa "
-"waktu. 512 MB RAM atau partisi SWAP yang tersedia sangat dianjurkan jika "
-"Anda ingin mengakses repositori ini pada saat instalasi.)"
+"Karena ukuran dari repositori, menambahkannya mungkin memerlukan waktu "
+"beberapa saat. 512 MB RAM atau partisi SWAP yang diaktifkan sangat "
+"dianjurkan jika Anda ingin mengakses repositori ini pada saat instalasi.)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
@@ -656,14 +655,14 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr "Repositori utama openSUSE Tumbleweed (Paket-paket Source)"
+msgstr "Repositori utama openSUSE Tumbleweed (Paket-paket Sumber)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
-"Repositori dari semua paket source di openSUSE Tumbleweed. Untuk pengguna "
+"Repositori dari semua paket sumber di openSUSE Tumbleweed. Untuk pengguna "
 "ahli saja."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
@@ -675,8 +674,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
-"Repositori ini berguna bagi mereka yang ingin melakukan debug aplikasi pada "
-"openSUSE Tumbleweed. Untuk pengguna ahli saja."
+"Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap "
+"aplikasi pada openSUSE Tumbleweed. Untuk pengguna ahli saja."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
@@ -724,14 +723,14 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr "Repositori utama openSUSE Leap 42.1 (Paket-paket Source)"
+msgstr "Repositori utama openSUSE Leap 42.1 (Paket-paket Sumber)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
-"Repositori dari semua paket source di openSUSE Leap 42.1. Untuk pengguna "
+"Repositori dari semua paket sumber di openSUSE Leap 42.1. Untuk pengguna "
 "ahli saja."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
@@ -743,8 +742,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
-"Repositori ini berguna bagi mereka yang ingin melakukan debug aplikasi pada "
-"openSUSE Leap 42.1. Untuk pengguna ahli saja."
+"Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap "
+"aplikasi pada openSUSE Leap 42.1. Untuk pengguna ahli saja."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
@@ -761,7 +760,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr ""
-"Repositori pembaruan resmi selain perangkat lunak bebas untuk openSUSE Leap "
+"Repositori pembaruan resmi perangkat lunak tidak bebas untuk openSUSE Leap "
 "42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
@@ -823,14 +822,14 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr "Repositori utama openSUSE Leap 42.2 (Paket-paket Source)"
+msgstr "Repositori utama openSUSE Leap 42.2 (Paket-paket Sumber)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
-"Repositori dari semua paket source di openSUSE Leap 42.2. Untuk pengguna "
+"Repositori dari semua paket sumber di openSUSE Leap 42.2. Untuk pengguna "
 "ahli saja."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
@@ -842,8 +841,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
-"Repositori ini berguna bagi mereka yang ingin melakukan debug aplikasi pada "
-"openSUSE Leap 42.2. Untuk pengguna ahli saja."
+"Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap "
+"aplikasi pada openSUSE Leap 42.2. Untuk pengguna ahli saja."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
@@ -860,7 +859,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
 msgstr ""
-"Repositori pembaruan resmi selain perangkat lunak bebas untuk openSUSE Leap "
+"Repositori pembaruan resmi perangkat lunak tidak bebas untuk openSUSE Leap "
 "42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
