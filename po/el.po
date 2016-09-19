@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: community-repositories.el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2016-09-19 12:25+0000\n"
+"PO-Revision-Date: 2016-09-19 20:16+0000\n"
 "Last-Translator: Nick Mantas <nmantas.archery@gmail.com>\n"
 "Language-Team: Greek "
 "<https://l10n.opensuse.org/projects/download-o-o/master/el/>\n"
@@ -83,7 +83,7 @@ msgstr "openSUSE BuildService - Mozilla"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:8
 msgid "Most recent builds of Mozilla Software like Firefox"
-msgstr "Οι πιο πρόσφατες εκδόσεις του Λογισμικού Mozilla όπως ο Firefox"
+msgstr "Οι πιο πρόσφατες εκδόσεις του Λογισμικού Mozilla όπως το Firefox"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:9
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:9
@@ -674,8 +674,8 @@ msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
-"Το αποθετήριο για όλα τα πηγαιά πακέτα στο openSUSE Tumbleweed. Για "
-"έμπειρους χρήστες μόνο."
+"Το αποθετήριο για όλα τα πηγαιά πακέτα στο openSUSE Tumbleweed. Μόνο για "
+"προχωρημένους."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
@@ -689,7 +689,7 @@ msgid ""
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
 "Αυτό το αποθετήριο είναι χρήσιμο για όσους θέλουν να αποσφαλματώσουν "
-"εφαρμογές στο openSUSE Tumbleweed. Για έμπειρους χρήστες μόνο."
+"εφαρμογές στο openSUSE Tumbleweed. Μόνο για προχωρημένους."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
@@ -707,16 +707,22 @@ msgstr ""
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr ""
+"Κύριο αποθετήριο του openSUSE Leap 42.1 περιλαμβάνει μόνο Λογισμικό Ανοιχτού "
+"Κώδικα"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"Το μεγάλο αποθετήριο Λογισμικού Ανοιχτού Κώδικα για το openSUSE Leap 42.1, "
+"σας δίνει πρόσβαση σε χιλιάδες πακέτα που συντηρούνται από την κοινότητα του "
+"openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr ""
+"Πρόσθετο αποθετήριο Μη Ανοιχτού Κώδικα Λογισμικού για το openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 msgid ""
@@ -724,54 +730,66 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"Το επίσημο αποθετήριο του openSUSE Leap 42.1 για όλα τα Λογισμικά Μη "
+"Ανοιχτού Κώδικα που συντηρούνται από την κοινότητα του openSUSE, "
+"περιλαμβάνει Opera, Steam, Flash και άλλα πολλά."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr ""
+msgstr "Κύριο αποθετήριο του openSUSE Leap 42.1 (Πηγαία πακέτα)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
+"Το αποθετήριο με όλα τα πηγαία πακέτα στο openSUSE Leap 42.1. Μόνο για "
+"προχωρημένους."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgstr ""
+"Κύριο αποθετήριο του openSUSE Leap 42.1 περιλαμβανομένων των πακέτων "
+"debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
+"Αυτό το αποθετήριο είναι χρήσιμο για όσους θέλουν να αποσφαλματώσουν "
+"εφαρμογές στο openSUSE Leap 42.1. Μόνο για προχωρημένους."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "Αποθετήριο για επίσημες ενημερώσεις για το openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
 msgstr ""
+"Σε αυτό το αποθετήριο θα βρείτε ενημερώσεις ασφαλείας και συντήρησης για το "
+"openSUSE Leap 42.1."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr ""
+"Αποθετήριο των επισήμων μη ελεύθερων ενημερώσεων για το openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
-msgstr ""
+msgstr "Αποθετήριο ενημέρωσης για τα πακέτα debuginfo του openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 msgid "Untested Updates"
-msgstr ""
+msgstr "Μη δοκιμασμένες Ενημερώσεις"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 msgid "Repository of not yet tested updates"
-msgstr ""
+msgstr "Αποθετήριο μη δοκιμασμένων ενημερώσεων"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
@@ -780,14 +798,16 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"Αποθετήριο περιέχει ενημερώσεις ασφαλείας και συντήρησης που χρειάζονται "
+"ακόμα δοικμές από τη διασφάλιση ποιότητας.Προσθέστε αυτό το αποθετήριο μόνο "
+"αν θέλετε να συμμετέχετε στις ενημερώσεις του openSUSE υπό δοκιμή."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
-"Κύριο αποθετήριο της openSUSE 12.2 που συμπεριλαμβάνει μόνο Λογισμικό "
+"Κύριο αποθετήριο του openSUSE  Leap 42.2 που συμπεριλαμβάνει μόνο Λογισμικό "
 "Ανοικτού Κώδικα"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
@@ -795,16 +815,16 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"Το μεγάλο αποθετήριο Λογισμικού Ανοιχτού Κώδικα για το openSUSE Leap 42.2, "
+"σας δίνει πρόσβαση σε χιλιάδες πακέτα που συντηρούνται από την κοινότητα του "
+"openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
-msgstr ""
-"Αποθετήριο Προσθέτων Λογισμικού Μη-Ανοιχτού Κώδικα για το openSUSE 12.2"
+msgstr "Πρόσθετο Αποθετήριο Λογισμικού Μη-Ανοιχτού Κώδικα για το openSUSE 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE 12.2 repository for all Non-Open Source Software "
 #| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -813,36 +833,31 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"Το επίσημο αποθετήριο του openSUSE 12.2 για όλο το Λογισμικό Μη-Ανοιχτού "
-"Κώδικα που συντηρείται από την ομάδα openSUSE, συμπεριλαμβανομένων των "
-"Opera, Java, Flash, και άλλων."
+"Το επίσημο αποθετήριο του openSUSE 42.2 για όλο το Λογισμικό Μη-Ανοιχτού "
+"Κώδικα που συντηρείται από την κοινότητα του openSUSE, συμπεριλαμβανομένων "
+"των Opera, Java, Flash, και άλλων."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 (Source packages)"
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr "Κύριο αποθετήριο της openSUSE 12.2 (Πηγαία πακέτα)"
+msgstr "Κύριο αποθετήριο του openSUSE 42.2 (Πηγαία πακέτα)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE 12.2. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
-"Το αποθετήριο όλων των πηγαίων πακέτων στην openSUSE 12.2. Μόνο για "
+"Το αποθετήριο όλων των πηγαίων πακέτων στο openSUSE 42.2. Μόνο για "
 "προχωρημένους."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
-msgstr ""
-"Κύριο αποθετήριο της openSUSE 12.2 που συμπεριλαμβάνει πακέτα debuginfo"
+msgstr "Κύριο αποθετήριο του openSUSE 42.2 που συμπεριλαμβάνει πακέτα debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE 12.2. For experts only."
@@ -851,16 +866,14 @@ msgid ""
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
 "Αυτό το αποθετήριο είναι χρήσιμο για αυτούς που θέλουν να αποσφαλματώσουν "
-"εφαρμογές στην openSUSE 12.2. Μόνο για προχωρημένους."
+"εφαρμογές στο openSUSE 42.2. Μόνο για προχωρημένους."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to 12.2"
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr "Αποθετήριο για επίσημες ενημερώσεις για το 12.2"
+msgstr "Αποθετήριο των επίσημων ενημερώσεων για το openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "12.2."
@@ -869,19 +882,18 @@ msgid ""
 "Leap 42.2."
 msgstr ""
 "Σε αυτό το αποθετήριο θα βρείτε ενημερώσεις ασφαλείας και συντήρησης του "
-"openSUSE 12.2."
+"openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to 13.2"
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
-msgstr "Αποθετήριο για επίσημες μη ελεύθερες ενημερώσεις για την 13.2"
+msgstr ""
+"Αποθετήριο για επίσημες μη ελεύθερες ενημερώσεις για το openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE 12.2 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
-msgstr "Αποθετήριο ενημέρωσης της openSUSE 12.2 για πακέτα debuginfo"
+msgstr "Αποθετήριο ενημέρωσης του openSUSE Leap 42.2 για πακέτα debuginfo"
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSE BuildService - Banshee"
