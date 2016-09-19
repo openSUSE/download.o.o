@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: community-repositories.el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2016-08-21 15:53+0000\n"
-"Last-Translator: Efstathios Iosifidis <eiosifidis@gmail.com>\n"
+"PO-Revision-Date: 2016-09-19 12:25+0000\n"
+"Last-Translator: Nick Mantas <nmantas.archery@gmail.com>\n"
 "Language-Team: Greek "
 "<https://l10n.opensuse.org/projects/download-o-o/master/el/>\n"
 "Language: el\n"
@@ -653,42 +653,55 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr ""
+"Προστηθέμενο αποθετήριο Μη Ανοιχτού Κώδικα Λογισμικού για το openSUSE "
+"Tumbleweed"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
+"Το επίσημο αποθετήριο του openSUSE Tumbleweed για όλα τα Λογισμικά Μη "
+"Ανοιχτού Κώδικα που συντηρείται από την ομάδα του openSUSE, περιέχει Opera, "
+"Flash και άλλα πολλά."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr ""
+msgstr "Κύριο Αποθετήριο του openSUSE Tumbleweed (Πηγαία Πακέτα)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
+"Το αποθετήριο για όλα τα πηγαιά πακέτα στο openSUSE Tumbleweed. Για "
+"έμπειρους χρήστες μόνο."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
 msgstr ""
+"Κύριο αποθετριο του openSUSE Tumbleweed συμπεριλαμβανομένων και των πακέτων "
+"debuginfo"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
+"Αυτό το αποθετήριο είναι χρήσιμο για όσους θέλουν να αποσφαλματώσουν "
+"εφαρμογές στο openSUSE Tumbleweed. Για έμπειρους χρήστες μόνο."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
-msgstr ""
+msgstr "Επίσημο αποθετήριο ενημερώσεων για Tumbleweed"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
 msgstr ""
+"Αυτό το αποθετήριο παρέχει επείγοντες ενημερώσεις μέχρι να ενταχθούν στα "
+"κυρίως αποθετήρια."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
