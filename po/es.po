@@ -6,11 +6,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 17:00+0200\n"
+"POT-Creation-Date: 2016-09-23 17:04+0200\n"
 "PO-Revision-Date: 2016-08-27 17:51+0000\n"
 "Last-Translator: Gustavo Sobrales <newredboy@gmail.com>\n"
-"Language-Team: Spanish "
-"<https://l10n.opensuse.org/projects/download-o-o/master/es/>\n"
+"Language-Team: Spanish <https://l10n.opensuse.org/projects/download-o-o/"
+"master/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -564,8 +564,8 @@ msgid ""
 "this repository at installation time.)"
 msgstr ""
 "El gran repositorio de Software de código abierto (OSS) de OpenSUSE 13.2 le "
-"brinda acceso a miles de paquetes mantenidos por el equipo de openSUSE. ("
-"Debido al tamaño del repositorio, agregarlo lleva algo de tiempo, 512 MB de "
+"brinda acceso a miles de paquetes mantenidos por el equipo de openSUSE. "
+"(Debido al tamaño del repositorio, agregarlo lleva algo de tiempo, 512 MB de "
 "memoria RAM o habilitar una partición SWAP es altamente recomendable en caso "
 "que desee acceder a este repositorio en el momento de la instalación)"
 
@@ -623,7 +623,8 @@ msgstr "Repositorio oficial de actualizaciones no libres a 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
-msgstr "Repositorio de actualización de paquetes de depuración de openSUSE 13.2"
+msgstr ""
+"Repositorio de actualización de paquetes de depuración de openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
 msgid ""
@@ -641,8 +642,8 @@ msgid ""
 "this repository at installation time.)"
 msgstr ""
 "El gran repositorio de Software de Código Abierto (OSS) de OpenSUSE le "
-"brinda acceso a miles de paquetes mantenidos por el equipo de openSUSE. ("
-"Debido al tamaño del repositorio, agregarlo lleva algo de tiempo, 512 MB de "
+"brinda acceso a miles de paquetes mantenidos por el equipo de openSUSE. "
+"(Debido al tamaño del repositorio, agregarlo lleva algo de tiempo, 512 MB de "
 "memoria RAM o habilitar una partición SWAP es altamente recomendable en caso "
 "que desee acceder a este repositorio en el momento de la instalación)"
 
@@ -799,7 +800,6 @@ msgstr ""
 "solo si quiere participar en las pruebas de las actualizaciones de openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
-#| msgid "Main repository of openSUSE 12.2 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
@@ -816,17 +816,12 @@ msgstr ""
 "openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
-#| msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
 msgstr ""
 "Repositorio complementario de software de código no abierto para openSUSE "
 "Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
-#| msgid ""
-#| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
-#| "Software maintained by the openSUSE community, including Opera, Steam, "
-#| "Flash, and more."
 msgid ""
 "The official openSUSE Leap 42.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
@@ -837,13 +832,10 @@ msgstr ""
 "Steam, Flash y más."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
-#| msgid "Main repository of openSUSE 12.2 (Source packages)"
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
 msgstr "Repositorio principal de openSUSE Leap 42.2 (Paquetes de fuentes)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
-#| msgid ""
-#| "The repository of all source packages in openSUSE 12.2. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
@@ -852,16 +844,12 @@ msgstr ""
 "para expertos."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
-#| msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
 msgstr ""
 "Repositorio principal de openSUSE Leap 42.2 que incluye los paquetes "
 "debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE 12.2. For experts only."
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
@@ -870,14 +858,10 @@ msgstr ""
 "openSUSE Leap 42.2. Sólo para expertos."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
-#| msgid "Repository for official updates to 12.2"
 msgid "Repository for official updates to openSUSE Leap 42.2"
 msgstr "Repositorio de las actualizaciones oficiales para openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "12.2."
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
@@ -886,14 +870,12 @@ msgstr ""
 "mantenimiento para openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
-#| msgid "Repository for official non free updates to 13.1"
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
 msgstr ""
 "Repositorio oficial para actualizaciones de paquetes no libres para openSUSE "
 "Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
-#| msgid "Update repository of openSUSE 12.2 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
 "Repositorio de actualizaciones de openSUSE Leap 42.2 para paquetes de "

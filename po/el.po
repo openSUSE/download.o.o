@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.el\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 17:00+0200\n"
+"POT-Creation-Date: 2016-09-23 17:04+0200\n"
 "PO-Revision-Date: 2016-09-19 20:20+0000\n"
 "Last-Translator: Nick Mantas <nmantas.archery@gmail.com>\n"
-"Language-Team: Greek "
-"<https://l10n.opensuse.org/projects/download-o-o/master/el/>\n"
+"Language-Team: Greek <https://l10n.opensuse.org/projects/download-o-o/master/"
+"el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -803,7 +803,6 @@ msgstr ""
 "αν θέλετε να συμμετέχετε στις ενημερώσεις του openSUSE υπό δοκιμή."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
-#| msgid "Main repository of openSUSE 12.2 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
@@ -820,14 +819,10 @@ msgstr ""
 "openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
-#| msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
 msgstr "Πρόσθετο Αποθετήριο Λογισμικού Μη-Ανοιχτού Κώδικα για το openSUSE 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
-#| msgid ""
-#| "The official openSUSE 12.2 repository for all Non-Open Source Software "
-#| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgid ""
 "The official openSUSE Leap 42.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
@@ -838,13 +833,10 @@ msgstr ""
 "των Opera, Java, Flash, και άλλων."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
-#| msgid "Main repository of openSUSE 12.2 (Source packages)"
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
 msgstr "Κύριο αποθετήριο του openSUSE 42.2 (Πηγαία πακέτα)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
-#| msgid ""
-#| "The repository of all source packages in openSUSE 12.2. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
@@ -853,14 +845,11 @@ msgstr ""
 "προχωρημένους."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
-#| msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
-msgstr "Κύριο αποθετήριο του openSUSE 42.2 που συμπεριλαμβάνει πακέτα debuginfo"
+msgstr ""
+"Κύριο αποθετήριο του openSUSE 42.2 που συμπεριλαμβάνει πακέτα debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE 12.2. For experts only."
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
@@ -869,14 +858,10 @@ msgstr ""
 "εφαρμογές στο openSUSE 42.2. Μόνο για προχωρημένους."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
-#| msgid "Repository for official updates to 12.2"
 msgid "Repository for official updates to openSUSE Leap 42.2"
 msgstr "Αποθετήριο των επίσημων ενημερώσεων για το openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "12.2."
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
@@ -885,13 +870,11 @@ msgstr ""
 "openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
-#| msgid "Repository for official non free updates to 13.2"
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
 msgstr ""
 "Αποθετήριο για επίσημες μη ελεύθερες ενημερώσεις για το openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
-#| msgid "Update repository of openSUSE 12.2 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr "Αποθετήριο ενημέρωσης του openSUSE Leap 42.2 για πακέτα debuginfo"
 

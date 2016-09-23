@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Slovak (download.o.o)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 17:00+0200\n"
+"POT-Creation-Date: 2016-09-23 17:04+0200\n"
 "PO-Revision-Date: 2016-08-24 15:05+0000\n"
 "Last-Translator: Tomáš Kačurik <tomas.kacurik@gmail.com>\n"
-"Language-Team: Slovak "
-"<https://l10n.opensuse.org/projects/download-o-o/master/sk/>\n"
+"Language-Team: Slovak <https://l10n.opensuse.org/projects/download-o-o/"
+"master/sk/>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -217,7 +217,8 @@ msgstr "Najnovšie aktualizácie pre databázové programy"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
-msgstr "Najnovšie aktualizácie databázových programov vrátane Firebird a MySQL."
+msgstr ""
+"Najnovšie aktualizácie databázových programov vrátane Firebird a MySQL."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:25
@@ -400,7 +401,8 @@ msgstr "Hlavný repozitár (OSS)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:2
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
-msgstr "Hlavný repozitár openSUSE 13.1, ktorý obsahuje iba Open Source Software"
+msgstr ""
+"Hlavný repozitár openSUSE 13.1, ktorý obsahuje iba Open Source Software"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:3
 msgid ""
@@ -540,7 +542,8 @@ msgstr "Poskytuje najnovšie Java balíčky (Factory backports)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:2
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
-msgstr "Hlavný repozitár openSUSE 13.2, ktorý obsahuje iba Open Source Software"
+msgstr ""
+"Hlavný repozitár openSUSE 13.2, ktorý obsahuje iba Open Source Software"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:3
 msgid ""
@@ -750,7 +753,8 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
-msgstr "Repozitár pre oficiálne neslobodné aktualizácie pre openSUSE Leap  42.1"
+msgstr ""
+"Repozitár pre oficiálne neslobodné aktualizácie pre openSUSE Leap  42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
@@ -780,18 +784,12 @@ msgstr ""
 "repozitár, len ak sa chcete podieľať na testovaní aktualizácií openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
-#| msgid ""
-#| "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
 "Hlavný repozitár openSUSE Leap 42.2, ktorý obsahuje iba Open Source Software"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
-#| msgid ""
-#| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
-#| "giving you access to thousands of packages maintained by the openSUSE "
-#| "community."
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
@@ -800,15 +798,10 @@ msgstr ""
 "dáva prístup k tisícom balíkom, ktoré sú udržované komunitou openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
 msgstr "Non-Open Source Software doplnkový repozitár pre openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
-#| msgid ""
-#| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
-#| "Software maintained by the openSUSE community, including Opera, Steam, "
-#| "Flash, and more."
 msgid ""
 "The official openSUSE Leap 42.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
@@ -818,14 +811,10 @@ msgstr ""
 "udržovaný komunitou openSUSE, ktorý obsahuje Opera, Steam, Flash a ďalšie."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
-#| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
 msgstr "Hlavný repozitár openSUSE Leap 42.2 (Zdrojové balíky)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
-#| msgid ""
-#| "The repository of all source packages in openSUSE Leap 42.1. For experts "
-#| "only."
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
@@ -833,17 +822,12 @@ msgstr ""
 "Repozitár všetkých zdrojových balíkov v openSUSE Leap 42.2. Iba pre expertov."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
-#| msgid ""
-#| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
 msgstr ""
 "Hlavný repozitár pre openSUSE Leap 42.2, ktorý obsahuje balíky s ladiacimi "
 "informáciami (debuginfo)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE Leap 42.1. For experts only."
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
@@ -852,14 +836,10 @@ msgstr ""
 "Leap 42.2. Len pre expertov."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
-#| msgid "Repository for official updates to openSUSE Leap 42.1"
 msgid "Repository for official updates to openSUSE Leap 42.2"
 msgstr "Repozitár s oficiálnymi aktualizáciami pre openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap 42.1."
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
@@ -868,12 +848,11 @@ msgstr ""
 "Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
-#| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
-msgstr "Repozitár pre oficiálne neslobodné aktualizácie pre openSUSE Leap  42.2"
+msgstr ""
+"Repozitár pre oficiálne neslobodné aktualizácie pre openSUSE Leap  42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
-#| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
 "Repozitár s aktualizáciami pre openSUSE Leap 42.2, ktorý obsahuje balíky s "
