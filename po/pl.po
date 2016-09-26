@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2016-09-20 19:11+0000\n"
+"PO-Revision-Date: 2016-09-26 20:40+0000\n"
 "Last-Translator: Mariusz Fik <fisiu@opensuse.org>\n"
 "Language-Team: Polish "
 "<https://l10n.opensuse.org/projects/download-o-o/master/pl/>\n"
@@ -551,7 +551,6 @@ msgstr ""
 "Source"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:3
-#, fuzzy
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -559,17 +558,17 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"Wielkie repozytorium oprogramowania Open Source (OSS) dla openSUSE 12.2, "
+"Wielkie repozytorium Oprogramowania Open Source (OSS) dla openSUSE 13.2, "
 "które zawiera tysiące pakietów utrzymywanych przez zespół openSUSE. (Z racji "
-"rozmiarów dodanie tego repozytorium może zająć trochę czasu. (Jeśli to "
+"rozmiarów dodanie tego repozytorium może zająć trochę czasu. Jeśli to "
 "repozytorium ma być użyte podczas instalacji, zalecane jest posiadanie 512MB "
 "pamięci RAM lub aktywnej partycji wymiany.)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
-#, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
 msgstr ""
-"Repozytorium z dodatkowym oprogramowaniem non-open source dla openSUSE 13.1 "
+"Repozytorium z dodatkowym oprogramowaniem z zamkniętym kodem źródłowym dla "
+"openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:6
 #, fuzzy
