@@ -1,20 +1,19 @@
 # Mohammad Rezaei Seresht <mohammad@rezaeiseresht.ir>, 2014.
-#
+# hayyan <joghdeshab@live.com>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2016-10-24 04:36+0000\n"
-"Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
-"Language-Team: Persian "
-"<https://l10n.opensuse.org/projects/download-o-o/master/fa/>\n"
+"PO-Revision-Date: 2016-10-25 11:34+0330\n"
+"Last-Translator: hayyan <joghdeshab@live.com>\n"
+"Language-Team: Persian <i18n@suse.de>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Lokalize 2.0\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -28,7 +27,7 @@ msgstr "سرویس ساخت openSUSE - LXDE"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:2
 msgid "Latest LXDE release"
-msgstr ""
+msgstr "آخرین نسخه ی LXDE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:3
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:3
@@ -39,20 +38,22 @@ msgid ""
 "the unsupported but latest version of the LX desktop environment and "
 "software."
 msgstr ""
+"مخازن LXDE در سرویس ساخت openSUSE که آخرین نسخه ی محیط میزکار LXDE و نرم "
+"افزارها، اما پشتیبانی نشده را در اختیار شما قرار میدهد"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:4
 msgid "openSUSE BuildService - LibreOffice"
-msgstr ""
+msgstr "سرویس ساخت openSUSE- لیبره آفیس"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:5
 msgid "Latest stable LibreOffice release"
-msgstr ""
+msgstr "آخرین نسخه ی پایدار لیبره آفیس"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:6
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:6
@@ -62,20 +63,21 @@ msgid ""
 "Provides you with the latest stable version of LibreOffice, the Office suite "
 "that openSUSE uses."
 msgstr ""
+"آخرین نسخه ی پایدار LibreOffice،  بسته ی Office ای که openSUSE استفاده میکند."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:7
 msgid "openSUSE BuildService - Mozilla"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - موزیلا"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:8
 msgid "Most recent builds of Mozilla Software like Firefox"
-msgstr ""
+msgstr "آخرین نسخه های ساخته شده ی نرم افزارهای Mozilla مانند فایرفاکس"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:9
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:9
@@ -85,20 +87,23 @@ msgid ""
 "Containing the latest releases of all Mozilla software, such as the popular "
 "Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
 msgstr ""
+"شامل آخرین نسخه های تمامی نرم افزارهای موزیلا، مانند نرم افزار محبوب "
+"Thunderbird ( سرویس گیرنده ی نامه ی الکترونیکی)، فایرفاکس و Seamonky ("
+"مرورگرهای وب) است."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:10
 msgid "openSUSE BuildService - Wine CVS Builds"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - نسخه های ساخته شده ی Wine CVS"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:11
 msgid "Snapshots of Wine CVS"
-msgstr ""
+msgstr "اسنپ شات های Wine CVS"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:12
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:12
@@ -109,20 +114,23 @@ msgid ""
 "to run some Windows applications in openSUSE. This repository provides the "
 "latest CVS (development) snapshot packages of Wine."
 msgstr ""
+"نرم افزار Wine یک پیاده سازی از Windows API است، در نتیجه به شما اجازه میدهد "
+"که برخی نرم افزارها را بر روی oepnSUSE نصب کنید. این مخزن آخرین اسنپ شات از "
+"نسخه ی CVS (تحت توسعه) ی بسته ی  openSUSE در اختیار شما قرار میدهد."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:13
 msgid "openSUSE BuildService - Games"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - بازی ها"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:14
 msgid "A collection of action games"
-msgstr ""
+msgstr "کلکسیونی از بازی های اکشن"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:15
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:15
@@ -132,32 +140,34 @@ msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
 msgstr ""
+"شامل چندین بازی اکشن از جمله Open Arena (سبک shooter)، بازی Flight Gear ("
+"شبیه ساز پرواز) و Torcs (شبیه سازی سه بعدی مسابقه)است."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - راه اندازه های وبکم"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
-msgstr ""
+msgstr "جدیدترین راه انداز ها برای وبکم ها"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
-msgstr ""
+msgstr "شامل جدیدترین راه انداز ها برای صدها مدل مختلف وبکم است."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:19
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:16
 msgid "openSUSE BuildService - Virtualization (VirtualBox)"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - مجازی سازی (Virtualbox)"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:20
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:17
 msgid "Latest builds of Virtualbox"
-msgstr ""
+msgstr "آخرین بسته های ساخته شده ی Virtualbox"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:21
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:18
@@ -167,57 +177,59 @@ msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
 msgstr ""
+"آخرین بسته های ساخته شده ی Virtualbox، شبیه ساز  متن باز با مصارف عمومی برای "
+"سخت افزار x86 است."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:19
 msgid "openSUSE BuildService - PHP"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - بسته های PHP"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:20
 msgid "Latest updates for PHP software"
-msgstr ""
+msgstr "آخرین به روزرسانی ها برای نرم افزار PHP"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:24
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:21
 msgid ""
 "Provides the latest packages and multiple-version builds of PHP software."
-msgstr ""
+msgstr "آخرین بسته ها و چند نسخه ی مختلف از نرم افزار PHP را مهیا میکند."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:25
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:19
 msgid "openSUSE BuildService - Database"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - پایگاه داده"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:26
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:20
 msgid "Latest updates for database software"
-msgstr ""
+msgstr "آخرین به روزرسانی ها برای نرم افزار پایگاه داده"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:27
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
-msgstr ""
+msgstr "آخرین به روزرسانی ها برای پایگاههای داده از جمله MySQL و FireBird."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:22
 msgid "openSUSE BuildService - KDE:Extra"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - مخزن KDE:Extra"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:23
 msgid "Community repository for KDE"
-msgstr ""
+msgstr "مخازن جامعه ی کاربری برای KDE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:27
@@ -226,20 +238,22 @@ msgstr ""
 msgid ""
 "Provides additional KDE software maintained by the openSUSE KDE community."
 msgstr ""
+"بسته های اضافی که توسط جامعه ی کاربری openSUSE KDE آماده شده است را در "
+"اختیار قرار میدهد."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:31
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:25
 msgid "openSUSE BuildService - GNOME:Apps"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - مخازن GNOME:Apps"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:32
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:26
 msgid "Backports of GNOME applications"
-msgstr ""
+msgstr " Backport های نرم افزارهای Gnome"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:33
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:30
@@ -249,98 +263,101 @@ msgid ""
 "Updates to the GNOME software that is shipped with the distribution "
 "(backports)."
 msgstr ""
+"نرم افزار Gnome ای که با توزیع مربوطه عرضه شده است را به روزرسانی میکند "
+"(backports)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:31
 msgid "openSUSE BuildService - Mono:Community"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - مخازن Mono:Community"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:32
 msgid "Community repository for Mono applications"
-msgstr ""
+msgstr "مخازن جامعه ی کاربری برای نرم افزارهای Mono"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
 msgstr ""
+"نرم افزارهایی که به زبان Mono نوشته شده اند را به اضافه و یا روزرسانی میکند."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:28
 msgid "openSUSE BuildService - devel:languages:perl"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - مخازن devel:languages:perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:29
 msgid "Community repository for Perl modules"
-msgstr ""
+msgstr "مخازن جامعه ی کاربری برای ماژول های زبان Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:39
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
-msgstr ""
+msgstr "ماژول های زبان Perl را اضافه و یا به روزرسانی میکند"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:31
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:31
 msgid "openSUSE BuildService - devel:languages:python"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - مخازن devel:languages:python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
 msgid "Community repository for Python modules"
-msgstr ""
+msgstr "مخازن جامعه ی کاربری برای ماژول های python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:39
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 msgid "Updates and Additions for Python modules"
-msgstr ""
+msgstr "ماژول های زبان python را اضافه و یا به روزرسانی میکند"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:34
 msgid "openSUSE BuildService - filesystems"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - فایل سیستم ها"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:35
 msgid "Filesystem tools and FUSE-related packages"
-msgstr ""
+msgstr "ابزارهای فایل سیستم و بسته های مرتبط با FUSE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:45
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:36
 msgid "Filesystem tools and FUSE-related packages."
-msgstr ""
+msgstr "ابزارهای فایل سیستم و بسته های مرتبط با FUSE."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:46
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:37
 msgid "openSUSE BuildService - Education"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - آموزش"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:47
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:38
 msgid "Applications for education users"
-msgstr ""
+msgstr "نرم افزارهایی برای کاربرد آموزشی"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:48
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:45
@@ -348,28 +365,28 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:39
 msgid ""
 "Contains several packages which might be interesting for educational use"
-msgstr ""
+msgstr "شامل چندین بسته که ممکن است برای مصارف آموزشی مناسب باشد، است."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:49
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:49
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:43
 msgid "openSUSE BuildService - KDE:KDE3"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - مخازن KDE:KDE3"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:50
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:50
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:44
 msgid "Maintained KDE 3 packages"
-msgstr ""
+msgstr "بسته های نگه داری شده ی KDE 3"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:51
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:51
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:45
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:45
 msgid "Provides old KDE for newer openSUSE"
-msgstr ""
+msgstr "نسخه ی قدیمی KDE را برای نسخه های جدیدتر openSUSE مهیا میکند"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
@@ -377,11 +394,11 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 msgid "Main Repository (OSS)"
-msgstr ""
+msgstr "مخازن اصلی (OSS)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:2
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
-msgstr ""
+msgstr "مخازن اصلی openSUSE 13.1 شامل فقط نرم افزارهای متن باز"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:3
 msgid ""
@@ -391,6 +408,11 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE 13.1، به شما دسترسی به "
+"هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد. ( به دلیل اندازه ی "
+"مخزن، اضافه کردن آن ممکن است کمی زمان ببرد.اگر میخواهید در زمان نصب از این "
+"مخازن استفاده کنید، میزان  حافظه ی 512 مگابایت رم و یا پارتیشن فعال SWAP به "
+"شدت توصیه میشود.)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
@@ -398,17 +420,19 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
-msgstr ""
+msgstr "مخازن اصلی (NON-OSS)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
-msgstr ""
+msgstr "مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.1 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
+"مخازن رسمی openSUSE 13.1 برای تمامی نرم افزار های غیر متن-باز که توسط تیم "
+"openSUSE نگه داری میشود، شامل مرورگر اوپرا، جاوا، فلش، و ... است."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
@@ -416,16 +440,18 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 msgid "Main Repository (Sources)"
-msgstr ""
+msgstr "مخازن اصلی (منابع)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:8
 msgid "Main repository of openSUSE 13.1 (Source packages)"
-msgstr ""
+msgstr "مخازن اصلی openSUSE 13.1 (بسته های source)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.1. For experts only."
 msgstr ""
+"مخازن شامل تمامی بسته های منبع  کد برای openSUSE 13.1. فقط برای افراد متخصص "
+"است."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
@@ -433,17 +459,19 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 msgid "Main Repository (DEBUG)"
-msgstr ""
+msgstr "مخازن اصلی (اشکال زدایی)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
-msgstr ""
+msgstr "مخازن اصلی openSUSE 13.1 که شامل بسته های debuginfo است."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
 msgstr ""
+"این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE 13.1 اشکال زدایی "
+"کنند مناسب است. فقط برای افراد متخصص است"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -451,61 +479,63 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 msgid "Main Update Repository"
-msgstr ""
+msgstr "مخازن اصلی به روز رسانی"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
-msgstr ""
+msgstr "مخازن رسمی به روزرسانی برای 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.1."
 msgstr ""
+"در این مخزن شما بسته های امنیتی و نگه داری به روزرسانی برای openSUSE 13.1 را "
+"پیدا خواهید کرد."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
-msgstr ""
+msgstr "مخازن به روزرسانی (NON-OSS)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
-msgstr ""
+msgstr "مخازن رسمی به روز رسانی برای نرم افزارهای غیر آزاد در 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
-msgstr ""
+msgstr "مخازن به روزرسانی (اشکال زدایی)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:19
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
-msgstr ""
+msgstr "مخازن به روزرسانی برای بسته های debuginfo در openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:46
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:40
 msgid "openSUSE BuildService - Java:packages"
-msgstr ""
+msgstr "سرویس ساخت openSUSE - مخازن Java:packages"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:47
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:41
 msgid "Bleeding-edge Java packages"
-msgstr ""
+msgstr "بسته های لبه ی تکنولوژی جاوا"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:48
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:42
 msgid "Provides uptodate Java packages (Factory backports)"
-msgstr ""
+msgstr "به روزترین بسته های جاوا را در اختیار قرار میدهد (Factory Backports)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:2
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
-msgstr ""
+msgstr "مخازن اصلی openSUSE 13.2 شامل فقط نرم افزارهای متن باز"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:3
 msgid ""
@@ -515,58 +545,71 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE 13.2، به شما دسترسی به "
+"هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد. ( به دلیل اندازه ی "
+"مخزن، اضافه کردن آن ممکن است کمی زمان ببرد.اگر میخواهید در زمان نصب از این "
+"مخازن استفاده کنید، میزان  حافظه ی 512 مگابایت رم و یا پارتیشن فعال SWAP به "
+"شدت توصیه میشود.)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
-msgstr ""
+msgstr "مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
+"مخازن رسمی openSUSE 13.2 برای تمامی نرم افزار های غیر متن-باز که توسط تیم "
+"openSUSE نگه داری میشود، شامل مرورگر اوپرا، جاوا، فلش، و ... است."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:8
 msgid "Main repository of openSUSE 13.2 (Source packages)"
-msgstr ""
+msgstr "مخازن اصلی openSUSE 13.2 (بسته های source)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr ""
+"مخازن شامل تمامی بسته های منبع  کد برای openSUSE 13.2. فقط برای افراد متخصص "
+"است."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
-msgstr ""
+msgstr "مخازن اصلی openSUSE 13.2 که شامل بسته های debuginfo است."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.2. For experts only."
 msgstr ""
+"این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE 13.2 اشکال زدایی "
+"کنند مناسب است. فقط برای افراد متخصص است"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
-msgstr ""
+msgstr "مخازن رسمی به روزرسانی برای 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.2."
 msgstr ""
+"در این مخزن شما بسته های امنیتی و نگه داری به روزرسانی برای openSUSE 13.2 را "
+"پیدا خواهید کرد."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
-msgstr ""
+msgstr "مخازن رسمی به روز رسانی برای نرم افزارهای غیر آزاد در 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
-msgstr ""
+msgstr "مخازن به روزرسانی برای بسته های debuginfo در openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
-msgstr ""
+msgstr "مخازن اصلی openSUSE Tumbleweed شامل فقط نرم افزارهای متن باز"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
 msgid ""
@@ -576,61 +619,76 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE ، به شما دسترسی به هزاران "
+"بسته که توسط تیم openSUSE نگه داری میشود را میدهد. ( به دلیل اندازه ی مخزن، "
+"اضافه کردن آن ممکن است کمی زمان ببرد.اگر میخواهید در زمان نصب از این مخازن "
+"استفاده کنید، میزان  حافظه ی 512 مگابایت رم و یا پارتیشن فعال SWAP به شدت "
+"توصیه میشود.)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr ""
+msgstr "مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE Tumbleweed"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
+"مخازن رسمی openSUSE Tumbleweed برای تمامی نرم افزار های غیر متن-باز که توسط "
+"تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، فلش، و ... است."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr ""
+msgstr "مخازن اصلی openSUSE Tumbleweed (بسته های source)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
+"مخازن شامل تمامی بسته های منبع  کد برای openSUSE Tumbleweed. فقط برای افراد "
+"متخصص است."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
-msgstr ""
+msgstr "مخازن اصلی openSUSE Tumbleweed که شامل بسته های debuginfo است."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
+"این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Tumbleweed اشکال "
+"زدایی کنند مناسب است. فقط برای افراد متخصص است"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
-msgstr ""
+msgstr "مخزن به روزرسانی رسمی برای Tumbleweed"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
 msgstr ""
+"این مخزن به روزرسانی های فوری و ضروری را تا زمان یکپارچه شدن آنها درون مخازن "
+"اصلی برای شما مهیا میکند."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
-msgstr ""
+msgstr "مخازن اصلی openSUSE Leap 42.1شامل فقط نرم افزارهای متن باز"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE Leap 42.1، به شما دسترسی "
+"به هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد. "
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
-msgstr ""
+msgstr "مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 msgid ""
@@ -638,54 +696,63 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"مخازن رسمی openSUSE Leap 42.1 برای تمامی نرم افزار های غیر متن-باز که توسط "
+"تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، استیم، فلش، و ... است."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr ""
+msgstr "مخازن اصلی openSUSE Leap 42.1 (بسته های منبع)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
+"مخازن شامل تمامی بسته های منبع  کد برای openSUSE Leap 42.1. فقط برای افراد "
+"متخصص است."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
-msgstr ""
+msgstr "مخازن اصلی openSUSE Leap 42.1 که شامل بسته های debuginfo است."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
+"این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Leap 42.1 اشکال "
+"زدایی کنند مناسب است. فقط برای افراد متخصص است"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "مخازن رسمی به روزرسانی برای openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
 msgstr ""
+"در این مخزن شما بسته های امنیتی و نگه داری به روزرسانی برای openSUSE Leap "
+"42.1 را پیدا خواهید کرد."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr ""
+"مخازن رسمی به روز رسانی برای نرم افزارهای غیر آزاد در openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
-msgstr ""
+msgstr "مخازن به روزرسانی برای بسته های debuginfo در openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 msgid "Untested Updates"
-msgstr ""
+msgstr "به روزرسانی های نامطمئن"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 msgid "Repository of not yet tested updates"
-msgstr ""
+msgstr "مخازن بسته های تست نشده"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
@@ -694,21 +761,26 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"مخزن شامل بسته های امنیتی و نگه داری های به روزرسانی که همچنان برای تضمین "
+"سطح کیفیت آنها نیاز به آزمون بیشتری دارند. فقط در صورتی که قصد دارید در "
+"آزمایش بسته های آزمایشی openSUSE شرکت کنید این مخزن را اضافه کنید."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
-msgstr ""
+msgstr "مخازن اصلی openSUSE Leap 42.2شامل فقط نرم افزارهای متن باز"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE Leap 42.2، به شما دسترسی "
+"به هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
-msgstr ""
+msgstr "مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
 msgid ""
@@ -716,41 +788,50 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"مخازن رسمی openSUSE Leap 42.2 برای تمامی نرم افزار های غیر متن-باز که توسط "
+"تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، استیم، فلش، و ... است."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr ""
+msgstr "مخازن اصلی openSUSE Leap 42.2 (بسته های منبع)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
+"مخازن شامل تمامی بسته های منبع  کد برای openSUSE Leap 42.2. فقط برای افراد "
+"متخصص است."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
-msgstr ""
+msgstr "مخازن اصلی openSUSE Leap 42.2 که شامل بسته های debuginfo است."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
+"این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Leap 42.2 اشکال "
+"زدایی کنند مناسب است. فقط برای افراد متخصص است"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr ""
+msgstr "مخازن رسمی به روزرسانی برای openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
 msgstr ""
+"در این مخزن شما بسته های امنیتی و نگه داری به روزرسانی برای openSUSE Leap "
+"42.2 را پیدا خواهید کرد."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
 msgstr ""
+"مخازن رسمی به روز رسانی برای نرم افزارهای غیر آزاد در openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
-msgstr ""
+msgstr "مخازن به روزرسانی برای بسته های debuginfo در openSUSE Leap 42.2"
