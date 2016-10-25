@@ -5,15 +5,16 @@ msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2016-10-25 11:34+0330\n"
-"Last-Translator: hayyan <joghdeshab@live.com>\n"
-"Language-Team: Persian <i18n@suse.de>\n"
+"PO-Revision-Date: 2016-10-25 08:14+0000\n"
+"Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
+"Language-Team: Persian "
+"<https://l10n.opensuse.org/projects/download-o-o/master/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Weblate 2.6\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -39,7 +40,7 @@ msgid ""
 "software."
 msgstr ""
 "مخازن LXDE در سرویس ساخت openSUSE که آخرین نسخه ی محیط میزکار LXDE و نرم "
-"افزارها، اما پشتیبانی نشده را در اختیار شما قرار میدهد"
+"افزارها، اما پشتیبانی نشده را در اختیار شما قرار میدهد."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:4
@@ -253,7 +254,7 @@ msgstr "سرویس ساخت openSUSE - مخازن GNOME:Apps"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:26
 msgid "Backports of GNOME applications"
-msgstr " Backport های نرم افزارهای Gnome"
+msgstr "Backport های نرم افزارهای Gnome"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:33
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:30
@@ -365,7 +366,7 @@ msgstr "نرم افزارهایی برای کاربرد آموزشی"
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:39
 msgid ""
 "Contains several packages which might be interesting for educational use"
-msgstr "شامل چندین بسته که ممکن است برای مصارف آموزشی مناسب باشد، است."
+msgstr "شامل چندین بسته که ممکن است برای مصارف آموزشی مناسب باشد"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:49
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:49
@@ -463,7 +464,7 @@ msgstr "مخازن اصلی (اشکال زدایی)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
-msgstr "مخازن اصلی openSUSE 13.1 که شامل بسته های debuginfo است."
+msgstr "مخازن اصلی openSUSE 13.1 شامل بسته های debuginfo"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:12
 msgid ""
@@ -471,7 +472,7 @@ msgid ""
 "openSUSE 13.1. For experts only."
 msgstr ""
 "این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE 13.1 اشکال زدایی "
-"کنند مناسب است. فقط برای افراد متخصص است"
+"کنند مناسب است. فقط برای افراد متخصص است."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -576,7 +577,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
-msgstr "مخازن اصلی openSUSE 13.2 که شامل بسته های debuginfo است."
+msgstr "مخازن اصلی openSUSE 13.2 شامل بسته های debuginfo"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:12
 msgid ""
@@ -584,7 +585,7 @@ msgid ""
 "openSUSE 13.2. For experts only."
 msgstr ""
 "این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE 13.2 اشکال زدایی "
-"کنند مناسب است. فقط برای افراد متخصص است"
+"کنند مناسب است. فقط برای افراد متخصص است."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
@@ -651,7 +652,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
-msgstr "مخازن اصلی openSUSE Tumbleweed که شامل بسته های debuginfo است."
+msgstr "مخازن اصلی openSUSE Tumbleweed شامل بسته های debuginfo"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
 msgid ""
@@ -659,7 +660,7 @@ msgid ""
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
 "این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Tumbleweed اشکال "
-"زدایی کنند مناسب است. فقط برای افراد متخصص است"
+"زدایی کنند مناسب است. فقط برای افراد متخصص است."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
@@ -684,7 +685,7 @@ msgid ""
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
 "مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE Leap 42.1، به شما دسترسی "
-"به هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد. "
+"به هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
@@ -713,7 +714,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
-msgstr "مخازن اصلی openSUSE Leap 42.1 که شامل بسته های debuginfo است."
+msgstr "مخازن اصلی openSUSE Leap 42.1 شامل بسته های debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
@@ -721,7 +722,7 @@ msgid ""
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
 "این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Leap 42.1 اشکال "
-"زدایی کنند مناسب است. فقط برای افراد متخصص است"
+"زدایی کنند مناسب است. فقط برای افراد متخصص است."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
@@ -805,7 +806,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
-msgstr "مخازن اصلی openSUSE Leap 42.2 که شامل بسته های debuginfo است."
+msgstr "مخازن اصلی openSUSE Leap 42.2 شامل بسته های debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
 msgid ""
@@ -813,7 +814,7 @@ msgid ""
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
 "این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Leap 42.2 اشکال "
-"زدایی کنند مناسب است. فقط برای افراد متخصص است"
+"زدایی کنند مناسب است. فقط برای افراد متخصص است."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
