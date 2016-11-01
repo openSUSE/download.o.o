@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-28 17:00+0200\n"
-"PO-Revision-Date: 2016-11-01 12:41+0000\n"
+"PO-Revision-Date: 2016-11-01 12:47+0000\n"
 "Last-Translator: Valter Mura <valtermura@gmail.com>\n"
 "Language-Team: Italian "
 "<https://l10n.opensuse.org/projects/download-o-o/master/it/>\n"
@@ -356,8 +356,9 @@ msgstr "Strumenti per i file system e pacchetti relativi a FUSE."
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:37
+#, fuzzy
 msgid "openSUSE BuildService - Education"
-msgstr "openSUSE BuildService - Education"
+msgstr "openSUSE BuildService - Istruzione"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:47
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:44
@@ -422,7 +423,7 @@ msgstr ""
 "fornisce l'accesso a migliaia di pacchetti mantenuti dal team openSUSE. A "
 "causa delle dimensioni del repository, la sua aggiunta potrebbe richiedere "
 "un po' di tempo. Si consiglia fortemente di utilizzare un sistema con almeno "
-"512MB di RAM o con una partizione di SWAP attiva qualora si desideri avere "
+"512MB di RAM o con una partizione di SWAP attiva, qualora si desideri avere "
 "accesso a questo repository durante l'installazione."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
@@ -563,7 +564,7 @@ msgstr ""
 "fornisce l'accesso a migliaia di pacchetti mantenuti dal team openSUSE. A "
 "causa delle dimensioni del repository, la sua aggiunta potrebbe richiedere "
 "un po' di tempo. Si consiglia fortemente di utilizzare un sistema con almeno "
-"512MB di RAM o con una partizione di SWAP attiva qualora si desideri avere "
+"512MB di RAM o con una partizione di SWAP attiva, qualora si desideri avere "
 "accesso a questo repository durante l'installazione."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
@@ -642,7 +643,7 @@ msgstr ""
 "fornisce l'accesso a migliaia di pacchetti mantenuti dal team openSUSE. A "
 "causa delle dimensioni del repository, la sua aggiunta potrebbe richiedere "
 "un po' di tempo. Si consiglia fortemente di utilizzare un sistema con almeno "
-"512MB di RAM o con una partizione di SWAP attiva qualora si desideri avere "
+"512MB di RAM o con una partizione di SWAP attiva, qualora si desideri avere "
 "accesso a questo repository durante l'installazione."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
