@@ -74,6 +74,7 @@
                 <description xml:lang="es">El gran repositorio de Software de Código Abierto (OSS) de OpenSUSE Leap 42.1, le brinda acceso a miles de paquetes mantenidos por la comunidad de openSUSE.</description>
                 <description xml:lang="fa">مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE Leap 42.1، به شما دسترسی به هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد.</description>
                 <description xml:lang="fr">Le dépôt principal de logiciels Open Source pour openSUSE Leap 42.1, vous donnant accès à des milliers de paquets maintenus par la communauté openSUSE.</description>
+                <description xml:lang="gl">O gran repositorio de Software de código aberto (OSS) para openSUSE Leap 42.1 , dálle acceso a milleiros de paquetes mantidos pola comunidade de openSUSE.</description>
                 <description xml:lang="id">Repositori Perangkat Lunak Sumber Terbuka (OSS) besar untuk openSUSE Leap 42.1, memberikan Anda akses ke ribuan paket yang dikelola oleh komunitas openSUSE.</description>
                 <description xml:lang="it">Il grande repository di programmi Open Source (OSS) di openSUSE Leap 42.1, che fornisce l'accesso a migliaia di pacchetti mantenuti dalla comunità openSUSE.</description>
                 <description xml:lang="ja">openSUSE Leap 42.1 向けの巨大なオープンソースのソフトウエアリポジトリ。 openSUSE コミュニティによって管理されている何千ものパッケージにアクセスすることができます。</description>
@@ -160,6 +161,7 @@
                 <description xml:lang="es">El repositorio oficial de Leap 42.1 para todo el software de código fuente no abierto mantenido por la comunidad de openSUSE y que incluye Opera, Steam, Flash y más.</description>
                 <description xml:lang="fa">مخازن رسمی openSUSE Leap 42.1 برای تمامی نرم افزار های غیر متن-باز که توسط تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، استیم، فلش، و ... است.</description>
                 <description xml:lang="fr">Le dépôt officiel d'openSUSE Leap 42.1 pour les logiciels non libre maintenus par la communauté openSUSE, comme Opera, Steam, Flash et plus encore.</description>
+                <description xml:lang="gl">O repositorio oficial de openSUSE Leap 42.1  para todo o software que non é de código aberto mantido pola comunidade de openSUSE, incluíndo Opera, Steam, Flash e máis.</description>
                 <description xml:lang="id">Repositori openSUSE 13.1 resmi untuk semua Perangkat Lunak Bukan Sumber Terbuka yang dikelola oleh komunitas openSUSE, berisi Opera, Steam, Flash dan lainnya.</description>
                 <description xml:lang="it">Il repository ufficiale di openSUSE Leap 42.1 per tutti i programmi non open source mantenuti dalla comunità openSUSE, inclusi Opera, Steam, Flash e altro.</description>
                 <description xml:lang="ja">Opera, Steam, Flash などの非オープンソースソフトウエアを含む、 openSUSE コミュニティ管理の openSUSE Leap 42.1 公式リポジトリです。</description>
@@ -602,6 +604,7 @@
                 <name xml:lang="es">Actualizaciones sin probar</name>
                 <name xml:lang="fa">بروزرسانی های نامطمئن</name>
                 <name xml:lang="fr">Mises à jour non testées</name>
+                <name xml:lang="gl">Actualizacións sen probar</name>
                 <name xml:lang="id">Pembaruan Belum Teruji</name>
                 <name xml:lang="it">Aggiornamenti non verificati</name>
                 <name xml:lang="ja">テスト中の更新のリポジトリ</name>
@@ -624,6 +627,7 @@
                 <summary xml:lang="es">Repositorio de actualizaciones aún no comprobadas</summary>
                 <summary xml:lang="fa">مخازن بسته های تست نشده</summary>
                 <summary xml:lang="fr">Dépôt des mises à jour encore non testées</summary>
+                <summary xml:lang="gl">Repositorio de actualizacións non probadas aínda</summary>
                 <summary xml:lang="id">Repositori dari pambaruan yang belum teruji</summary>
                 <summary xml:lang="it">Repository degli aggiornamenti non ancora verificati</summary>
                 <summary xml:lang="ja">まだテストが完了していない更新のリポジトリ</summary>
@@ -646,6 +650,7 @@
                 <description xml:lang="es">Repositorio que contiene actualizaciones de seguridad y mantenimiento que aun necesitan pruebas para asegurar su calidad. Agregue este repositorio solo si quiere participar en las pruebas de las actualizaciones de openSUSE.</description>
                 <description xml:lang="fa">مخزن شامل بسته های امنیتی و نگه داری های بروزرسانی که همچنان برای تضمین سطح کیفیت آنها نیاز به آزمون بیشتری دارند. فقط در صورتی که قصد دارید در آزمایش بسته های آزمایشی openSUSE شرکت کنید این مخزن را اضافه کنید.</description>
                 <description xml:lang="fr">Dépôt contenant les mises à jour de sécurité et de maintenance qui doivent encore être testées. Ajoutez ce dépôt uniquement si vous souhaitez participer aux tests des mises à jour d'openSUSE.</description>
+                <description xml:lang="gl">Repositorio que contén actualizacións de seguridade e mantemento que aínda necesita probas para asegurar a súa calidade. Engada este repositorio só se quere participar nas probas das actualizacións de openSUSE.</description>
                 <description xml:lang="id">Repositori ini berisi pembaruan keamanan dan pemeliharaan yang masih memerlukan pengujian oleh jaminan kualitas. Tambahkan repositori ini hanya jika Anda ingin berpartisipasi dalam pengujian pembaruan openSUSE.</description>
                 <description xml:lang="it">Il repository contiene aggiornamenti di sicurezza e manutenzione che necessitano di verifica da parte del controllo di qualità. Aggiungere questo repository solo se si vuole partecipare alla verifica degli aggiornamenti di openSUSE.</description>
                 <description xml:lang="ja">現時点で品質保証チームがテスト中の状態にある、セキュリティおよびメンテナンス更新のパッケージを含むリポジトリ。 openSUSE のテストに参加したい方のみ、このリポジトリをご利用ください。</description>
