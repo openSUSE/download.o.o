@@ -22,7 +22,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenSUSE\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 17:00+0200\n"
+"POT-Creation-Date: 2017-01-10 10:43+0100\n"
 "PO-Revision-Date: 2012-11-19 15:00+0200\n"
 "Last-Translator: Lucian Oprea <oprea.luci@gmail.com>\n"
 "Language-Team: Romanian <LL@li.org>\n"
@@ -416,6 +416,7 @@ msgstr "Oferă un KDE vechi pentru versiunile openSUSE mai noi"
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "Sursă de instalare principală (OSS)"
 
@@ -453,6 +454,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
 msgstr "Sursă de instalare principală (NON-OSS)"
 
@@ -480,6 +482,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
 msgid "Main Repository (Sources)"
 msgstr "Sursă de instalare principală (cod sursă)"
 
@@ -504,6 +507,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
 msgid "Main Repository (DEBUG)"
 msgstr "Sursă de instalare principală (DEBUG)"
 
@@ -532,6 +536,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
 msgid "Main Update Repository"
 msgstr "Sursă principală de actualizări"
 
@@ -557,6 +562,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
 #, fuzzy
 #| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Non-Oss)"
@@ -572,6 +578,7 @@ msgstr "Sursă de instalare pentru actualizări oficiale ale 12.1"
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
 msgstr "Sursă de instalare actualizări(DEPANARE)"
 
@@ -921,11 +928,13 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
 msgid "Untested Updates"
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
 #, fuzzy
 #| msgid "Repository for official updates to 12.1"
 msgid "Repository of not yet tested updates"
@@ -933,6 +942,7 @@ msgstr "Sursă de instalare pentru actualizări oficiale ale 12.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
 msgid ""
 "Repository contains security and maintenance updates that still need testing "
 "by quality assurance. Add this repository only if you want to participate in "
@@ -1042,6 +1052,197 @@ msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
 "Sursă de instalare pentru actualizări ale pachetelor cu informații de "
 "depanare openSUSE 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.1 including only Open Source Software"
+msgid "Main repository of openSUSE Leap including only Open Source Software"
+msgstr ""
+"Sursa de instalare principală openSUSE 12.1, conține doar software Open "
+"Source"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
+"access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
+#, fuzzy
+#| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
+msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgstr "Sursă de instalare cu suplimente non-Open Source pentru openSUSE 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
+#, fuzzy
+#| msgid ""
+#| "The official openSUSE 12.1 repository for all Non-Open Source Software "
+#| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgid ""
+"The official openSUSE Leap repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam and more."
+msgstr ""
+"Sursa de instalare oficială openSUSE pentru toate aplicațiile Non-Open "
+"Source întreținute de echipa openSUSE, inclusiv Opera, Java, Flash și multe "
+"altele."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.1 (Source packages)"
+msgid "Main repository of openSUSE Leap (Source packages)"
+msgstr "Sursa de instalare principală a openSUSE 12.1 (pachete cod sursă)"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
+#, fuzzy
+#| msgid ""
+#| "The repository of all source packages in openSUSE 12.1. For experts only."
+msgid ""
+"The repository of all source packages in openSUSE Leap. For experts only."
+msgstr ""
+"Sursa de instalare cu toate pachetele de cod din openSUSE 12.1. Destinată "
+"doar experților."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
+msgid "Main repository of openSUSE Leap including the debuginfo packages"
+msgstr ""
+"Sursă de instalare principală openSUSE 12.1 ce include pachetele cu "
+"informații de depanare"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
+#, fuzzy
+#| msgid ""
+#| "This repository is useful for those that want to debug applications on "
+#| "openSUSE 12.1. For experts only."
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap. For experts only."
+msgstr ""
+"Această sursă de instalare este utilă pentru depanarea de aplicații sub "
+"openSUSE 12.1. Destinată doar experților."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
+#, fuzzy
+#| msgid "Repository for official updates to 12.1"
+msgid "Repository for official updates to openSUSE Leap"
+msgstr "Sursă de instalare pentru actualizări oficiale ale 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
+#, fuzzy
+#| msgid ""
+#| "In this repository you find security and maintenance updates to openSUSE "
+#| "12.1."
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap."
+msgstr ""
+"În această sursă de instalare puteți găsi actualizări de securitate și "
+"mentenanță pentru openSUSE 12.1."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
+#, fuzzy
+#| msgid "Repository for official updates to 12.1"
+msgid "Repository for official non free updates to openSUSE Leap"
+msgstr "Sursă de instalare pentru actualizări oficiale ale 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
+#, fuzzy
+#| msgid "Update repository of openSUSE 12.1 debuginfo packages"
+msgid "Update repository of openSUSE Leap debuginfo packages"
+msgstr ""
+"Sursă de instalare pentru actualizări ale pachetelor cu informații de "
+"depanare openSUSE 12.1"
+
+#, fuzzy
+#~| msgid ""
+#~| "Main repository of openSUSE 12.1 including only Open Source Software"
+#~ msgid ""
+#~ "Main repository of openSUSE Leap 42.3 including only Open Source Software"
+#~ msgstr ""
+#~ "Sursa de instalare principală openSUSE 12.1, conține doar software Open "
+#~ "Source"
+
+#, fuzzy
+#~| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
+#~ msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.3"
+#~ msgstr ""
+#~ "Sursă de instalare cu suplimente non-Open Source pentru openSUSE 12.1"
+
+#, fuzzy
+#~| msgid ""
+#~| "The official openSUSE 12.1 repository for all Non-Open Source Software "
+#~| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgid ""
+#~ "The official openSUSE Leap 42.3 repository for all Non-Open Source "
+#~ "Software maintained by the openSUSE community, including Opera, Steam, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "Sursa de instalare oficială openSUSE pentru toate aplicațiile Non-Open "
+#~ "Source întreținute de echipa openSUSE, inclusiv Opera, Java, Flash și "
+#~ "multe altele."
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 12.1 (Source packages)"
+#~ msgid "Main repository of openSUSE Leap 42.3 (Source packages)"
+#~ msgstr "Sursa de instalare principală a openSUSE 12.1 (pachete cod sursă)"
+
+#, fuzzy
+#~| msgid ""
+#~| "The repository of all source packages in openSUSE 12.1. For experts only."
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE Leap 42.3. For experts "
+#~ "only."
+#~ msgstr ""
+#~ "Sursa de instalare cu toate pachetele de cod din openSUSE 12.1. Destinată "
+#~ "doar experților."
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
+#~ msgid ""
+#~ "Main repository of openSUSE Leap 42.3 including the debuginfo packages"
+#~ msgstr ""
+#~ "Sursă de instalare principală openSUSE 12.1 ce include pachetele cu "
+#~ "informații de depanare"
+
+#, fuzzy
+#~| msgid ""
+#~| "This repository is useful for those that want to debug applications on "
+#~| "openSUSE 12.1. For experts only."
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE Leap 42.3. For experts only."
+#~ msgstr ""
+#~ "Această sursă de instalare este utilă pentru depanarea de aplicații sub "
+#~ "openSUSE 12.1. Destinată doar experților."
+
+#, fuzzy
+#~| msgid "Repository for official updates to 12.1"
+#~ msgid "Repository for official updates to openSUSE Leap 42.3"
+#~ msgstr "Sursă de instalare pentru actualizări oficiale ale 12.1"
+
+#, fuzzy
+#~| msgid ""
+#~| "In this repository you find security and maintenance updates to openSUSE "
+#~| "12.1."
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "Leap 42.3."
+#~ msgstr ""
+#~ "În această sursă de instalare puteți găsi actualizări de securitate și "
+#~ "mentenanță pentru openSUSE 12.1."
+
+#, fuzzy
+#~| msgid "Repository for official updates to 12.1"
+#~ msgid "Repository for official non free updates to openSUSE Leap 42.3"
+#~ msgstr "Sursă de instalare pentru actualizări oficiale ale 12.1"
+
+#, fuzzy
+#~| msgid "Update repository of openSUSE 12.1 debuginfo packages"
+#~ msgid "Update repository of openSUSE Leap 42.3 debuginfo packages"
+#~ msgstr ""
+#~ "Sursă de instalare pentru actualizări ale pachetelor cu informații de "
+#~ "depanare openSUSE 12.1"
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSE BuildService - Banshee"

@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.fi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 17:00+0200\n"
+"POT-Creation-Date: 2017-01-10 10:43+0100\n"
 "PO-Revision-Date: 2013-08-25 20:33+0300\n"
 "Last-Translator: Jyri Palokangas <jyri.palokangas@opensuse.org>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
@@ -398,6 +398,7 @@ msgstr "Tarjoaa vanhan KDEn uudemmille openSUSEn versioille"
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "Pääasennuslähde (OSS)"
 
@@ -425,6 +426,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
 msgstr "Pääasennuslähde (NON-OSS)"
 
@@ -448,6 +450,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
 msgid "Main Repository (Sources)"
 msgstr "Pääasennuslähde (lähdekoodit)"
 
@@ -467,6 +470,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
 msgid "Main Repository (DEBUG)"
 msgstr "Pääasennuslähde (Debug)"
 
@@ -487,6 +491,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
 msgid "Main Update Repository"
 msgstr "Perusasennuslähde päivityksille"
 
@@ -506,6 +511,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
 msgstr "Päivitysasennuslähde (Non-Oss)"
 
@@ -517,6 +523,7 @@ msgstr "13.1:n virallinen suljettujen ohjelmien päivitysten asennuslähde."
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
 msgstr "Päivitysasennuslähde (DEBUG)"
 
@@ -853,11 +860,13 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
 msgid "Untested Updates"
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
 #, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository of not yet tested updates"
@@ -865,6 +874,7 @@ msgstr "12.3:n virallinen suljettujen ohjelmien päivitysten asennuslähde."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
 msgid ""
 "Repository contains security and maintenance updates that still need testing "
 "by quality assurance. Add this repository only if you want to participate in "
@@ -971,6 +981,192 @@ msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
 "openSUSE 12.1-jakelun päivitysasennuslähde vianjäljitystietoa sisältäville "
 "paketeille"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.1 including only Open Source Software"
+msgid "Main repository of openSUSE Leap including only Open Source Software"
+msgstr ""
+"openSUSE 12.1 -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
+"access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
+#, fuzzy
+#| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
+msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgstr "Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 12.1:lle"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
+#, fuzzy
+#| msgid ""
+#| "The official openSUSE 12.1 repository for all Non-Open Source Software "
+#| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgid ""
+"The official openSUSE Leap repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam and more."
+msgstr ""
+"Virallinen openSUSE-tiimin ylläpitämä openSUSE 12.1 -asennuslähde kaikille "
+"suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Java, Flash ja niin "
+"edelleen."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.1 (Source packages)"
+msgid "Main repository of openSUSE Leap (Source packages)"
+msgstr "openSUSE 12.1 -jakelun perusasennuslähde (lähdekoodipaketit)"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
+#, fuzzy
+#| msgid ""
+#| "The repository of all source packages in openSUSE 12.1. For experts only."
+msgid ""
+"The repository of all source packages in openSUSE Leap. For experts only."
+msgstr ""
+"Asennuslähde kaikille openSUSE 12.1 -jakelun lähdekoodipaketeille. Vain "
+"asiantuntijoille."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
+msgid "Main repository of openSUSE Leap including the debuginfo packages"
+msgstr "openSUSE 12.1 debuginfo-paketit perusasennuslähteen paketeille"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
+#, fuzzy
+#| msgid ""
+#| "This repository is useful for those that want to debug applications on "
+#| "openSUSE 12.1. For experts only."
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap. For experts only."
+msgstr ""
+"Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja "
+"openSUSE 12.1:ssa. Vain asiantuntijoille."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
+#, fuzzy
+#| msgid "Repository for official updates to 12.1"
+msgid "Repository for official updates to openSUSE Leap"
+msgstr "12.1:n virallinen päivitysten asennuslähde."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
+#, fuzzy
+#| msgid ""
+#| "In this repository you find security and maintenance updates to openSUSE "
+#| "12.1."
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap."
+msgstr ""
+"Tästä asennuslähteestä löydät openSUSE 12.1:n tietoturva- ja "
+"ylläpitopäivityksiä."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
+#, fuzzy
+#| msgid "Repository for official non free updates to 12.3"
+msgid "Repository for official non free updates to openSUSE Leap"
+msgstr "12.3:n virallinen suljettujen ohjelmien päivitysten asennuslähde."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
+#, fuzzy
+#| msgid "Update repository of openSUSE 12.1 debuginfo packages"
+msgid "Update repository of openSUSE Leap debuginfo packages"
+msgstr ""
+"openSUSE 12.1-jakelun päivitysasennuslähde vianjäljitystietoa sisältäville "
+"paketeille"
+
+#, fuzzy
+#~| msgid ""
+#~| "Main repository of openSUSE 12.1 including only Open Source Software"
+#~ msgid ""
+#~ "Main repository of openSUSE Leap 42.3 including only Open Source Software"
+#~ msgstr ""
+#~ "openSUSE 12.1 -perusasennuslähde sisältää vain avoimen lähdekoodin "
+#~ "ohjelmia"
+
+#, fuzzy
+#~| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
+#~ msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.3"
+#~ msgstr ""
+#~ "Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 12.1:lle"
+
+#, fuzzy
+#~| msgid ""
+#~| "The official openSUSE 12.1 repository for all Non-Open Source Software "
+#~| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+#~ msgid ""
+#~ "The official openSUSE Leap 42.3 repository for all Non-Open Source "
+#~ "Software maintained by the openSUSE community, including Opera, Steam, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "Virallinen openSUSE-tiimin ylläpitämä openSUSE 12.1 -asennuslähde "
+#~ "kaikille suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Java, "
+#~ "Flash ja niin edelleen."
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 12.1 (Source packages)"
+#~ msgid "Main repository of openSUSE Leap 42.3 (Source packages)"
+#~ msgstr "openSUSE 12.1 -jakelun perusasennuslähde (lähdekoodipaketit)"
+
+#, fuzzy
+#~| msgid ""
+#~| "The repository of all source packages in openSUSE 12.1. For experts only."
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE Leap 42.3. For experts "
+#~ "only."
+#~ msgstr ""
+#~ "Asennuslähde kaikille openSUSE 12.1 -jakelun lähdekoodipaketeille. Vain "
+#~ "asiantuntijoille."
+
+#, fuzzy
+#~| msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
+#~ msgid ""
+#~ "Main repository of openSUSE Leap 42.3 including the debuginfo packages"
+#~ msgstr "openSUSE 12.1 debuginfo-paketit perusasennuslähteen paketeille"
+
+#, fuzzy
+#~| msgid ""
+#~| "This repository is useful for those that want to debug applications on "
+#~| "openSUSE 12.1. For experts only."
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE Leap 42.3. For experts only."
+#~ msgstr ""
+#~ "Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja "
+#~ "openSUSE 12.1:ssa. Vain asiantuntijoille."
+
+#, fuzzy
+#~| msgid "Repository for official updates to 12.1"
+#~ msgid "Repository for official updates to openSUSE Leap 42.3"
+#~ msgstr "12.1:n virallinen päivitysten asennuslähde."
+
+#, fuzzy
+#~| msgid ""
+#~| "In this repository you find security and maintenance updates to openSUSE "
+#~| "12.1."
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "Leap 42.3."
+#~ msgstr ""
+#~ "Tästä asennuslähteestä löydät openSUSE 12.1:n tietoturva- ja "
+#~ "ylläpitopäivityksiä."
+
+#, fuzzy
+#~| msgid "Repository for official non free updates to 12.3"
+#~ msgid "Repository for official non free updates to openSUSE Leap 42.3"
+#~ msgstr "12.3:n virallinen suljettujen ohjelmien päivitysten asennuslähde."
+
+#, fuzzy
+#~| msgid "Update repository of openSUSE 12.1 debuginfo packages"
+#~ msgid "Update repository of openSUSE Leap 42.3 debuginfo packages"
+#~ msgstr ""
+#~ "openSUSE 12.1-jakelun päivitysasennuslähde vianjäljitystietoa "
+#~ "sisältäville paketeille"
 
 #~ msgid "openSUSE BuildService - Banshee"
 #~ msgstr "openSUSEn paketointipalvelu - Banshee"

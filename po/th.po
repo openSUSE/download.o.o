@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YaST (@memory@)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 17:00+0200\n"
+"POT-Creation-Date: 2017-01-10 10:43+0100\n"
 "PO-Revision-Date: 2010-07-01 21:40+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -411,6 +411,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "คลังแพกเกจหลัก (ซอฟต์แวร์เสรี)"
 
@@ -440,6 +441,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
 msgstr "คลังแพกเกจหลัก (ซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี)"
 
@@ -463,6 +465,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
 msgid "Main Repository (Sources)"
 msgstr "คลังแพกเกจหลัก (ต้นฉบับ)"
 
@@ -482,6 +485,7 @@ msgstr "คลังแพกเกจของแพกเกจต้นฉบ
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
 msgid "Main Repository (DEBUG)"
 msgstr "คลังแพกเกจหลัก (แพกเกจดีบั๊ก)"
 
@@ -504,6 +508,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
 msgid "Main Update Repository"
 msgstr "คลังแพกเกจหลักสำหรับปรับรุ่น"
 
@@ -525,6 +530,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
 #, fuzzy
 msgid "Update Repository (Non-Oss)"
 msgstr "คลังแพกเกจหลัก (แพกเกจดีบั๊ก)"
@@ -538,6 +544,7 @@ msgstr "คลังแพกเกจอย่างเป็นทางกา
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
 #, fuzzy
 msgid "Update Repository (DEBUG)"
 msgstr "คลังแพกเกจหลัก (แพกเกจดีบั๊ก)"
@@ -808,17 +815,20 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
 msgid "Untested Updates"
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
 #, fuzzy
 msgid "Repository of not yet tested updates"
 msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
 msgid ""
 "Repository contains security and maintenance updates that still need testing "
 "by quality assurance. Add this repository only if you want to participate in "
@@ -903,6 +913,147 @@ msgstr "คลังแพกเกจอย่างเป็นทางกา
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
 "คลังแพกเกจหลักของ openSUSE 11.1 ที่รวมไว้แพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
+#, fuzzy
+msgid "Main repository of openSUSE Leap including only Open Source Software"
+msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมไว้เฉพาะซอฟต์แวร์เสรีเท่านั้น"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
+"access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
+#, fuzzy
+msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgstr "คลังแพกเกจเสริมของซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี สำหรับ openSUSE 11.2"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
+#, fuzzy
+msgid ""
+"The official openSUSE Leap repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam and more."
+msgstr ""
+"คลังแพกเกจอย่างเป็นทางการของ openSUSE 11.2 ที่จัดเก็บซอฟต์แวร์ทั้งหมดที่ไม่ใช่ซอฟต์แวร์แบบเสรี "
+"และดูแลโดยทีมงานของ openSUSE ซึ่งซอฟต์แวร์เหล่านี้ยังรวมไปถึง Opera, Java, Flash, และอื่น "
+"ๆ อีกมากมาย"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
+#, fuzzy
+msgid "Main repository of openSUSE Leap (Source packages)"
+msgstr "คลังแพกเกจหลักของ openSUSE 11.2 (แพกเกจต้นฉบับต่าง ๆ)"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
+#, fuzzy
+msgid ""
+"The repository of all source packages in openSUSE Leap. For experts only."
+msgstr "คลังแพกเกจของแพกเกจต้นฉบับทั้งหมดใน openSUSE 11.2 ซึ่งเหมาะสำหรับผู้เชี่ยวชาญเท่านั้น"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
+#, fuzzy
+msgid "Main repository of openSUSE Leap including the debuginfo packages"
+msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมแพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
+#, fuzzy
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap. For experts only."
+msgstr ""
+"คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 11.2 "
+"ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
+#, fuzzy
+msgid "Repository for official updates to openSUSE Leap"
+msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
+#, fuzzy
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap."
+msgstr ""
+"ในคลังแพกเกจนี้ คุณจะพบกับรายการปรับรุ่นต่าง ๆ และด้านความปลอดภัยของระบบ "
+"สำหรับใช้ปรับรุ่นเป็น openSUSE 11.2"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
+#, fuzzy
+msgid "Repository for official non free updates to openSUSE Leap"
+msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
+#, fuzzy
+msgid "Update repository of openSUSE Leap debuginfo packages"
+msgstr ""
+"คลังแพกเกจหลักของ openSUSE 11.1 ที่รวมไว้แพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
+
+#, fuzzy
+#~ msgid ""
+#~ "Main repository of openSUSE Leap 42.3 including only Open Source Software"
+#~ msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมไว้เฉพาะซอฟต์แวร์เสรีเท่านั้น"
+
+#, fuzzy
+#~ msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.3"
+#~ msgstr "คลังแพกเกจเสริมของซอฟต์แวร์ที่ไม่ใช่ซอฟต์แวร์เสรี สำหรับ openSUSE 11.2"
+
+#, fuzzy
+#~ msgid ""
+#~ "The official openSUSE Leap 42.3 repository for all Non-Open Source "
+#~ "Software maintained by the openSUSE community, including Opera, Steam, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "คลังแพกเกจอย่างเป็นทางการของ openSUSE 11.2 "
+#~ "ที่จัดเก็บซอฟต์แวร์ทั้งหมดที่ไม่ใช่ซอฟต์แวร์แบบเสรี และดูแลโดยทีมงานของ openSUSE "
+#~ "ซึ่งซอฟต์แวร์เหล่านี้ยังรวมไปถึง Opera, Java, Flash, และอื่น ๆ อีกมากมาย"
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE Leap 42.3 (Source packages)"
+#~ msgstr "คลังแพกเกจหลักของ openSUSE 11.2 (แพกเกจต้นฉบับต่าง ๆ)"
+
+#, fuzzy
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE Leap 42.3. For experts "
+#~ "only."
+#~ msgstr ""
+#~ "คลังแพกเกจของแพกเกจต้นฉบับทั้งหมดใน openSUSE 11.2 ซึ่งเหมาะสำหรับผู้เชี่ยวชาญเท่านั้น"
+
+#, fuzzy
+#~ msgid ""
+#~ "Main repository of openSUSE Leap 42.3 including the debuginfo packages"
+#~ msgstr ""
+#~ "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมแพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
+
+#, fuzzy
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE Leap 42.3. For experts only."
+#~ msgstr ""
+#~ "คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 11.2 "
+#~ "ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น"
+
+#, fuzzy
+#~ msgid "Repository for official updates to openSUSE Leap 42.3"
+#~ msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
+
+#, fuzzy
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "Leap 42.3."
+#~ msgstr ""
+#~ "ในคลังแพกเกจนี้ คุณจะพบกับรายการปรับรุ่นต่าง ๆ และด้านความปลอดภัยของระบบ "
+#~ "สำหรับใช้ปรับรุ่นเป็น openSUSE 11.2"
+
+#, fuzzy
+#~ msgid "Repository for official non free updates to openSUSE Leap 42.3"
+#~ msgstr "คลังแพกเกจอย่างเป็นทางการสำหรับปรับรุ่นให้กับรุ่น 11.2"
+
+#, fuzzy
+#~ msgid "Update repository of openSUSE Leap 42.3 debuginfo packages"
+#~ msgstr ""
+#~ "คลังแพกเกจหลักของ openSUSE 11.1 ที่รวมไว้แพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
 
 #, fuzzy
 #~ msgid "openSUSE BuildService - Banshee"

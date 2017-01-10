@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.ko\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 17:00+0200\n"
+"POT-Creation-Date: 2017-01-10 10:43+0100\n"
 "PO-Revision-Date: 2016-04-29 04:45+0000\n"
 "Last-Translator: Yunseok Choi <xein@naver.com>\n"
 "Language-Team: Korean <http://l10n.opensuse.org/projects/download-o-o/master/"
@@ -405,6 +405,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "주 저장소 (OSS)"
 
@@ -432,6 +433,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
 msgstr "주 저장소 (NON-OSS)"
 
@@ -454,6 +456,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
 msgid "Main Repository (Sources)"
 msgstr "주 저장소 (소스)"
 
@@ -473,6 +476,7 @@ msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
 msgid "Main Repository (DEBUG)"
 msgstr "주 저장소 (디버그)"
 
@@ -494,6 +498,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
 msgid "Main Update Repository"
 msgstr "주 업데이트 저장소"
 
@@ -513,6 +518,7 @@ msgstr "오픈수세 11.1 의 보안 및 필수 업데이트 저장소 입니다
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
 #, fuzzy
 msgid "Update Repository (Non-Oss)"
 msgstr "주 저장소 (디버그)"
@@ -526,6 +532,7 @@ msgstr "11.1 공식 업데이트 저장소"
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
 #, fuzzy
 msgid "Update Repository (DEBUG)"
 msgstr "주 저장소 (디버그)"
@@ -779,17 +786,20 @@ msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 �
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
 msgid "Untested Updates"
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
 #, fuzzy
 msgid "Repository of not yet tested updates"
 msgstr "11.1 공식 업데이트 저장소"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
 msgid ""
 "Repository contains security and maintenance updates that still need testing "
 "by quality assurance. Add this repository only if you want to participate in "
@@ -869,6 +879,135 @@ msgstr "11.1 공식 업데이트 저장소"
 #, fuzzy
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
+#, fuzzy
+msgid "Main repository of openSUSE Leap including only Open Source Software"
+msgstr "오픈소스 소프트웨어만 포함 되어 있는 오픈수세 11.1 의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
+"access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
+#, fuzzy
+msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgstr "비-오픈소스 소프트웨어가 포함되어 있는 오픈수세 11.1 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
+#, fuzzy
+msgid ""
+"The official openSUSE Leap repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam and more."
+msgstr ""
+"오픈수세 팀에 의해 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플래"
+"시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
+#, fuzzy
+msgid "Main repository of openSUSE Leap (Source packages)"
+msgstr "오픈수세 11.2 주 저장소 (소스 꾸러미)"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
+#, fuzzy
+msgid ""
+"The repository of all source packages in openSUSE Leap. For experts only."
+msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
+#, fuzzy
+msgid "Main repository of openSUSE Leap including the debuginfo packages"
+msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
+#, fuzzy
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap. For experts only."
+msgstr ""
+"이 오픈수세 11.1 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
+#, fuzzy
+msgid "Repository for official updates to openSUSE Leap"
+msgstr "11.1 공식 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
+#, fuzzy
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap."
+msgstr "오픈수세 11.1 의 보안 및 필수 업데이트 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
+#, fuzzy
+msgid "Repository for official non free updates to openSUSE Leap"
+msgstr "11.1 공식 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
+#, fuzzy
+msgid "Update repository of openSUSE Leap debuginfo packages"
+msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#, fuzzy
+#~ msgid ""
+#~ "Main repository of openSUSE Leap 42.3 including only Open Source Software"
+#~ msgstr "오픈소스 소프트웨어만 포함 되어 있는 오픈수세 11.1 의 메인 저장소"
+
+#, fuzzy
+#~ msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.3"
+#~ msgstr "비-오픈소스 소프트웨어가 포함되어 있는 오픈수세 11.1 저장소"
+
+#, fuzzy
+#~ msgid ""
+#~ "The official openSUSE Leap 42.3 repository for all Non-Open Source "
+#~ "Software maintained by the openSUSE community, including Opera, Steam, "
+#~ "Flash, and more."
+#~ msgstr ""
+#~ "오픈수세 팀에 의해 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플"
+#~ "래시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다."
+
+#, fuzzy
+#~ msgid "Main repository of openSUSE Leap 42.3 (Source packages)"
+#~ msgstr "오픈수세 11.2 주 저장소 (소스 꾸러미)"
+
+#, fuzzy
+#~ msgid ""
+#~ "The repository of all source packages in openSUSE Leap 42.3. For experts "
+#~ "only."
+#~ msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다."
+
+#, fuzzy
+#~ msgid ""
+#~ "Main repository of openSUSE Leap 42.3 including the debuginfo packages"
+#~ msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#, fuzzy
+#~ msgid ""
+#~ "This repository is useful for those that want to debug applications on "
+#~ "openSUSE Leap 42.3. For experts only."
+#~ msgstr ""
+#~ "이 오픈수세 11.1 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#, fuzzy
+#~ msgid "Repository for official updates to openSUSE Leap 42.3"
+#~ msgstr "11.1 공식 업데이트 저장소"
+
+#, fuzzy
+#~ msgid ""
+#~ "In this repository you find security and maintenance updates to openSUSE "
+#~ "Leap 42.3."
+#~ msgstr "오픈수세 11.1 의 보안 및 필수 업데이트 저장소 입니다."
+
+#, fuzzy
+#~ msgid "Repository for official non free updates to openSUSE Leap 42.3"
+#~ msgstr "11.1 공식 업데이트 저장소"
+
+#, fuzzy
+#~ msgid "Update repository of openSUSE Leap 42.3 debuginfo packages"
+#~ msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
 
 #, fuzzy
 #~ msgid "openSUSE BuildService - Banshee"
