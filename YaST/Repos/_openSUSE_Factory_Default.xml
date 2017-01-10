@@ -46,7 +46,7 @@
         <summary xml:lang="ca">Repositori principal d'openSUSE Tumbleweed que inclou només programari de codi obert</summary>
         <summary xml:lang="cs">Hlavní repozitář openSUSE Tumbleweed obsahující pouze software s otevřeným kódem</summary>
         <summary xml:lang="da">Hovedsoftwarekilden for openSUSE Tumbleweed, som kun inkluderer open source software</summary>
-        <summary xml:lang="de">Hauptrepository von openSUSE Tumbleweed welches ausschließlich Open-Source Software umfasst</summary>
+        <summary xml:lang="de">Hauptrepository von openSUSE Tumbleweed welches ausschließlich Open Source Software beinhaltet</summary>
         <summary xml:lang="el">Κύριο αποθετήριο του openSUSE Tumbleweed που συμπεριλαμβάνει μόνο Λογισμικό Ανοικτού Κώδικα</summary>
         <summary xml:lang="es">Repositorio principal de openSUSE Tumbleweed incluyendo solo Software de Código Abierto</summary>
         <summary xml:lang="fa">مخازن اصلی openSUSE Tumbleweed شامل فقط نرم افزارهای متن باز</summary>
@@ -57,6 +57,7 @@
         <summary xml:lang="ja">オープンソースソフトウエアだけを含む、 openSUSE Tumbleweed のメインリポジトリ</summary>
         <summary xml:lang="lt">openSUSE Tumbleweed pagrindinė saugykla, turinti tik atviro kodo programinę įrangą</summary>
         <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Tumbleweed met alleen opensource-software</summary>
+        <summary xml:lang="pl">Główne repozytorium openSUSE Tumbleweed zawierające tylko oprogramowanie Open Source</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE Tumbleweed contendo somente software de código aberto</summary>
         <summary xml:lang="ru">Основной репозиторий openSUSE Tumbleweed, включающий только программное обеспечение с открытым кодом</summary>
         <summary xml:lang="sk">Hlavný repozitár openSUSE Tumbleweed, ktorý obsahuje iba Open Source Software</summary>
@@ -80,6 +81,7 @@
         <description xml:lang="ja">openSUSE 向けの巨大なオープンソース・ソフトウエアリポジトリです。 openSUSE チームによって管理されている、何千ものパッケージにアクセスすることができます。 (リポジトリのサイズが巨大であるため、このリポジトリを追加するにはしばらくの時間がかかります。また、インストールの際にリポジトリにアクセスする場合、512 MB の RAM とスワップの利用を強くお勧めします。)</description>
         <description xml:lang="lt">Didelė atviro kodo programinės įrangos openSUSE saugykla, leidžianti parsisiųsti tūkstančius openSUSE komandos prižiūrimų paketų. (Dėl saugyklos didumo, jos pridėjimas gali užtrukti. Jei norite šią saugyklą pasiekti diegimo metu, patariame turėti bent 512 MB RAM arba įgalintą mainų (SWAP) skaidinį.)</description>
         <description xml:lang="nl">De grote opensource-software (OSS) installatiebron van openSUSE geeft u toegang tot duizenden pakketten die door het openSUSE-team worden onderhouden. (Vanwege de grootte van deze bron kan het toevoegen ervan enige tijd in beslag nemen. Minimaal 512 MB RAM of een geactiveerde partitie met wisselgeheugen (swap) is ten zeerste aanbevolen als u deze bron tijdens de installatie wilt gebruiken.)</description>
+        <description xml:lang="pl">Wielkie repozytorium oprogramowania Open Source (OSS) dla openSUSE, które zawiera tysiące pakietów utrzymywanych przez zespół openSUSE. (Z racji rozmiarów dodanie tego repozytorium może zająć trochę czasu. Jeśli to repozytorium ma być użyte podczas instalacji, zalecane jest posiadanie 512MB pamięci RAM lub aktywnej partycji wymiany.)</description>
         <description xml:lang="pt_BR">O grande repositório de software de código aberto (OSS) para o openSUSE Factory, fornecendo-lhe acesso a milhares de pacotes mantidos pela equipe do openSUSE. (Devido ao tamanho do repositório, sua inclusão pode demorar algum tempo. É altamente recomendado possuir 512MB de RAM ou uma partição de troca ativada caso você deseje acessar este repositório durante a instalação.)</description>
         <description xml:lang="ru">Большой репозиторий программного обеспечения с открытым кодом (OSS) для openSUSE 13.2, дающий вам доступ к тысячам пакетов, поддерживаемых командой openSUSE. (Из-за размера репозитория его добавление может занять некоторое время. Если вы хотите получить доступ к этому репозиторию во время установки, очень рекомендуется 512 МБ RAM или включённый раздел подкачки.)</description>
         <description xml:lang="sk">Veľký repozitár Open Source Software (OSS) pre openSUSE, ktorý vám dáva prístup k tisícom balíkom, ktoré sú udržované tímom openSUSE. (Ak chcete mať prístup k tomuto repozitáru počas inštalácie, doporučujeme mať 512 MB RAM alebo povolený odkladací diskový oddiel SWAP kvôli veľkosti repozitára. Jeho pridanie môže trvať istý čas.)</description>
@@ -144,6 +146,7 @@
         <summary xml:lang="ja">非オープンソースパッケージを含む openSUSE Tumbleweed の追加リポジトリ</summary>
         <summary xml:lang="lt">openSUSE  Tumbleweed uždaro kodo programinės įrangos papildoma saugykla</summary>
         <summary xml:lang="nl">Aanvullende, niet-opensource installatiebron voor openSUSE Tumbleweed</summary>
+        <summary xml:lang="pl">Repozytorium z dodatkowym, zamkniętym oprogramowaniem dla openSUSE Tumbleweed</summary>
         <summary xml:lang="pt_BR">Repositório adicional para software de código fechado para o openSUSE Tumbleweed</summary>
         <summary xml:lang="ru">Репозиторий дополнений с закрытым кодом для openSUSE Tumbleweed</summary>
         <summary xml:lang="sk">Non-Open Source Software doplnkový repozitár pre openSUSE Tumbleweed</summary>
@@ -156,7 +159,7 @@
         <description xml:lang="ca">El repositori oficial d'openSUSE Tumbleweed per a tot el programari que no és de codi obert mantingut per l'equip d'openSUSE. Inclou l'Opera, el Flash i més coses.</description>
         <description xml:lang="cs">Oficiální repozitář openSUSE Tumbleweed pro veškerý software bez dostupného zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Flashe atd.</description>
         <description xml:lang="da">Den officielle openSUSE Tumbleweed softwarekilde for al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer RealPlayer, Opera, Java, Flash og mere.</description>
-        <description xml:lang="de">Das offizielle openSUSE-Tumbleweed-Repository für alle Nicht-Open-Source Software, die vom openSUSE-Team gepflegt wird, inklusive Opera, Flash und mehr.</description>
+        <description xml:lang="de">Das offizielle openSUSE-Tumbleweed-Repository für sämtlich Nicht-Open-Source Programme, welche vom openSUSE-Team gepflegt werden, inklusive Opera, Flash und mehr.</description>
         <description xml:lang="el">Το επίσημο αποθετήριο του openSUSE Tumbleweed για όλα τα Λογισμικά Μη Ανοιχτού Κώδικα που συντηρείται από την ομάδα του openSUSE, περιέχει Opera, Flash και άλλα πολλά.</description>
         <description xml:lang="es">El repositorio oficial de openSUSE Tumbleweed para todo el Software de código propietario mantenido por el equipo de openSUSE, incluyendo Opera, Flash, y más.</description>
         <description xml:lang="fa">مخازن رسمی openSUSE Tumbleweed برای تمامی نرم افزار های غیر متن-باز که توسط تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، فلش، و ... است.</description>
@@ -167,6 +170,7 @@
         <description xml:lang="ja">Opera, Flash などの非オープンソースソフトウエアを含む、 openSUSE チーム管理の openSUSE Tumbleweed 公式リポジトリです。</description>
         <description xml:lang="lt">Oficiali openSUSE Tumbleweed saugykla visai uždaro kodo programinei įrangai, kurią palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt.</description>
         <description xml:lang="nl">De officiële openSUSE Tumbleweed-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals Opera, Flash en meer.</description>
+        <description xml:lang="pl">Oficjalne repozytorium openSUSE Tumbleweed, które zawiera pakiety z zamkniętym oprogramowaniem utrzymywane przez zespół openSUSE. Zawiera programy takie jak Opera, Java, Flash i inne.</description>
         <description xml:lang="pt_BR">O repositório oficial do openSUSE Tumbleweed para todos os softwares de código fechado mantido pela equipe do openSUSE, incluindo Opera, Flash e outros.</description>
         <description xml:lang="ru">Официальный репозиторий openSUSE Tumbleweed для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Flash и многое другое.</description>
         <description xml:lang="sk">Oficiálny repozitár openSUSE Tumbleweed pre všetok Non-Open Source Software udržovaný tímom openSUSE, ktorý obsahuje Opera, Flash a ďalšie.</description>
@@ -230,6 +234,7 @@
         <summary xml:lang="ja">openSUSE Tumbleweed のメインリポジトリ (ソースパッケージ)</summary>
         <summary xml:lang="lt">openSUSE Tumbleweed pagrindinė saugykla (šaltinių paketai)</summary>
         <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Tumbleweed (broncodepakketten)</summary>
+        <summary xml:lang="pl">Główne repozytorium openSUSE Tumbleweed (Pakiety źródłowe)</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE Tumbleweed (pacotes fonte)</summary>
         <summary xml:lang="ru">Основной репозиторий openSUSE Tumbleweed (Пакеты с исходным кодом)</summary>
         <summary xml:lang="sk">Hlavný repozitár openSUSE Tumbleweed (Zdrojové balíky)</summary>
@@ -253,6 +258,7 @@
         <description xml:lang="ja">openSUSE Tumbleweed の全てのソースパッケージを含むリポジトリ。熟練者向けです。</description>
         <description xml:lang="lt">Visų openSUSE Tumbleweed šaltinių paketų saugykla. Tik ekspertams.</description>
         <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE Tumbleweed. Alleen voor ervaren gebruikers.</description>
+        <description xml:lang="pl">Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE Tumbleweed. Tylko dla ekspertów.</description>
         <description xml:lang="pt_BR">Repositório de todos os pacotes fonte no openSUSE Tumbleweed. Somente para usuários avançados.</description>
         <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE Tumbleweed. Только для экспертов.</description>
         <description xml:lang="sk">Repozitár všetkých zdrojových balíkov v openSUSE Tumbleweed. Iba pre expertov.</description>
@@ -317,6 +323,7 @@
         <summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE Tumbleweed のメインリポジトリ</summary>
         <summary xml:lang="lt">openSUSE Tumbleweed pagrindinė saugykla, turinti derinimo informacijos paketus</summary>
         <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Tumbleweed, met debuginfo-pakketten</summary>
+        <summary xml:lang="pl">Główne repozytorium openSUSE Tumbleweed zawierające pakiety debuginfo</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE Tumbleweed contendo os pacotes debuginfo</summary>
         <summary xml:lang="ru">Основной репозиторий openSUSE Tumbleweed, включающий пакеты debuginfo</summary>
         <summary xml:lang="sk">Hlavný repozitár pre openSUSE Tumbleweed, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
@@ -340,6 +347,7 @@
         <description xml:lang="ja">このリポジトリは、 openSUSE Tumbleweed のアプリケーションをデバッグする際に便利なリポジトリです。熟練者向けです。</description>
         <description xml:lang="lt">Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE Tumbleweed. Tik ekspertams.</description>
         <description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE Tumbleweed willen opsporen. Alleen voor ervaren gebruikers.</description>
+        <description xml:lang="pl">Repozytorium dla tych, którzy pragną debugować programy w openSUSE Tumbleweed. Tylko dla zaawansowanych.</description>
         <description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE Tumbleweed. Somente para usuários avançados.</description>
         <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE Tumbleweed. Только для экспертов.</description>
         <description xml:lang="sk">Tento repozitár je užitočný pre tých, ktorí chcú ladiť programy na openSUSE Tumbleweed. Len pre expertov.</description>
@@ -403,6 +411,7 @@
         <summary xml:lang="ja">Tumbleweed 向け公式更新リポジトリ</summary>
         <summary xml:lang="lt">Oficiali openSUSE Tumbleweed atnaujinimų saugykla</summary>
         <summary xml:lang="nl">Officiële installatiebron voor bijwerken van Tumbleweed</summary>
+        <summary xml:lang="pl">Oficjalne repozytorium aktualizacji dla Tumbleweed</summary>
         <summary xml:lang="pt_BR">Repositório oficial de atualizações para o Tumbleweed</summary>
         <summary xml:lang="ru">Официальный репозиторий обновлений для Tumbleweed</summary>
         <summary xml:lang="sk">Oficiálny repozitár s aktualizáciami pre Tumbleweed</summary>
@@ -426,6 +435,7 @@
         <description xml:lang="ja">このリポジトリには、メインのリポジトリに統合されるよりも早く公開される、緊急の更新が含まれています。</description>
         <description xml:lang="lt">Šioje saugykloje pateikiami neatidėliotini atnaujinimai dar iki tol, kol jie patenka į pagrindines saugyklas.</description>
         <description xml:lang="nl">Deze installatiebron levert urgente elementen voor bijwerken totdat ze geïntegreerd worden in de hoofdinstallatiebronnen.</description>
+        <description xml:lang="pl">To repozytorium dostarcza pilnych aktualizacji dopóki nie zostaną one dołączone do głównych repozytoriów.</description>
         <description xml:lang="pt_BR">Este repositório fornece atualizações urgentes até elas serem integradas nos repositórios oficiais.</description>
         <description xml:lang="ru">Этот репозиторий предоставляет срочные обновления до того, как они войдут в состав основных репозиториев.</description>
         <description xml:lang="sk">Tento repozitár poskytuje naliehavé aktualizácie, kým nie sú začlenené do hlavných repozitárov.</description>

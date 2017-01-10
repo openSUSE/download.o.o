@@ -171,6 +171,7 @@
 		<description xml:lang="ja">Opera, Java, Flash などの非オープンソースソフトウエアを含む、 openSUSE チーム管理の openSUSE 13.2 公式リポジトリです。</description>
 		<description xml:lang="lt">Oficiali openSUSE 13.2 saugykla visai uždaro kodo programinei įrangai, kurią palaiko openSUSE komanda. Įtraukta Opera, Java, Flash ir kt.</description>
 		<description xml:lang="nl">De officiële openSUSE 13.2-installatiebron voor alle niet-opensource-software die door het openSUSE-team wordt onderhouden. Zoals Opera, Flash, Java, en meer.</description>
+		<description xml:lang="pl">Oficjalne repozytorium openSUSE 13.2, które zawiera pakiety z zamkniętym oprogramowaniem utrzymywane przez zespół openSUSE. Zawiera programy takie jak Opera, Java, Flash i inne.</description>
 		<description xml:lang="pt_BR">O repositório oficial do openSUSE 13.2 para todos os softwares de código fechado mantido pela equipe do openSUSE, incluindo Opera, Java, Flash e outros.</description>
 		<description xml:lang="ru">Официальный репозиторий openSUSE 13.2 для всего программного обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая Opera, Java, Flash и многое другое.</description>
 		<description xml:lang="sk">Oficiálny repozitár openSUSE 13.2 pre všetok Non-Open Source Software udržovaný tímom openSUSE, ktorý obsahuje Opera, Java, Flash a ďalšie.</description>
@@ -234,6 +235,7 @@
         <summary xml:lang="ja">openSUSE 13.2 のメインリポジトリ (ソースパッケージ)</summary>
         <summary xml:lang="lt">openSUSE 13.2 pagrindinė saugykla (šaltinių paketai)</summary>
         <summary xml:lang="nl">Hoofd-installatiebron van openSUSE 13.2 (broncodepakketten)</summary>
+        <summary xml:lang="pl">Główne repozytorium openSUSE 13.2 (Pakiety źródłowe)</summary>
         <summary xml:lang="pt_BR">Repositório principal do openSUSE 13.2 (Pacotes fonte)</summary>
         <summary xml:lang="ru">Основной репозиторий openSUSE 13.2 (Пакеты с исходным кодом)</summary>
         <summary xml:lang="sk">Hlavný repozitár openSUSE 13.2 (Zdrojové balíky)</summary>
@@ -257,6 +259,7 @@
         <description xml:lang="ja">openSUSE 13.2 の全てのソースパッケージを含むリポジトリ。熟練者向けです。</description>
         <description xml:lang="lt">Visų openSUSE 13.2 šaltinių paketų saugykla. Tik ekspertams.</description>
         <description xml:lang="nl">De installatiebron van alle broncodepakketten voor openSUSE 13.2. Alleen voor ervaren gebruikers.</description>
+        <description xml:lang="pl">Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE 13.2. Tylko dla ekspertów.</description>
         <description xml:lang="pt_BR">Repositório de todos os pacotes fonte no openSUSE 13.2. Somente para usuários avançados.</description>
         <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE 13.2. Только для экспертов.</description>
         <description xml:lang="sk">Repozitár všetkých zdrojových balíkov v openSUSE 13.2. Iba pre expertov.</description>
@@ -321,6 +324,7 @@
 		<summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 13.2 のメインリポジトリ</summary>
 		<summary xml:lang="lt">openSUSE 13.2 pagrindinė saugykla, turinti derinimo informacijos paketus</summary>
 		<summary xml:lang="nl">Hoofd-installatiebron van openSUSE 13.2, met debuginfo-pakketten</summary>
+		<summary xml:lang="pl">Główne repozytorium openSUSE 13.2 zawierające pakiety debuginfo</summary>
 		<summary xml:lang="pt_BR">Repositório principal do openSUSE 13.2 contendo os pacotes debuginfo</summary>
 		<summary xml:lang="ru">Основной репозиторий openSUSE 13.2, включающий пакеты debuginfo</summary>
 		<summary xml:lang="sk">Hlavný repozitár pre openSUSE 13.2, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
@@ -344,6 +348,7 @@
 		<description xml:lang="ja">このリポジトリは、 openSUSE 13.2 のアプリケーションをデバッグする際に便利なリポジトリです。熟練者向けです。</description>
 		<description xml:lang="lt">Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE 13.2. Tik ekspertams.</description>
 		<description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE 13.2 willen opsporen. Alleen voor ervaren gebruikers.</description>
+		<description xml:lang="pl">Repozytorium dla tych, którzy pragną debugować programy w openSUSE 13.2. Tylko dla zaawansowanych.</description>
 		<description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE 13.2. Somente para usuários avançados.</description>
 		<description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 13.2. Только для экспертов.</description>
 		<description xml:lang="sk">Tento repozitár je užitočný pre tých, ktorí chcú ladiť programy na openSUSE 13.2. Len pre expertov.</description>
@@ -407,6 +412,7 @@
         <summary xml:lang="ja">13.2 用の公式更新リポジトリ</summary>
         <summary xml:lang="lt">Oficiali 13.2 atnaujinimų saugykla</summary>
         <summary xml:lang="nl">Installatiebron met officiële zaken voor het bijwerken naar 13.2</summary>
+        <summary xml:lang="pl">Repozytorium oficjalnych aktualizacji dla systemu openSUSE 13.2</summary>
         <summary xml:lang="pt_BR">Repositório para atualizações oficiais da versão 13.2</summary>
         <summary xml:lang="ru">Репозиторий официальных обновлений для 13.2</summary>
         <summary xml:lang="sk">Repozitár s oficiálnymi aktualizáciami pre 13.2</summary>
@@ -430,6 +436,7 @@
         <description xml:lang="ja">このリポジトリには openSUSE 13.2 用のセキュリティ／メンテナンスアップデートがあります。</description>
         <description xml:lang="lt">Šioje saugykloje rasite openSUSE 13.2 saugumo ir palaikymo atnaujinimus.</description>
         <description xml:lang="nl">In deze installatiebron vindt u zaken voor het bijwerken t.b.v. veiligheid en onderhoud voor openSUSE 13.2.</description>
+        <description xml:lang="pl">To repozytorium zawiera aktualizacje i poprawki bezpieczeństwa dla openSUSE 13.2.</description>
         <description xml:lang="pt_BR">Neste repositório você encontra atualizações de segurança e manutenção para o openSUSE 13.2.</description>
         <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 13.2.</description>
         <description xml:lang="sk">V tomto repozitári nájdete bezpečnostné a opravné aktualizácie pre openSUSE 13.2.</description>
@@ -483,6 +490,7 @@
         <summary xml:lang="ja">非オープンソース用の 13.2 向け公式更新リポジトリ</summary>
         <summary xml:lang="lt">Oficiali 13.2 uždaro kodo atnaujinimų saugykla</summary>
         <summary xml:lang="nl">Installatiebron met officiële niet-vrije pakketten voor het bijwerken naar 13.2</summary>
+        <summary xml:lang="pl">Repozytorium oficjalnych aktualizacji non-free dla systemu openSUSE 13.2</summary>
         <summary xml:lang="pt_BR">Repositório para atualizações oficiais não livres da versão 13.2</summary>
         <summary xml:lang="ru">Репозиторий официальных несвободных обновлений для 13.2</summary>
         <summary xml:lang="sk">Repozitár pre oficiálne neslobodné aktualizácie na 13.2</summary>
@@ -506,6 +514,7 @@
         <description xml:lang="ja">このリポジトリには openSUSE 13.2 用のセキュリティ／メンテナンスアップデートがあります。</description>
         <description xml:lang="lt">Šioje saugykloje rasite openSUSE 13.2 saugumo ir palaikymo atnaujinimus.</description>
         <description xml:lang="nl">In deze installatiebron vindt u zaken voor het bijwerken t.b.v. veiligheid en onderhoud voor openSUSE 13.2.</description>
+        <description xml:lang="pl">To repozytorium zawiera aktualizacje i poprawki bezpieczeństwa dla openSUSE 13.2.</description>
         <description xml:lang="pt_BR">Neste repositório você encontra atualizações de segurança e manutenção para o openSUSE 13.2.</description>
         <description xml:lang="ru">В этом репозитории вы найдёте обновления безопасности и обслуживания для openSUSE 13.2.</description>
         <description xml:lang="sk">V tomto repozitári nájdete bezpečnostné a opravné aktualizácie pre openSUSE 13.2.</description>
@@ -565,6 +574,7 @@
                 <summary xml:lang="ja">デバッグ情報パッケージを含む openSUSE 13.2 の更新リポジトリ</summary>
                 <summary xml:lang="lt">openSUSE 13.2 atnaujinimų saugykla, turinti derinimo informacijos paketus</summary>
                 <summary xml:lang="nl">Installatiebron voor bijwerken van openSUSE 13.2 met debuginfo-pakketten</summary>
+                <summary xml:lang="pl">Repozytorium aktualizacji openSUSE 13.2 zawierające pakiety debuginfo</summary>
                 <summary xml:lang="pt_BR">Repositório de atualizações dos pacotes debuginfo do openSUSE 13.2</summary>
                 <summary xml:lang="ru">Репозиторий обновлений openSUSE 13.2, включающий пакеты debuginfo</summary>
                 <summary xml:lang="sk">Repozitár s aktualizáciami pre openSUSE 13.2, ktorý obsahuje balíky s ladiacimi informáciami (debuginfo)</summary>
@@ -588,6 +598,7 @@
                 <description xml:lang="ja">このリポジトリは、 openSUSE 13.2 のアプリケーションをデバッグする際に便利なリポジトリです。熟練者向けです。</description>
                 <description xml:lang="lt">Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE 13.2. Tik ekspertams.</description>
                 <description xml:lang="nl">Deze bron is bedoeld voor diegenen die fouten in programma's in openSUSE 13.2 willen opsporen. Alleen voor ervaren gebruikers.</description>
+                <description xml:lang="pl">Repozytorium dla tych, którzy pragną debugować programy w openSUSE 13.2. Tylko dla zaawansowanych.</description>
                 <description xml:lang="pt_BR">Este repositório é útil para aqueles que desejam depurar aplicações no openSUSE 13.2. Somente para usuários avançados.</description>
                 <description xml:lang="ru">Этот репозиторий полезен для тех, кто хочет отлаживать приложения на openSUSE 13.2. Только для экспертов.</description>
                 <description xml:lang="sk">Tento repozitár je užitočný pre tých, ktorí chcú ladiť programy na openSUSE 13.2. Len pre expertov.</description>
