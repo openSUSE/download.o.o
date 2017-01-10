@@ -5,10 +5,10 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2016-07-28 22:39+0000\n"
+"PO-Revision-Date: 2017-01-10 11:08+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/download-o-o/"
-"master/ja/>\n"
+"Language-Team: Japanese "
+"<https://l10n.opensuse.org/projects/download-o-o/master/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -849,15 +849,12 @@ msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr "デバッグ情報パッケージを含む openSUSE Leap 42.2 の更新リポジトリ"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr ""
-"オープンソースソフトウエアだけを含む、 openSUSE Leap 42.1 のメインリポジトリ"
+msgstr "オープンソースソフトウエアだけを含む、 openSUSE Leap のメインリポジトリ"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
 #| "giving you access to thousands of packages maintained by the openSUSE "
@@ -866,18 +863,15 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
 "access to thousands of packages maintained by the openSUSE community."
 msgstr ""
-"openSUSE Leap 42.1 向けの巨大なオープンソースのソフトウエアリポジトリ。 "
-"openSUSE コミュニティによって管理されている何千ものパッケージにアクセスするこ"
-"とができます。"
+"openSUSE Leap 向けの巨大なオープンソースのソフトウエアリポジトリ。 openSUSE "
+"コミュニティによって管理されている何千ものパッケージにアクセスすることができます。"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr "非オープンソースパッケージを含む openSUSE Leap 42.1 の追加リポジトリ"
+msgstr "非オープンソースパッケージを含む openSUSE Leap の追加リポジトリ"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE community, including Opera, Steam, "
@@ -886,73 +880,60 @@ msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
 msgstr ""
-"Opera, Steam, Flash などの非オープンソースソフトウエアを含む、 openSUSE コ"
-"ミュニティ管理の openSUSE Leap 42.1 公式リポジトリです。"
+"Opera, Steam などの非オープンソースソフトウエアを含む、 openSUSE コミュニティ管理の openSUSE Leap "
+"公式リポジトリです。"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "openSUSE Leap 42.1 のメインリポジトリ (ソースパッケージ)"
+msgstr "openSUSE Leap のメインリポジトリ (ソースパッケージ)"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE Leap 42.1. For experts "
 #| "only."
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
-msgstr ""
-"openSUSE Leap 42.1 の全てのソースパッケージを含むリポジトリ。熟練者向けです。"
+msgstr "openSUSE Leap の全てのソースパッケージを含むリポジトリ。熟練者向けです。"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr "デバッグ情報パッケージを含む openSUSE Leap 42.1 のメインリポジトリ"
+msgstr "デバッグ情報パッケージを含む openSUSE Leap のメインリポジトリ"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE Leap 42.1. For experts only."
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap. For experts only."
-msgstr ""
-"このリポジトリは openSUSE Leap 42.1 のアプリケーションをデバッグする際に便利"
-"です。熟練者向けです。"
+msgstr "このリポジトリは openSUSE Leap のアプリケーションをデバッグする際に便利です。熟練者向けです。"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to openSUSE Leap 42.1"
 msgid "Repository for official updates to openSUSE Leap"
-msgstr "openSUSE Leap 42.1 用の公式更新リポジトリ"
+msgstr "openSUSE Leap 用の公式更新リポジトリ"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "Leap 42.1."
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
-msgstr ""
-"このリポジトリには、 openSUSE Leap 42.1 用のセキュリティ／メンテナンス更新が"
-"あります。"
+msgstr "このリポジトリには、 openSUSE Leap 用のセキュリティ／メンテナンス更新があります。"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap"
-msgstr "非オープンソース用の openSUSE Leap 42.1 向けの公式更新リポジトリ"
+msgstr "非オープンソース用の openSUSE Leap 向け公式更新リポジトリ"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "デバッグ情報パッケージを含む openSUSE Leap 42.1 の更新リポジトリ"
+msgstr "デバッグ情報パッケージを含む openSUSE Leap の更新リポジトリ"
 
 #, fuzzy
 #~| msgid ""
