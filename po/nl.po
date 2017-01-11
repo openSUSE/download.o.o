@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: community-repositories.nl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2017-01-10 12:24+0000\n"
+"PO-Revision-Date: 2017-01-11 13:04+0000\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch "
 "<https://l10n.opensuse.org/projects/download-o-o/master/nl/>\n"
@@ -959,7 +959,6 @@ msgid "Repository for official updates to openSUSE Leap"
 msgstr "Opslagruimte met officiële items voor het bijwerken van openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "Leap 42.1."
@@ -967,23 +966,20 @@ msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
 msgstr ""
-"In deze installatiebron vindt u zaken voor het bijwerken t.b.v. veiligheid "
-"en onderhoud voor openSUSE Leap 42.1."
+"In deze opslagruimte vindt u zaken voor het bijwerken t.b.v. veiligheid en "
+"onderhoud voor openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap"
 msgstr ""
-"Installatiebron met officiële niet-vrije elementen voor het bijwerken naar "
-"openSUSE Leap 42.1"
+"Opslagruimte met officiële niet-vrije items voor het bijwerken naar openSUSE "
+"Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr ""
-"Installatiebron voor bijwerken van openSUSE Leap 42.1 met debuginfo-pakketten"
+msgstr "Opslagruimte voor bijwerken van openSUSE Leap met debuginfo-pakketten"
 
 #, fuzzy
 #~| msgid ""
