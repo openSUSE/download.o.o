@@ -12,10 +12,10 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2016-08-12 07:47+0000\n"
-"Last-Translator: Marguerite Su <i@marguerite.su>\n"
-"Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/download-"
-"o-o/master/zh_CN/>\n"
+"PO-Revision-Date: 2017-02-01 18:28+0000\n"
+"Last-Translator: 朱 沛俊 <pez33@pitt.edu>\n"
+"Language-Team: Chinese (China) "
+"<https://l10n.opensuse.org/projects/download-o-o/master/zh_CN/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -814,14 +814,12 @@ msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr "openSUSE Leap 42.2 调试信息包更新源"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr "openSUSE Leap 42.1 主软件源，仅包含开源软件"
+msgstr "openSUSE Leap 主软件源，仅包含开源软件"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
 #| "giving you access to thousands of packages maintained by the openSUSE "
@@ -829,18 +827,14 @@ msgstr "openSUSE Leap 42.1 主软件源，仅包含开源软件"
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
 "access to thousands of packages maintained by the openSUSE community."
-msgstr ""
-"庞大的 openSUSE Leap 42.1 开源软件源，提供由 openSUSE 社区维护的数千个软件"
-"包。"
+msgstr "庞大的 openSUSE Leap 开源软件源，提供由 openSUSE 社区维护的数千个软件包。"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr "openSUSE Leap 42.1 非开源软件附加源"
+msgstr "openSUSE Leap 非开源软件附加源"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE community, including Opera, Steam, "
@@ -848,70 +842,59 @@ msgstr "openSUSE Leap 42.1 非开源软件附加源"
 msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
-msgstr ""
-"openSUSE Leap 42.1 全部非开源软件的官方源，由 openSUSE 社区维护，包括 Opera、"
-"Steam、Flash 等。"
+msgstr "openSUSE Leap 全部非开源软件的官方源，由 openSUSE 社区维护，包括 Opera、Steam 等。"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "openSUSE Leap 42.1 主软件源 (源代码)"
+msgstr "openSUSE Leap 主软件源 (源代码)"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE Leap 42.1. For experts "
 #| "only."
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
-msgstr "openSUSE Leap 42.1 全部源代码包的软件源。仅供专家使用。"
+msgstr "openSUSE Leap 全部源代码包的软件源。仅供专家使用。"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr "openSUSE Leap 42.1 主软件源包含调试信息包"
+msgstr "openSUSE Leap 主软件源包含调试信息包"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE Leap 42.1. For experts only."
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap. For experts only."
-msgstr ""
-"本软件源只对那些想要在 openSUSE Leap 42.1 中调试程序的人有用。仅供专家使用。"
+msgstr "本软件源只对那些想要在 openSUSE Leap 中调试程序的人有用。仅供专家使用。"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to openSUSE Leap 42.1"
 msgid "Repository for official updates to openSUSE Leap"
-msgstr "openSUSE Leap 42.1 官方更新源"
+msgstr "openSUSE Leap 官方更新源"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "Leap 42.1."
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
-msgstr "在此软件源中您可找到 openSUSE Leap 42.1 的安全和维护更新。"
+msgstr "在此软件源中您可找到 openSUSE Leap 的安全和维护更新。"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap"
-msgstr "openSUSE Leap 42.1 官方非开源软件更新源"
+msgstr "openSUSE Leap 官方非开源软件更新源"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "openSUSE Leap 42.1 调试信息包更新源"
+msgstr "openSUSE Leap 调试信息包更新源"
 
 #, fuzzy
 #~| msgid ""
