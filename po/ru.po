@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: community-repositories.ru\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2017-01-10 10:26+0000\n"
+"PO-Revision-Date: 2017-03-10 11:51+0000\n"
 "Last-Translator: Alex Minton <alex239@gmail.com>\n"
 "Language-Team: Russian "
 "<https://l10n.opensuse.org/projects/download-o-o/master/ru/>\n"
@@ -939,7 +939,6 @@ msgid "Main repository of openSUSE Leap including the debuginfo packages"
 msgstr "Основной репозиторий openSUSE Leap, включающий пакеты debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE Leap 42.1. For experts only."
@@ -948,16 +947,14 @@ msgid ""
 "openSUSE Leap. For experts only."
 msgstr ""
 "Этот репозиторий полезен для тех, кто хочет отлаживать приложения на "
-"openSUSE Leap 42.1. Только для экспертов."
+"openSUSE Leap. Только для экспертов."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to openSUSE Leap 42.1"
 msgid "Repository for official updates to openSUSE Leap"
-msgstr "Репозиторий официальных обновлений для openSUSE Leap 42.1"
+msgstr "Репозиторий официальных обновлений для openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "Leap 42.1."
@@ -966,19 +963,17 @@ msgid ""
 "Leap."
 msgstr ""
 "В этом репозитории вы найдёте обновления безопасности и обслуживания для "
-"openSUSE Leap 42.1."
+"openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap"
-msgstr "Репозиторий официальных несвободных обновлений для openSUSE Leap 42.1"
+msgstr "Репозиторий официальных несвободных обновлений для openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "Репозиторий обновлений openSUSE Leap 42.1, включающий пакеты debuginfo"
+msgstr "Репозиторий обновлений openSUSE Leap, включающий пакеты debuginfo"
 
 #, fuzzy
 #~| msgid ""
