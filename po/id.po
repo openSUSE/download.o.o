@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: Indonesian (download.o.o)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2016-10-23 12:04+0000\n"
-"Last-Translator: M. Edwin Zakaria <medwin@opensuse.org>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/download-o-o/"
-"master/id/>\n"
+"PO-Revision-Date: 2017-04-17 04:13+0000\n"
+"Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
+"Language-Team: Indonesian "
+"<https://l10n.opensuse.org/projects/download-o-o/master/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -877,16 +877,14 @@ msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgid "Main repository of openSUSE Leap including only Open Source Software"
 msgstr ""
-"Repositori utama openSUSE Leap 42.1 yang hanya berisi Perangkat Lunak Sumber "
+"Repositori utama openSUSE Leap yang hanya berisi Perangkat Lunak Sumber "
 "Terbuka"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
 #| "giving you access to thousands of packages maintained by the openSUSE "
@@ -895,20 +893,16 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
 "access to thousands of packages maintained by the openSUSE community."
 msgstr ""
-"Repositori Perangkat Lunak Sumber Terbuka (OSS) besar untuk openSUSE Leap "
-"42.1, memberikan Anda akses ke ribuan paket yang dikelola oleh komunitas "
-"openSUSE."
+"Repositori Perangkat Lunak Sumber Terbuka (OSS) besar untuk openSUSE Leap, "
+"memberikan Anda akses ke ribuan paket yang dikelola oleh komunitas openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgstr ""
-"Repositori Perangkat Lunak Bukan Sumber Terbuka Tambahan untuk openSUSE Leap "
-"42.1"
+"Repositori Perangkat Lunak Bukan Sumber Terbuka Tambahan untuk openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
 #| "Software maintained by the openSUSE community, including Opera, Steam, "
@@ -917,36 +911,32 @@ msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
 msgstr ""
-"Repositori openSUSE 13.1 resmi untuk semua Perangkat Lunak Bukan Sumber "
-"Terbuka yang dikelola oleh komunitas openSUSE, berisi Opera, Steam, Flash "
-"dan lainnya."
+"Repositori openSUSE Leap resmi untuk semua Perangkat Lunak Bukan Sumber "
+"Terbuka yang dikelola oleh komunitas openSUSE, berisi Opera, Steam, dan "
+"lainnya."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "Repositori utama openSUSE Leap 42.1 (Paket-paket Sumber)"
+msgstr "Repositori utama openSUSE Leap (Paket-paket Sumber)"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE Leap 42.1. For experts "
 #| "only."
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
 msgstr ""
-"Repositori dari semua paket sumber di openSUSE Leap 42.1. Untuk pengguna "
-"ahli saja."
+"Repositori dari semua paket sumber di openSUSE Leap. Untuk pengguna ahli "
+"saja."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-#, fuzzy
 #| msgid ""
 #| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr "Repositori utama openSUSE Leap 42.1 yang berisi paket-paket debuginfo"
+msgstr "Repositori utama openSUSE Leap yang berisi paket-paket debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE Leap 42.1. For experts only."
@@ -955,16 +945,14 @@ msgid ""
 "openSUSE Leap. For experts only."
 msgstr ""
 "Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap "
-"aplikasi pada openSUSE Leap 42.1. Untuk pengguna ahli saja."
+"aplikasi pada openSUSE Leap. Untuk pengguna ahli saja."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to openSUSE Leap 42.1"
 msgid "Repository for official updates to openSUSE Leap"
-msgstr "Repositori pembaruan resmi untuk openSUSE Leap 42.1"
+msgstr "Repositori pembaruan resmi untuk openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "Leap 42.1."
@@ -973,21 +961,18 @@ msgid ""
 "Leap."
 msgstr ""
 "Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan "
-"untuk openSUSE Leap 42.1."
+"untuk openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap"
 msgstr ""
-"Repositori pembaruan resmi perangkat lunak tidak bebas untuk openSUSE Leap "
-"42.1"
+"Repositori pembaruan resmi perangkat lunak tidak bebas untuk openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE Leap 42.1"
+msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE Leap"
 
 #, fuzzy
 #~| msgid ""
