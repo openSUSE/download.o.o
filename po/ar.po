@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: community-repositories.ar\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2017-03-13 07:07+0000\n"
+"PO-Revision-Date: 2017-05-09 12:23+0000\n"
 "Last-Translator: mohammad alhargan <malham1@gmail.com>\n"
 "Language-Team: Arabic "
 "<https://l10n.opensuse.org/projects/download-o-o/master/ar/>\n"
@@ -45,8 +45,8 @@ msgid ""
 "the unsupported but latest version of the LX desktop environment and "
 "software."
 msgstr ""
-"مستودع LXDE في أوبن سوزي خدمة البناء، مما يوفر لك استخدام الإصدار غير معتمد "
-"ولكن أحدث LX بيئة سطح المكتب والبرامج."
+"مستودع LXDE في أوبن سوزي خدمة البناء، مما يوفر لك استخدام إصدار غير معتمد "
+"ولكن أحدث بيئة سطح مكتب LX والبرامج."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:4
@@ -60,7 +60,7 @@ msgstr "خدمة بناء أوبن سوزي-- ليبر أوفيس"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:5
 msgid "Latest stable LibreOffice release"
-msgstr "أحدث إصداره مستقرة من ليبريوفيسي"
+msgstr "أحدث إصداره مستقرة من ليبر أوفيس"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:6
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:6
@@ -70,7 +70,7 @@ msgid ""
 "Provides you with the latest stable version of LibreOffice, the Office suite "
 "that openSUSE uses."
 msgstr ""
-"يزودك بأحدث نسخة مستقرة من ليبريوفيسي، المكتب الرئيسي المستخدم في أوبن سوزي."
+"يزودك بأحدث نسخة مستقرة من ليبر أوفيس المكتب الرئيسي المستخدم في أوبن سوزي."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:7
@@ -154,7 +154,7 @@ msgstr "خدمة بناء أوبن سوزي-- تعريف كاميرات الوي
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
-msgstr "التعريفات الحديثة لكاميرا الانترنت"
+msgstr "أحدث تعريفات كاميرا الانترنت"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
@@ -301,21 +301,21 @@ msgstr "مستودع مجتمع وحدات بيرل"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
-msgstr "التحديثات والإضافات لوحدات Perl"
+msgstr "تحديثات وإضافات لوحدات بيرل"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:31
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:31
 msgid "openSUSE BuildService - devel:languages:python"
-msgstr "خدمة بناء أوبن سوزي-- مجموعة:لغات:python"
+msgstr "خدمة بناء أوبن سوزي-- مجموعة:لغات:بايثون"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
 msgid "Community repository for Python modules"
-msgstr "مستودع مجتمع gوحدات بايثون"
+msgstr "مستودع مجتمع لوحدات بايثون"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:39
@@ -372,7 +372,7 @@ msgstr "يحتوي على العديد من الحزم للاستخدام الت
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:43
 msgid "openSUSE BuildService - KDE:KDE3"
-msgstr "خدمة بناء أوبن سوزي-- كدي:KDE3"
+msgstr "خدمة بناء أوبن سوزي-- كدي:كدي3"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:50
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:50
@@ -409,11 +409,10 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"مستودع البرمجيات حرة المصادر (OSS) الكبرى لاوبن سوزي 13.1، تتيح لك الوصول "
-"إلى آلاف الحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، "
-"مضيفا انها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة الوصول "
-"العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت "
-"التركيب.)"
+"مستودع البرمجيات حرة المصادر (OSS) الكبرى لاوبن سوزي 13.1، تتيح الوصول ﻻلاف "
+"الحزم التي يحتفظ بها فريق اوبن سوزي. (نظرا لحجم المستودع ، فانه سيستغرق بعض "
+"الوقت لإضافته ويتستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP "
+"نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التنصيب.)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
@@ -472,8 +471,7 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
 msgstr ""
-"هذا المستودع مفيد للذين يريدون تصحيح التطبيقات على أوبن سوزي 13.1. للخبراء "
-"فقط."
+"هذا المستودع مفيد للذين يريدون تصحيح تطبيقات أوبن سوزي 13.1. للخبراء فقط."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -550,11 +548,10 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"مستودع البرمجيات حرة المصادر (OSS) الكبرى لاوبن سوزي 13.2، تتيح لك الوصول "
-"إلى آلاف الحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، "
-"مضيفا انها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة الوصول "
-"العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت "
-"التركيب.)"
+"مستودع البرمجيات حرة المصدر الكبير (OSS) لاوبن سوزي 13.2، يتيح لك الوصول "
+"ﻻلاف الحزم التي يحتفظ بها فريق اوبن سوزي. (نظرا لحجم المستودع ، فإن إضافته "
+"تستغرق بعض الوقت  ويستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم "
+"SWAP نوصى بشده بالوصول لهذا المستودع اثناء وقت التنصيب.)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
@@ -622,9 +619,9 @@ msgid ""
 "this repository at installation time.)"
 msgstr ""
 "مستودع البرمجيات الحرة (OSS) الكبرى لاوبن سوزي تتيح الوصول إلى آلاف الحزم "
-"التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع، فإنها قد تستغرق بعض "
-"الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP "
-"نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)"
+"التي يحتفظ بها فريق اوبن سوزي. (نظرا لحجم المستودع ، فإن إضافته تستغرق بعض "
+"الوقت  ويستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP نوصى "
+"بشده بالوصول لهذا المستودع اثناء وقت التنصيب.)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
@@ -657,8 +654,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
-"هذا المخزن مفيد لأولئك الذين يرغبون في تصحيح التطبيقات على أوبن سوزي "
-"Tumbleweed. للخبراء فقط."
+"هذا المستودع مفيد لمن يرغب في تصحيح التطبيقات على أوبن سوزي Tumbleweed. "
+"للخبراء فقط."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
@@ -704,7 +701,7 @@ msgstr "المستودع الرئيسي للأوبن سوزي Leap 42.1 (حزم 
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
-msgstr "مستودع لجميع حزم مصدر في أوبن سوزي Leap 42.1. للخبراء فقط."
+msgstr "مستودع لجميع مصادر حزم أوبن سوزي Leap 42.1. للخبراء فقط."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
@@ -715,8 +712,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
-"هذا المخزون هو مفيد لأولئك الذين يرغبون في تصحيح التطبيقات على أوبن سوزي "
-"Leap 42.1. للخبراء فقط."
+"هذا المستودع مفيد لمن يرغب في تصحيح التطبيقات على أوبن سوزي Leap 42.1. "
+"للخبراء فقط."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
@@ -804,8 +801,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
-"هذا المخزن مفيد لمن يرغب في تصحيح التطبيقات على أوبن سوزي Leap 42.2. للخبراء "
-"فقط."
+"هذا المستودع مفيد لمن يرغب في تصحيح التطبيقات على أوبن سوزي Leap 42.2. "
+"للخبراء فقط."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
@@ -886,7 +883,7 @@ msgstr "المستودع الرئيسي للأوبن سوزي Leap بما في �
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap. For experts only."
-msgstr "هذا المخزون لمن يرغب بتصحيح التطبيقات على أوبن سوزي Leap  للخبراء فقط."
+msgstr "هذا المستودع لمن يرغب بتصحيح التطبيقات على أوبن سوزي Leap  للخبراء فقط."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #| msgid "Repository for official updates to openSUSE Leap 42.1"
