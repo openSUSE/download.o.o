@@ -66,7 +66,7 @@
         <summary xml:lang="zh_CN">openSUSE Tumbleweed 主软件源，仅包含开源软件</summary>
         <summary xml:lang="zh_TW">openSUSE Tumbleweed 的主要套件庫，僅包含開放原碼的軟體</summary>
         <description>The big Open Source Software (OSS) repository for openSUSE, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
-        <description xml:lang="ar">مستودع البرمجيات الحرة (OSS) الكبرى لاوبن سوزي تتيح الوصول إلى آلاف الحزم التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع، فإنها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)</description>
+        <description xml:lang="ar">مستودع البرمجيات الحرة (OSS) الكبرى لاوبن سوزي تتيح الوصول إلى آلاف الحزم التي يحتفظ بها فريق اوبن سوزي. (نظرا لحجم المستودع ، فإن إضافته تستغرق بعض الوقت  ويستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول لهذا المستودع اثناء وقت التنصيب.)</description>
         <description xml:lang="ca">El gran repositori de programari de codi obert (Open Source Software (OSS)) per a l'openSUSE, que us dóna accés a milers de paquets mantinguts per l'equip d'openSUSE. (A causa de la mida del repositori, afegir-lo pot trigar força estona. És molt recomanable tenir un mínim de 512 MB de RAM o una partició d'intercanvi activa en cas que hi vulgueu accedir durant la instal·lació.)</description>
         <description xml:lang="cs">Velký repozitář se softwarem s otevřeným kódem pro openSUSE Factory vám dává přístup k tisícům balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti tohoto repozitáře může jeho přidání vyžadovat delší čas. Pokud k repozitáři chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní odkládací oddíl.)</description>
         <description xml:lang="da">Den store open source softwarekilde (OSS) til openSUSE, som giver dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. 512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have adgang til denne softwarekilde under installation.)</description>
@@ -332,7 +332,7 @@
         <summary xml:lang="zh_CN">openSUSE Tumbleweed 主软件源包含调试信息包</summary>
         <summary xml:lang="zh_TW">openSUSE Tumbleweed 的主要套件庫，包含偵錯套件</summary>
         <description>This repository is useful for those that want to debug applications on openSUSE Tumbleweed. For experts only.</description>
-        <description xml:lang="ar">هذا المخزن مفيد لأولئك الذين يرغبون في تصحيح التطبيقات على أوبن سوزي Tumbleweed. للخبراء فقط.</description>
+        <description xml:lang="ar">هذا المستودع مفيد لمن يرغب في تصحيح التطبيقات على أوبن سوزي Tumbleweed. للخبراء فقط.</description>
         <description xml:lang="ca">Aquest repositori és útil per a qui vulgui depurar aplicacions a l'openSUSE Tumbleweed. Només per a experts.</description>
         <description xml:lang="cs">Tento repozitář je užitečný pro všechny, kdo chtějí ladit aplikace pro openSUSE Tumbleweed. Určeno pouze pro experty.</description>
         <description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE Tumbleweed. Kun for eksperter.</description>

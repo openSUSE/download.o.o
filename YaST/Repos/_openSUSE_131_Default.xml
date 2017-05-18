@@ -70,7 +70,7 @@
 		<summary xml:lang="zh_CN">openSUSE 13.1 主软件源，仅包含开源软件</summary>
 		<summary xml:lang="zh_TW">openSUSE 13.1 的主要套件庫，僅包含開放原碼的軟體</summary>
 		<description>The big Open Source Software (OSS) repository for openSUSE 13.1, giving you access to thousands of packages maintained by the openSUSE team. (Due to the size of the repository, adding it may take some time. 512 MB of RAM or an enabled SWAP partition are highly recommended in case you want to access this repository at installation time.)</description>
-		<description xml:lang="ar">مستودع البرمجيات حرة المصادر (OSS) الكبرى لاوبن سوزي 13.1، تتيح لك الوصول إلى آلاف الحزمه التي يحتفظ بها فريق اوبن سوزي. (ونظرا الى حجم المستودع ، مضيفا انها قد تستغرق بعض الوقت لإضافتها وتستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التركيب.)</description>
+		<description xml:lang="ar">مستودع البرمجيات حرة المصادر (OSS) الكبرى لاوبن سوزي 13.1، تتيح الوصول ﻻلاف الحزم التي يحتفظ بها فريق اوبن سوزي. (نظرا لحجم المستودع ، فانه سيستغرق بعض الوقت لإضافته ويتستهلك 512 ميغابايت من ذاكرة الوصول العشوائي او من قسم SWAP نوصى بشده بالوصول إلى هذه المستودعات اثناء وقت التنصيب.)</description>
 		<description xml:lang="ca">El repositori Open Source Software (OSS) per a l'openSUSE 13.1, que us dóna accés a milers de paquets mantinguts per l'equip d'openSUSE. (A causa de la mida del repositori, afegir-lo pot trigar força estona. És molt recomanable tenir una partició d'intercanvi activa o un mínim de 512 MB de RAM en cas que hi vulgueu accedir durant la instal·lació.)</description>
 		<description xml:lang="cs">Velký repozitář OSS - softwaru s otevřeným zdrojovým kódem - pro openSUSE 13.1, který vám zpřístupní tisíce balíčků, spravovaných týmem openSUSE. (Z důvodu velikosti repozitáře může jeho přidání trvat nějakou dobu. Pokud chcete tento repozitář využít po čas instalace, důrazně doporučujeme 512 MB RAM nebo zapnutý odkládací oddíl.)</description>
 		<description xml:lang="da">Den store open source softwarekilde (OSS) til openSUSE 13.1, som giver dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. 512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have adgang til denne softwarekilde under installation.)</description>
@@ -350,7 +350,7 @@
 		<summary xml:lang="zh_CN">openSUSE 13.1 主软件源包含调试信息包</summary>
 		<summary xml:lang="zh_TW">openSUSE 13.1 的主要套件庫，包含偵錯套件</summary>
 		<description>This repository is useful for those that want to debug applications on openSUSE 13.1. For experts only.</description>
-		<description xml:lang="ar">هذا المستودع مفيد للذين يريدون تصحيح التطبيقات على أوبن سوزي 13.1. للخبراء فقط.</description>
+		<description xml:lang="ar">هذا المستودع مفيد للذين يريدون تصحيح تطبيقات أوبن سوزي 13.1. للخبراء فقط.</description>
 		<description xml:lang="ca">Aquest repositori és útil per a qui vulgui depurar aplicacions a l'openSUSE 13.1. Només per a experts.</description>
 		<description xml:lang="cs">Tento repozitář je užitečný pro ty, kdo chtějí v openSUSE 13.1 ladit aplikace. Jen pro zkušené uživatele.</description>
 		<description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE 13.1. Kun for eksperter.</description>
@@ -613,7 +613,7 @@
                 <summary xml:lang="zh_CN">openSUSE 13.1 调试信息包的主升级源</summary>
                 <summary xml:lang="zh_TW">openSUSE 13.1 的主要套件庫，包含偵錯套件</summary>
                 <description>This repository is useful for those that want to debug applications on openSUSE 13.1. For experts only.</description>
-                <description xml:lang="ar">هذا المستودع مفيد للذين يريدون تصحيح التطبيقات على أوبن سوزي 13.1. للخبراء فقط.</description>
+                <description xml:lang="ar">هذا المستودع مفيد للذين يريدون تصحيح تطبيقات أوبن سوزي 13.1. للخبراء فقط.</description>
                 <description xml:lang="ca">Aquest repositori és útil per a qui vulgui depurar aplicacions a l'openSUSE 13.1. Només per a experts.</description>
                 <description xml:lang="cs">Tento repozitář je užitečný pro ty, kdo chtějí v openSUSE 13.1 ladit aplikace. Jen pro zkušené uživatele.</description>
                 <description xml:lang="da">Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på openSUSE 13.1. Kun for eksperter.</description>

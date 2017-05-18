@@ -75,7 +75,7 @@
         <summary xml:lang="zh_CN">最新 LXDE 桌面环境</summary>
         <summary xml:lang="zh_TW">最新釋出的 LXDE</summary>
         <description>The LXDE repository in the openSUSE Build Service, which provides you with the unsupported but latest version of the LX desktop environment and software.</description>
-        <description xml:lang="ar">مستودع LXDE في أوبن سوزي خدمة البناء، مما يوفر لك استخدام الإصدار غير معتمد ولكن أحدث LX بيئة سطح المكتب والبرامج.</description>
+        <description xml:lang="ar">مستودع LXDE في أوبن سوزي خدمة البناء، مما يوفر لك استخدام إصدار غير معتمد ولكن أحدث بيئة سطح مكتب LX والبرامج.</description>
         <description xml:lang="ast">El repositoriu LXDE nel serviciu de construcción d'OpenSUSE forne la cabera versión pero ensin sofitu del entornu d'escritoriu y software LX.</description>
         <description xml:lang="bs">LXDE repositoriji u openSUSE Build Service, gdje se nalaze nepodržana, ali zadnja verzija od LX Desktopa i  softwara.</description>
         <description xml:lang="ca">El repositori d'LXDE de l'openSUSE Build Service, que proporciona l'última versió, però sense suport, de l'entorn d'escriptori i programari d'LX.</description>
@@ -146,7 +146,7 @@
         <name xml:lang="zh_CN">openSUSE 编译服务 - LibreOffice</name>
         <name xml:lang="zh_TW">openSUSE BuildService - LibreOffice</name>
         <summary>Latest stable LibreOffice release</summary>
-        <summary xml:lang="ar">أحدث إصداره مستقرة من ليبريوفيسي</summary>
+        <summary xml:lang="ar">أحدث إصداره مستقرة من ليبر أوفيس</summary>
         <summary xml:lang="ast">El llanzamientu caberu de LibreOffice</summary>
         <summary xml:lang="bs">zadnji stabilni LibreOffice release</summary>
         <summary xml:lang="ca">Última versió estable del LibreOffice</summary>
@@ -181,7 +181,7 @@
         <summary xml:lang="zh_CN">最新稳定版本的 LibreOffice</summary>
         <summary xml:lang="zh_TW">最新釋出的穩定版 LibreOffice</summary>
         <description>Provides you with the latest stable version of LibreOffice, the Office suite that openSUSE uses.</description>
-        <description xml:lang="ar">يزودك بأحدث نسخة مستقرة من ليبريوفيسي، المكتب الرئيسي المستخدم في أوبن سوزي.</description>
+        <description xml:lang="ar">يزودك بأحدث نسخة مستقرة من ليبر أوفيس المكتب الرئيسي المستخدم في أوبن سوزي.</description>
         <description xml:lang="ast">Forne la cabera versión de LibreOffice, la suit d'oficina qu'OpenSUSE usa.</description>
         <description xml:lang="bs">zadnja stabilna verzija od LibreOffice, Office suite koji koristi openSUSE.</description>
         <description xml:lang="ca">Us proporciona les últimes versions estables de LibreOffice, la suite ofimàtica que ultiliza openSUSE.</description>
@@ -1095,7 +1095,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <summary xml:lang="zh_CN">Perl 模块社区源</summary>
         <summary xml:lang="zh_TW">Perl 模組的社群套件庫</summary>
         <description>Updates and Additions for Perl modules</description>
-        <description xml:lang="ar">التحديثات والإضافات لوحدات Perl</description>
+        <description xml:lang="ar">تحديثات وإضافات لوحدات بيرل</description>
         <description xml:lang="ast">Anovamientos y amiestos pa módulos Perl</description>
         <description xml:lang="ca">Actualitzacions i addicions per a mòduls Perl</description>
         <description xml:lang="cs">Aktualizace a rozšíření pro moduly Perl</description>
@@ -1131,7 +1131,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
       </repository>
       <repository recommended="false" format="yast">
         <name>openSUSE BuildService - devel:languages:python</name>
-        <name xml:lang="ar">خدمة بناء أوبن سوزي-- مجموعة:لغات:python</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- مجموعة:لغات:بايثون</name>
         <name xml:lang="ast">Serviciu de construcción d'OpenSUSE - devel:languages:python</name>
         <name xml:lang="ca">Servei de construcció de l'openSUSE - devel:languages:python</name>
         <name xml:lang="cs">openSUSE BuildService - devel:languages:python</name>
@@ -1164,7 +1164,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <name xml:lang="zh_CN">openSUSE 编译服务 - Python 开发源</name>
         <name xml:lang="zh_TW">openSUSE BuildService - devel:languages:python</name>
         <summary>Community repository for Python modules</summary>
-        <summary xml:lang="ar">مستودع مجتمع gوحدات بايثون</summary>
+        <summary xml:lang="ar">مستودع مجتمع لوحدات بايثون</summary>
         <summary xml:lang="ast">Repositoriu comunitariu pa módulos Python</summary>
         <summary xml:lang="ca">Repositoris de comunitat per a mòduls Python</summary>
         <summary xml:lang="cs">Komunitní repozitář pro moduly Python</summary>
@@ -1542,7 +1542,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
       </repository>
       <repository recommended="false" format="rpm-md">
         <name>openSUSE BuildService - KDE:KDE3</name>
-        <name xml:lang="ar">خدمة بناء أوبن سوزي-- كدي:KDE3</name>
+        <name xml:lang="ar">خدمة بناء أوبن سوزي-- كدي:كدي3</name>
         <name xml:lang="ast">Serviciu de construcción d'OpenSUSE - KDE:KDE3</name>
         <name xml:lang="ca">Servei de construcció de l'openSUSE - KDE:KDE3</name>
         <name xml:lang="cs">openSUSE BuildService - KDE:KDE3</name>
