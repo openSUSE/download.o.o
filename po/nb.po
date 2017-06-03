@@ -10,15 +10,16 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2013-10-04 17:47+0200\n"
-"Last-Translator: Olav Pettershagen <olpetter@bbnett.no>\n"
-"Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
+"PO-Revision-Date: 2017-06-03 13:16+0000\n"
+"Last-Translator: Andreas Saga Romsdal <trash@ehtele.com>\n"
+"Language-Team: Norwegian Bokmål "
+"<https://l10n.opensuse.org/projects/download-o-o/master/nb/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -557,15 +558,13 @@ msgid "Provides uptodate Java packages (Factory backports)"
 msgstr "Inneholder oppdaterte Java-pakker (tilbakeporteringer fra Factory)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:2
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including only Open Source Software"
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
 msgstr ""
-"Hovedpakkebrønn for openSUSE 12.2 som kun inneholder programvare med åpen "
+"Hovedpakkebrønn for openSUSE 13.2 som kun inneholder programvare med åpen "
 "kildekode"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE 12.2, giving "
 #| "you access to thousands of packages maintained by the openSUSE team. (Due "
@@ -579,21 +578,19 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"Den store pakkebrønnen for åpen kildekode (OSS) for openSUSE 12.2 gir deg "
+"Den store pakkebrønnen for åpen kildekode (OSS) for openSUSE 13.2 gir deg "
 "tilgang til tusenvis av pakker som vedlikeholdes av openSUSE-gruppen. (På "
 "grunn av størrelsen kan det ta en stund å legge til pakkebrønnen (512 MB RAM "
-"eller en aktivert veksleminnepartisjon anbefales sterkt hvis du ønsker "
+"eller en aktivert vekselsminnepartisjon anbefales sterkt hvis du ønsker "
 "tilgang til denne pakkebrønnen under installasjonen)."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
 msgstr ""
-"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE 13.1"
+"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE 12.2 repository for all Non-Open Source Software "
 #| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -601,36 +598,32 @@ msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
-"Den offisielle openSUSE 12.2-pakkebrønnen for all programvare uten åpen "
+"Den offisielle openSUSE 13.2-pakkebrønnen for all programvare uten åpen "
 "kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, Java, "
 "Flash og mye mer."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 (Source packages)"
 msgid "Main repository of openSUSE 13.2 (Source packages)"
-msgstr "Hovedpakkebrønn for openSUSE 12.2 (kildekodepakker)"
+msgstr "Hovedpakkebrønn for openSUSE 13.2 (kildekodepakker)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE 12.2. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr ""
-"Pakkebrønn for alle kildekodepakker for openSUSE 12.2. Bare for avanserte "
+"Pakkebrønn for alle kildekodepakker for openSUSE 13.2. Bare for avanserte "
 "brukere."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
 msgstr ""
-"Hovedpakkebrønn for openSUSE 12.2 som inneholder pakker med "
+"Hovedpakkebrønn for openSUSE 13.2 som inneholder pakker med "
 "feilsøkingsinformasjon"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE 12.2. For experts only."
@@ -639,16 +632,14 @@ msgid ""
 "openSUSE 13.2. For experts only."
 msgstr ""
 "Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE "
-"12.2. Kun for avanserte brukere."
+"13.2. Kun for avanserte brukere."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to 13.1"
 msgid "Repository for official updates to 13.2"
-msgstr "Pakkebrønn for offisielle oppdateringer til 13.1"
+msgstr "Pakkebrønn for offisielle oppdateringer til 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "13.1."
@@ -657,35 +648,31 @@ msgid ""
 "13.2."
 msgstr ""
 "I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer til "
-"openSUSE 13.1."
+"openSUSE 13.2."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to 13.1"
 msgid "Repository for official non free updates to 13.2"
 msgstr ""
 "Pakkebrønn for offisielle oppdateringer for pakker uten åpen kildekode til "
-"13.1"
+"13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE 12.2 debuginfo packages"
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr ""
-"Oppdateringspakkebrønn for openSUSE 12.2 som inneholder pakker med "
+"Oppdateringspakkebrønn for openSUSE 13.2 som inneholder pakker med "
 "feilsøkingsinformasjon"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr ""
-"Hovedpakkebrønn for openSUSE 12.2 som kun inneholder programvare med åpen "
-"kildekode"
+"Hovedpakkebrønn for openSUSE Tumbleweed som kun inneholder programvare med "
+"åpen kildekode"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
-#, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE 12.2, giving "
 #| "you access to thousands of packages maintained by the openSUSE team. (Due "
@@ -699,21 +686,20 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"Den store pakkebrønnen for åpen kildekode (OSS) for openSUSE 12.2 gir deg "
-"tilgang til tusenvis av pakker som vedlikeholdes av openSUSE-gruppen. (På "
-"grunn av størrelsen kan det ta en stund å legge til pakkebrønnen (512 MB RAM "
-"eller en aktivert veksleminnepartisjon anbefales sterkt hvis du ønsker "
-"tilgang til denne pakkebrønnen under installasjonen)."
+"Den store pakkebrønnen for åpen kildekode (OSS) for openSUSE gir deg tilgang "
+"til tusenvis av pakker som vedlikeholdes av openSUSE-gruppen. (På grunn av "
+"størrelsen kan det ta en stund å legge til pakkebrønnen (512 MB RAM eller en "
+"aktivert veksleminnepartisjon anbefales sterkt hvis du ønsker tilgang til "
+"denne pakkebrønnen under installasjonen)."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr ""
-"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE 12.2"
+"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE "
+"Tumbleweed"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE 12.2 repository for all Non-Open Source Software "
 #| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -721,37 +707,33 @@ msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
-"Den offisielle openSUSE 12.2-pakkebrønnen for all programvare uten åpen "
-"kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, Java, "
+"Den offisielle openSUSE Tumbleweed pakkebrønnen for all programvare uten "
+"åpen kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, "
 "Flash og mye mer."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 (Source packages)"
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr "Hovedpakkebrønn for openSUSE 12.2 (kildekodepakker)"
+msgstr "Hovedpakkebrønn for openSUSE Tumbleweed (kildekodepakker)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE 12.2. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
-"Pakkebrønn for alle kildekodepakker for openSUSE 12.2. Bare for avanserte "
-"brukere."
+"Pakkebrønn for alle kildekodepakker for openSUSE Tumbleweed. Bare for "
+"avanserte brukere."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
 msgstr ""
-"Hovedpakkebrønn for openSUSE 12.2 som inneholder pakker med "
+"Hovedpakkebrønn for openSUSE Tumbleweed som inneholder pakker med "
 "feilsøkingsinformasjon"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE 12.2. For experts only."
@@ -760,42 +742,43 @@ msgid ""
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
 "Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE "
-"12.2. Kun for avanserte brukere."
+"Tumbleweed. Kun for avanserte brukere."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 msgid "Official update repository for Tumbleweed"
-msgstr ""
+msgstr "Offisiel pakkebrønn for Tumbleweed oppdateringer"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
 msgstr ""
+"Denne pakkebrønnen tilbyr hasteoppdateringer inntil de blir integrert i "
+"hovedpakkebrønnene."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.1 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr ""
-"Hovedpakkebrønn for openSUSE 12.1 som kun inneholder programvare med åpen "
-"kildekode"
+"Hovedpakkebrønn for openSUSE Leap 42.1 som kun inneholder programvare med "
+"åpen kildekode"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"Den åpne kildekode pakkebrønnen for openSUSE Leap 42.1, gir deg tilgang til "
+"tusenvis av program vedlikeholdt av openSUSE-fellesskapet."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr ""
-"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE 12.1"
+"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE 12.1 repository for all Non-Open Source Software "
 #| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -804,37 +787,33 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"Den offisielle openSUSE 12.1-pakkebrønnen for all programvare uten åpen "
-"kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, Java, "
+"Den offisielle openSUSE Leap 42.1 pakkebrønnen for all programvare uten åpen "
+"kildekode som vedlikeholdes av openSUSE samfunnet, blant annet Opera, Steam, "
 "Flash og mye mer."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.1 (Source packages)"
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr "Hovedpakkebrønn for openSUSE 12.1 (kildekodepakker)"
+msgstr "Hovedpakkebrønn for openSUSE Leap 42.1 (kildekodepakker)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE 12.1. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
-"Pakkebrønn for alle kildekodepakker til openSUSE 12.1. Bare for avanserte "
-"brukere."
+"Pakkebrønn for alle kildekodepakker til openSUSE Leap 42.1. Bare for "
+"avanserte brukere."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgstr ""
-"Hovedpakkebrønn for openSUSE 12.1 som inneholder pakker med "
+"Hovedpakkebrønn for openSUSE Leap 42.1 som inneholder pakker med "
 "feilsøkingsinformasjon"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE 12.1. For experts only."
@@ -842,17 +821,15 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
-"Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE "
-"12.1. Kun for avanserte brukere."
+"Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE Leap "
+"42.1. Kun for avanserte brukere."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to 12.1"
 msgid "Repository for official updates to openSUSE Leap 42.1"
-msgstr "Pakkebrønn for offisielle oppdateringer til 12.1"
+msgstr "Pakkebrønn for offisielle oppdateringer til openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "12.1."
@@ -861,39 +838,34 @@ msgid ""
 "Leap 42.1."
 msgstr ""
 "I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer til "
-"openSUSE 12.1."
+"openSUSE Leap 42.1."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr ""
 "Pakkebrønn for offisielle oppdateringer for pakker uten åpen kildekode til "
-"12.3"
+"openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE 12.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr ""
-"Oppdateringspakkebrønn for openSUSE 12.1 som inneholder pakker med "
+"Oppdateringspakkebrønn for openSUSE Leap 42.1 som inneholder pakker med "
 "feilsøkingsinformasjon"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
 msgid "Untested Updates"
-msgstr ""
+msgstr "Utestede oppdateringer"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
-#, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository of not yet tested updates"
-msgstr ""
-"Pakkebrønn for offisielle oppdateringer for pakker uten åpen kildekode til "
-"12.3"
+msgstr "Pakkebrønn for oppdateringer som ikke er testet enda"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
@@ -903,31 +875,33 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"Pakkebrønnen inneholder sikkerhets- og vedlikeholdsoppdateringer, som enda "
+"ikke har blitt testet. Legg til denne kun hvis du ønsker å delta i testingen "
+"av openSUSE-oppdateringer."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.1 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
-"Hovedpakkebrønn for openSUSE 12.1 som kun inneholder programvare med åpen "
-"kildekode"
+"Hovedpakkebrønn for openSUSE Leap 42.2 som kun inneholder programvare med "
+"åpen kildekode"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"Åpen kildekode pakkebrønn for openSUSE Leap 42.2, gir deg tilgang til "
+"tusenvis av programmer vedlikeholdt av openSUSE-fellesskapet."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
 msgstr ""
-"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE 12.1"
+"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE 12.1 repository for all Non-Open Source Software "
 #| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -936,37 +910,33 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"Den offisielle openSUSE 12.1-pakkebrønnen for all programvare uten åpen "
-"kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, Java, "
+"Den offisielle openSUSE Leap 42.2 pakkebrønnen for all programvare uten åpen "
+"kildekode som vedlikeholdes av openSUSE-samfunnet, blant annet Opera, Steam, "
 "Flash og mye mer."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.1 (Source packages)"
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr "Hovedpakkebrønn for openSUSE 12.1 (kildekodepakker)"
+msgstr "Hovedpakkebrønn for openSUSE Leap 42.2 (kildekodepakker)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE 12.1. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
-"Pakkebrønn for alle kildekodepakker til openSUSE 12.1. Bare for avanserte "
-"brukere."
+"Pakkebrønn for alle kildekodepakker til openSUSE Leap 42.2. Bare for "
+"avanserte brukere."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
 msgstr ""
-"Hovedpakkebrønn for openSUSE 12.1 som inneholder pakker med "
+"Hovedpakkebrønn for openSUSE Leap 42.2 som inneholder pakker med "
 "feilsøkingsinformasjon"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE 12.1. For experts only."
@@ -974,17 +944,15 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
-"Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE "
-"12.1. Kun for avanserte brukere."
+"Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE Leap "
+"42.2. Kun for avanserte brukere."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to 12.1"
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr "Pakkebrønn for offisielle oppdateringer til 12.1"
+msgstr "Pakkebrønn for offisielle oppdateringer til openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "12.1."
@@ -993,30 +961,27 @@ msgid ""
 "Leap 42.2."
 msgstr ""
 "I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer til "
-"openSUSE 12.1."
+"openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
 msgstr ""
 "Pakkebrønn for offisielle oppdateringer for pakker uten åpen kildekode til "
-"12.3"
+"openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE 12.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
-"Oppdateringspakkebrønn for openSUSE 12.1 som inneholder pakker med "
+"Oppdateringspakkebrønn for openSUSE Leap 42.2 som inneholder pakker med "
 "feilsøkingsinformasjon"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.1 including only Open Source Software"
 msgid "Main repository of openSUSE Leap including only Open Source Software"
 msgstr ""
-"Hovedpakkebrønn for openSUSE 12.1 som kun inneholder programvare med åpen "
+"Hovedpakkebrønn for openSUSE Leap som kun inneholder programvare med åpen "
 "kildekode"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
@@ -1024,16 +989,16 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
 "access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"Åpen kildekode (OSS) pakkebrønn for openSUSE Leap, gir deg tilgan til "
+"tusenvis av programmer vedlikeholdt av openSUSE-fellesskapet."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-#, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgstr ""
-"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE 12.1"
+"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-#, fuzzy
 #| msgid ""
 #| "The official openSUSE 12.1 repository for all Non-Open Source Software "
 #| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
@@ -1041,36 +1006,32 @@ msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
 msgstr ""
-"Den offisielle openSUSE 12.1-pakkebrønnen for all programvare uten åpen "
-"kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, Java, "
+"Den offisielle openSUSE Leap pakkebrønnen for all programvare uten åpen "
+"kildekode som vedlikeholdes av openSUSE-samfunnet, blant annet Opera, Steam, "
 "Flash og mye mer."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.1 (Source packages)"
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "Hovedpakkebrønn for openSUSE 12.1 (kildekodepakker)"
+msgstr "Hovedpakkebrønn for openSUSE Leap (kildekodepakker)"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-#, fuzzy
 #| msgid ""
 #| "The repository of all source packages in openSUSE 12.1. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
 msgstr ""
-"Pakkebrønn for alle kildekodepakker til openSUSE 12.1. Bare for avanserte "
+"Pakkebrønn for alle kildekodepakker til openSUSE Leap. Bare for avanserte "
 "brukere."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-#, fuzzy
 #| msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
 msgstr ""
-"Hovedpakkebrønn for openSUSE 12.1 som inneholder pakker med "
+"Hovedpakkebrønn for openSUSE Leap som inneholder pakker med "
 "feilsøkingsinformasjon"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-#, fuzzy
 #| msgid ""
 #| "This repository is useful for those that want to debug applications on "
 #| "openSUSE 12.1. For experts only."
@@ -1079,16 +1040,14 @@ msgid ""
 "openSUSE Leap. For experts only."
 msgstr ""
 "Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE "
-"12.1. Kun for avanserte brukere."
+"Leap. Kun for avanserte brukere."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-#, fuzzy
 #| msgid "Repository for official updates to 12.1"
 msgid "Repository for official updates to openSUSE Leap"
-msgstr "Pakkebrønn for offisielle oppdateringer til 12.1"
+msgstr "Pakkebrønn for offisielle oppdateringer til openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-#, fuzzy
 #| msgid ""
 #| "In this repository you find security and maintenance updates to openSUSE "
 #| "12.1."
@@ -1097,22 +1056,20 @@ msgid ""
 "Leap."
 msgstr ""
 "I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer til "
-"openSUSE 12.1."
+"openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#, fuzzy
 #| msgid "Repository for official non free updates to 12.3"
 msgid "Repository for official non free updates to openSUSE Leap"
 msgstr ""
 "Pakkebrønn for offisielle oppdateringer for pakker uten åpen kildekode til "
-"12.3"
+"openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-#, fuzzy
 #| msgid "Update repository of openSUSE 12.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap debuginfo packages"
 msgstr ""
-"Oppdateringspakkebrønn for openSUSE 12.1 som inneholder pakker med "
+"Oppdateringspakkebrønn for openSUSE Leap som inneholder pakker med "
 "feilsøkingsinformasjon"
 
 #, fuzzy
