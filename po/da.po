@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2017-06-03 20:41+0000\n"
+"PO-Revision-Date: 2017-06-04 13:33+0000\n"
 "Last-Translator: scootergrisen Required Fields <scootergrisen@gmail.com>\n"
 "Language-Team: Danish "
 "<https://l10n.opensuse.org/projects/download-o-o/master/da/>\n"
@@ -100,7 +100,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:10
 msgid "openSUSE BuildService - Wine CVS Builds"
-msgstr "openSUSE BuildService - Wine CVS-builds"
+msgstr "openSUSE-byggetjeneste - Wine CVS-byg"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:11
@@ -118,16 +118,17 @@ msgid ""
 "to run some Windows applications in openSUSE. This repository provides the "
 "latest CVS (development) snapshot packages of Wine."
 msgstr ""
-"Wine er en open source implementation af Windows' API, så det tillader dig "
-"at køre visse Windows-programmer i openSUSE. Denne softwarekilde giver det "
-"seneste CVS (udvikling) øjebliksbillede-pakker af Wine."
+"Wine er en open source implementation af Windows' API, så det giver dig "
+"mulighed for at køre nogle Windows-programmer i openSUSE. Denne "
+"softwarekilde giver den seneste CVS (udvikling) øjebliksbillede-pakker af "
+"Wine."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:13
 msgid "openSUSE BuildService - Games"
-msgstr "openSUSE BuildService - spil"
+msgstr "openSUSE-byggetjeneste - Spil"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:14
@@ -145,11 +146,11 @@ msgid ""
 "Gear (flight simulator) and Torcs (3D racing simulator)."
 msgstr ""
 "Indeholder adskillige action-spil inkl. Open Arena (shoot 'em up), Flight "
-"Gear (flysimulator) og Torcs (3D racerspil)."
+"Gear (flysimulator) og Torcs (3D racersimulator)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
-msgstr "openSUSE BuildService - drivere til webcams"
+msgstr "openSUSE-byggetjeneste - Drivere til webcams"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
@@ -157,14 +158,14 @@ msgstr "Nyere drivere til webcams"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
-msgstr "Indeholder nyere drivere for hundreder af forskellige webcams."
+msgstr "Indeholder nyere drivere til hundredvis af forskellige webcams."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:19
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:16
 msgid "openSUSE BuildService - Virtualization (VirtualBox)"
-msgstr "openSUSE BuildService - virtualisering (VirtualBox)"
+msgstr "openSUSE-byggetjeneste - Virtualisering (VirtualBox)"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:20
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:17
@@ -181,8 +182,8 @@ msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
 msgstr ""
-"Leverer de seneste nye pakker af VirtualBox, en open source fuld "
-"virtualisering for x86-hardware til generelle formål."
+"Leverer de seneste opdaterede pakker af VirtualBox, en open source fuld "
+"virtualisering for x86-hardware til almene formål."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:19
@@ -205,7 +206,7 @@ msgstr "Leverer de seneste pakker og flerversions-pakker af PHP-software."
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:19
 msgid "openSUSE BuildService - Database"
-msgstr "openSUSE BuildService - database"
+msgstr "openSUSE-byggetjeneste - Database"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:26
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:23
@@ -233,7 +234,7 @@ msgstr "openSUSE-byggetjeneste - KDE:Extra"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:23
 msgid "Community repository for KDE"
-msgstr "Softwarekilde fra fællesskabet med KDE"
+msgstr "Softwarekilde fra fællesskabet til KDE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:27
@@ -277,12 +278,12 @@ msgstr "openSUSE-byggetjeneste - Mono:Community"
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:32
 msgid "Community repository for Mono applications"
-msgstr "Softwarekilde fra fællesskabet med Mono-programmer"
+msgstr "Softwarekilde fra fællesskabet til Mono-programmer"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
-msgstr "Opdateringer og yderligere programmer skrevet i Mono."
+msgstr "Opdateringer og tilføjelser af programmer skrevet i Mono."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:34
@@ -296,7 +297,7 @@ msgstr "openSUSE-byggetjeneste - devel:languages:perl"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:29
 msgid "Community repository for Perl modules"
-msgstr "Softwarekilde fra fællesskabet med Perl-moduler"
+msgstr "Softwarekilde fra fællesskabet til Perl-moduler"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:39
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:36
@@ -317,7 +318,7 @@ msgstr "openSUSE-byggetjeneste - devel:languages:python"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
 msgid "Community repository for Python modules"
-msgstr "Softwarekilde fra fællesskabet med Python-moduler"
+msgstr "Softwarekilde fra fællesskabet til Python-moduler"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:39
@@ -331,7 +332,7 @@ msgstr "Opdateringer og tilføjelser til Python-moduler"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:34
 msgid "openSUSE BuildService - filesystems"
-msgstr "openSUSE-byggetjeneste - filesystems"
+msgstr "openSUSE-byggetjeneste - filsystemer"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:41
@@ -352,14 +353,14 @@ msgstr "Filsystemværktøjer og FUSE-relaterede pakker."
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:37
 msgid "openSUSE BuildService - Education"
-msgstr "openSUSE-byggetjeneste - Education"
+msgstr "openSUSE-byggetjeneste - Uddandelse"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:47
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:38
 msgid "Applications for education users"
-msgstr "Programmer til brug ifm. uddannelse"
+msgstr "Programmer til uddannelsebrug"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:48
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:45
@@ -367,7 +368,8 @@ msgstr "Programmer til brug ifm. uddannelse"
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:39
 msgid ""
 "Contains several packages which might be interesting for educational use"
-msgstr "Indeholder mange pakker som kan være interessante til uddannelsesbrug"
+msgstr ""
+"Indeholder adskillige pakker som kan være interessante til uddannelsesbrug"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:49
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:49
@@ -402,7 +404,7 @@ msgstr "Hovedsoftwarekilde (OSS)"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:2
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
 msgstr ""
-"Hovedsoftwarekilden for openSUSE 13.1, som kun inkluderer open source "
+"Hovedsoftwarekilden til openSUSE 13.1, som kun inkluderer open source-"
 "software"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:3
@@ -413,11 +415,11 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"Den store open source softwarekilde (OSS) til openSUSE 13.1, som giver dig "
+"Den store open source-softwarekilde (OSS) til openSUSE 13.1, som giver dig "
 "adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På grund "
 "af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. 512 MB "
 "RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have adgang til "
-"denne softwarekilde under installation.)"
+"denne softwarekilde under installation)."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
@@ -426,20 +428,21 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
-msgstr "Hovedsoftwarekilde (NON-OSS)"
+msgstr "Hovedsoftwarekilde (ikke-OSS)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
-msgstr "Tillægssoftware kilde med ikke-open source software til openSUSE 13.1"
+msgstr ""
+"Tillægssoftware kilde med software som ikke er open source til openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.1 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
-"Den officielle openSUSE 13.1 softwarekilde for al ikke-open source software "
-"vedligeholdt af openSUSE-holdet, som inkluderer RealPlayer, Opera, Java, "
-"Flash og mere."
+"Den officielle openSUSE 13.1-softwarekilde til al software som ikke er open "
+"source vedligeholdt af openSUSE-holdet, som inkluderer RealPlayer, Opera, "
+"Java, Flash m.m."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
