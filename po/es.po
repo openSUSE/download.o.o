@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2017-06-05 11:02+0000\n"
+"PO-Revision-Date: 2017-06-07 10:24+0000\n"
 "Last-Translator: Javier Llorente <javier@opensuse.org>\n"
 "Language-Team: Spanish "
 "<https://l10n.opensuse.org/projects/download-o-o/master/es/>\n"
@@ -41,8 +41,8 @@ msgid ""
 "the unsupported but latest version of the LX desktop environment and "
 "software."
 msgstr ""
-"El repositorio LXDE en el Build Service de openSUSE, incluye las últimas "
-"versiones de aplicaciones y entorno LX."
+"El repositorio de LXDE en el Build Service de openSUSE, el cual incluye las "
+"últimas versiones de aplicaciones y entorno de escritorio LX."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:4
@@ -146,8 +146,8 @@ msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
 msgstr ""
-"Contiene varios juegos de acción, incluyendo Open Arena (disparos), Flight "
-"Gear (simulador de vuelo) y Torcs (simulador de carreras en 3D)."
+"Contiene varios juegos de acción, incluyendo Open Arena (de disparar), "
+"Flight Gear (simulador de vuelo) y Torcs (simulador de carreras en 3D)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
@@ -280,7 +280,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:31
 msgid "openSUSE BuildService - Mono:Community"
-msgstr "BuildService de openSUSE - Mono:Comunidad"
+msgstr "BuildService de openSUSE - Mono:Community"
 
 # 50318 AttribValues/label
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:35
@@ -291,7 +291,7 @@ msgstr "Repositorio de la comunidad para aplicaciones Mono"
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
-msgstr "Actualizaciones y agregados de aplicaciones escritos en Mono."
+msgstr "Actualizaciones y añadidos de aplicaciones escritas en Mono."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:34
@@ -305,14 +305,14 @@ msgstr "openSUSE BuildService - devel:languages:perl"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:29
 msgid "Community repository for Perl modules"
-msgstr "Repositorio de la comunidad para módulos Perl"
+msgstr "Repositorio de la comunidad para módulos de Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:39
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
-msgstr "Actualizaciones y agregados para módulos Perl"
+msgstr "Actualizaciones y añadidos para módulos de Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:37
@@ -326,29 +326,28 @@ msgstr "openSUSE BuildService - devel:languages:python"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
 msgid "Community repository for Python modules"
-msgstr "Repositorio de la comunidad para módulos Python"
+msgstr "Repositorio de la comunidad para módulos de Python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:39
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 msgid "Updates and Additions for Python modules"
-msgstr "Actualizaciones y agregados para módulos Python"
+msgstr "Actualizaciones y agregados para módulos de Python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:34
 msgid "openSUSE BuildService - filesystems"
-msgstr "openSUSE BuildService - Sistema de Archivos"
+msgstr "openSUSE BuildService - Sistemas de archivos"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:35
 msgid "Filesystem tools and FUSE-related packages"
-msgstr ""
-"Herramientas para el sistema de archivos y paquetes relacionados con FUSE"
+msgstr "Herramientas para sistemas de archivos y paquetes relacionados con FUSE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:45
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:42
@@ -356,7 +355,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:36
 msgid "Filesystem tools and FUSE-related packages."
 msgstr ""
-"Herramientas para el sistema de archivos y paquetes relacionados con FUSE."
+"Herramientas para sistemas de archivos y paquetes relacionados con FUSE."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:46
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:43
@@ -400,7 +399,7 @@ msgstr "Paquetes mantenidos de KDE 3"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:45
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:45
 msgid "Provides old KDE for newer openSUSE"
-msgstr "Viejo KDE para el nuevo openSUSE"
+msgstr "Proporciona una versión antigua de KDE para una más moderna de openSUSE"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
@@ -413,7 +412,9 @@ msgstr "Repositorio principal (OSS)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:2
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
-msgstr "Repositorio principal de openSUSE 13.1 incluyendo sólo Software Libre"
+msgstr ""
+"Repositorio principal de openSUSE 13.1 que sólo incluye software de código "
+"abierto"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:3
 msgid ""
@@ -423,11 +424,11 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"El repositorio de Software Libre (OSS) para openSUSE 13.1, con miles de "
-"paquetes mantenidos por el equipo de openSUSE. (Debido al tamaño de este "
-"repositorio, añadirlo puede tomar algo de tiempo, 512 MB de RAM or una "
-"partición SWAP habilitada son altamente recomendados en caso de querer "
-"acceder a este repositorio durante la instalación.)"
+"El repositorio de software de código abierto (OSS) para openSUSE 13.1, con "
+"miles de paquetes mantenidos por el equipo de openSUSE. (Debido al tamaño de "
+"este repositorio, añadirlo puede llevar algo de tiempo, se recomienda "
+"encarecidamente tener 512 MB de RAM or una partición SWAP habilitada en caso "
+"de querer acceder a este repositorio durante la instalación.)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
@@ -440,7 +441,7 @@ msgstr "Repositorio principal (NON-OSS)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
-msgstr "Repositorio de software No Libre para openSUSE 13.1"
+msgstr "Repositorio de software que no es de código abierto para openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:6
 msgid ""
@@ -457,7 +458,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
 msgid "Main Repository (Sources)"
-msgstr "Repositorio Principal (fuentes)"
+msgstr "Repositorio principal (fuentes)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:8
 msgid "Main repository of openSUSE 13.1 (Source packages)"
