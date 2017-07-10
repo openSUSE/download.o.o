@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: community-repositories.fi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2017-07-10 13:14+0000\n"
+"PO-Revision-Date: 2017-07-10 15:28+0000\n"
 "Last-Translator: Jyri Palokangas <jmp@opensuse.org>\n"
 "Language-Team: Finnish "
 "<https://l10n.opensuse.org/projects/download-o-o/master/fi/>\n"
@@ -307,7 +307,7 @@ msgstr "Perl-moduulien yhteisöasennuslähde"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
-msgstr "Perl-moduulien päivityksiä ja lisäosia."
+msgstr "Perl-moduulien päivityksiä ja lisäosia"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:37
@@ -328,7 +328,7 @@ msgstr "Python-moduulien yhteisöasennuslähde"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 msgid "Updates and Additions for Python modules"
-msgstr "Python-moduulien päivityksiä ja lisäosia."
+msgstr "Python-moduulien päivityksiä ja lisäosia"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:40
@@ -498,7 +498,7 @@ msgstr "Perusasennuslähde päivityksille"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
-msgstr "13.1:n virallinen päivitysten asennuslähde."
+msgstr "13.1:n virallinen päivitysten asennuslähde"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
@@ -518,7 +518,7 @@ msgstr "Päivitysasennuslähde (Non-Oss)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
-msgstr "13.1:n virallinen suljettujen ohjelmien päivitysten asennuslähde."
+msgstr "13.1:n virallinen suljettujen ohjelmien päivitysten asennuslähde"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
@@ -553,11 +553,9 @@ msgid "Provides uptodate Java packages (Factory backports)"
 msgstr "Tarjoaa ajan tasalla olevat Java-paketit (Factorysta)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:2
-#, fuzzy
-#| msgid "Main repository of openSUSE 12.2 including only Open Source Software"
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
 msgstr ""
-"openSUSE 12.2 -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia"
+"openSUSE 13.2 -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:3
 msgid ""
@@ -598,71 +596,47 @@ msgstr ""
 "asiantuntijoille."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
-#, fuzzy
-#| msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
-msgstr "openSUSE 12.2 debuginfo-paketit perusasennuslähteen paketeille"
+msgstr "openSUSE 13.2 debuginfo-paketit perusasennuslähteen paketeille"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:12
-#, fuzzy
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE 12.2. For experts only."
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.2. For experts only."
 msgstr ""
 "Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja "
-"openSUSE 12.2:ssa. Vain asiantuntijoille."
+"openSUSE 13.2:ssa. Vain asiantuntijoille."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
-#, fuzzy
-#| msgid "Repository for official updates to 13.1"
 msgid "Repository for official updates to 13.2"
-msgstr "13.1:n virallinen päivitysten asennuslähde."
+msgstr "13.2:n virallinen päivitysten asennuslähde"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:15
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "13.1."
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.2."
 msgstr ""
-"Tästä asennuslähteestä löydät openSUSE 13.1:n tietoturva- ja "
+"Tästä asennuslähteestä löydät openSUSE 13.2:n tietoturva- ja "
 "ylläpitopäivityksiä."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
-#, fuzzy
-#| msgid "Repository for official non free updates to 13.1"
 msgid "Repository for official non free updates to 13.2"
-msgstr "13.1:n virallinen suljettujen ohjelmien päivitysten asennuslähde."
+msgstr "13.2:n virallinen suljettujen ohjelmien päivitysten asennuslähde"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
-#, fuzzy
-#| msgid "Update repository of openSUSE 12.2 debuginfo packages"
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr ""
-"openSUSE 12.2-jakelun päivitysasennuslähde vianjäljitystietoa sisältäville "
+"openSUSE 13.2-jakelun päivitysasennuslähde vianjäljitystietoa sisältäville "
 "paketeille"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
-#, fuzzy
-#| msgid "Main repository of openSUSE 12.2 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr ""
-"openSUSE 12.2 -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia"
+"openSUSE Tumbleweed -perusasennuslähde sisältää vain avoimen lähdekoodin "
+"ohjelmia"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
-#, fuzzy
-#| msgid ""
-#| "The big Open Source Software (OSS) repository for openSUSE 12.2, giving "
-#| "you access to thousands of packages maintained by the openSUSE team. (Due "
-#| "to the size of the repository, adding it may take some time. 512 MB of "
-#| "RAM or an enabled SWAP partition are highly recommended in case you want "
-#| "to access this repository at installation time.)"
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -670,47 +644,37 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 12.2:lle. "
-"Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. "
-"(Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt "
-"keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos "
-"haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)"
+"Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSElle. Täältä "
+"löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon "
+"vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön "
+"otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän "
+"asennuslähteen käyttöön asennuksen aikana.)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr "Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 12.2:lle"
+msgstr ""
+"Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE Tumbleweedille"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
-#, fuzzy
-#| msgid ""
-#| "The official openSUSE 12.2 repository for all Non-Open Source Software "
-#| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
-"Virallinen openSUSE-tiimin ylläpitämä openSUSE 12.2 -asennuslähde kaikille "
-"suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Java, Flash ja niin "
-"edelleen."
+"Virallinen openSUSE-tiimin ylläpitämä openSUSE Tumbleweed -asennuslähde "
+"kaikille suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Flash ja "
+"niin edelleen."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
-#, fuzzy
-#| msgid "Main repository of openSUSE 12.2 (Source packages)"
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr "openSUSE 12.2 -jakelun perusasennuslähde (lähdekoodipaketit)"
+msgstr "openSUSE Tumbleweed -jakelun perusasennuslähde (lähdekoodipaketit)"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
-#, fuzzy
-#| msgid ""
-#| "The repository of all source packages in openSUSE 12.2. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
-"Asennuslähde kaikille openSUSE 12.2 -jakelun lähdekoodipaketeille. Vain "
-"asiantuntijoille."
+"Asennuslähde kaikille openSUSE Tumbleweed -jakelun lähdekoodipaketeille. "
+"Vain asiantuntijoille."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 #, fuzzy
