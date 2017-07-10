@@ -14,15 +14,16 @@ msgstr ""
 "Project-Id-Version: community-repositories.fi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-10 10:43+0100\n"
-"PO-Revision-Date: 2013-08-25 20:33+0300\n"
-"Last-Translator: Jyri Palokangas <jyri.palokangas@opensuse.org>\n"
-"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2017-07-10 13:14+0000\n"
+"Last-Translator: Jyri Palokangas <jmp@opensuse.org>\n"
+"Language-Team: Finnish "
+"<https://l10n.opensuse.org/projects/download-o-o/master/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms:  nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -559,13 +560,6 @@ msgstr ""
 "openSUSE 12.2 -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:3
-#, fuzzy
-#| msgid ""
-#| "The big Open Source Software (OSS) repository for openSUSE 12.2, giving "
-#| "you access to thousands of packages maintained by the openSUSE team. (Due "
-#| "to the size of the repository, adding it may take some time. 512 MB of "
-#| "RAM or an enabled SWAP partition are highly recommended in case you want "
-#| "to access this repository at installation time.)"
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE 13.2, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -573,45 +567,34 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 12.2:lle. "
-"Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. "
-"(Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt "
+"Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 13.2:lle. "
+"Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. ("
+"Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt "
 "keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos "
 "haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
-msgstr "Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 13.1:lle"
+msgstr "Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 13.2:lle"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:6
-#, fuzzy
-#| msgid ""
-#| "The official openSUSE 12.2 repository for all Non-Open Source Software "
-#| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
-"Virallinen openSUSE-tiimin ylläpitämä openSUSE 12.2 -asennuslähde kaikille "
+"Virallinen openSUSE-tiimin ylläpitämä openSUSE 13.2 -asennuslähde kaikille "
 "suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Java, Flash ja niin "
 "edelleen."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:8
-#, fuzzy
-#| msgid "Main repository of openSUSE 12.2 (Source packages)"
 msgid "Main repository of openSUSE 13.2 (Source packages)"
 msgstr "openSUSE 12.2 -jakelun perusasennuslähde (lähdekoodipaketit)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:9
-#, fuzzy
-#| msgid ""
-#| "The repository of all source packages in openSUSE 12.2. For experts only."
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr ""
-"Asennuslähde kaikille openSUSE 12.2 -jakelun lähdekoodipaketeille. Vain "
+"Asennuslähde kaikille openSUSE 13.2 -jakelun lähdekoodipaketeille. Vain "
 "asiantuntijoille."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
