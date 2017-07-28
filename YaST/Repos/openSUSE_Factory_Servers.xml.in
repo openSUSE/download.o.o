@@ -12,6 +12,12 @@
 	    <official config:type="boolean">true</official>
 	</item>
 
+
+	<item>
+	    <link>http://opensuse-community.org/openSUSE_Tumbleweed_Community_Additional.xml</link>
+	    <official config:type="boolean">false</official>
+        </item>
+
 <!-- No OBS repos for factory recommended
 	<item>
 	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_Factory_Additional.xml</link>
@@ -19,7 +25,7 @@
 	</item>
 -->
 
-	<!-- Community links 
+	<!-- Community links
 	<item>
 	    <link>http://opensuse-community.org/openSUSE_Factory_Community_Additional.xml</link>
 	    <official config:type="boolean">false</official>
