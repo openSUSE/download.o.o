@@ -11,8 +11,10 @@
 	</item>
 
 
-
-	
+	<item>
+	    <link>http://opensuse-community.org/openSUSE_Tumbleweed_Community_Additional.xml</link>
+	    <official config:type="boolean">false</official>
+        </item>
 
     </servers>
 </productDefines>
