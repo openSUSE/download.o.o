@@ -51,6 +51,7 @@
 		<summary xml:lang="el">Το κυρίως αποθετήριο της openSUSE 13.2 που περιέχει μόνο Λογισμικό Ανοικτού Κώδικα</summary>
 		<summary xml:lang="es">Repositorio principal de openSUSE 13.2 que incluye sólo software de código abierto</summary>
 		<summary xml:lang="fa">مخازن اصلی openSUSE 13.2 شامل فقط نرم افزارهای متن باز</summary>
+		<summary xml:lang="fi">openSUSE 13.2 -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 13.2 contenant seulement les logiciels Open Source</summary>
 		<summary xml:lang="gl">Repositorio principal de openSUSE 13.2 que inclúe só software de código aberto</summary>
 		<summary xml:lang="id">Repositori utama openSUSE 13.2 yang hanya berisi Perangkat Lunak Sumber Terbuka</summary>
@@ -76,6 +77,7 @@
 		<description xml:lang="el">Το μεγάλο αποθετήριο Λογισμικού Ανοικτού Κώδικα (ΛΑΚ) για την openSUSE 13.2, σας δίνει πρόσβαση σε χιλιάδες πακέτα που συντηρούνται από την ομάδα του openSUSE. (Λόγω του μεγέθους του αποθετηρίου, η προσθήκη του μπορεί να πάρει αρκετή ώρα. Τα 512MB RAM ή ενεργοποίηση της κατάτμησης SWAP συνίστανται σε περίπτωση που θέλετε να έχετε πρόσβαση σε αυτό το αποθετήριο κατά τη διάρκεια της εγκατάστασης.)</description>
 		<description xml:lang="es">El gran repositorio de Software de código abierto (OSS) de openSUSE 13.2 le brinda acceso a miles de paquetes mantenidos por el equipo de openSUSE. (Debido al tamaño del repositorio, el añadirlo puede llevar algún tiempo, 512 MB de memoria RAM o habilitar una partición SWAP es altamente recomendable en caso que desee acceder a este repositorio en el momento de la instalación)</description>
 		<description xml:lang="fa">مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE 13.2، به شما دسترسی به هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد. ( به دلیل اندازه ی مخزن، اضافه کردن آن ممکن است کمی زمان ببرد.اگر میخواهید در زمان نصب از این مخازن استفاده کنید، میزان  حافظه ی 512 مگابایت رم و یا پارتیشن فعال SWAP به شدت توصیه میشود.)</description>
+		<description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSE 13.2:lle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
 		<description xml:lang="fr">Le principal dépôt de logiciels Open Source (OSS) pour openSUSE 13.2, vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (En raison de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active sont fortement recommandés si vous voulez y accéder au moment de l'installation.)</description>
 		<description xml:lang="gl">O gran repositorio de Software de código aberto (OSS) para openSUSE 13.2, dálle acceso a milleiros de paquetes mantidos polo equipo de openSUSE. (Debido ao tamaño do repositorio, engadilo podería levar algún tempo. É moi recomendábel ter 512 MB de RAM ou ter activada a partición de intercambio ou SWAP se desexa acceder a este repositorio á hora de instalar.)</description>
 		<description xml:lang="id">Repositori Perangkat Lunak Sumber Terbuka (OSS) besar untuk openSUSE 13.2, memberikan Anda akses ke ribuan paket yang dikelola oleh tim openSUSE. (Karena ukuran dari repositori, menambahkannya mungkin memerlukan waktu beberapa saat. 512 MB RAM atau partisi SWAP yang diaktifkan sangat dianjurkan jika Anda ingin mengakses repositori ini pada saat instalasi.)</description>
@@ -142,6 +144,7 @@
 		<summary xml:lang="el">Πρόσθετο αποθετήριο για την openSUSE 13.2 Λογισμικού που δεν είναι ανοικτού κώδικα</summary>
 		<summary xml:lang="es">Repositorio complementario de código propietario para openSUSE 13.2</summary>
 		<summary xml:lang="fa">مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE 13.2</summary>
+		<summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE 13.2:lle</summary>
 		<summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE 13.2</summary>
 		<summary xml:lang="gl">Repositorio de complementos de software que non son de código aberto para openSUSE 13.2</summary>
 		<summary xml:lang="id">Repositori Perangkat Lunak Bukan Sumber Terbuka Tambahan untuk openSUSE 13.2</summary>
@@ -167,6 +170,7 @@
 		<description xml:lang="el">Το επίσημο αποθετήριο για την openSUSE 13.2 για Λογισμικό που δεν είναι ανοικτού κώδικα και συντηρείται από την ομάδα openSUSE, που περιλαμβάνει τα Opera, Java, Flash και πολλά άλλα.</description>
 		<description xml:lang="es">El repositorio oficial de openSUSE 13.2 para todo el Software de código propietario mantenido por el equipo de openSUSE, incluidos Opera, Java, Flash y otros.</description>
 		<description xml:lang="fa">مخازن رسمی openSUSE 13.2 برای تمامی نرم افزار های غیر متن-باز که توسط تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، جاوا، فلش، و ... است.</description>
+		<description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE 13.2 -asennuslähde kaikille suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Java, Flash ja niin edelleen.</description>
 		<description xml:lang="fr">Le dépôt officiel d'openSUSE 13.2 pour tous les logiciels Non-Open Source, maintenu par l'équipe d'openSUSE, il contient Opera, Java, Flash, et bien d'autres.</description>
 		<description xml:lang="gl">O repositorio oficial de openSUSE 13.2 para todo o software que non é de código aberto mantido polo equipo de openSUSE, incluíndo Opera, Java, Flash e máis.</description>
 		<description xml:lang="id">Repositori openSUSE 13.2 resmi untuk semua Perangkat Lunak Bukan Sumber Terbuka yang dikelola oleh tim openSUSE, berisi Opera, Java, Flash dan lainnya.</description>
@@ -232,6 +236,7 @@
         <summary xml:lang="el">Κύριο αποθετήριο της openSUSE 13.2 (Πηγαία πακέτα)</summary>
         <summary xml:lang="es">Repositorio principal de openSUSE 13.2 (código fuente)</summary>
         <summary xml:lang="fa">مخازن اصلی openSUSE 13.2 (بسته های source)</summary>
+        <summary xml:lang="fi">openSUSE 12.2 -jakelun perusasennuslähde (lähdekoodipaketit)</summary>
         <summary xml:lang="fr">Dépôt principal d'openSUSE 13.2 (Paquets Sources)</summary>
         <summary xml:lang="gl">Repositorio principal de openSUSE 13.2 (Paquetes de fontes)</summary>
         <summary xml:lang="id">Repositori utama openSUSE 13.2 (Paket-paket Sumber)</summary>
@@ -257,6 +262,7 @@
         <description xml:lang="el">Το αποθετήριο όλων των πηγαίων πακέτων στην openSUSE 13.2. Είναι μόνο για προχωρημένους.</description>
         <description xml:lang="es">El repositorio de todo el código fuente en openSUSE 13.2. Solo para expertos.</description>
         <description xml:lang="fa">مخازن شامل تمامی بسته های منبع  کد برای openSUSE 13.2. فقط برای افراد متخصص است.</description>
+        <description xml:lang="fi">Asennuslähde kaikille openSUSE 13.2 -jakelun lähdekoodipaketeille. Vain asiantuntijoille.</description>
         <description xml:lang="fr">Le dépôt de tous les paquets source d'openSUSE 13.2. Pour experts seulement.</description>
         <description xml:lang="gl">O repositorio de todos os paquetes de fontes de openSUSE 13.2. Só para expertos.</description>
         <description xml:lang="id">Repositori dari semua paket sumber di openSUSE 13.2. Untuk pengguna ahli saja.</description>
@@ -323,6 +329,7 @@
 		<summary xml:lang="el">Κυρίως αποθετήριο για την openSUSE 13.2 που περιλαμβάνει πακέτα debuginfo</summary>
 		<summary xml:lang="es">Repositorio principal de openSUSE 13.2 incluyendo los paquetes de depuración</summary>
 		<summary xml:lang="fa">مخازن اصلی openSUSE 13.2 شامل بسته های debuginfo</summary>
+		<summary xml:lang="fi">openSUSE 13.2 debuginfo-paketit perusasennuslähteen paketeille</summary>
 		<summary xml:lang="fr">Dépôt principal d'openSUSE 13.2 contenant les paquets debuginfo</summary>
 		<summary xml:lang="gl">Repositorio principal de openSUSE 13.2 que inclúe paquetes de información de depuración (debuginfo)</summary>
 		<summary xml:lang="id">Repositori utama openSUSE 13.2 yang berisi paket-paket debuginfo</summary>
@@ -348,6 +355,7 @@
 		<description xml:lang="el">Το αποθετήριο είναι χρήσιμο για αυτούς που θέλουν να αποσφαλματώσουν εφαρμογές στην openSUSE 13.2. Είναι μόνο για προχωρημένους.</description>
 		<description xml:lang="es">Este repositorio es útil para aquellos que quieren depurar aplicaciones en openSUSE 13.2. Solo para expertos.</description>
 		<description xml:lang="fa">این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE 13.2 اشکال زدایی کنند مناسب است. فقط برای افراد متخصص است.</description>
+		<description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja openSUSE 13.2:ssa. Vain asiantuntijoille.</description>
 		<description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE 13.2. Pour experts seulement.</description>
 		<description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE 13.2. Só para expertos.</description>
 		<description xml:lang="id">Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap aplikasi pada openSUSE 13.2. Untuk pengguna ahli saja.</description>
@@ -413,6 +421,7 @@
         <summary xml:lang="el">Αποθετήριο για επίσημες ενημερώσεις για το 13.2</summary>
         <summary xml:lang="es">Repositorio oficial de actualizaciones a 13.2</summary>
         <summary xml:lang="fa">مخازن رسمی بروزرسانی برای 13.2</summary>
+        <summary xml:lang="fi">13.2:n virallinen päivitysten asennuslähde</summary>
         <summary xml:lang="fr">Dépôt pour les mises à jour officielles pour la 13.2</summary>
         <summary xml:lang="gl">Repositorio de actualizacións oficiais para 13.2</summary>
         <summary xml:lang="id">Repositori untuk pembaruan resmi 13.2</summary>
@@ -438,6 +447,7 @@
         <description xml:lang="el">Σε αυτό το αποθετήριο θα βρείτε ενημερώσεις για ασφάλεια και συντήρησης της openSUSE 13.2.</description>
         <description xml:lang="es">En este repositorio puede encontrar actualizaciones de seguridad y mantenimiento para openSUSE 13.2.</description>
         <description xml:lang="fa">در این مخزن شما بسته های امنیتی و نگه داری بروزرسانی برای openSUSE 13.2 را پیدا خواهید کرد.</description>
+        <description xml:lang="fi">Tästä asennuslähteestä löydät openSUSE 13.2:n tietoturva- ja ylläpitopäivityksiä.</description>
         <description xml:lang="fr">Dans ce dépôt, vous trouverez des mise à jour de sécurité et de maintenance pour openSUSE 13.2.</description>
         <description xml:lang="gl">Neste repositorio poderá atopar actualizacións de seguridade e mantemento para openSUSE 13.2.</description>
         <description xml:lang="id">Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan untuk openSUSE 13.2.</description>
@@ -493,6 +503,7 @@
         <summary xml:lang="el">Αποθετήριο για επίσημες μη ελεύθερες ενημερώσεις για την 13.2</summary>
         <summary xml:lang="es">Repositorio oficial de actualizaciones no libres a 13.2</summary>
         <summary xml:lang="fa">مخازن رسمی بروز رسانی برای نرم افزارهای غیر آزاد در 13.2</summary>
+        <summary xml:lang="fi">13.2:n virallinen suljettujen ohjelmien päivitysten asennuslähde</summary>
         <summary xml:lang="fr">Dépôt pour les mises à jour officielles non libres pour la 13.2</summary>
         <summary xml:lang="gl">Repositorio de actualizacións oficiais non libres para 13.2</summary>
         <summary xml:lang="id">Repositori pembaruan resmi perangkat lunak tidak bebas untuk 13.2</summary>
@@ -518,6 +529,7 @@
         <description xml:lang="el">Σε αυτό το αποθετήριο θα βρείτε ενημερώσεις για ασφάλεια και συντήρησης της openSUSE 13.2.</description>
         <description xml:lang="es">En este repositorio puede encontrar actualizaciones de seguridad y mantenimiento para openSUSE 13.2.</description>
         <description xml:lang="fa">در این مخزن شما بسته های امنیتی و نگه داری بروزرسانی برای openSUSE 13.2 را پیدا خواهید کرد.</description>
+        <description xml:lang="fi">Tästä asennuslähteestä löydät openSUSE 13.2:n tietoturva- ja ylläpitopäivityksiä.</description>
         <description xml:lang="fr">Dans ce dépôt, vous trouverez des mise à jour de sécurité et de maintenance pour openSUSE 13.2.</description>
         <description xml:lang="gl">Neste repositorio poderá atopar actualizacións de seguridade e mantemento para openSUSE 13.2.</description>
         <description xml:lang="id">Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan untuk openSUSE 13.2.</description>
@@ -579,6 +591,7 @@
                 <summary xml:lang="el">Ενημέρωση αποθετηρίου πακέτων debuginfo του openSUSE  13.2</summary>
                 <summary xml:lang="es">Repositorio de actualización de paquetes de depuración de openSUSE 13.2</summary>
                 <summary xml:lang="fa">مخازن بروزرسانی برای بسته های debuginfo در openSUSE 13.2</summary>
+                <summary xml:lang="fi">openSUSE 13.2-jakelun päivitysasennuslähde vianjäljitystietoa sisältäville paketeille</summary>
                 <summary xml:lang="fr">Dépôt de mise à jour d'openSUSE 13.2 contenant les paquets debuginfo</summary>
                 <summary xml:lang="gl">Repositorio de actualización de openSUSE 13.2 paquetes debuginfo</summary>
                 <summary xml:lang="id">Repositori pembaruan untuk paket-paket debuginfo di openSUSE 13.2</summary>
@@ -604,6 +617,7 @@
                 <description xml:lang="el">Το αποθετήριο είναι χρήσιμο για αυτούς που θέλουν να αποσφαλματώσουν εφαρμογές στην openSUSE 13.2. Είναι μόνο για προχωρημένους.</description>
                 <description xml:lang="es">Este repositorio es útil para aquellos que quieren depurar aplicaciones en openSUSE 13.2. Solo para expertos.</description>
                 <description xml:lang="fa">این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE 13.2 اشکال زدایی کنند مناسب است. فقط برای افراد متخصص است.</description>
+                <description xml:lang="fi">Tarvitset tätä asennuslähdettä, jos haluat jäljittää ohjelmistojen vikoja openSUSE 13.2:ssa. Vain asiantuntijoille.</description>
                 <description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE 13.2. Pour experts seulement.</description>
                 <description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE 13.2. Só para expertos.</description>
                 <description xml:lang="id">Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap aplikasi pada openSUSE 13.2. Untuk pengguna ahli saja.</description>

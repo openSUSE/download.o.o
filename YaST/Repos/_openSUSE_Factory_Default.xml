@@ -50,6 +50,7 @@
         <summary xml:lang="el">Κύριο αποθετήριο του openSUSE Tumbleweed που συμπεριλαμβάνει μόνο Λογισμικό Ανοικτού Κώδικα</summary>
         <summary xml:lang="es">Repositorio principal de openSUSE Tumbleweed incluyendo solo Software de Código Abierto</summary>
         <summary xml:lang="fa">مخازن اصلی openSUSE Tumbleweed شامل فقط نرم افزارهای متن باز</summary>
+        <summary xml:lang="fi">openSUSE Tumbleweed -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia</summary>
         <summary xml:lang="fr">Dépôt principal d'openSUSE Tumbleweed contenant seulement les logiciels Open Source</summary>
         <summary xml:lang="gl">Repositorio principal de openSUSE Tumbleweed que inclúe só software de código aberto</summary>
         <summary xml:lang="id">Repositori utama openSUSE Tumbleweed yang hanya berisi Perangkat Lunak Sumber Terbuka</summary>
@@ -75,6 +76,7 @@
         <description xml:lang="el">Το μεγάλο αποθετήριο Λογισμικού Ανοικτού Κώδικα (ΛΑΚ) για openSUSE, που σας δίνει πρόσβαση σε χιλιάδες πακέτα που συντηρούνται από την ομάδα openSUSE. (Λόγω του μεγάλου μεγέθους του αποθετηρίου, η προσθήκη του θα πάρει ώρα. Συνίσταται 512MB RAM ή ενεργοποίηση της κατάτμησης SWAP σε περίπτωση που θέλετε να προσθέσετε αυτό το αποθετήριο κατά την εγκατάσταση.)</description>
         <description xml:lang="es">El gran repositorio de Software de Código Abierto (OSS) de openSUSE le da acceso a miles de paquetes mantenidos por el equipo de openSUSE. (Debido al tamaño del repositorio, el añadirlo puede llevar algún tiempo. 512 MB de memoria RAM o habilitar una partición SWAP es altamente recomendable en caso que desee acceder a este repositorio en el momento de la instalación)</description>
         <description xml:lang="fa">مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE ، به شما دسترسی به هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد. ( به دلیل اندازه ی مخزن، اضافه کردن آن ممکن است کمی زمان ببرد.اگر میخواهید در زمان نصب از این مخازن استفاده کنید، میزان  حافظه ی 512 مگابایت رم و یا پارتیشن فعال SWAP به شدت توصیه میشود.)</description>
+        <description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSElle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
         <description xml:lang="fr">Le principal dépôt de logiciels Open Source (OSS) pour openSUSE , vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (En raison de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active sont fortement recommandés si vous voulez y accéder au moment de l'installation.)</description>
         <description xml:lang="gl">O gran repositorio de Software de código aberto (OSS) para openSUSE , dálle acceso a milleiros de paquetes mantidos polo equipo de openSUSE. (Debido ao tamaño do repositorio, engadilo podería levar algún tempo. É moi recomendábel ter 512 MB de RAM ou ter activada a partición de intercambio ou SWAP se desexa acceder a este repositorio á hora de instalar.)</description>
         <description xml:lang="id">Repositori Perangkat Lunak Sumber Terbuka (OSS) besar untuk openSUSE, memberikan Anda akses ke ribuan paket yang dikelola oleh tim openSUSE. (Karena ukuran dari repositori, menambahkannya mungkin memerlukan waktu beberapa saat. 512 MB RAM atau partisi SWAP yang diaktifkan sangat dianjurkan jika Anda ingin mengakses repositori ini pada saat instalasi.)</description>
@@ -141,6 +143,7 @@
         <summary xml:lang="el">Προστηθέμενο αποθετήριο Μη Ανοιχτού Κώδικα Λογισμικού για το openSUSE Tumbleweed</summary>
         <summary xml:lang="es">Repositorio complementario de código propietario para openSUSE Tumbleweed</summary>
         <summary xml:lang="fa">مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE Tumbleweed</summary>
+        <summary xml:lang="fi">Suljetun lähdekoodin ohjelmistojen lisäasennuslähde openSUSE Tumbleweedille</summary>
         <summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE Tumbleweed</summary>
         <summary xml:lang="gl">Repositorio de complementos de software que non son de código aberto para openSUSE Tumbleweed</summary>
         <summary xml:lang="id">Repositori Perangkat Lunak Bukan Sumber Terbuka Tambahan untuk openSUSE Tumbleweed</summary>
@@ -166,6 +169,7 @@
         <description xml:lang="el">Το επίσημο αποθετήριο του openSUSE Tumbleweed για όλα τα Λογισμικά Μη Ανοιχτού Κώδικα που συντηρείται από την ομάδα του openSUSE, περιέχει Opera, Flash και άλλα πολλά.</description>
         <description xml:lang="es">El repositorio oficial de openSUSE Tumbleweed para todo el Software de código propietario mantenido por el equipo de openSUSE, incluyendo Opera, Flash, y más.</description>
         <description xml:lang="fa">مخازن رسمی openSUSE Tumbleweed برای تمامی نرم افزار های غیر متن-باز که توسط تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، فلش، و ... است.</description>
+        <description xml:lang="fi">Virallinen openSUSE-tiimin ylläpitämä openSUSE Tumbleweed -asennuslähde kaikille suljetun lähdekoodin ohjelmistoille, esimerkiksi Opera, Flash ja niin edelleen.</description>
         <description xml:lang="fr">Le dépôt officiel d'openSUSE Tumbleweed pour tous les logiciels Non-Open Source, maintenu par l'équipe d'openSUSE, il contient Opera, Flash, et bien d'autres.</description>
         <description xml:lang="gl">O repositorio oficial de openSUSE umbleweed para todo o software que non é de código aberto mantido polo equipo de openSUSE, incluíndo Opera, Flash e máis.</description>
         <description xml:lang="id">Repositori openSUSE Tumbleweed resmi untuk semua Perangkat Lunak Bukan Sumber Terbuka yang dikelola oleh tim openSUSE, berisi Opera, Java, Flash dan lainnya.</description>
@@ -231,6 +235,7 @@
         <summary xml:lang="el">Κύριο Αποθετήριο του openSUSE Tumbleweed (Πηγαία Πακέτα)</summary>
         <summary xml:lang="es">Repositorio principal de openSUSE Tumbleweed (código fuente)</summary>
         <summary xml:lang="fa">مخازن اصلی openSUSE Tumbleweed (بسته های source)</summary>
+        <summary xml:lang="fi">openSUSE Tumbleweed -jakelun perusasennuslähde (lähdekoodipaketit)</summary>
         <summary xml:lang="fr">Dépôt principal d'openSUSE Tumbleweed (Paquets Sources)</summary>
         <summary xml:lang="gl">Repositorio principal de openSUSE Tumbleweed (Paquetes de fontes)</summary>
         <summary xml:lang="id">Repositori utama openSUSE Tumbleweed (Paket-paket Sumber)</summary>
@@ -256,6 +261,7 @@
         <description xml:lang="el">Το αποθετήριο για όλα τα πηγαιά πακέτα στο openSUSE Tumbleweed. Μόνο για προχωρημένους.</description>
         <description xml:lang="es">El repositorio de todo el código fuente en openSUSE Tumbleweed. Solo para expertos.</description>
         <description xml:lang="fa">مخازن شامل تمامی بسته های منبع  کد برای openSUSE Tumbleweed. فقط برای افراد متخصص است.</description>
+        <description xml:lang="fi">Asennuslähde kaikille openSUSE Tumbleweed -jakelun lähdekoodipaketeille. Vain asiantuntijoille.</description>
         <description xml:lang="fr">Le dépôt de tous les paquets source d'openSUSE Tumbleweed. Pour experts seulement.</description>
         <description xml:lang="gl">O repositorio de todos os paquetes de fontes de openSUSE Tumbleweed. Só para expertos.</description>
         <description xml:lang="id">Repositori dari semua paket sumber di openSUSE Tumbleweed. Untuk pengguna ahli saja.</description>

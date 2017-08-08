@@ -10,11 +10,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-10 10:43+0100\n"
+"POT-Creation-Date: 2017-08-08 08:26+0200\n"
 "PO-Revision-Date: 2017-06-03 08:03+0000\n"
 "Last-Translator: Dag Jönsson <dag@jnsson.eu>\n"
-"Language-Team: Swedish "
-"<https://l10n.opensuse.org/projects/download-o-o/master/sv/>\n"
+"Language-Team: Swedish <https://l10n.opensuse.org/projects/download-o-o/"
+"master/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -847,16 +847,10 @@ msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr "Huvudförrådet för openSUSE Leap 42.2, innehåller debuginfo-paketen"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-#| msgid ""
-#| "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgid "Main repository of openSUSE Leap including only Open Source Software"
 msgstr "Huvudförrådet för openSUSE Leap innehåller enbart open source-mjukvara"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-#| msgid ""
-#| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
-#| "giving you access to thousands of packages maintained by the openSUSE "
-#| "community."
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
 "access to thousands of packages maintained by the openSUSE community."
@@ -865,15 +859,10 @@ msgstr ""
 "åtkomst till tusentals paket underhållna av openSUSE teamet."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgstr "Icke-open source förråd för openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-#| msgid ""
-#| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
-#| "Software maintained by the openSUSE community, including Opera, Steam, "
-#| "Flash, and more."
 msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
@@ -883,28 +872,19 @@ msgstr ""
 "Steam mm."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-#| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgid "Main repository of openSUSE Leap (Source packages)"
 msgstr "Huvudförråd för openSUSE Leap (källkodspaket)"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-#| msgid ""
-#| "The repository of all source packages in openSUSE Leap 42.1. For experts "
-#| "only."
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
 msgstr "Förrådet med alla källkodspaket i openSUSE Leap. Enbart för experter."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-#| msgid ""
-#| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
 msgstr "Huvudförrådet för openSUSE Leap inkluderat debuginfo-paketen"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE Leap 42.1. For experts only."
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap. For experts only."
@@ -913,14 +893,10 @@ msgstr ""
 "Enbart för experter."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-#| msgid "Repository for official updates to openSUSE Leap 42.1"
 msgid "Repository for official updates to openSUSE Leap"
 msgstr "Förråd för officiella uppdateringar av openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap 42.1."
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
@@ -929,12 +905,10 @@ msgstr ""
 "openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap"
 msgstr "Förråd för officiella icke-fria uppdateringar till openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-#| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap debuginfo packages"
 msgstr "Uppdateringsförråd för openSUSE Leap debuginfo-paket"
 
