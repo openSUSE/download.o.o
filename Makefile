@@ -19,8 +19,7 @@ po/community-repositories.pot: $(INPUT)
 %.xml: $(POFILES)
 	@intltool-merge --xml-style po $@.in $@
 
-publish:
-	ssh root@ftp-opensuse.suse.de 'cd /srv/www-local/download; git pull'
+# pulled automatically by download.o.o
 
 .SUFFIXES: .xml .in .pot .po
 .PHONY: all
