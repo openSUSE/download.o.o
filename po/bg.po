@@ -8,27 +8,30 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 15:28+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-10-23 11:55+0000\n"
+"Last-Translator: Dimitar Zahariev <mitko@tuionui.com>\n"
+"Language-Team: Bulgarian "
+"<https://l10n.opensuse.org/projects/download-o-o/master/bg/>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:1
 msgid "openSUSE BuildService - LXDE"
-msgstr ""
+msgstr "openSUSE BuildService - LXDE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:2
 msgid "Latest LXDE release"
-msgstr ""
+msgstr "Най-новата LXDE версия"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:3
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:3
@@ -52,7 +55,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:5
 msgid "Latest stable LibreOffice release"
-msgstr ""
+msgstr "Най-новата стабилна версия на LibreOffice"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:6
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:6
@@ -806,17 +809,19 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap"
-msgstr ""
+msgstr "Хранилище с официални обновления за openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
 msgstr ""
+"В това хранилище ще намерите обновления по сигурността и регулярни "
+"обновления за openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap"
-msgstr ""
+msgstr "Хранилище с официални обновления за несвободни продукти в openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 msgid "Update repository of openSUSE Leap debuginfo packages"
