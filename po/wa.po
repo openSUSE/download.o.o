@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.wa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-10 10:43+0100\n"
+"POT-Creation-Date: 2017-11-27 13:59+0100\n"
 "PO-Revision-Date: 2012-08-19 15:11+0200\n"
 "Last-Translator: Jean Cayron <jean.cayron@base.be>\n"
 "Language-Team: Walloon <linux-wa@walon.org>\n"
@@ -398,6 +398,7 @@ msgstr "Dene li vî KDE pol dierinne openSUSE"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
@@ -434,6 +435,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
@@ -462,6 +464,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
@@ -487,6 +490,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
@@ -516,6 +520,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
@@ -542,6 +547,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
@@ -556,6 +562,7 @@ msgstr "Depot po ls oficires metaedjes a djoû viè 12.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
@@ -795,6 +802,141 @@ msgid ""
 "main repositories."
 msgstr ""
 
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.1 including only Open Source Software"
+msgid "Main repository of openSUSE Leap including only Open Source Software"
+msgstr "Mwaisse depot d' openSUSE 12.1 avou ki des libes programes didins"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
+"access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
+#, fuzzy
+#| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
+msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgstr "Depot d' programes nén libes di rawete po openSUSE 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
+#, fuzzy
+#| msgid ""
+#| "The official openSUSE 12.1 repository for all Non-Open Source Software "
+#| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
+msgid ""
+"The official openSUSE Leap repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam and more."
+msgstr ""
+"L' oficire depot d' openSUSE 12.1 po tos les Programes Nén Libes Sourdants "
+"mintnous pa l' ekipe d' openSUSE, avou RealPlayer, Opera, Java, Flash eyet "
+"co ds ôtes divins."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.1 (Source packages)"
+msgid "Main repository of openSUSE Leap (Source packages)"
+msgstr "Mwaisse depot d' openSUSE 12.1 (Pacaedjes des sourdants)"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
+#, fuzzy
+#| msgid ""
+#| "The repository of all source packages in openSUSE 12.1. For experts only."
+msgid ""
+"The repository of all source packages in openSUSE Leap. For experts only."
+msgstr ""
+"Li depot d' tos les pacaedjes des sourdants d' openSUSE 12.1. Ki po les "
+"spepieus."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
+msgid "Main repository of openSUSE Leap including the debuginfo packages"
+msgstr ""
+"Mwaisse depot d' openSUSE 12.1 avou les pacaedjes d' informåcion d' "
+"disbugaedje didins"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
+#, fuzzy
+#| msgid ""
+#| "This repository is useful for those that want to debug applications on "
+#| "openSUSE 12.1. For experts only."
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap. For experts only."
+msgstr ""
+"Ci depot ci est ahessåve po les cis ki vlèt disbuguer des programe so "
+"openSUSE 12.1. Ki po les conexheus."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
+#, fuzzy
+#| msgid "Repository for official updates to 12.1"
+msgid "Repository for official updates to openSUSE Leap"
+msgstr "Depot po ls oficires metaedjes a djoû viè 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
+#, fuzzy
+#| msgid ""
+#| "In this repository you find security and maintenance updates to openSUSE "
+#| "12.1."
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap."
+msgstr ""
+"Divins ç' depot vs trovroz les metaedjes a djoû d' mintnance eyet d' såvrité "
+"po openSUSE 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
+#, fuzzy
+msgid "Repository for official non free updates to openSUSE Leap"
+msgstr "Depot po ls oficires metaedjes a djoû viè 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
+#, fuzzy
+#| msgid "Update repository of openSUSE 12.1 debuginfo packages"
+msgid "Update repository of openSUSE Leap debuginfo packages"
+msgstr ""
+"Depot des metaedjes a djoû des pacaedjes d' informåcion d' disbugaedje d' "
+"openSUSE 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
+msgid "Untested Updates"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
+#, fuzzy
+msgid "Repository of not yet tested updates"
+msgstr "Depot po ls oficires metaedjes a djoû viè 12.1"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 #, fuzzy
 #| msgid "Main repository of openSUSE 12.1 including only Open Source Software"
@@ -896,28 +1038,6 @@ msgstr ""
 "Depot des metaedjes a djoû des pacaedjes d' informåcion d' disbugaedje d' "
 "openSUSE 12.1"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
-msgid "Untested Updates"
-msgstr ""
-
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
-#, fuzzy
-msgid "Repository of not yet tested updates"
-msgstr "Depot po ls oficires metaedjes a djoû viè 12.1"
-
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
-msgid ""
-"Repository contains security and maintenance updates that still need testing "
-"by quality assurance. Add this repository only if you want to participate in "
-"testing openSUSE updates."
-msgstr ""
-
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 #, fuzzy
 #| msgid "Main repository of openSUSE 12.1 including only Open Source Software"
@@ -1015,104 +1135,6 @@ msgstr "Depot po ls oficires metaedjes a djoû viè 12.1"
 #, fuzzy
 #| msgid "Update repository of openSUSE 12.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
-msgstr ""
-"Depot des metaedjes a djoû des pacaedjes d' informåcion d' disbugaedje d' "
-"openSUSE 12.1"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-#, fuzzy
-#| msgid "Main repository of openSUSE 12.1 including only Open Source Software"
-msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr "Mwaisse depot d' openSUSE 12.1 avou ki des libes programes didins"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-msgid ""
-"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
-"access to thousands of packages maintained by the openSUSE community."
-msgstr ""
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
-msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr "Depot d' programes nén libes di rawete po openSUSE 12.1"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-#, fuzzy
-#| msgid ""
-#| "The official openSUSE 12.1 repository for all Non-Open Source Software "
-#| "maintained by the openSUSE team, including Opera, Java, Flash, and more."
-msgid ""
-"The official openSUSE Leap repository for all Non-Open Source Software "
-"maintained by the openSUSE community, including Opera, Steam and more."
-msgstr ""
-"L' oficire depot d' openSUSE 12.1 po tos les Programes Nén Libes Sourdants "
-"mintnous pa l' ekipe d' openSUSE, avou RealPlayer, Opera, Java, Flash eyet "
-"co ds ôtes divins."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-#, fuzzy
-#| msgid "Main repository of openSUSE 12.1 (Source packages)"
-msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "Mwaisse depot d' openSUSE 12.1 (Pacaedjes des sourdants)"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-#, fuzzy
-#| msgid ""
-#| "The repository of all source packages in openSUSE 12.1. For experts only."
-msgid ""
-"The repository of all source packages in openSUSE Leap. For experts only."
-msgstr ""
-"Li depot d' tos les pacaedjes des sourdants d' openSUSE 12.1. Ki po les "
-"spepieus."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-#, fuzzy
-#| msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
-msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr ""
-"Mwaisse depot d' openSUSE 12.1 avou les pacaedjes d' informåcion d' "
-"disbugaedje didins"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-#, fuzzy
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE 12.1. For experts only."
-msgid ""
-"This repository is useful for those that want to debug applications on "
-"openSUSE Leap. For experts only."
-msgstr ""
-"Ci depot ci est ahessåve po les cis ki vlèt disbuguer des programe so "
-"openSUSE 12.1. Ki po les conexheus."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-#, fuzzy
-#| msgid "Repository for official updates to 12.1"
-msgid "Repository for official updates to openSUSE Leap"
-msgstr "Depot po ls oficires metaedjes a djoû viè 12.1"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "12.1."
-msgid ""
-"In this repository you find security and maintenance updates to openSUSE "
-"Leap."
-msgstr ""
-"Divins ç' depot vs trovroz les metaedjes a djoû d' mintnance eyet d' såvrité "
-"po openSUSE 12.1"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#, fuzzy
-msgid "Repository for official non free updates to openSUSE Leap"
-msgstr "Depot po ls oficires metaedjes a djoû viè 12.1"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-#, fuzzy
-#| msgid "Update repository of openSUSE 12.1 debuginfo packages"
-msgid "Update repository of openSUSE Leap debuginfo packages"
 msgstr ""
 "Depot des metaedjes a djoû des pacaedjes d' informåcion d' disbugaedje d' "
 "openSUSE 12.1"

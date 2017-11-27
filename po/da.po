@@ -6,11 +6,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 08:26+0200\n"
+"POT-Creation-Date: 2017-11-27 13:59+0100\n"
 "PO-Revision-Date: 2017-07-31 22:21+0000\n"
 "Last-Translator: scootergrisen\n"
-"Language-Team: Danish "
-"<https://l10n.opensuse.org/projects/download-o-o/master/da/>\n"
+"Language-Team: Danish <https://l10n.opensuse.org/projects/download-o-o/"
+"master/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -395,6 +395,7 @@ msgstr "Leverer gammel KDE til nyere openSUSE"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
@@ -424,6 +425,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
@@ -447,6 +449,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
@@ -466,6 +469,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
@@ -487,6 +491,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
@@ -507,6 +512,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
@@ -519,6 +525,7 @@ msgstr "Softwarekilde til officielle ufrie opdateringer til 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
@@ -694,6 +701,115 @@ msgstr ""
 "Denne softwarekilde leverer opdateringer som haster, indtil de bliver "
 "integreret i hovedsoftwarekilderne."
 
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
+msgid "Main repository of openSUSE Leap including only Open Source Software"
+msgstr ""
+"Hovedsoftwarekilden for openSUSE Leap, som kun inkluderer open source "
+"software"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
+"access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"Den store open source softwarekilde (OSS) til openSUSE Leap, som giver dig "
+"adgang til tusindvis af pakker, vedligeholdt af openSUSE-fællesskabet."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
+msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgstr "Tillægssoftware kilde med ikke-open source software til openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
+msgid ""
+"The official openSUSE Leap repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam and more."
+msgstr ""
+"Den officielle openSUSE Leap softwarekilde for al ikke-open source software "
+"vedligeholdt af openSUSE-fællesskabet, som inkluderer Opera, Steam m.m."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
+msgid "Main repository of openSUSE Leap (Source packages)"
+msgstr "Hovedsoftwarekilden for openSUSE Leap (kildekode-pakker)"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
+msgid ""
+"The repository of all source packages in openSUSE Leap. For experts only."
+msgstr ""
+"Softwarekilden for alle kildekode-pakker i openSUSE Leap. Kun for eksperter."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
+msgid "Main repository of openSUSE Leap including the debuginfo packages"
+msgstr "Hovedsoftwarekilde for openSUSE Leap som inkluderer debuginfo-pakker"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap. For experts only."
+msgstr ""
+"Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på "
+"openSUSE Leap. Kun for eksperter."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
+msgid "Repository for official updates to openSUSE Leap"
+msgstr "Softwarekilde til officielle opdateringer til openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap."
+msgstr ""
+"På denne softwarekilde finder du sikkerheds- og vedligeholdelsesopdateringer "
+"til openSUSE Leap."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
+msgid "Repository for official non free updates to openSUSE Leap"
+msgstr ""
+"Softwarekilde til officielle opdateringer som ikke er frie/open source "
+"openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
+msgid "Update repository of openSUSE Leap debuginfo packages"
+msgstr "Opdateringskilde til openSUSE Leap med debuginfo-pakker"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
+msgid "Untested Updates"
+msgstr "Utestede opdateringer"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
+msgid "Repository of not yet tested updates"
+msgstr "Softwarekilde til endnu ikke testede opdateringer"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+"Softwarekilden indeholder sikkerheds- og vedligeholdelsesopdateringer, som "
+"endnu mangler at blive testet af kvalitetssikringen. Tilføj kun denne kilde, "
+"hvis du vil deltage i testningen af openSUSE-opdateringer."
+
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
@@ -771,30 +887,6 @@ msgstr ""
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr "Opdateringskilde til openSUSE Leap 42.1 med debuginfo-pakker"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
-msgid "Untested Updates"
-msgstr "Utestede opdateringer"
-
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
-msgid "Repository of not yet tested updates"
-msgstr "Softwarekilde til endnu ikke testede opdateringer"
-
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
-msgid ""
-"Repository contains security and maintenance updates that still need testing "
-"by quality assurance. Add this repository only if you want to participate in "
-"testing openSUSE updates."
-msgstr ""
-"Softwarekilden indeholder sikkerheds- og vedligeholdelsesopdateringer, som "
-"endnu mangler at blive testet af kvalitetssikringen. Tilføj kun denne kilde, "
-"hvis du vil deltage i testningen af openSUSE-opdateringer."
-
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
@@ -871,76 +963,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr "Opdateringskilde til openSUSE Leap 42.2 med debuginfo-pakker"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr ""
-"Hovedsoftwarekilden for openSUSE Leap, som kun inkluderer open source "
-"software"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-msgid ""
-"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
-"access to thousands of packages maintained by the openSUSE community."
-msgstr ""
-"Den store open source softwarekilde (OSS) til openSUSE Leap, som giver dig "
-"adgang til tusindvis af pakker, vedligeholdt af openSUSE-fællesskabet."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr "Tillægssoftware kilde med ikke-open source software til openSUSE Leap"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-msgid ""
-"The official openSUSE Leap repository for all Non-Open Source Software "
-"maintained by the openSUSE community, including Opera, Steam and more."
-msgstr ""
-"Den officielle openSUSE Leap softwarekilde for al ikke-open source software "
-"vedligeholdt af openSUSE-fællesskabet, som inkluderer Opera, Steam m.m."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "Hovedsoftwarekilden for openSUSE Leap (kildekode-pakker)"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-msgid ""
-"The repository of all source packages in openSUSE Leap. For experts only."
-msgstr ""
-"Softwarekilden for alle kildekode-pakker i openSUSE Leap. Kun for eksperter."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr "Hovedsoftwarekilde for openSUSE Leap som inkluderer debuginfo-pakker"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-msgid ""
-"This repository is useful for those that want to debug applications on "
-"openSUSE Leap. For experts only."
-msgstr ""
-"Denne softwarekilde er nyttig for dem, der ønsker at fejlsøge programmer på "
-"openSUSE Leap. Kun for eksperter."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-msgid "Repository for official updates to openSUSE Leap"
-msgstr "Softwarekilde til officielle opdateringer til openSUSE Leap"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-msgid ""
-"In this repository you find security and maintenance updates to openSUSE "
-"Leap."
-msgstr ""
-"På denne softwarekilde finder du sikkerheds- og vedligeholdelsesopdateringer "
-"til openSUSE Leap."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-msgid "Repository for official non free updates to openSUSE Leap"
-msgstr ""
-"Softwarekilde til officielle opdateringer som ikke er frie/open source "
-"openSUSE Leap"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "Opdateringskilde til openSUSE Leap med debuginfo-pakker"
 
 #, fuzzy
 #~| msgid ""

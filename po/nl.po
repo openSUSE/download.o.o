@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.nl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-29 14:38+0200\n"
+"POT-Creation-Date: 2017-11-27 13:59+0100\n"
 "PO-Revision-Date: 2017-01-11 13:04+0000\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch <https://l10n.opensuse.org/projects/download-o-o/master/"
@@ -402,6 +402,7 @@ msgstr "Biedt het oude KDE voor nieuwer openSUSE"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
@@ -431,6 +432,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
@@ -453,6 +455,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
@@ -473,6 +476,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
@@ -494,6 +498,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
@@ -514,6 +519,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
@@ -528,6 +534,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
@@ -705,6 +712,117 @@ msgstr ""
 "Deze installatiebron levert urgente elementen voor bijwerken totdat ze "
 "geïntegreerd worden in de hoofdinstallatiebronnen."
 
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
+msgid "Main repository of openSUSE Leap including only Open Source Software"
+msgstr "Hoofd-installatiebron van openSUSE Leap met alleen opensource-software"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
+"access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"De grote opensource-software (OSS) opslagruimte van openSUSE Leap geeft u "
+"toegang tot duizenden pakketten die door de openSUSE gemeenschap worden "
+"onderhouden."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
+msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgstr "Aanvullende, niet-opensource opslagruimte voor openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
+msgid ""
+"The official openSUSE Leap repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam and more."
+msgstr ""
+"De officiële opslaruimte voor openSUSE Leap voor alle niet-opensource-"
+"software die door de openSUSE gemeenschap wordt onderhouden; zoals Opera, "
+"Steam en meer."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
+msgid "Main repository of openSUSE Leap (Source packages)"
+msgstr "Hoofd-opslagruimte van openSUSE Leap (broncodepakketten)"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
+msgid ""
+"The repository of all source packages in openSUSE Leap. For experts only."
+msgstr ""
+"De opslagruimte van alle broncodepakketten voor openSUSE Leap. Alleen voor "
+"ervaren gebruikers."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
+msgid "Main repository of openSUSE Leap including the debuginfo packages"
+msgstr "Hoofd-opslagruimte van openSUSE Leap met debuginfo-pakketten"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap. For experts only."
+msgstr ""
+"Deze opslagruimte is bedoeld voor diegenen die fouten in programma's in "
+"openSUSE Leap willen opsporen. Alleen voor ervaren gebruikers."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
+msgid "Repository for official updates to openSUSE Leap"
+msgstr "Opslagruimte met officiële items voor het bijwerken van openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap."
+msgstr ""
+"In deze opslagruimte vindt u zaken voor het bijwerken t.b.v. veiligheid en "
+"onderhoud voor openSUSE Leap."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
+msgid "Repository for official non free updates to openSUSE Leap"
+msgstr ""
+"Opslagruimte met officiële niet-vrije items voor het bijwerken naar openSUSE "
+"Leap"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
+msgid "Update repository of openSUSE Leap debuginfo packages"
+msgstr "Opslagruimte voor bijwerken van openSUSE Leap met debuginfo-pakketten"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
+msgid "Untested Updates"
+msgstr "Niet getest elementen voor bijwerken"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
+msgid "Repository of not yet tested updates"
+msgstr "Installatiebron met nog niet geteste elementen voor bijwerken"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+"Installatiebron met elementen voor bijwerken van beveiliging en onderhoud "
+"die nog getest moeten worden door de kwaliteitsborging. Voeg deze "
+"installatiebron alleen toe als u wilt deelnemen in het testen van het "
+"bijwerken van openSUSE."
+
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
@@ -782,31 +900,6 @@ msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr ""
 "Installatiebron voor bijwerken van openSUSE Leap 42.1 met debuginfo-pakketten"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
-msgid "Untested Updates"
-msgstr "Niet getest elementen voor bijwerken"
-
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
-msgid "Repository of not yet tested updates"
-msgstr "Installatiebron met nog niet geteste elementen voor bijwerken"
-
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
-msgid ""
-"Repository contains security and maintenance updates that still need testing "
-"by quality assurance. Add this repository only if you want to participate in "
-"testing openSUSE updates."
-msgstr ""
-"Installatiebron met elementen voor bijwerken van beveiliging en onderhoud "
-"die nog getest moeten worden door de kwaliteitsborging. Voeg deze "
-"installatiebron alleen toe als u wilt deelnemen in het testen van het "
-"bijwerken van openSUSE."
-
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
@@ -883,77 +976,6 @@ msgstr ""
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
 "Installatiebron voor bijwerken van openSUSE Leap 42.2 met debuginfo-pakketten"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr "Hoofd-installatiebron van openSUSE Leap met alleen opensource-software"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-msgid ""
-"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
-"access to thousands of packages maintained by the openSUSE community."
-msgstr ""
-"De grote opensource-software (OSS) opslagruimte van openSUSE Leap geeft u "
-"toegang tot duizenden pakketten die door de openSUSE gemeenschap worden "
-"onderhouden."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr "Aanvullende, niet-opensource opslagruimte voor openSUSE Leap"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-msgid ""
-"The official openSUSE Leap repository for all Non-Open Source Software "
-"maintained by the openSUSE community, including Opera, Steam and more."
-msgstr ""
-"De officiële opslaruimte voor openSUSE Leap voor alle niet-opensource-"
-"software die door de openSUSE gemeenschap wordt onderhouden; zoals Opera, "
-"Steam en meer."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "Hoofd-opslagruimte van openSUSE Leap (broncodepakketten)"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-msgid ""
-"The repository of all source packages in openSUSE Leap. For experts only."
-msgstr ""
-"De opslagruimte van alle broncodepakketten voor openSUSE Leap. Alleen voor "
-"ervaren gebruikers."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr "Hoofd-opslagruimte van openSUSE Leap met debuginfo-pakketten"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-msgid ""
-"This repository is useful for those that want to debug applications on "
-"openSUSE Leap. For experts only."
-msgstr ""
-"Deze opslagruimte is bedoeld voor diegenen die fouten in programma's in "
-"openSUSE Leap willen opsporen. Alleen voor ervaren gebruikers."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-msgid "Repository for official updates to openSUSE Leap"
-msgstr "Opslagruimte met officiële items voor het bijwerken van openSUSE Leap"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-msgid ""
-"In this repository you find security and maintenance updates to openSUSE "
-"Leap."
-msgstr ""
-"In deze opslagruimte vindt u zaken voor het bijwerken t.b.v. veiligheid en "
-"onderhoud voor openSUSE Leap."
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-msgid "Repository for official non free updates to openSUSE Leap"
-msgstr ""
-"Opslagruimte met officiële niet-vrije items voor het bijwerken naar openSUSE "
-"Leap"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "Opslagruimte voor bijwerken van openSUSE Leap met debuginfo-pakketten"
 
 #, fuzzy
 #~| msgid ""

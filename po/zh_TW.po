@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-29 14:38+0200\n"
+"POT-Creation-Date: 2017-11-27 13:59+0100\n"
 "PO-Revision-Date: 2017-03-22 13:47+0000\n"
 "Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/download-"
@@ -391,6 +391,7 @@ msgstr "為較新的 openSUSE 提供舊的 KDE"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
@@ -416,6 +417,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
@@ -437,6 +439,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
@@ -455,6 +458,7 @@ msgstr "openSUSE 13.1 所有原始碼套件的套件庫。僅提供專家使用�
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
@@ -475,6 +479,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
@@ -493,6 +498,7 @@ msgstr "在這個套件庫您可以找到 openSUSE 13.1 的安全性與維護性
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
@@ -505,6 +511,7 @@ msgstr "13.1 的官方非開放原始碼更新套件庫"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
@@ -659,6 +666,106 @@ msgid ""
 "main repositories."
 msgstr "這個套件庫提供急迫性高的更新，直到被整合進主要套件庫為止。"
 
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
+msgid "Main repository of openSUSE Leap including only Open Source Software"
+msgstr "openSUSE Leap 的主要套件庫，僅包含開放原碼的軟體"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
+"access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"openSUSE Leap 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 社群"
+"維護的套件讓您取用。"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
+msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgstr "openSUSE Leap 的非開放原碼軟體附加套件庫"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
+msgid ""
+"The official openSUSE Leap repository for all Non-Open Source Software "
+"maintained by the openSUSE community, including Opera, Steam and more."
+msgstr ""
+"由 openSUSE 社群維護之非開放原始碼軟體的官方 openSUSE Leap 套件庫，包含了 "
+"Opera、Steam 以及其他更多軟體。"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
+msgid "Main repository of openSUSE Leap (Source packages)"
+msgstr "openSUSE Leap 的主要套件庫(原始碼套件)"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
+msgid ""
+"The repository of all source packages in openSUSE Leap. For experts only."
+msgstr "openSUSE Leap 所有原始碼套件的套件庫。僅提供專家使用。"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
+msgid "Main repository of openSUSE Leap including the debuginfo packages"
+msgstr "openSUSE Leap 的主要套件庫，包含偵錯套件"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap. For experts only."
+msgstr ""
+"這個套件庫對想要在 openSUSE Leap 偵錯應用程式非常有用。僅提供專家使用。"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
+msgid "Repository for official updates to openSUSE Leap"
+msgstr "openSUSE Leap 的官方更新套件庫"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap."
+msgstr "在這個套件庫您可以找到 openSUSE Leap 的安全性與維護性更新。"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
+msgid "Repository for official non free updates to openSUSE Leap"
+msgstr "openSUSE Leap 的官方非開放原始碼更新套件庫"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
+msgid "Update repository of openSUSE Leap debuginfo packages"
+msgstr "openSUSE Leap 的偵錯更新套件庫"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
+msgid "Untested Updates"
+msgstr "未測試的更新"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
+msgid "Repository of not yet tested updates"
+msgstr "尚未測試的更新套件庫"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+"包含了仍須進行品質測試的安全及維護更新。除非您要參與測試 openSUSE 更新才需要"
+"加入此套件庫。"
+
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
@@ -724,29 +831,6 @@ msgstr "openSUSE Leap 42.1 的官方非開放原始碼更新套件庫"
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr "openSUSE Leap 42.1 的偵錯更新套件庫"
 
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
-msgid "Untested Updates"
-msgstr "未測試的更新"
-
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
-msgid "Repository of not yet tested updates"
-msgstr "尚未測試的更新套件庫"
-
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
-msgid ""
-"Repository contains security and maintenance updates that still need testing "
-"by quality assurance. Add this repository only if you want to participate in "
-"testing openSUSE updates."
-msgstr ""
-"包含了仍須進行品質測試的安全及維護更新。除非您要參與測試 openSUSE 更新才需要"
-"加入此套件庫。"
-
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
@@ -811,68 +895,6 @@ msgstr "openSUSE Leap 42.2 的官方非開放原始碼更新套件庫"
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr "openSUSE Leap 42.2 的偵錯更新套件庫"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr "openSUSE Leap 的主要套件庫，僅包含開放原碼的軟體"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-msgid ""
-"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
-"access to thousands of packages maintained by the openSUSE community."
-msgstr ""
-"openSUSE Leap 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 社群"
-"維護的套件讓您取用。"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr "openSUSE Leap 的非開放原碼軟體附加套件庫"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-msgid ""
-"The official openSUSE Leap repository for all Non-Open Source Software "
-"maintained by the openSUSE community, including Opera, Steam and more."
-msgstr ""
-"由 openSUSE 社群維護之非開放原始碼軟體的官方 openSUSE Leap 套件庫，包含了 "
-"Opera、Steam 以及其他更多軟體。"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "openSUSE Leap 的主要套件庫(原始碼套件)"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-msgid ""
-"The repository of all source packages in openSUSE Leap. For experts only."
-msgstr "openSUSE Leap 所有原始碼套件的套件庫。僅提供專家使用。"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr "openSUSE Leap 的主要套件庫，包含偵錯套件"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-msgid ""
-"This repository is useful for those that want to debug applications on "
-"openSUSE Leap. For experts only."
-msgstr ""
-"這個套件庫對想要在 openSUSE Leap 偵錯應用程式非常有用。僅提供專家使用。"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-msgid "Repository for official updates to openSUSE Leap"
-msgstr "openSUSE Leap 的官方更新套件庫"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-msgid ""
-"In this repository you find security and maintenance updates to openSUSE "
-"Leap."
-msgstr "在這個套件庫您可以找到 openSUSE Leap 的安全性與維護性更新。"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-msgid "Repository for official non free updates to openSUSE Leap"
-msgstr "openSUSE Leap 的官方非開放原始碼更新套件庫"
-
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "openSUSE Leap 的偵錯更新套件庫"
 
 #, fuzzy
 #~| msgid ""

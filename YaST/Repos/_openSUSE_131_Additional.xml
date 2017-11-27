@@ -6,6 +6,7 @@
         <name>openSUSE BuildService - LXDE</name>
         <name xml:lang="ar">خدمة بناء أوبن سوزي-- LXDE</name>
         <name xml:lang="ast">Serviciu de construcción d'OpenSUSE - LXDE</name>
+        <name xml:lang="bg">openSUSE BuildService - LXDE</name>
         <name xml:lang="ca">Servei de construcció de l'openSUSE - LXDE</name>
         <name xml:lang="cs">openSUSE BuildService - LXDE</name>
         <name xml:lang="da">openSUSE BuildService - LXDE</name>
@@ -42,6 +43,7 @@
         <summary>Latest LXDE release</summary>
         <summary xml:lang="ar">إخر نسخة من LXDE</summary>
         <summary xml:lang="ast">Llanzamientu caberu de LXDE</summary>
+        <summary xml:lang="bg">Най-новата LXDE версия</summary>
         <summary xml:lang="ca">Última versió d'LXDE</summary>
         <summary xml:lang="cs">Nejnovější vydání LXDE</summary>
         <summary xml:lang="da">Seneste LXDE-udgivelse</summary>
@@ -152,6 +154,7 @@
         <summary>Latest stable LibreOffice release</summary>
         <summary xml:lang="ar">أحدث إصداره مستقرة من ليبر أوفيس</summary>
         <summary xml:lang="ast">El llanzamientu caberu de LibreOffice</summary>
+        <summary xml:lang="bg">Най-новата стабилна версия на LibreOffice</summary>
         <summary xml:lang="bs">zadnji stabilni LibreOffice release</summary>
         <summary xml:lang="ca">Última versió estable del LibreOffice</summary>
         <summary xml:lang="cs">Poslední stabilní verze LibreOffice</summary>
@@ -413,7 +416,7 @@
         <summary xml:lang="pa">CVS ਲਈ ਸਨੈਪਸ਼ਾਟ</summary>
         <summary xml:lang="pl">Zrzuty bazy CVS programu Wine</summary>
         <summary xml:lang="pt">Snapshots do Wine CVS</summary>
-        <summary xml:lang="pt_BR">Snapshots do Wine CVS</summary>
+        <summary xml:lang="pt_BR">Instantâneos do Wine CVS</summary>
         <summary xml:lang="ro">Instantaneu al codului CVS Wine</summary>
         <summary xml:lang="ru">Снимки CVS Wine</summary>
         <summary xml:lang="sk">Každodenné verzie programu Wine z CVS</summary>
@@ -450,7 +453,7 @@
         <description xml:lang="nl">Wine is een opensource-implementatie van de Windows API. Deze maakt het mogelijk om enkele Windows-programma's op openSUSE te draaien. Deze bron bevat de laatste CVS (ontwikkeling) pakketten van Wine.</description>
         <description xml:lang="pl">Wine to otwarta implementacja Windows API, która pozwala uruchamiać niektóre programy Windows w openSUSE. Repozytorium zawiera najnowsze nieoficjalne pakiety Wine.</description>
         <description xml:lang="pt">O Wine é uma implementaçãode código aberto da API do Windows, dai poder correr aplicações Windows no openSUSE. Este repositório oferece os pacotes das últimas versões CVS (desenvolvimento) do Wine.</description>
-        <description xml:lang="pt_BR">O Wine é uma implementação em código aberto da API do Windows que permite a execução de alguns aplicativos do Windows no openSUSE. Este repositório fornece o snapshot CVS (desenvolvimento) mais recente de pacotes do Wine.</description>
+        <description xml:lang="pt_BR">O Wine é uma implementação em código aberto da API do Windows que permite a execução de alguns aplicativos do Windows no openSUSE. Este repositório fornece o instantâneo CVS (desenvolvimento) mais recente de pacotes do Wine.</description>
         <description xml:lang="ro">Wine este o implementare cu sursă deschisă a API-urilor Windows, ce permit rularea anumitor aplicații Windows sub openSUSE. Această sursă furnizează ultimele pachete din serverul CVS (dezvoltare) ale Wine.</description>
         <description xml:lang="ru">Wine является реализацией Windows API с открытым кодом, так что она позволяет вам запускать некоторые приложения Windows в openSUSE. Этот репозиторий предоставляет пакеты с последними снимками CVS (разработки) Wine.</description>
         <description xml:lang="sk">Wine je Open Source implementácia API systému Windows, takže vám umožní spúšťať niektoré Windows aplikácie v openSUSE. Tento repozitár poskytuje balíky najnovšej (vývojovej) verzie Wine z CVS.</description>
