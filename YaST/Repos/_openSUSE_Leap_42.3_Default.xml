@@ -47,8 +47,10 @@
                 <summary xml:lang="cs">Hlavní repozitář openSUSE Leap obsahující pouze Open source software</summary>
                 <summary xml:lang="da">Hovedsoftwarekilden for openSUSE Leap, som kun inkluderer open source software</summary>
                 <summary xml:lang="de">Haupt-Repository von openSUSE Leap, die rein Open Source Software enthält</summary>
+                <summary xml:lang="el">Κύριο αποθετήριο του openSUSE Leap, περιλαμβάνει μόνο Λογισμικό Ανοιχτού Κώδικα</summary>
                 <summary xml:lang="es">Repositorio principal de openSUSE Leap incluyendo solo software de código abierto</summary>
                 <summary xml:lang="fa">مخازن اصلی openSUSE Leapشامل فقط نرم افزارهای متن باز</summary>
+                <summary xml:lang="fi">openSUSE Leapin pääasennuslähde, joka tarjoaa vain avoimen lähdekoodin ohjelmia</summary>
                 <summary xml:lang="fr">Dépôt principal d'openSUSE Leap contenant seulement les logiciels Open Source</summary>
                 <summary xml:lang="gl">Repositorio principal de openSUSE Leap que inclúe só software de código aberto</summary>
                 <summary xml:lang="id">Repositori utama openSUSE Leap yang hanya berisi Perangkat Lunak Sumber Terbuka</summary>
@@ -72,6 +74,7 @@
                 <description xml:lang="de">Das große Open Source Software (OSS) Repository für openSUSE Leap, welches Zugang zu Tausenden von Paketen bietet, die von der openSUSE Gemeinschaft gepflegt werden.</description>
                 <description xml:lang="es">El gran repositorio de software de código abierto (OSS) de openSUSE Leap, le brinda acceso a miles de paquetes mantenidos por la comunidad de openSUSE.</description>
                 <description xml:lang="fa">مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE Leap ، به شما دسترسی به هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد.</description>
+                <description xml:lang="fi">openSUSE Leapin suuri avoimen lähdekoodin ohjelmien (OSS) asennuslähde, joka tarjoaa sinulle pääsyn tuhansiin openSUSE-yhteisön ylläpitämiin paketteihin.</description>
                 <description xml:lang="fr">Le dépôt principal de logiciels Open Source pour openSUSE Leap, vous donnant accès à des milliers de paquets maintenus par la communauté openSUSE.</description>
                 <description xml:lang="gl">O gran repositorio de Software de código aberto (OSS) para openSUSE Leap , dálle acceso a milleiros de paquetes mantidos pola comunidade de openSUSE.</description>
                 <description xml:lang="id">Repositori Perangkat Lunak Sumber Terbuka (OSS) besar untuk openSUSE Leap, memberikan Anda akses ke ribuan paket yang dikelola oleh komunitas openSUSE.</description>
@@ -136,6 +139,7 @@
                 <summary xml:lang="de">Nicht-Open Source Software Addon Repository für openSUSE Leap</summary>
                 <summary xml:lang="es">Repositorio complementario de código no abierto para openSUSE Leap</summary>
                 <summary xml:lang="fa">مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE Leap</summary>
+                <summary xml:lang="fi">openSUSE Leapin ei-avoimen lähdekoodin lisäasennuslähde</summary>
                 <summary xml:lang="fr">Dépôt de logiciels supplémentaires non-opensource pour openSUSE Leap</summary>
                 <summary xml:lang="gl">Repositorio de complementos de software que non son de código aberto para openSUSE Leap</summary>
                 <summary xml:lang="id">Repositori Perangkat Lunak Bukan Sumber Terbuka Tambahan untuk openSUSE Leap</summary>
@@ -159,6 +163,7 @@
                 <description xml:lang="de">Das offizielle openSUSE Leap Repository für sämtliche 'Nicht-Open-Source-Software', die vom openSUSE-Team gewartet sind wird, einschließlich Opera, Steam und mehr.</description>
                 <description xml:lang="es">El repositorio oficial de Leap para todo el software de código no abierto mantenido por la comunidad de openSUSE y que incluye Opera, Steam y muchos más.</description>
                 <description xml:lang="fa">مخازن رسمی openSUSE Leap برای تمامی نرم افزار های غیر متن-باز که توسط تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، استیم و ... است.</description>
+                <description xml:lang="fi">Virallinen openSUSE Leapin asennuslähde kaikille ei-avoimen lähdekoodin ohjelmille kuten Operalle, Steamille jne. Sitä ylläpitää openSUSE-yhteisö.</description>
                 <description xml:lang="fr">Le dépôt officiel d'openSUSE Leap pour les logiciels non libre maintenus par la communauté openSUSE, comme Opera, Steam et plus encore.</description>
                 <description xml:lang="gl">O repositorio oficial de openSUSE Leap  para todo o software que non é de código aberto mantido pola comunidade de openSUSE, incluíndo Opera, Steam e máis.</description>
                 <description xml:lang="id">Repositori openSUSE Leap resmi untuk semua Perangkat Lunak Bukan Sumber Terbuka yang dikelola oleh komunitas openSUSE, berisi Opera, Steam, dan lainnya.</description>
@@ -222,6 +227,7 @@
                 <summary xml:lang="de">Haupt Repository von openSUSE Leap (Quelltext-Pakete)</summary>
                 <summary xml:lang="es">Repositorio principal de openSUSE Leap (paquetes de código fuente)</summary>
                 <summary xml:lang="fa">مخازن اصلی openSUSE Leap (بسته های منبع)</summary>
+                <summary xml:lang="fi">openSUSE Leapin pääasennuslähde (lähdekoodipaketit)</summary>
                 <summary xml:lang="fr">Dépôt principal d'openSUSE Leap (Paquets Sources)</summary>
                 <summary xml:lang="gl">Repositorio principal de openSUSE Leap (Paquetes de fontes)</summary>
                 <summary xml:lang="id">Repositori utama openSUSE Leap (Paket-paket Sumber)</summary>
@@ -245,6 +251,7 @@
                 <description xml:lang="de">Das Repository aller Quelltextpakete in openSUSE Leap. Nur für Experten.</description>
                 <description xml:lang="es">El repositorio con todos los paquetes de código fuente en openSUSE Leap. Sólo para expertos.</description>
                 <description xml:lang="fa">مخازن شامل تمامی بسته های منبع  کد برای openSUSE Leap. فقط برای افراد متخصص است.</description>
+                <description xml:lang="fi">openSUSE Leapin kaikkien lähdekoodipakettien asennuslähde. Vain asiantuntijoille.</description>
                 <description xml:lang="fr">Le dépôt de tous les paquets source d'openSUSE Leap. Pour experts seulement.</description>
                 <description xml:lang="gl">O repositorio de todos os paquetes de fontes de openSUSE Leap. Só para expertos.</description>
                 <description xml:lang="id">Repositori dari semua paket sumber di openSUSE Leap. Untuk pengguna ahli saja.</description>
@@ -309,6 +316,7 @@
                 <summary xml:lang="de">Haupt Repository von openSUSE Leap inklusive der debuginfo-Pakete</summary>
                 <summary xml:lang="es">Repositorio principal de openSUSE Leap que incluye los paquetes de depuración</summary>
                 <summary xml:lang="fa">مخازن اصلی openSUSE Leap شامل بسته های debuginfo</summary>
+                <summary xml:lang="fi">openSUSE Leapin pääasennuslähde, joka sisältää debuginfo-paketit</summary>
                 <summary xml:lang="fr">Dépôt principal d'openSUSE Leap contenant les paquets debuginfo</summary>
                 <summary xml:lang="gl">Repositorio principal de openSUSE Leap que inclúe paquetes de información de depuración (debuginfo)</summary>
                 <summary xml:lang="id">Repositori utama openSUSE Leap yang berisi paket-paket debuginfo</summary>
@@ -332,6 +340,7 @@
                 <description xml:lang="de">Dieses Repository ist nützlich für diejenigen, die unter openSUSE Leap Anwendungen debuggen wollen. Nur für Experten.</description>
                 <description xml:lang="es">Este repositorio es útil para aquellos que quieren depurar aplicaciones en openSUSE Leap. Sólo para expertos.</description>
                 <description xml:lang="fa">این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Leap اشکال زدایی کنند مناسب است. فقط برای افراد متخصص است.</description>
+                <description xml:lang="fi">Tämä asennuslähde on tarpeen niille, jotka haluavat paikantaa virheitä openSUSE Leapin ohjelmista. Vain asiantuntijoille.</description>
                 <description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE Leap. Pour experts seulement.</description>
                 <description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE Leap. Só para expertos.</description>
                 <description xml:lang="id">Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap aplikasi pada openSUSE Leap. Untuk pengguna ahli saja.</description>
@@ -367,7 +376,7 @@
                 <name xml:lang="hu">Elsődleges frissítéseket tartalmazó telepítési forrás</name>
                 <name xml:lang="id">Repositori Pembaruan Utama</name>
                 <name xml:lang="it">Repository principale degli aggiornamenti</name>
-                <name xml:lang="ja">メインアップデートリポジトリ</name>
+                <name xml:lang="ja">メインの更新用リポジトリ</name>
                 <name xml:lang="km">ឃ្លាំង​ធ្វើ​បច្ចុប្បន្ន​​ចម្បង</name>
                 <name xml:lang="ko">주 업데이트 저장소</name>
                 <name xml:lang="lt">Pagrindinė atnaujinimų saugykla</name>
@@ -396,6 +405,7 @@
                 <summary xml:lang="de">Repository für offizielle Updates von openSUSE Leap</summary>
                 <summary xml:lang="es">Repositorio de actualizaciones oficiales para openSUSE Leap</summary>
                 <summary xml:lang="fa">مخازن رسمی بروزرسانی برای openSUSE Leap</summary>
+                <summary xml:lang="fi">openSUSE Leapin virallinen päivityslähde</summary>
                 <summary xml:lang="fr">Dépôt pour les mises à jour officielles pour openSUSE Leap</summary>
                 <summary xml:lang="gl">Repositorio de actualizacións oficiais para openSUSE Leap</summary>
                 <summary xml:lang="id">Repositori pembaruan resmi untuk openSUSE Leap</summary>
@@ -420,6 +430,7 @@
                 <description xml:lang="de">In diesem Repository finden Sie Sicherheits- und Wartungsaktualisierierungen für openSUSE Leap.</description>
                 <description xml:lang="es">En este repositorio puedes encontrar actualizaciones de seguridad y mantenimiento para openSUSE Leap.</description>
                 <description xml:lang="fa">در این مخزن شما بسته های امنیتی و نگه داری بروزرسانی برای openSUSE Leap را پیدا خواهید کرد.</description>
+                <description xml:lang="fi">Tästä asennuslähteestä löydät openSUSE Leapin turvallisuus- ja ylläpitopäivitykset.</description>
                 <description xml:lang="fr">Dans ce dépôt, vous trouverez des mise à jour de sécurité et de maintenance pour openSUSE Leap.</description>
                 <description xml:lang="gl">Neste repositorio poderá atopar actualizacións de seguridade e mantemento para openSUSE Leap.</description>
                 <description xml:lang="id">Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan untuk openSUSE Leap.</description>
@@ -442,7 +453,7 @@
                 <name xml:lang="ar">تحديث مستودع (برمجيات غير حرة المصدر)</name>
                 <name xml:lang="ca">Repositori d'actualització (No OSS)</name>
                 <name xml:lang="cs">Aktualizační repozitář (uzavřený software)</name>
-                <name xml:lang="da">Opdateringskilde (Non-OSS)</name>
+                <name xml:lang="da">Opdateringskilde (Ikke-OSS)</name>
                 <name xml:lang="de">Aktualisierungs-Repository (Nicht-Open-Source-Software)</name>
                 <name xml:lang="el">Κύριο Αποθετήριο Ενημερώσεων (Non-Oss)</name>
                 <name xml:lang="es">Repositorio de actualizaciones (No OpenSource)</name>
@@ -474,6 +485,7 @@
                 <summary xml:lang="de">Repository für offizielle nicht freie Aktualisierungen für openSUSE Leap</summary>
                 <summary xml:lang="es">Repositorio oficial de actualizaciones no libres para openSUSE Leap</summary>
                 <summary xml:lang="fa">مخازن رسمی بروز رسانی برای نرم افزارهای غیر آزاد در openSUSE Leap</summary>
+                <summary xml:lang="fi">openSUSE Leapin virallinen ei-vapaiden päivitysten asennuslähde</summary>
                 <summary xml:lang="fr">Dépôt pour les mises à jour officielles pour openSUSE Leap</summary>
                 <summary xml:lang="gl">Repositorio de actualizacións oficiais para openSUSE Leap</summary>
                 <summary xml:lang="id">Repositori pembaruan resmi perangkat lunak tidak bebas untuk openSUSE Leap</summary>
@@ -498,6 +510,7 @@
                 <description xml:lang="de">In diesem Repository finden Sie Sicherheits- und Wartungsaktualisierierungen für openSUSE Leap.</description>
                 <description xml:lang="es">En este repositorio puedes encontrar actualizaciones de seguridad y mantenimiento para openSUSE Leap.</description>
                 <description xml:lang="fa">در این مخزن شما بسته های امنیتی و نگه داری بروزرسانی برای openSUSE Leap را پیدا خواهید کرد.</description>
+                <description xml:lang="fi">Tästä asennuslähteestä löydät openSUSE Leapin turvallisuus- ja ylläpitopäivitykset.</description>
                 <description xml:lang="fr">Dans ce dépôt, vous trouverez des mise à jour de sécurité et de maintenance pour openSUSE Leap.</description>
                 <description xml:lang="gl">Neste repositorio poderá atopar actualizacións de seguridade e mantemento para openSUSE Leap.</description>
                 <description xml:lang="id">Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan untuk openSUSE Leap.</description>
@@ -557,6 +570,7 @@
                 <summary xml:lang="de">Aktualisierungsrepository von openSUSE Leap debuginfo Pakete</summary>
                 <summary xml:lang="es">Repositorio de actualizaciones para paquetes de depuración de openSUSE Leap</summary>
                 <summary xml:lang="fa">مخازن بروزرسانی برای بسته های debuginfo در openSUSE Leap</summary>
+                <summary xml:lang="fi">openSUSE Leapin debuginfo-pakettien päivityslähde</summary>
                 <summary xml:lang="fr">Dépôt de mise à jour d'openSUSE Leap contenant les paquets debuginfo</summary>
                 <summary xml:lang="gl">Repositorio de actualización de openSUSE Leap paquetes debuginfo</summary>
                 <summary xml:lang="id">Repositori pembaruan untuk paket-paket debuginfo di openSUSE Leap</summary>
@@ -580,6 +594,7 @@
                 <description xml:lang="de">Dieses Repository ist nützlich für diejenigen, die unter openSUSE Leap Anwendungen debuggen wollen. Nur für Experten.</description>
                 <description xml:lang="es">Este repositorio es útil para aquellos que quieren depurar aplicaciones en openSUSE Leap. Sólo para expertos.</description>
                 <description xml:lang="fa">این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Leap اشکال زدایی کنند مناسب است. فقط برای افراد متخصص است.</description>
+                <description xml:lang="fi">Tämä asennuslähde on tarpeen niille, jotka haluavat paikantaa virheitä openSUSE Leapin ohjelmista. Vain asiantuntijoille.</description>
                 <description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE Leap. Pour experts seulement.</description>
                 <description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE Leap. Só para expertos.</description>
                 <description xml:lang="id">Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap aplikasi pada openSUSE Leap. Untuk pengguna ahli saja.</description>
@@ -607,6 +622,7 @@
                 <name xml:lang="el">Μη δοκιμασμένες Ενημερώσεις</name>
                 <name xml:lang="es">Actualizaciones sin probar</name>
                 <name xml:lang="fa">بروزرسانی های نامطمئن</name>
+                <name xml:lang="fi">Testaamattomat päivitykset</name>
                 <name xml:lang="fr">Mises à jour non testées</name>
                 <name xml:lang="gl">Actualizacións sen probar</name>
                 <name xml:lang="id">Pembaruan Belum Teruji</name>
@@ -632,6 +648,7 @@
                 <summary xml:lang="el">Αποθετήριο μη δοκιμασμένων ενημερώσεων</summary>
                 <summary xml:lang="es">Repositorio de actualizaciones aún no comprobadas</summary>
                 <summary xml:lang="fa">مخازن بسته های تست نشده</summary>
+                <summary xml:lang="fi">Vielä testaamattomien päivitysten asennuslähde</summary>
                 <summary xml:lang="fr">Dépôt des mises à jour encore non testées</summary>
                 <summary xml:lang="gl">Repositorio de actualizacións non probadas aínda</summary>
                 <summary xml:lang="id">Repositori dari pambaruan yang belum teruji</summary>
@@ -657,6 +674,7 @@
                 <description xml:lang="el">Αποθετήριο περιέχει ενημερώσεις ασφαλείας και συντήρησης που χρειάζονται ακόμα δοικμές από τη διασφάλιση ποιότητας.Προσθέστε αυτό το αποθετήριο μόνο αν θέλετε να συμμετέχετε στις ενημερώσεις του openSUSE υπό δοκιμή.</description>
                 <description xml:lang="es">Repositorio que contiene actualizaciones de seguridad y mantenimiento que aun necesitan pruebas para asegurar su calidad. Agregue este repositorio solo si quiere participar en las pruebas de las actualizaciones de openSUSE.</description>
                 <description xml:lang="fa">مخزن شامل بسته های امنیتی و نگه داری های بروزرسانی که همچنان برای تضمین سطح کیفیت آنها نیاز به آزمون بیشتری دارند. فقط در صورتی که قصد دارید در آزمایش بسته های آزمایشی openSUSE شرکت کنید این مخزن را اضافه کنید.</description>
+                <description xml:lang="fi">Asennuslähde sisältää turvallisuus- ja ylläpitopäivityksiä, jotka täytyy vielä tarkistaa laadun varmistamiseksi. Lisää tämä päivityslähde vain, jos haluat osallistua openSUSEn päivitysten testaamiseen.</description>
                 <description xml:lang="fr">Dépôt contenant les mises à jour de sécurité et de maintenance qui doivent encore être testées. Ajoutez ce dépôt uniquement si vous souhaitez participer aux tests des mises à jour d'openSUSE.</description>
                 <description xml:lang="gl">Repositorio que contén actualizacións de seguridade e mantemento que aínda necesita probas para asegurar a súa calidade. Engada este repositorio só se quere participar nas probas das actualizacións de openSUSE.</description>
                 <description xml:lang="id">Repositori ini berisi pembaruan keamanan dan pemeliharaan yang masih memerlukan pengujian oleh jaminan kualitas. Tambahkan repositori ini hanya jika Anda ingin berpartisipasi dalam pengujian pembaruan openSUSE.</description>

@@ -328,6 +328,7 @@
         <summary xml:lang="el">Κύριο αποθετριο του openSUSE Tumbleweed συμπεριλαμβανομένων και των πακέτων debuginfo</summary>
         <summary xml:lang="es">Repositorio principal de openSUSE Tumbleweed incluyendo los paquetes de depuración</summary>
         <summary xml:lang="fa">مخازن اصلی openSUSE Tumbleweed شامل بسته های debuginfo</summary>
+        <summary xml:lang="fi">OpenSUSE Tumbleweedin pääasennuslähde, joka sisältää debuginfo-paketit</summary>
         <summary xml:lang="fr">Dépôt principal d'openSUSE Tumbleweed contenant les paquets debuginfo</summary>
         <summary xml:lang="gl">Repositorio principal de openSUSE Tumbleweed que inclúe paquetes de información de depuración (debuginfo)</summary>
         <summary xml:lang="id">Repositori utama openSUSE Tumbleweed yang berisi paket-paket debuginfo</summary>
@@ -353,6 +354,7 @@
         <description xml:lang="el">Αυτό το αποθετήριο είναι χρήσιμο για όσους θέλουν να αποσφαλματώσουν εφαρμογές στο openSUSE Tumbleweed. Μόνο για προχωρημένους.</description>
         <description xml:lang="es">Este repositorio es útil para aquellos que quieren depurar aplicaciones en openSUSE Tumbleweed. Solo para expertos.</description>
         <description xml:lang="fa">این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Tumbleweed اشکال زدایی کنند مناسب است. فقط برای افراد متخصص است.</description>
+        <description xml:lang="fi">Tämä asennuslähde on tarpeen niille, jotka haluavat paikantaa vikoja openSUSE Tumbleweedin sovelluksista. Vain asiantuntijoille.</description>
         <description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE Tumbleweed. Pour experts seulement.</description>
         <description xml:lang="gl">Este repositorio é útil para aqueles que desexan depurar aplicativos de openSUSE Tumbleweed. Só para expertos.</description>
         <description xml:lang="id">Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap aplikasi pada openSUSE Tumbleweed. Untuk pengguna ahli saja.</description>
@@ -389,7 +391,7 @@
         <name xml:lang="hu">Elsődleges frissítéseket tartalmazó telepítési forrás</name>
         <name xml:lang="id">Repositori Pembaruan Utama</name>
         <name xml:lang="it">Repository principale degli aggiornamenti</name>
-        <name xml:lang="ja">メインアップデートリポジトリ</name>
+        <name xml:lang="ja">メインの更新用リポジトリ</name>
         <name xml:lang="km">ឃ្លាំង​ធ្វើ​បច្ចុប្បន្ន​​ចម្បង</name>
         <name xml:lang="ko">주 업데이트 저장소</name>
         <name xml:lang="lt">Pagrindinė atnaujinimų saugykla</name>
@@ -418,6 +420,7 @@
         <summary xml:lang="el">Επίσημο αποθετήριο ενημερώσεων για Tumbleweed</summary>
         <summary xml:lang="es">Repositorio oficial de actualizaciones para Tumbleweed</summary>
         <summary xml:lang="fa">مخزن بروزرسانی رسمی برای Tumbleweed</summary>
+        <summary xml:lang="fi">Tumbleweedin virallinen päivityslähde</summary>
         <summary xml:lang="fr">Dépôt officiel de mise à jour pour Tumbleweed</summary>
         <summary xml:lang="gl">Repositorio de actualización para Tumbleweed</summary>
         <summary xml:lang="id">Repositori pembaruan resmi untuk Tumbleweed</summary>
@@ -443,6 +446,7 @@
         <description xml:lang="el">Αυτό το αποθετήριο παρέχει επείγοντες ενημερώσεις μέχρι να ενταχθούν στα κυρίως αποθετήρια.</description>
         <description xml:lang="es">Este repositorio provee actualizaciones urgentes hasta que sean integradas en los repositorios principales.</description>
         <description xml:lang="fa">این مخزن بروزرسانی های فوری و ضروری را تا زمان یکپارچه شدن آنها درون مخازن اصلی برای شما مهیا میکند.</description>
+        <description xml:lang="fi">Tämä asennuslähde tarjoaa kiireiset päivitykset ennen kuin ne saadaan viedyksi pääasennuslähteisiin.</description>
         <description xml:lang="fr">Ce dépôt fournit les mises à jour urgentes, avant qu'elles ne soient intégrées aux dépôts principaux.</description>
         <description xml:lang="gl">Este repositorio fornece actualizacións urxentes ata que sexan integradas nos repositorios principais.</description>
         <description xml:lang="id">Repositori ini menyediakan pembaruan penting sampai mereka terintegrasi ke dalam repositori utama.</description>
