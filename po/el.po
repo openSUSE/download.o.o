@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: community-repositories.el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 13:59+0100\n"
-"PO-Revision-Date: 2018-02-23 17:02+0000\n"
-"Last-Translator: Efstathios Iosifidis <eiosifidis@gmail.com>\n"
+"PO-Revision-Date: 2018-04-25 12:38+0000\n"
+"Last-Translator: Konstantina Tsolakoglou <konstantina@accountant.com>\n"
 "Language-Team: Greek "
 "<https://l10n.opensuse.org/projects/download-o-o/master/el/>\n"
 "Language: el\n"
@@ -726,118 +726,80 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-#, fuzzy
-#| msgid ""
-#| "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, "
-#| "giving you access to thousands of packages maintained by the openSUSE "
-#| "community."
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
 "access to thousands of packages maintained by the openSUSE community."
 msgstr ""
-"Το μεγάλο αποθετήριο Λογισμικού Ανοιχτού Κώδικα για το openSUSE Leap 42.1, "
+"Το μεγάλο αποθετήριο Λογισμικού Ανοιχτού Κώδικα (OSS) για το openSUSE Leap, "
 "σας δίνει πρόσβαση σε χιλιάδες πακέτα που συντηρούνται από την κοινότητα του "
 "openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr ""
-"Πρόσθετο αποθετήριο Μη Ανοιχτού Κώδικα Λογισμικού για το openSUSE Leap 42.1"
+msgstr "Πρόσθετο αποθετήριο Μη Ανοιχτού Κώδικα Λογισμικού για το openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-#, fuzzy
-#| msgid ""
-#| "The official openSUSE Leap 42.1 repository for all Non-Open Source "
-#| "Software maintained by the openSUSE community, including Opera, Steam, "
-#| "Flash, and more."
 msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
 msgstr ""
-"Το επίσημο αποθετήριο του openSUSE Leap 42.1 για όλα τα Λογισμικά Μη "
-"Ανοιχτού Κώδικα που συντηρούνται από την κοινότητα του openSUSE, "
-"περιλαμβάνει Opera, Steam, Flash και άλλα πολλά."
+"Το επίσημο αποθετήριο του openSUSE Leap για όλα τα Λογισμικά Μη Ανοιχτού "
+"Κώδικα που συντηρούνται από την κοινότητα του openSUSE, περιλαμβάνει Opera, "
+"Steam και άλλα πολλά."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-#, fuzzy
-#| msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "Κύριο αποθετήριο του openSUSE Leap 42.1 (Πηγαία πακέτα)"
+msgstr "Κύριο αποθετήριο του openSUSE Leap (Πηγαία πακέτα)"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-#, fuzzy
-#| msgid ""
-#| "The repository of all source packages in openSUSE Leap 42.1. For experts "
-#| "only."
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
 msgstr ""
-"Το αποθετήριο με όλα τα πηγαία πακέτα στο openSUSE Leap 42.1. Μόνο για "
+"Το αποθετήριο με όλα τα πηγαία πακέτα στο openSUSE Leap. Μόνο για "
 "προχωρημένους."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-#, fuzzy
-#| msgid ""
-#| "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
 msgstr ""
-"Κύριο αποθετήριο του openSUSE Leap 42.1 περιλαμβανομένων των πακέτων "
-"debuginfo"
+"Κύριο αποθετήριο του openSUSE Leap περιλαμβανομένων των πακέτων debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-#, fuzzy
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE Leap 42.1. For experts only."
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap. For experts only."
 msgstr ""
 "Αυτό το αποθετήριο είναι χρήσιμο για όσους θέλουν να αποσφαλματώσουν "
-"εφαρμογές στο openSUSE Leap 42.1. Μόνο για προχωρημένους."
+"εφαρμογές στο openSUSE Leap. Μόνο για προχωρημένους."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap 42.1"
 msgid "Repository for official updates to openSUSE Leap"
-msgstr "Αποθετήριο για επίσημες ενημερώσεις για το openSUSE Leap 42.1"
+msgstr "Αποθετήριο για επίσημες ενημερώσεις για το openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap 42.1."
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
 msgstr ""
 "Σε αυτό το αποθετήριο θα βρείτε ενημερώσεις ασφαλείας και συντήρησης για το "
-"openSUSE Leap 42.1."
+"openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#, fuzzy
-#| msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgid "Repository for official non free updates to openSUSE Leap"
-msgstr ""
-"Αποθετήριο των επισήμων μη ελεύθερων ενημερώσεων για το openSUSE Leap 42.1"
+msgstr "Αποθετήριο των επισήμων μη ελεύθερων ενημερώσεων για το openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-#, fuzzy
-#| msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "Αποθετήριο ενημέρωσης για τα πακέτα debuginfo του openSUSE Leap 42.1"
+msgstr "Αποθετήριο ενημέρωσης για τα πακέτα debuginfo του openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
