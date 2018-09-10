@@ -39,7 +39,7 @@
         <name xml:lang="tr">Ana Depo (AKY)</name>
         <name xml:lang="uk">Головне сховище (ВПЗ)</name>
         <name xml:lang="wa">Mwaisse depot (OSS)</name>
-        <name xml:lang="zh_CN">主软件源 (开源软件)</name>
+        <name xml:lang="zh_CN">主软件源（开源软件）</name>
         <name xml:lang="zh_TW">主要套件庫 (OSS)</name>
         <summary>Main repository of openSUSE Tumbleweed including only Open Source Software</summary>
         <summary xml:lang="ar">المستودع الرئيسي لأوبن سوزي  Tumbleweed مع البرمجيات مفتوحة المصدر فقط</summary>
@@ -72,7 +72,7 @@
         <description xml:lang="ca">El gran repositori de programari de codi obert (Open Source Software (OSS)) per a l'openSUSE, que us dóna accés a milers de paquets mantinguts per l'equip d'openSUSE. (A causa de la mida del repositori, afegir-lo pot trigar força estona. És molt recomanable tenir un mínim de 512 MB de RAM o una partició d'intercanvi activa en cas que hi vulgueu accedir durant la instal·lació.)</description>
         <description xml:lang="cs">Velký repozitář se softwarem s otevřeným kódem pro openSUSE Factory vám dává přístup k tisícům balíčků spravovaných týmem openSUSE. (Vzhledem k velikosti tohoto repozitáře může jeho přidání vyžadovat delší čas. Pokud k repozitáři chcete přistupovat během instalace, doporučujeme minimálně 512 MB RAM nebo aktivní odkládací oddíl.)</description>
         <description xml:lang="da">Den store open source softwarekilde (OSS) til openSUSE, som giver dig adgang til tusindvis af pakker, vedligeholdt af openSUSE-holdet. (På grund af størrelsen på softwarekilden kan tilføjelse af den tage noget tid. 512 MB RAM eller en aktiveret SWAP-partition anbefales, hvis du vil have adgang til denne softwarekilde under installation.)</description>
-        <description xml:lang="de">Das große Repository 'Open Source Software' (OSS) für openSUSE , das Ihnen Zugriff auf tausende vom openSUSE-Team verwaltete Pakete gibt. (Aufgrund der Größe des Repositories kann das Hinzufügen einige Zeit in Anspruch nehmen. Mindestens 512MB RAM oder eine aktivierte SWAP-Partition werden dringend empfohlen, falls Sie während der Installation  auf dieses Repository zugreifen wollen.)</description>
+        <description xml:lang="de">Das große  'Open Source Software' (OSS) Repository für openSUSE, das Ihnen Zugriff auf tausende vom openSUSE-Team gepflegte Pakete gibt. (Aufgrund der Größe des Repositorys kann das Hinzufügen einige Zeit in Anspruch nehmen. Mindestens 512MB RAM oder eine aktivierte SWAP-Partition werden dringend empfohlen, falls Sie während der Installation dieses Repository verwenden wollen.)</description>
         <description xml:lang="el">Το μεγάλο αποθετήριο Λογισμικού Ανοικτού Κώδικα (ΛΑΚ) για openSUSE, που σας δίνει πρόσβαση σε χιλιάδες πακέτα που συντηρούνται από την ομάδα openSUSE. (Λόγω του μεγάλου μεγέθους του αποθετηρίου, η προσθήκη του θα πάρει ώρα. Συνίσταται 512MB RAM ή ενεργοποίηση της κατάτμησης SWAP σε περίπτωση που θέλετε να προσθέσετε αυτό το αποθετήριο κατά την εγκατάσταση.)</description>
         <description xml:lang="es">El gran repositorio de Software de Código Abierto (OSS) de openSUSE le da acceso a miles de paquetes mantenidos por el equipo de openSUSE. (Debido al tamaño del repositorio, el añadirlo puede llevar algún tiempo. 512 MB de memoria RAM o habilitar una partición SWAP es altamente recomendable en caso que desee acceder a este repositorio en el momento de la instalación)</description>
         <description xml:lang="fa">مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE ، به شما دسترسی به هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد. ( به دلیل اندازه ی مخزن، اضافه کردن آن ممکن است کمی زمان ببرد.اگر میخواهید در زمان نصب از این مخازن استفاده کنید، میزان  حافظه ی 512 مگابایت رم و یا پارتیشن فعال SWAP به شدت توصیه میشود.)</description>
@@ -91,7 +91,7 @@
         <description xml:lang="sk">Veľký repozitár Open Source Software (OSS) pre openSUSE, ktorý vám dáva prístup k tisícom balíkom, ktoré sú udržované tímom openSUSE. (Ak chcete mať prístup k tomuto repozitáru počas inštalácie, doporučujeme mať 512 MB RAM alebo povolený odkladací diskový oddiel SWAP kvôli veľkosti repozitára. Jeho pridanie môže trvať istý čas.)</description>
         <description xml:lang="sv">Det stora Open Source Software (OSS) förrådet för openSUSE som ger dig åtkomst till tusentals paket underhållna av openSUSE teamet. (På grund av dess storlek kan det ta ett tag att lägga till förrådet. 512 MB RAM eller en SWAP-partition är mycket rekommenderat om du vill ha tillgång till detta förråd under installationen.)</description>
         <description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE, яке надає вам доступ до тисяч пакунків, які підтримуються командою openSUSE. (Через те, що сховище має величезний розмір, його додавання може тривати довго. Рекомендовано мати 512 МБ операційної пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під час встановлення системи.)</description>
-        <description xml:lang="zh_CN">庞大的 openSUSE 开源软件源，提供由 openSUSE 团队维护的数千个软件包。(由于软件源容量太大，添加它可能要花费点时间。若想要在系统安装时访问该源，强烈建议有 512MB 内存或启用硬盘交换分区。)</description>
+        <description xml:lang="zh_CN">庞大的 openSUSE 开源软件源，提供由 openSUSE 团队维护的数千个软件包。（由于软件源容量太大，添加它可能要花费点时间。若想要在系统安装时访问该源，强烈建议有 512MB 内存或启用硬盘交换分区。）</description>
         <description xml:lang="zh_TW">openSUSE 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 團隊維護的套件讓您取用。(由於這個套件庫非常大，要加入它會花上一些時間。如果您要在安裝時存取此套件庫，強烈建議至少 512 MB 的記憶體或可用的 SWAP 分割區。)</description>
         <url>http://download.opensuse.org/tumbleweed/repo/oss/</url>
       </repository>
@@ -132,7 +132,7 @@
         <name xml:lang="tr">Ana Depo (AKY-OLMAYAN)</name>
         <name xml:lang="uk">Головне сховище (НЕ-ВПЗ)</name>
         <name xml:lang="wa">Mwaisse depot (NÉN-OSS)</name>
-        <name xml:lang="zh_CN">主软件源 (非开源软件)</name>
+        <name xml:lang="zh_CN">主软件源（非开源软件）</name>
         <name xml:lang="zh_TW">主要套件庫 (非 OSS)</name>
         <summary>Non-Open Source Software Addon repository for openSUSE Tumbleweed</summary>
         <summary xml:lang="ar">البرمجيات غير مفتوحة المصدر الملحقة بمستودع أوبن سوزي Tumbleweed</summary>
@@ -165,7 +165,7 @@
         <description xml:lang="ca">El repositori oficial d'openSUSE Tumbleweed per a tot el programari que no és de codi obert mantingut per l'equip d'openSUSE. Inclou l'Opera, el Flash i més coses.</description>
         <description xml:lang="cs">Oficiální repozitář openSUSE Tumbleweed pro veškerý software bez dostupného zdrojového kódu, který je spravovaný týmem openSUSE, včetně Opery, Flashe atd.</description>
         <description xml:lang="da">Den officielle openSUSE Tumbleweed softwarekilde for al ikke-open source software vedligeholdt af openSUSE-holdet, som inkluderer RealPlayer, Opera, Java, Flash og mere.</description>
-        <description xml:lang="de">Das offizielle openSUSE-Tumbleweed-Repository für sämtlich Nicht-Open-Source Programme, welche vom openSUSE-Team gepflegt werden, inklusive Opera, Flash und mehr.</description>
+        <description xml:lang="de">Das offizielle openSUSE-Tumbleweed-Repository für alle Nicht-Open-Source-Software, die vom openSUSE-Team gepflegt wird, darunter Opera, Flash und vieles mehr.</description>
         <description xml:lang="el">Το επίσημο αποθετήριο του openSUSE Tumbleweed για όλα τα Λογισμικά Μη Ανοιχτού Κώδικα που συντηρείται από την ομάδα του openSUSE, περιέχει Opera, Flash και άλλα πολλά.</description>
         <description xml:lang="es">El repositorio oficial de openSUSE Tumbleweed para todo el Software de código propietario mantenido por el equipo de openSUSE, incluyendo Opera, Flash, y más.</description>
         <description xml:lang="fa">مخازن رسمی openSUSE Tumbleweed برای تمامی نرم افزار های غیر متن-باز که توسط تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، فلش، و ... است.</description>
@@ -224,7 +224,7 @@
         <name xml:lang="tr">Ana Depo (Kaynaklar)</name>
         <name xml:lang="uk">Головне сховище (джерела)</name>
         <name xml:lang="wa">Mwaisse depot (Sourdants)</name>
-        <name xml:lang="zh_CN">主软件源 (源代码)</name>
+        <name xml:lang="zh_CN">主软件源（源代码）</name>
         <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
         <summary>Main repository of openSUSE Tumbleweed (Source packages)</summary>
         <summary xml:lang="ar">مستودع أوبن سوزي Tumbleweed الرئيسي (حزم المصدر)</summary>
@@ -250,7 +250,7 @@
         <summary xml:lang="sk">Hlavný repozitár openSUSE Tumbleweed (Zdrojové balíky)</summary>
         <summary xml:lang="sv">Huvudförråd för openSUSE Tumbleweed (källkodspaket)</summary>
         <summary xml:lang="uk">Головне сховище для openSUSE Tumbleweed (джерельні пакунки)</summary>
-        <summary xml:lang="zh_CN">openSUSE Tumbleweed 主软件源 (源代码)</summary>
+        <summary xml:lang="zh_CN">openSUSE Tumbleweed 主软件源（源代码）</summary>
         <summary xml:lang="zh_TW">openSUSE Tumbleweed 的主要套件庫(原始碼套件)</summary>
         <description>The repository of all source packages in openSUSE Tumbleweed. For experts only.</description>
         <description xml:lang="ar">مستودع جميع حزم المصدر في أوبن سوزي Tumbleweed. للخبراء فقط.</description>
