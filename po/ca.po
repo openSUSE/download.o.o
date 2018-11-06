@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-06 11:09+0100\n"
-"PO-Revision-Date: 2018-11-06 14:53+0000\n"
+"PO-Revision-Date: 2018-11-06 17:00+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
 "Language-Team: Catalan "
 "<https://l10n.opensuse.org/projects/download-o-o/master/ca/>\n"
@@ -400,7 +400,7 @@ msgstr "Proporciona el KDE antic per a l'openSUSE més nou"
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
 msgid "Main Repository (OSS)"
-msgstr "Repositori principal (OSS)"
+msgstr "Repositori principal (Programari de codi obert)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:2
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
@@ -430,7 +430,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
-msgstr "Repositori principal (No OSS)"
+msgstr "Repositori principal (Programari de codi NO obert)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
@@ -523,7 +523,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
-msgstr "Repositori d'actualització (No OSS)"
+msgstr "Repositori d'actualització (Programari de codi NO obert)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
