@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-10 14:32+0200\n"
+"POT-Creation-Date: 2018-11-06 11:09+0100\n"
 "PO-Revision-Date: 2017-03-11 09:18+0000\n"
 "Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
 "Language-Team: Persian <https://l10n.opensuse.org/projects/download-o-o/"
@@ -393,7 +393,6 @@ msgstr "نسخه ی قدیمی KDE را برای نسخه های جدیدتر op
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
@@ -422,7 +421,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
@@ -445,7 +443,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
@@ -467,7 +464,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
@@ -526,7 +522,6 @@ msgstr "مخازن رسمی بروز رسانی برای نرم افزارهای
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:18
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
@@ -728,7 +723,6 @@ msgstr ""
 "openSUSE نگه داری میشود، شامل مرورگر اوپرا، استیم و ... است."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
 msgid "Main repository of openSUSE Leap (Source packages)"
 msgstr "مخازن اصلی openSUSE Leap (بسته های منبع)"
@@ -815,6 +809,42 @@ msgstr ""
 "مخزن شامل بسته های امنیتی و نگه داری های بروزرسانی که همچنان برای تضمین سطح "
 "کیفیت آنها نیاز به آزمون بیشتری دارند. فقط در صورتی که قصد دارید در آزمایش "
 "بسته های آزمایشی openSUSE شرکت کنید این مخزن را اضافه کنید."
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
+#, fuzzy
+#| msgid "Main Repository (OSS)"
+msgid "Main Repository"
+msgstr "مخازن اصلی (OSS)"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
+#, fuzzy
+#| msgid "Main Repository (OSS)"
+msgid "Non-OSS Repository"
+msgstr "مخازن اصلی (OSS)"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
+#, fuzzy
+#| msgid "Main Update Repository"
+msgid "Source Repository"
+msgstr "مخازن اصلی به روز رسانی"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
+#, fuzzy
+#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgid "Source packages for the main repository of openSUSE Leap"
+msgstr "مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
+#, fuzzy
+#| msgid "Main Update Repository"
+msgid "Debug Repository"
+msgstr "مخازن اصلی به روز رسانی"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
+#, fuzzy
+#| msgid "Update Repository (DEBUG)"
+msgid "Update Repository (Debug)"
+msgstr "مخازن بروزرسانی (اشکال زدایی)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.ko\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-10 14:32+0200\n"
+"POT-Creation-Date: 2018-11-06 11:09+0100\n"
 "PO-Revision-Date: 2016-04-29 04:45+0000\n"
 "Last-Translator: Yunseok Choi <xein@naver.com>\n"
 "Language-Team: Korean <http://l10n.opensuse.org/projects/download-o-o/master/"
@@ -404,7 +404,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
@@ -434,7 +433,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
@@ -459,7 +457,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
@@ -481,7 +478,6 @@ msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
@@ -543,7 +539,6 @@ msgstr "11.1 공식 업데이트 저장소"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:18
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
@@ -758,7 +753,6 @@ msgstr ""
 "시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
 #, fuzzy
 msgid "Main repository of openSUSE Leap (Source packages)"
@@ -846,6 +840,40 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
+#, fuzzy
+#| msgid "Main Repository (OSS)"
+msgid "Main Repository"
+msgstr "주 저장소 (OSS)"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
+#, fuzzy
+#| msgid "Main Repository (OSS)"
+msgid "Non-OSS Repository"
+msgstr "주 저장소 (OSS)"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
+#, fuzzy
+#| msgid "Main Update Repository"
+msgid "Source Repository"
+msgstr "주 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
+#, fuzzy
+msgid "Source packages for the main repository of openSUSE Leap"
+msgstr "비-오픈소스 소프트웨어가 포함되어 있는 오픈수세 11.1 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
+#, fuzzy
+#| msgid "Main Update Repository"
+msgid "Debug Repository"
+msgstr "주 업데이트 저장소"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
+#, fuzzy
+msgid "Update Repository (Debug)"
+msgstr "주 저장소 (디버그)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 #, fuzzy

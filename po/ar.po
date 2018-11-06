@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.ar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-10 14:32+0200\n"
+"POT-Creation-Date: 2018-11-06 11:09+0100\n"
 "PO-Revision-Date: 2017-05-09 12:23+0000\n"
 "Last-Translator: mohammad alhargan <malham1@gmail.com>\n"
 "Language-Team: Arabic <https://l10n.opensuse.org/projects/download-o-o/"
@@ -392,7 +392,6 @@ msgstr "يوفر كدي القديمة لأوبن سوزي الحديثة"
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
@@ -420,7 +419,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
@@ -443,7 +441,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
@@ -463,7 +460,6 @@ msgstr "مستودع لكافة حزم المصدر في أوبن سوزي 13.1.
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
@@ -521,7 +517,6 @@ msgstr "مستودع الترقية الرسمي إلى 13.1"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:18
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
@@ -714,7 +709,6 @@ msgstr ""
 "سوزي Leap ، بما في ذلك أوبرا، وأكثر من ذلك."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
 msgid "Main repository of openSUSE Leap (Source packages)"
 msgstr "المستودع الرئيسي للأوبن سوزي Leap (حزم المصدر)"
@@ -795,6 +789,42 @@ msgid ""
 msgstr ""
 "مستودع تحديثات الأمان والصيانة التي لا تزال بحاجة لاختبار لضمان الجودة. لا "
 "تضف هذا المستودع إلا إذا كنت ترغب في المشاركة في اختبار تحديثات أوبن سوزي."
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
+#, fuzzy
+#| msgid "Main Repository (OSS)"
+msgid "Main Repository"
+msgstr "المستودع الرئيسي (حرة)"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
+#, fuzzy
+#| msgid "Main Repository (OSS)"
+msgid "Non-OSS Repository"
+msgstr "المستودع الرئيسي (حرة)"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
+#, fuzzy
+#| msgid "Main Update Repository"
+msgid "Source Repository"
+msgstr "مستودع التحديث الرئيسي"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
+#, fuzzy
+#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgid "Source packages for the main repository of openSUSE Leap"
+msgstr "البرمجيات غير مفتوحة المصدر الملحقة بمستودع أوبن سوزي Leap"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
+#, fuzzy
+#| msgid "Main Update Repository"
+msgid "Debug Repository"
+msgstr "مستودع التحديث الرئيسي"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
+#, fuzzy
+#| msgid "Update Repository (DEBUG)"
+msgid "Update Repository (Debug)"
+msgstr "تحديث المستودع (تصحيح)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""

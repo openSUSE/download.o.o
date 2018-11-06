@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-10 14:32+0200\n"
+"POT-Creation-Date: 2018-11-06 11:09+0100\n"
 "PO-Revision-Date: 2017-12-20 08:03+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/download-o-o/"
@@ -392,7 +392,6 @@ msgstr "新しいバージョンの openSUSE に対する古い KDE"
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
@@ -422,7 +421,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
@@ -445,7 +443,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
@@ -466,7 +463,6 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
@@ -525,7 +521,6 @@ msgstr "非オープンソース用の 13.1 向け公式更新リポジトリ"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:18
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
@@ -730,7 +725,6 @@ msgstr ""
 "管理の openSUSE Leap 公式リポジトリです。"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
 msgid "Main repository of openSUSE Leap (Source packages)"
 msgstr "openSUSE Leap のメインリポジトリ (ソースパッケージ)"
@@ -816,6 +810,42 @@ msgstr ""
 "現時点で品質保証チームがテスト中の状態にある、セキュリティおよびメンテナンス"
 "更新のパッケージを含むリポジトリ。 openSUSE のテストに参加したい方のみ、この"
 "リポジトリをご利用ください。"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
+#, fuzzy
+#| msgid "Main Repository (OSS)"
+msgid "Main Repository"
+msgstr "メインリポジトリ (オープンソース)"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
+#, fuzzy
+#| msgid "Main Repository (OSS)"
+msgid "Non-OSS Repository"
+msgstr "メインリポジトリ (オープンソース)"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
+#, fuzzy
+#| msgid "Main Update Repository"
+msgid "Source Repository"
+msgstr "メインの更新用リポジトリ"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
+#, fuzzy
+#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
+msgid "Source packages for the main repository of openSUSE Leap"
+msgstr "非オープンソースパッケージを含む openSUSE Leap の追加リポジトリ"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
+#, fuzzy
+#| msgid "Main Update Repository"
+msgid "Debug Repository"
+msgstr "メインの更新用リポジトリ"
+
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
+#, fuzzy
+#| msgid "Update Repository (DEBUG)"
+msgid "Update Repository (Debug)"
+msgstr "更新リポジトリ (デバッグ)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
