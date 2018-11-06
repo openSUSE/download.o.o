@@ -5,7 +5,7 @@
     <group distversion="openSUSE Main Repository">
         <repositories>
             <repository recommended="true" format="rpm-md" repo="repo-oss">
-                <_name>Main Repository (OSS)</_name>
+                <_name>Main Repository</_name>
                 <_summary>Main repository of openSUSE Leap including only Open Source Software</_summary>
                 <_description>The big Open Source Software (OSS) repository
                 for openSUSE Leap, giving you access to thousands of
@@ -14,7 +14,7 @@
                 <url>http://download.opensuse.org/distribution/leap/$releasever/repo/oss/</url>
             </repository>
             <repository recommended="true" format="rpm-md" alias="repo-non-oss">
-                <_name>Main Repository (NON-OSS)</_name>
+                <_name>Non-OSS Repository</_name>
                 <_summary>Non-Open Source Software Addon repository for openSUSE Leap</_summary>
                 <_description>The official openSUSE Leap repository for all
                 Non-Open Source Software maintained by the openSUSE community,
@@ -22,13 +22,13 @@
                 <url>http://download.opensuse.org/distribution/leap/$releasever/repo/non-oss/</url>
             </repository>
             <repository recommended="false" format="rpm-md" alias="repo-source">
-                <_name>Main Repository (Sources)</_name>
-                <_summary>Main repository of openSUSE Leap (Source packages)</_summary>
+                <_name>Source Repository</_name>
+                <_summary>Source packages for the main repository of openSUSE Leap</_summary>
                 <_description>The repository of all source packages in openSUSE Leap. For experts only.</_description>
                 <url>http://download.opensuse.org/source/distribution/leap/$releasever/repo/oss/</url>
             </repository>
             <repository recommended="false" format="rpm-md" alias="repo-debug">
-                <_name>Main Repository (DEBUG)</_name>
+                <_name>Debug Repository</_name>
                 <_summary>Main repository of openSUSE Leap including the debuginfo packages</_summary>
                 <_description>This repository is useful for those that want to debug applications on openSUSE Leap. For experts only.</_description>
                 <url>http://download.opensuse.org/debug/distribution/leap/$releasever/repo/oss/</url>
@@ -46,7 +46,7 @@
                 <url>http://download.opensuse.org/update/leap/$releasever/non-oss/</url>
             </repository>
             <repository recommended="false" format="rpm-md" alias="repo-debug-update">
-                <_name>Update Repository (DEBUG)</_name>
+                <_name>Update Repository (Debug)</_name>
                 <_summary>Update repository of openSUSE Leap debuginfo packages</_summary>
                 <_description>This repository is useful for those that want to debug applications on openSUSE Leap. For experts only.</_description>
                 <url>http://download.opensuse.org/debug/update/leap/$releasever/oss</url>
