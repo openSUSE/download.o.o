@@ -13,16 +13,16 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-06 11:09+0100\n"
-"PO-Revision-Date: 2017-03-22 13:47+0000\n"
-"Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
-"Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/download-"
-"o-o/master/zh_TW/>\n"
+"PO-Revision-Date: 2018-11-30 13:30+0000\n"
+"Last-Translator: Yi-Jyun Pan <pan93412@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) "
+"<https://l10n.opensuse.org/projects/download-o-o/master/zh_TW/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 2.18\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -783,40 +783,28 @@ msgstr ""
 "加入此套件庫。"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Main Repository"
-msgstr "主要套件庫 (OSS)"
+msgstr "主要軟體庫"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
-msgstr "主要套件庫 (OSS)"
+msgstr "非開放原始碼軟體庫"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Source Repository"
-msgstr "主要更新套件庫"
+msgstr "來源軟體庫"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "openSUSE Leap 的非開放原碼軟體附加套件庫"
+msgstr "openSUSE Leap 主要軟體庫的來源軟體包"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Debug Repository"
-msgstr "主要更新套件庫"
+msgstr "偵錯用軟體庫"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
-#, fuzzy
-#| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"
-msgstr "更新套件庫 (偵錯)"
+msgstr "更新套件庫（偵錯用）"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
