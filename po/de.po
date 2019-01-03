@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: community-repositories.de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-06 11:09+0100\n"
-"PO-Revision-Date: 2018-09-04 12:02+0000\n"
-"Last-Translator: Marcel Kuehlhorn <tux93@opensuse.org>\n"
+"PO-Revision-Date: 2019-03-14 18:08+0000\n"
+"Last-Translator: Sarah Kriesch <ada.lovelace@gmx.de>\n"
 "Language-Team: German <https://l10n.opensuse.org/projects/download-o-o/"
 "master/de/>\n"
 "Language: de\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18\n"
+"X-Generator: Weblate 3.3\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -840,40 +840,28 @@ msgstr ""
 "nur hinzu wenn Sie an Tests von openSUSE Aktualisierungen teilnehmen möchten."
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Main Repository"
-msgstr "Haupt-Repository (OSS)"
+msgstr "Haupt-Repository"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
-msgstr "Haupt-Repository (OSS)"
+msgstr "Non-OSS Repository"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Source Repository"
-msgstr "Hauptaktualisierungs-Repository"
+msgstr "Quell-Repository"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "Nicht-Open Source Software Addon Repository für openSUSE Leap"
+msgstr "Quellpakete für das Haupt-Repository von openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Debug Repository"
-msgstr "Hauptaktualisierungs-Repository"
+msgstr "Debug-Repository"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
-#, fuzzy
-#| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"
-msgstr "Aktualisierungs-Repository (DEBUG)"
+msgstr "Aktualisierungs-Repository (Debug)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
