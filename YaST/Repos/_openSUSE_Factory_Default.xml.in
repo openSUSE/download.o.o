@@ -4,7 +4,7 @@
 <metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
   <group distversion="openSUSE Main Repository">
     <repositories>
-      <repository recommended="true" format="yast">
+      <repository architectures="i586 i686 x86_64" recommended="true" format="yast">
         <_name>Main Repository (OSS)</_name>
         <_summary>Main repository of openSUSE Tumbleweed including only
 		Open Source Software</_summary>
@@ -17,7 +17,21 @@
 		 </_description>
         <url>http://download.opensuse.org/tumbleweed/repo/oss/</url>
       </repository>
-      <repository recommended="true" format="yast">
+      <repository architectures="aarch64" recommended="true" format="yast">
+        <_name>Main Repository (OSS)</_name>
+        <_summary>Main repository of openSUSE Tumbleweed including only
+		Open Source Software</_summary>
+        <_description>The big Open Source Software (OSS) repository
+		for openSUSE, giving you access to thousands of
+		packages maintained by the openSUSE team. (Due to the size of
+		the repository, adding it may take some time. 512 MB of RAM
+		or an enabled SWAP partition are highly recommended in case
+		you want to access this repository at installation time.)
+		 </_description>
+        <url>http://download.opensuse.org/ports/aarch64/tumbleweed/repo/oss/</url>
+      </repository>
+
+      <repository architectures="i586 i686 x86_64" recommended="true" format="yast">
         <_name>Main Repository (NON-OSS)</_name>
         <_summary>Non-Open Source Software Addon repository for openSUSE Tumbleweed</_summary>
         <_description>The official openSUSE Tumbleweed repository for all
@@ -25,24 +39,47 @@
 		including Opera, Flash, and more.</_description>
         <url>http://download.opensuse.org/tumbleweed/repo/non-oss/</url>
       </repository>
-      <repository recommended="false" format="yast">
+      <!-- aarch64 has no non-oss repos -->
+
+      <repository architectures="i586 i686 x86_64" recommended="false" format="yast">
         <_name>Main Repository (Sources)</_name>
         <_summary>Main repository of openSUSE Tumbleweed (Source packages)</_summary>
         <_description>The repository of all source packages in openSUSE Tumbleweed. For experts only.</_description>
         <url>http://download.opensuse.org/source/tumbleweed/repo/oss/</url>
       </repository>
-      <repository recommended="false" format="yast">
+      <repository architectures="aarch64" recommended="false" format="yast">
+        <_name>Main Repository (Sources)</_name>
+        <_summary>Main repository of openSUSE Tumbleweed (Source packages)</_summary>
+        <_description>The repository of all source packages in openSUSE Tumbleweed. For experts only.</_description>
+        <url>http://download.opensuse.org/ports/aarch64/source/tumbleweed/repo/oss/</url>
+      </repository>
+
+      <repository architectures="i586 i686 x86_64" recommended="false" format="yast">
         <_name>Main Repository (DEBUG)</_name>
         <_summary>Main repository of openSUSE Tumbleweed including the debuginfo packages</_summary>
         <_description>This repository is useful for those that want to debug applications on openSUSE Tumbleweed. For experts only.</_description>
         <url>http://download.opensuse.org/debug/tumbleweed/repo/oss/</url>
       </repository>
-      <repository recommended="true" format="rpm-md">
+      <repository architectures="aarch64" recommended="false" format="yast">
+        <_name>Main Repository (DEBUG)</_name>
+        <_summary>Main repository of openSUSE Tumbleweed including the debuginfo packages</_summary>
+        <_description>This repository is useful for those that want to debug applications on openSUSE Tumbleweed. For experts only.</_description>
+        <url>http://download.opensuse.org/ports/aarch64/debug/tumbleweed/repo/oss/</url>
+      </repository>
+
+      <repository architectures="i586 i686 x86_64" recommended="true" format="rpm-md">
         <_name>Main Update Repository</_name>
         <_summary>Official update repository for Tumbleweed</_summary>
         <_description>This repository provides urgent updates until they get integrated into the main repositories.</_description>
         <url>http://download.opensuse.org/update/tumbleweed/</url>
       </repository>
+      <repository architectures="aarch64" recommended="true" format="rpm-md">
+        <_name>Main Update Repository</_name>
+        <_summary>Official update repository for Tumbleweed</_summary>
+        <_description>This repository provides urgent updates until they get integrated into the main repositories.</_description>
+        <url>http://download.opensuse.org/ports/aarch64/update/tumbleweed/</url>
+      </repository>
+
     </repositories>
   </group>
 </metapackage>

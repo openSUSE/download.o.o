@@ -101,6 +101,7 @@
         <description xml:lang="ja">openSUSE ビルドサービス内にある LXDE リポジトリで、サポートはされていませんが、最新の LX デスクトップ環境とソフトウエアを提供しています。</description>
         <description xml:lang="kab">Asersi LXDE n umeălu n openSUSE i k-yettaken lqem aneggaru, ur yettusefraken ara, n tnarit akked iseɣzanen LX.</description>
         <description xml:lang="km">ឃ្លាំង XFCE នៅ​ក្នុង​សេវា​ស្ថាបនា​របស់​អូផឹន​ស៊ូស៊ី ដែល​ផ្ដល់​​ឲ្យ​អ្នក​នូវ​អ្វី​ដែល​មិន​បាន​គាំទ្រ ប៉ុន្តែ​កំណែ​ចុងក្រោយ​បំផុត​របស់​បរិស្ថាន​ផ្ទៃតុ XFCE និង​កម្មវិធី ។</description>
+        <description xml:lang="ko">오픈수세 빌드서비스에 있는 LXDE 저장소 입니다. 오픈수세에서 공식적으로 지원하지는 않는 최신 버전의 LX 데스크톱 환경과 소프트웨어를 제공합니다.</description>
         <description xml:lang="lt">LXDE saugykla iš openSUSE Kūrimo Paslaugos, kuri pateikia nepalaikomą, bet naujausią LX darbalaukio aplinkos ir programinės įrangos versiją.</description>
         <description xml:lang="nb">LXDE-pakkebrønnen fra openSUSE Build Service, som tilbyr ikke-støttede, men oppdaterte utgaver av LXDE-skrivebordsmiljøet, samt tilhørende programvare.</description>
         <description xml:lang="nl">De LXDE-bron in de openSUSE Build Service. Deze levert u de niet-ondersteunde, maar nieuwste versie van de LX Desktop Environment en software.</description>
@@ -139,6 +140,7 @@
         <name xml:lang="ja">openSUSE ビルドサービス - LibreOffice</name>
         <name xml:lang="kab">openSUSE BuildService - LibreOffice</name>
         <name xml:lang="km">openSUSE BuildService - LibreOffice</name>
+        <name xml:lang="ko">오픈수세 빌드서비스 - 리브레오피스</name>
         <name xml:lang="lt">openSUSE kūrimo paslauga - LibreOffice</name>
         <name xml:lang="nb">openSUSE BuildService - LibreOffice</name>
         <name xml:lang="nl">openSUSE BuildService - LibreOffice</name>
@@ -177,6 +179,7 @@
         <summary xml:lang="ja">LibreOffice で最も新しい安定版</summary>
         <summary xml:lang="kab">Lqem aneggaru irekden n LibreOffice</summary>
         <summary xml:lang="km">ការ​ផ្សាយ​ LibreOffice ស្ថិតស្ថេរ​ចុងក្រោយ​បំផុត​</summary>
+        <summary xml:lang="ko">최신 리브레오피스 안정판 공개</summary>
         <summary xml:lang="lt">Naujausia stabili LibreOffice laida</summary>
         <summary xml:lang="nb">Nyeste stabile LibreOffice-versjon</summary>
         <summary xml:lang="nl">Nieuwste stabiele uitgave van LibreOffice</summary>
@@ -214,6 +217,7 @@
         <description xml:lang="ja">openSUSE で利用するオフィススイート LibreOffice の最新安定版を提供しています。</description>
         <description xml:lang="kab">Yettmuddu-d lqem aneggaru irekden n LibreOffice, tagrumma n tnarit i yeseqdac openSUSE.</description>
         <description xml:lang="km">ផ្ដល់​​ឲ្យ​អ្នក​នូវ​កំណែ​ស្ថិតស្ថេរ​ចុងក្រោយ​បំផុត​របស់ LibreOffice ដែល​ជា​កម្មវិធី​ការិយាល័យ​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ។</description>
+        <description xml:lang="ko">오픈수세에서 사용하는 최신 리브레오피스의 안정판을 제공합니다.</description>
         <description xml:lang="lt">Pateikia vėliausią stabilią LibreOffice versiją – tai openSUSE sistemoje naudojamas raštinės paketas.</description>
         <description xml:lang="nb">Tilbyr den nyeste, stabile versjonen av LibreOffice, standardkontorpakken i openSUSE.</description>
         <description xml:lang="nl">Levert de nieuwste stabiele versie van LibreOffice, het standaard kantoorpakket van openSUSE.</description>
@@ -297,7 +301,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <summary xml:lang="ja">Firefox のようなMozillaソフトウエアの最新ビルド</summary>
         <summary xml:lang="kab">Lqem aneggaru n iseɣzanen n Mozilla am Firefox</summary>
         <summary xml:lang="km">ការ​ស្ថាបនា​ថ្មីៗ​បំផុត​របស់​កម្មវិធី Mozilla ដូច​ជា Firefox</summary>
-        <summary xml:lang="ko">불여우 같은 모질라 소프트웨어의 최근 빌드</summary>
+        <summary xml:lang="ko">파이어폭스 같은 모질라 소프트웨어의 최근 빌드</summary>
         <summary xml:lang="lt">Naujausia Mozilla programinė įranga, įskaitant Firefox</summary>
         <summary xml:lang="nb">Nyeste pakker for Mozillaprogramvare som f.eks Firefox</summary>
         <summary xml:lang="nl">Meest recente versies van Mozilla-software, zoals Firefox</summary>
@@ -337,7 +341,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <description xml:lang="ja">全ての最新版Mozillaソフトウエアがあります。たとえば Thunderbird (メールソフト) や Firefox、SeaMonkey (いずれもWebブラウザ) などです。</description>
         <description xml:lang="kab">Igber lqem aneggaru n iseɣzanen n Mozilla, am Thunderbird yettwasnen (amsaɣ imayl), Firefox akked SeaMonkey (iminigen web).</description>
         <description xml:lang="km">មាន​ការ​ចេញផ្សាយ​ចុងក្រោយ​បំផុត​របស់​កម្មវិធី Mozilla ទាំង​អស់ ដូចជា​កម្មវិធី​អ៊ីមែល​ដ៏​មាន​ប្រជាប្រិយភាព Thunderbird, កម្មវិធី​រុករក​បណ្ដាញ Firefox និង SeaMonkey ។</description>
-        <description xml:lang="ko">모질라 소프트웨어(천둥새-메일 클라이언트, 불여우 및 씨몽키-웹 브라우저 같은) 최신판이 들어 있습니다.</description>
+        <description xml:lang="ko">썬더버드(메일 클라이언트), 파이어폭스, 씨몽키(웹 브라우저) 같은 모질라 소프트웨어 최신판이 들어 있습니다.</description>
         <description xml:lang="lt">Turi naujausias visos Mozilla grupės programinės įrangos versijas, pavyzdžiui, populiaraus Thunderbird (pašto kliento), Firefox and SeaMonkey (saityno naršyklės).</description>
         <description xml:lang="nb">Inneholder de siste utgavene av all programvare fra Mozilla, slik som den populære Thunderbird (epostklient), Firefox og SeaMonkey (weblesere).</description>
         <description xml:lang="nl">Bevat de nieuwste uitgaven van alle Mozilla-software, zoals de populaire Thunderbird (e-mail), Firefox en SeaMonkey (webbrowsers).</description>
@@ -459,7 +463,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <description xml:lang="ja">Wine とは Windows API のオープンソース実装で、 openSUSE 上でいくつかの Windows アプリケーションが動作するようになります。このリポジトリでは最新のCVS (開発) 版の Wine スナップショットを提供しています。</description>
         <description xml:lang="kab">Win  d taneflit n uɣbalu yeldin n API n Windows. Ak-yeǧǧ ad tsekreḍ kra n yesnasen Windows deg openSUSE. Asersi-agi yettmuddu-d lqem aneggaru n CVS (taneflit) n ikemmusen n Wine.</description>
         <description xml:lang="km">Wine គឺ​ជា​​កម្មវិធី​ប្រភព​កូដ​ចំហ​របស់ Windows API ដូច្នេះ​វា​អនុញ្ញាត​ឲ្យ​អ្នក​រត់​កម្មវិធី​​របស់​វីនដូ​មួយ​ចំនួន​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ។ ឃ្លាំង​នេះ​ផ្ដល់​នូវ​​កញ្ចប់​រូបថត​អេក្រង់​របស់ CVS (ការ​អភិវឌ្ឍន៍) ចុង​ក្រោយ​បំផុត​របស់ Wine ។</description>
-        <description xml:lang="ko">와인은 윈도우 API 의 오픈 소스 임플러멘테이션 입니다. 와인을 이용하여 오픈수세에서 윈도우 응용프로그램을 실행시킬 수 있습니다. 이 저장소는  와인의 최신의 CVS(개발) 스냅샷 꾸러미를 제공합니다.</description>
+        <description xml:lang="ko">와인은 윈도우 API 를 리눅스에서 실행할 수 있는 오픈소스 프로그램입니다. 와인을 이용하여 오픈수세에서 윈도우 응용프로그램을 실행시킬 수 있습니다. 이 저장소는 와인의 최신 CVS(개발) 스냅샷 패키지를 제공합니다.</description>
         <description xml:lang="lt">Wine yra atviro kodo  Windows programų sąsajos realizacija, taigi ji leidžia kai kurias Windows programas openSUSE sistemoje. Ši saugykla pateikia Wine paskiausias CVS (vystymo) momentines kopijas.</description>
         <description xml:lang="nb">Wine er en åpen kildekode-implementasjon av Windows API-et, som tillater kjøring av enkelte Windows-applikasjoner under openSUSE. Denne pakkebrønnen tilbyr de nyeste CVS-versjonene (under utvikling) av Wine.</description>
         <description xml:lang="nl">Wine is een opensource-implementatie van de Windows API. Deze maakt het mogelijk om enkele Windows-programma's op openSUSE te draaien. Deze bron bevat de laatste CVS (ontwikkeling) pakketten van Wine.</description>
@@ -579,7 +583,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <description xml:lang="ja">Open Arena (シューティングゲーム) や Flight Gear (フライトシミュレータ)、 Torcs (3Dレーシングシミュレータ) などのアクションゲームがあります。</description>
         <description xml:lang="kab">Igber deqs n wuraren n tigawt am Open Arena  (shoot 'em up), Flight Gear (taserwest n usrfeg) et Torcs (taserwest n tazla s 3D).</description>
         <description xml:lang="km">មាន​ល្បែង​សកម្មភាព​ជា​ច្រើន​ដែល​រួម​មាន Open Arena (shoot 'em up), Flight Gear (កម្មវិធី​ក្លែង​ធ្វើ​ការ​ប្រយុទ្ធ) និង Torcs (កម្មវិធី​ក្លែង​ធ្វើ​ការ​ប្រណាំង​ត្រីមាត្រ) ។</description>
-        <description xml:lang="ko">여러 액션 게임(오픈 아레나-FPS 게임, Flight Gear-비행 시뮬레이션, Torcs-3D 레이싱)이 들어 있습니다.</description>
+        <description xml:lang="ko">오픈 아레나(FPS 게임), Flight Gear(비행 시뮬레이션), Torcs(3D 레이싱 시뮬레이션) 같은 다양한 액션 게임이 들어 있습니다.</description>
         <description xml:lang="lt">Talpina keletą veiksmo žaidimų, įskaitant „Open Arena“ (šaudyklė), „Flight Gear“ (kovos simuliatorius) ir „Torcs“ (3D lenktynės).</description>
         <description xml:lang="nb">Inneholder flere actionspill, herunder Open Arena (shoot 'em up), Flight Gear (flysimulator) og Torcs (3D racerspill).</description>
         <description xml:lang="nl">Bevat diverse actiespellen zoals Open Arena (schietspel), Flight Gear (vluchtsimulator) en Torcs (3D race-simulator).</description>
@@ -660,7 +664,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <summary xml:lang="ja">Virtualbox の最新ビルド</summary>
         <summary xml:lang="kab">Ileqman ineggura  n Virtualbox</summary>
         <summary xml:lang="km">ការ​ស្ថាបនា​ចុងក្រោយ​បំផុត​របស់​ប្រអប់​និម្មិត</summary>
-        <summary xml:lang="ko">최신 Virtualbox 빌드</summary>
+        <summary xml:lang="ko">최신 버추얼박스 빌드</summary>
         <summary xml:lang="lt">Paskiausios Virtualbox versijos</summary>
         <summary xml:lang="nb">Nyeste Virtualbox-pakker</summary>
         <summary xml:lang="nl">Nieuwste uitgaven van Virtualbox</summary>
@@ -698,7 +702,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <description xml:lang="ja">x86ハードウエア向けの完全仮想化ソフトウエア VirtualBox の最新版を提供しています。</description>
         <description xml:lang="kab">Ittmuddu-d ileqman ineggura n VirtualBox, amehlas n uɣbalu yeldin ummid i useqdec amatu, n tsegda x86.</description>
         <description xml:lang="km">ផ្ដល់​នូវ​ការ​ស្ថាបនា​​ទាន់សម័យ​របស់ VirtualBox ជាំ​កម្មវិធី​និម្មិត​ដែល​មាន​លក្ខណៈ​ជា​កម្មវិធី​ប្រភព​កូដ​ចំហ​ពេញលេញ​សម្រាប់​គ្រប់​គោលបំណង​សម្រាប់​ផ្នែក​រឹង x86 ។</description>
-        <description xml:lang="ko">VirtualBox(오픈 소스 가상 머신)의 최신 업데이트를 제공합니다.</description>
+        <description xml:lang="ko">오픈소스로 된 x86 하드웨어 가상화 버추얼박스의 최신 업데이트를 제공합니다.</description>
         <description xml:lang="lt">Pateikia paskiausius VirtualBox kūrinius, bendros paskirties atviro kodo pilną x86 aparatinės įrangos virtualizatorių.</description>
         <description xml:lang="nb">Tilbyr oppdaterte pakker for VirtualBox, et generisk virtualiseringsverktøy for x86-maskinvare og basert på åpen kildekode.</description>
         <description xml:lang="nl">Levert de nieuwste versies van VirtualBox, opensource virtualisatie voor x86-hardware.</description>
@@ -818,7 +822,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <description xml:lang="ja">Firebird や MySQL などのデータベースソフトウエアの最新版です。</description>
         <description xml:lang="kab">Ileqman ineggura n iseɣzanen n taffa n isefka am Firebird d MySQL.</description>
         <description xml:lang="km">បច្ចុប្បន្ន​ភាព​​​ចុងក្រោយ​បំផុត​សម្រាប់​កម្មវិធី​មូលដ្ឋាន​ទិន្នន័យ រួម​មាន Firebird និង MySQL ។</description>
-        <description xml:lang="ko">Firebird 와 MySQL 을 포함한 최신 데이터베이스 소프트웨어(파이어버드, MySQL) 업데이트.</description>
+        <description xml:lang="ko">Firebird 와 MySQL 을 포함한 최신 데이터베이스 소프트웨어 업데이트 입니다.</description>
         <description xml:lang="lt">Paskutiniai atnaujinimai duomenų bazių programinei įrangai, įskaitant Firebird ir MySQL.</description>
         <description xml:lang="nb">Nyeste oppdateringer for databaseprogramvare inkludert Firebird og MySQL.</description>
         <description xml:lang="nl">Laatste zaken voor het bijwerken van databasesoftware inclusief Firebird en MySQL.</description>
@@ -860,6 +864,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <name xml:lang="ja">openSUSE ビルドサービス - KDE:追加</name>
         <name xml:lang="kab">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="km">openSUSE BuildService - KDE:Extra</name>
+        <name xml:lang="ko">오픈수세 빌드서비스 - KDE:기타</name>
         <name xml:lang="lt">openSUSE kūrimo paslauga - KDE papildoma</name>
         <name xml:lang="nb">openSUSE BuildService - KDE:Extra</name>
         <name xml:lang="nl">openSUSE BuildService - KDE:Extra</name>
@@ -934,7 +939,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <description xml:lang="ja">openSUSE KDE コミュニティによって管理されている KDE の追加ソフトウエアを提供しています。</description>
         <description xml:lang="kab">Yettmuddu-d iseqzanen-nniḍen KDE i txeddem tmezdagnut KDE n openSUSE.</description>
         <description xml:lang="km">ផ្ដល់​នូវ​កម្មវិធី​របស់​ KDE បន្ថែម​ ដែល​បាន​ថែទាំ​ដោយ​សហគមន៍ អូផឹន​ស៊ូស៊ី​​ ។</description>
-        <description xml:lang="ko">오픈수세 KDE 커뮤니티에서 관리하는 추가 KDE 소프트웨어가 있습니다.</description>
+        <description xml:lang="ko">오픈수세 KDE 커뮤니티에서 관리하는 KDE 추가 소프트웨어가 있습니다.</description>
         <description xml:lang="lt">Pateikiama papildoma KDE programinė įranga, kurią ruošia openSUSE KDE bendruomenė.</description>
         <description xml:lang="nb">Inneholder tilleggsprogramvare for KDE som vedlikeholdes av openSUSE KDE-fellesskapet.</description>
         <description xml:lang="nl">Levert aanvullende KDE-software die onderhouden wordt door de openSUSE-KDE-gemeenschap.</description>
@@ -975,7 +980,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <name xml:lang="ja">openSUSE ビルドサービス - GNOME:アプリケーション</name>
         <name xml:lang="kab">openSUSE BuildService - Isnasen : GNOME</name>
         <name xml:lang="km">openSUSE BuildService - GNOME:Apps</name>
-        <name xml:lang="ko">오픈수세 빌드서비스 - 그놈:Apps</name>
+        <name xml:lang="ko">오픈수세 빌드서비스 - 그놈:앱</name>
         <name xml:lang="lt">openSUSE kūrimo paslauga - GNOME programos</name>
         <name xml:lang="nb">openSUSE BuildService - GNOME:Apps</name>
         <name xml:lang="nl">openSUSE BuildService - GNOME:Apps</name>
@@ -1086,6 +1091,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <name xml:lang="it">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="ja">openSUSE ビルドサービス - 開発:言語:perl</name>
         <name xml:lang="km">openSUSE BuildService - devel:languages:perl</name>
+        <name xml:lang="ko">오픈수세 빌드서비스 - 개발:언어:펄</name>
         <name xml:lang="lt">openSUSE kūrimo paslauga - programavimas: kalbos: perl</name>
         <name xml:lang="nb">openSUSE BuildService - devel:languages:perl</name>
         <name xml:lang="nl">openSUSE BuildService - devel:talen:perl</name>
@@ -1120,6 +1126,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <summary xml:lang="it">Repository della comunità per i moduli di Perl</summary>
         <summary xml:lang="ja">Perl モジュールのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​សហគមន៍​សម្រាប់​ម៉ូឌុល​​ Perl</summary>
+        <summary xml:lang="ko">펄 모듈을 위한 커뮤니티 저장소</summary>
         <summary xml:lang="lt">Bendruomenės Perl modulių saugykla</summary>
         <summary xml:lang="nb">Uoffisiell pakkebrønn for Perl-moduler</summary>
         <summary xml:lang="nl">Gemeenschapsbron voor Perl modulen</summary>
@@ -1153,6 +1160,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <description xml:lang="it">Aggiornamenti e aggiunte per i moduli di Perl</description>
         <description xml:lang="ja">Perl モジュールの更新と追加</description>
         <description xml:lang="km">បច្ចុប្បន្នភាព និង​ការ​បន្ថែម​​សម្រាប់​ម៉ូឌុល​ Perl ។</description>
+        <description xml:lang="ko">펄 모듈을 위한 업데이트 및 추가 사항들</description>
         <description xml:lang="lt">Perl modulių atnaujinimai ir papildymai</description>
         <description xml:lang="nb">Oppdateringer og tillegg for Perl-moduler</description>
         <description xml:lang="nl">Bijwerken en toevoegingen voor Perl modulen</description>
@@ -1189,6 +1197,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <name xml:lang="it">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="ja">openSUSE ビルドサービス - 開発:言語:python</name>
         <name xml:lang="km">openSUSE BuildService - devel:languages:python</name>
+        <name xml:lang="ko">오픈수세 빌드서비스 - 개발:언어:파이썬</name>
         <name xml:lang="lt">openSUSE kūrimo paslauga - programavimas: kalbos: python</name>
         <name xml:lang="nb">openSUSE BuildService - devel:languages:python</name>
         <name xml:lang="nl">openSUSE BuildService - devel:talen:python</name>
@@ -1223,6 +1232,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <summary xml:lang="it">Repository della comunità per i moduli di Python</summary>
         <summary xml:lang="ja">Python モジュールのコミュニティリポジトリ</summary>
         <summary xml:lang="km">ឃ្លាំង​សហគមន៍​សម្រាប់​ម៉ូឌុល​​ Python</summary>
+        <summary xml:lang="ko">파이썬 모듈을 위한 커뮤니티 저장소</summary>
         <summary xml:lang="lt">Bendruomenės Python modulių saugykla</summary>
         <summary xml:lang="nb">Uoffisiell pakkebrønn for Python-moduler</summary>
         <summary xml:lang="nl">Gemeenschapsbron voor Python modulen</summary>
@@ -1396,6 +1406,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <name xml:lang="it">openSUSE BuildService - Istruzione</name>
         <name xml:lang="ja">openSUSE ビルドサービス - 教育</name>
         <name xml:lang="km">openSUSE BuildService - ការ​អប់រំ​</name>
+        <name xml:lang="ko">오픈수세 빌드서비스 - 교육</name>
         <name xml:lang="lt">openSUSE kūrimo paslauga - švietimas</name>
         <name xml:lang="nb">openSUSE BuildService - Undervisning</name>
         <name xml:lang="nl">openSUSE BuildService - Onderwijs</name>
@@ -1429,6 +1440,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <summary xml:lang="it">Applicazioni per educatori</summary>
         <summary xml:lang="ja">教育用途向けアプリケーション</summary>
         <summary xml:lang="km">កម្មវិធី​សម្រាប់​អ្នក​ប្រើ​​សិក្សា​</summary>
+        <summary xml:lang="ko">교육에 필요한  응용 프로그램</summary>
         <summary xml:lang="lt">Programoms mokslams</summary>
         <summary xml:lang="nb">Undervisningsprogrammer</summary>
         <summary xml:lang="nl">Programma's voor gebruikers in het onderwijs</summary>
@@ -1462,6 +1474,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <description xml:lang="it">Contiene molti pacchetti che potrebbero essere interessanti per l'uso didattico</description>
         <description xml:lang="ja">教育用途向けに使用する際に便利なパッケージが含まれています</description>
         <description xml:lang="km">មាន​កញ្ចប់​មួយ​ចំនួន​ត្រូវ​បាន​ចាប់អារម្មណ៍​ សម្រាប់​ប្រើប្រាស់​ផ្នែក​អប់រំ​</description>
+        <description xml:lang="ko">교육용으로 사용될 수 있는 약간의 패키지를 포함</description>
         <description xml:lang="lt">Paketai, kuriais galėtų susidomėti besimokantieji, švietimo darbuotojai</description>
         <description xml:lang="nb">Inneholder flere pakker som kan være interessante for undervisningsformål</description>
         <description xml:lang="nl">Bron van pakketten mogelijk van belang voor gebruik in het onderwijs</description>
@@ -1600,6 +1613,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <name xml:lang="it">openSUSE BuildService - KDE:KDE3</name>
         <name xml:lang="ja">openSUSE ビルドサービス - KDE:KDE3</name>
         <name xml:lang="km">openSUSE BuildService - KDE:KDE3</name>
+        <name xml:lang="ko">오픈수세 빌드서비스 - KDE:KDE3</name>
         <name xml:lang="lt">openSUSE kūrimo paslauga - KDE:KDE3</name>
         <name xml:lang="nb">openSUSE BuildService - KDE:KDE3</name>
         <name xml:lang="nl">openSUSE BuildService - KDE:KDE3</name>
@@ -1633,6 +1647,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <summary xml:lang="it">Pacchetti KDE 3 mantenuti</summary>
         <summary xml:lang="ja">KDE 3 パッケージ</summary>
         <summary xml:lang="km">កញ្ចប់ KDE 3 ដែល​បាន​ថែទាំ</summary>
+        <summary xml:lang="ko">관리되는 KDE 3 패키지</summary>
         <summary xml:lang="lt">Palaikomi KDE 3 paketai</summary>
         <summary xml:lang="nb">Vedlikholdte KDE 3-pakker</summary>
         <summary xml:lang="nl">KDE 3 pakketten die worden onderhouden</summary>
@@ -1666,6 +1681,7 @@ LibreOffice repo not yet enabled for Leap 42.1 / dimstar / 20151006 -->
         <description xml:lang="it">Fornisce il vecchio KDE per la nuova openSUSE</description>
         <description xml:lang="ja">新しいバージョンの openSUSE に対する古い KDE</description>
         <description xml:lang="km">ផ្ដល់​ KDE ចាស់​សម្រាប់​អូផឹនស៊ូស៊ី​ថ្មី</description>
+        <description xml:lang="ko">최신판 오픈수세용 구 KDE 버전 제공</description>
         <description xml:lang="lt">Naujesnėms openSUSE versijoms pateikia seną KDE</description>
         <description xml:lang="nb">Inneholder gammel KDE-versjon for nyere openSUSE-versjoner</description>
         <description xml:lang="nl">Biedt het oude KDE voor nieuwer openSUSE</description>
