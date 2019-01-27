@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-06 11:09+0100\n"
-"PO-Revision-Date: 2018-11-30 20:19+0000\n"
-"Last-Translator: jc sl <trcs@gmx.com>\n"
-"Language-Team: Spanish "
-"<https://l10n.opensuse.org/projects/download-o-o/master/es/>\n"
+"PO-Revision-Date: 2019-03-14 18:08+0000\n"
+"Last-Translator: jcsl <trcs@gmx.com>\n"
+"Language-Team: Spanish <https://l10n.opensuse.org/projects/download-o-o/"
+"master/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18\n"
+"X-Generator: Weblate 3.3\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -42,7 +42,7 @@ msgid ""
 "software."
 msgstr ""
 "El repositorio de LXDE en el Build Service de openSUSE, el cual incluye las "
-"últimas versiones de aplicaciones y entorno de escritorio LX."
+"últimas versiones de las aplicaciones y el entorno de escritorio LX."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:4
@@ -173,7 +173,7 @@ msgstr "BuildService de openSUSE - Virtualización (VirtualBox)"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:17
 msgid "Latest builds of Virtualbox"
-msgstr "Últimas revisiones de Virtualbox"
+msgstr "Últimas revisiones de VirtualBox"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:21
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:18
@@ -430,7 +430,7 @@ msgstr ""
 "El repositorio de software de código abierto (OSS) para openSUSE 13.1, con "
 "miles de paquetes mantenidos por el equipo de openSUSE. (Debido al tamaño de "
 "este repositorio, añadirlo puede llevar algo de tiempo, se recomienda "
-"encarecidamente tener 512 MB de RAM or una partición SWAP habilitada en caso "
+"encarecidamente tener 512 MB de RAM o una partición SWAP habilitada en caso "
 "de querer acceder a este repositorio durante la instalación.)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
@@ -467,7 +467,7 @@ msgstr "Repositorio principal (fuentes)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:8
 msgid "Main repository of openSUSE 13.1 (Source packages)"
-msgstr "Repositorio principal de openSUSE 13.1 (packages fuente)"
+msgstr "Repositorio principal de openSUSE 13.1 (paquetes fuente)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:9
 msgid ""
@@ -507,7 +507,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
 msgid "Main Update Repository"
-msgstr "Repositorio Principal de Actualizaciones"
+msgstr "Repositorio principal de actualizaciones"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
@@ -650,8 +650,8 @@ msgstr ""
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr ""
-"Repositorio principal de openSUSE Tumbleweed incluyendo solo Software de "
-"Código Abierto"
+"Repositorio principal de openSUSE Tumbleweed incluyendo solo software de "
+"código abierto"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
 msgid ""
@@ -661,7 +661,7 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"El gran repositorio de Software de Código Abierto (OSS) de openSUSE le da "
+"El gran repositorio de software de código abierto (OSS) de openSUSE le da "
 "acceso a miles de paquetes mantenidos por el equipo de openSUSE. (Debido al "
 "tamaño del repositorio, el añadirlo puede llevar algún tiempo. 512 MB de "
 "memoria RAM o habilitar una partición SWAP es altamente recomendable en caso "
@@ -677,9 +677,9 @@ msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
-"El repositorio oficial de openSUSE Tumbleweed para todo el Software de "
+"El repositorio oficial de openSUSE Tumbleweed para todo el software de "
 "código propietario mantenido por el equipo de openSUSE, incluyendo Opera, "
-"Flash, y más."
+"Flash y otros más."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
@@ -841,7 +841,7 @@ msgid ""
 "testing openSUSE updates."
 msgstr ""
 "Repositorio que contiene actualizaciones de seguridad y mantenimiento que "
-"aun necesitan pruebas para asegurar su calidad. Agregue este repositorio "
+"aún necesitan pruebas para asegurar su calidad. Agregue este repositorio "
 "solo si quiere participar en las pruebas de las actualizaciones de openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
@@ -873,15 +873,15 @@ msgstr "Repositorio de actualizaciones (depuración)"
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr ""
-"Repositorio principal de openSUSE Leap 42.1 incluyendo solo Software de "
-"Código Abierto"
+"Repositorio principal de openSUSE Leap 42.1 incluyendo solo software de "
+"código abierto"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
-"El gran repositorio de Software de Código Abierto (OSS) de OpenSUSE Leap "
+"El gran repositorio de software de código abierto (OSS) de OpenSUSE Leap "
 "42.1, le brinda acceso a miles de paquetes mantenidos por la comunidad de "
 "openSUSE."
 
@@ -898,7 +898,7 @@ msgid ""
 msgstr ""
 "El repositorio oficial de Leap 42.1 para todo el software de código fuente "
 "no abierto mantenido por la comunidad de openSUSE y que incluye Opera, "
-"Steam, Flash y más."
+"Steam, Flash y otros más."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
@@ -960,7 +960,7 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
-"El gran repositorio de Software de Código Abierto (OSS) de OpenSUSE Leap "
+"El gran repositorio de software de código abierto (OSS) de OpenSUSE Leap "
 "42.2, le brinda acceso a miles de paquetes mantenidos por la comunidad de "
 "openSUSE."
 
@@ -978,7 +978,7 @@ msgid ""
 msgstr ""
 "El repositorio oficial de Leap 42.2 para todo el software de código fuente "
 "no abierto mantenido por la comunidad de openSUSE y que incluye Opera, "
-"Steam, Flash y más."
+"Steam, Flash y otros más."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
