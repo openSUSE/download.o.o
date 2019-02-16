@@ -16,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-06 11:09+0100\n"
 "PO-Revision-Date: 2019-03-14 18:08+0000\n"
-"Last-Translator: Miguel Branco <mgl.branco@gmail.com>\n"
+"Last-Translator: Manuel Vazquez <xixirei@yahoo.es>\n"
 "Language-Team: Galician <https://l10n.opensuse.org/projects/download-o-o/"
 "master/gl/>\n"
 "Language: gl\n"
@@ -865,18 +865,12 @@ msgid "Non-OSS Repository"
 msgstr "Repositorio de software privativo"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Source Repository"
-msgstr "Repositorio de actualizacións principal"
+msgstr "Repositorio de código fonte"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr ""
-"Repositorio de complementos de software que non son de código aberto para "
-"openSUSE Leap"
+msgstr "Paquetes de código fonte para o repositorio principal de openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
 msgid "Debug Repository"
