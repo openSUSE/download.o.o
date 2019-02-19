@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: community-repositories.fi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-06 11:09+0100\n"
-"PO-Revision-Date: 2018-02-18 16:54+0000\n"
+"PO-Revision-Date: 2019-03-14 18:08+0000\n"
 "Last-Translator: Tommi Nieminen <software@legisign.org>\n"
 "Language-Team: Finnish <https://l10n.opensuse.org/projects/download-o-o/"
 "master/fi/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18\n"
+"X-Generator: Weblate 3.3\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -832,40 +832,28 @@ msgstr ""
 "haluat osallistua openSUSEn päivitysten testaamiseen."
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Main Repository"
-msgstr "Pääasennuslähde (OSS)"
+msgstr "Pääasennuslähde"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
-msgstr "Pääasennuslähde (OSS)"
+msgstr "Ei-OSS-asennuslähde"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Source Repository"
-msgstr "Perusasennuslähde päivityksille"
+msgstr "Lähdekoodiasennuslähde"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "openSUSE Leapin ei-avoimen lähdekoodin lisäasennuslähde"
+msgstr "openSUSE Leapin pääasennuslähteen lähdekoodipaketit"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Debug Repository"
-msgstr "Perusasennuslähde päivityksille"
+msgstr "Vianjäljitysasennuslähde"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
-#, fuzzy
-#| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"
-msgstr "Päivitysasennuslähde (DEBUG)"
+msgstr "Päivitysasennuslähde (vianjäljitys)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
