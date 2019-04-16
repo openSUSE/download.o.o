@@ -2,8 +2,26 @@
 <metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
     <group distversion="openSUSE Main Repository">
         <repositories>
-            <repository repo="repo-oss" recommended="true" format="rpm-md">
+            <repository recommended="true" format="rpm-md" alias="repo-oss">
                 <name>Main Repository</name>
+                <name xml:lang="ca">Repositori principal</name>
+                <name xml:lang="cs">Hlavní repozitář</name>
+                <name xml:lang="da">Hovedsoftwarekilde</name>
+                <name xml:lang="de">Haupt-Repository</name>
+                <name xml:lang="es">Repositorio principal</name>
+                <name xml:lang="fi">Pääasennuslähde</name>
+                <name xml:lang="fr">Dépôt principal</name>
+                <name xml:lang="gl">Repositorio Principal</name>
+                <name xml:lang="id">Repositori Utama</name>
+                <name xml:lang="it">Repository principale</name>
+                <name xml:lang="ja">メインリポジトリ</name>
+                <name xml:lang="lt">Pagrindinė saugykla</name>
+                <name xml:lang="nl">Hoofd-opslagruimte</name>
+                <name xml:lang="pt_BR">Repositório principal</name>
+                <name xml:lang="ru">Основной репозиторий</name>
+                <name xml:lang="sk">Hlavný repozitár</name>
+                <name xml:lang="zh_CN">主软件源</name>
+                <name xml:lang="zh_TW">主要軟體庫</name>
                 <summary>Main repository of openSUSE Leap including only Open Source Software</summary>
                 <summary xml:lang="ar">المستودع الرئيسي للأوبن سوزي Leap  مع البرمجيات مفتوحة المصدر فقط</summary>
                 <summary xml:lang="ca">Repositori principal de l'openSUSE Leap que inclou només programari de codi obert</summary>
@@ -21,7 +39,7 @@
                 <summary xml:lang="ja">オープンソースソフトウエアだけを含む、 openSUSE Leap のメインリポジトリ</summary>
                 <summary xml:lang="lt">openSUSE Leap pagrindinė saugykla, turinti tik atviro kodo programinę įrangą</summary>
                 <summary xml:lang="nb">Hovedpakkebrønn for openSUSE Leap som kun inneholder programvare med åpen kildekode</summary>
-                <summary xml:lang="nl">Hoofd-installatiebron van openSUSE Leap met alleen opensource-software</summary>
+                <summary xml:lang="nl">Hoofd-opslagruimte van openSUSE Leap met alleen opensource-software</summary>
                 <summary xml:lang="pt_BR">Repositório principal do openSUSE Leap contendo somente software de código aberto</summary>
                 <summary xml:lang="ru">Основной репозиторий openSUSE Leap, включающий только программное обеспечение с открытым кодом</summary>
                 <summary xml:lang="sk">Hlavný repozitár openSUSE Leap, ktorý obsahuje iba Open Source Software</summary>
@@ -58,6 +76,24 @@
             </repository>
             <repository recommended="true" format="rpm-md" alias="repo-non-oss">
                 <name>Non-OSS Repository</name>
+                <name xml:lang="ca">Repositori de programari de codi NO obert</name>
+                <name xml:lang="cs">Non-OSS repozitář</name>
+                <name xml:lang="da">Ikke-OSS softwarekilde</name>
+                <name xml:lang="de">Non-OSS Repository</name>
+                <name xml:lang="es">Repositorio Non-OSS</name>
+                <name xml:lang="fi">Ei-OSS-asennuslähde</name>
+                <name xml:lang="fr">Dépôt Non-OSS</name>
+                <name xml:lang="gl">Repositorio de software privativo</name>
+                <name xml:lang="id">Repositori Non-OSS</name>
+                <name xml:lang="it">Repository Non-OSS</name>
+                <name xml:lang="ja">非オープンソースリポジトリ</name>
+                <name xml:lang="lt">Uždaro kodo programinės įrangos saugykla</name>
+                <name xml:lang="nl">Non-OSS opslagruimte</name>
+                <name xml:lang="pt_BR">Repositório Non-OSS</name>
+                <name xml:lang="ru">Репозиторий Non-OSS</name>
+                <name xml:lang="sk">Non-OSS repozitár</name>
+                <name xml:lang="zh_CN">非开源软件源</name>
+                <name xml:lang="zh_TW">非開放原始碼軟體庫</name>
                 <summary>Non-Open Source Software Addon repository for openSUSE Leap</summary>
                 <summary xml:lang="ar">البرمجيات غير مفتوحة المصدر الملحقة بمستودع أوبن سوزي Leap</summary>
                 <summary xml:lang="ca">Repositori complementari de programari que no és de codi obert per a l'openSUSE Leap</summary>
@@ -112,7 +148,43 @@
             </repository>
             <repository recommended="false" format="rpm-md" alias="repo-source">
                 <name>Source Repository</name>
+                <name xml:lang="ca">Repositori de codi font</name>
+                <name xml:lang="cs">Zdrojový repozitář</name>
+                <name xml:lang="da">Kildesoftwarekilde</name>
+                <name xml:lang="de">Quell-Repository</name>
+                <name xml:lang="es">Repositorio de código fuente</name>
+                <name xml:lang="fi">Lähdekoodiasennuslähde</name>
+                <name xml:lang="fr">Dépôt Source</name>
+                <name xml:lang="gl">Repositorio de código fonte</name>
+                <name xml:lang="id">Repositori Sumber</name>
+                <name xml:lang="it">Repository dei sorgenti</name>
+                <name xml:lang="ja">ソースリポジトリ</name>
+                <name xml:lang="lt">Programinės įrangos pirminio teksto saugykla</name>
+                <name xml:lang="nl">Opslagruimte van broncode</name>
+                <name xml:lang="pt_BR">Repositório fonte</name>
+                <name xml:lang="ru">Репозиторий исходных кодов</name>
+                <name xml:lang="sk">Zdrojový repozitár</name>
+                <name xml:lang="zh_CN">源代码软件源</name>
+                <name xml:lang="zh_TW">來源軟體庫</name>
                 <summary>Source packages for the main repository of openSUSE Leap</summary>
+                <summary xml:lang="ca">Paquets de codi font per al repositori principal de l'openSUSE Leap</summary>
+                <summary xml:lang="cs">Zdrojové balíčky pro hlavní repozitář openSUSE Leap</summary>
+                <summary xml:lang="da">Kildepakker til hovedsoftwarekilden for openSUSE Leap</summary>
+                <summary xml:lang="de">Quellpakete für das Haupt-Repository von openSUSE Leap</summary>
+                <summary xml:lang="es">Paquetes de código fuente para el repositorio principal de openSUSE Leap</summary>
+                <summary xml:lang="fi">openSUSE Leapin pääasennuslähteen lähdekoodipaketit</summary>
+                <summary xml:lang="fr">Paquets sources pour le dépôt principal d'openSUSE Leap</summary>
+                <summary xml:lang="gl">Paquetes de código fonte para o repositorio principal de openSUSE Leap</summary>
+                <summary xml:lang="id">Paket sumber untuk repositori utama openSUSE Leap</summary>
+                <summary xml:lang="it">Pacchetti sorgenti per il repository principale di openSUSE Leap</summary>
+                <summary xml:lang="ja">openSUSE Leap のメインリポジトリに対するソースパッケージ</summary>
+                <summary xml:lang="lt">Pagrindinė saugykla su openSUSE Leap programinės įrangos pirminio teksto paketais</summary>
+                <summary xml:lang="nl">Broncodepakketten voor de hoofd-opslagruimte van openSUSE Leap</summary>
+                <summary xml:lang="pt_BR">Pacotes fonte para o repositório principal do openSUSE Leap</summary>
+                <summary xml:lang="ru">Пакеты с исходным кодом для основного репозитория openSUSE Leap</summary>
+                <summary xml:lang="sk">Zdrojové balíky pre hlavný repozitár openSUSE Leap</summary>
+                <summary xml:lang="zh_CN">openSUSE Leap 主软件源的源代码软件包</summary>
+                <summary xml:lang="zh_TW">openSUSE Leap 主要軟體庫的來源軟體包</summary>
                 <description>The repository of all source packages in openSUSE Leap. For experts only.</description>
                 <description xml:lang="ar">مستودع لجميع حزم مصدر في أوبن سوزي Leap للخبراء فقط.</description>
                 <description xml:lang="ca">El repositori de tots els paquets de codi font a l'openSUSE Leap. Només per a experts.</description>
@@ -142,6 +214,24 @@
             </repository>
             <repository recommended="false" format="rpm-md" alias="repo-debug">
                 <name>Debug Repository</name>
+                <name xml:lang="ca">Repositori de depuració</name>
+                <name xml:lang="cs">Ladicí (debug) repozitář</name>
+                <name xml:lang="da">Debug-softwarekilde</name>
+                <name xml:lang="de">Debug-Repository</name>
+                <name xml:lang="es">Repositorio de depuración</name>
+                <name xml:lang="fi">Vianjäljitysasennuslähde</name>
+                <name xml:lang="fr">Dépôt Debug</name>
+                <name xml:lang="gl">Repositorio de depuración</name>
+                <name xml:lang="id">Repositori Awakutu</name>
+                <name xml:lang="it">Repository di debug</name>
+                <name xml:lang="ja">デバッグリポジトリ</name>
+                <name xml:lang="lt">Derinimo paketų saugykla</name>
+                <name xml:lang="nl">Debug-opslagruimte</name>
+                <name xml:lang="pt_BR">Repositório de depuração</name>
+                <name xml:lang="ru">Репозиторий отладочных данных</name>
+                <name xml:lang="sk">Ladiaci (debug) repozitár</name>
+                <name xml:lang="zh_CN">调试软件源</name>
+                <name xml:lang="zh_TW">偵錯用軟體庫</name>
                 <summary>Main repository of openSUSE Leap including the debuginfo packages</summary>
                 <summary xml:lang="ar">المستودع الرئيسي للأوبن سوزي Leap بما في ذلك حزم معلومات العلل</summary>
                 <summary xml:lang="ca">Repositori principal de l'openSUSE Leap que inclou paquets d'informació de depuració</summary>
@@ -203,7 +293,7 @@
                 <name xml:lang="da">Hovedopdateringskilden</name>
                 <name xml:lang="de">Hauptaktualisierungs-Repository</name>
                 <name xml:lang="el">Κύριο Αποθετήριο Ενημερώσεων</name>
-                <name xml:lang="es">Repositorio Principal de Actualizaciones</name>
+                <name xml:lang="es">Repositorio principal de actualizaciones</name>
                 <name xml:lang="fa">مخازن اصلی به روز رسانی</name>
                 <name xml:lang="fi">Perusasennuslähde päivityksille</name>
                 <name xml:lang="fr">Dépôt principal de mise à jour</name>
@@ -217,7 +307,7 @@
                 <name xml:lang="ko">주 업데이트 저장소</name>
                 <name xml:lang="lt">Pagrindinė atnaujinimų saugykla</name>
                 <name xml:lang="nb">Hovedpakkebrønn for oppdateringer</name>
-                <name xml:lang="nl">Hoofd-installatiebron voor bijwerken</name>
+                <name xml:lang="nl">Hoofd-opslagruimte voor bijwerken</name>
                 <name xml:lang="pa">ਮੇਨ ਅੱਪਡੇਟ ਰਿਪੋਜ਼ਟਰੀ</name>
                 <name xml:lang="pl">Główne repozytorium aktualizacji</name>
                 <name xml:lang="pt">Repositório Principal de Actualizações</name>
@@ -289,7 +379,7 @@
             <repository recommended="true" format="rpm-md" alias="repo-update-non-oss">
                 <name>Update Repository (Non-Oss)</name>
                 <name xml:lang="ar">تحديث مستودع (برمجيات غير حرة المصدر)</name>
-                <name xml:lang="ca">Repositori d'actualització (No OSS)</name>
+                <name xml:lang="ca">Repositori d'actualització (Programari de codi NO obert)</name>
                 <name xml:lang="cs">Aktualizační repozitář (uzavřený software)</name>
                 <name xml:lang="da">Opdateringskilde (Ikke-OSS)</name>
                 <name xml:lang="de">Aktualisierungs-Repository (Nicht-Open-Source-Software)</name>
@@ -305,7 +395,7 @@
                 <name xml:lang="ja">更新リポジトリ (非オープンソース)</name>
                 <name xml:lang="lt">Atnaujinimų saugykla (uždaro kodo)</name>
                 <name xml:lang="nb">Oppdateringspakkebrønn (ikke åpen kildekode)</name>
-                <name xml:lang="nl">Installatiebron voor bijwerken (niet-Oss)</name>
+                <name xml:lang="nl">Opslagruimte voor bijwerken (niet-Oss)</name>
                 <name xml:lang="pl">Repozytorium aktualizacji (non-oss)</name>
                 <name xml:lang="pt_BR">Repositório de atualização (Non-OSS)</name>
                 <name xml:lang="ru">Репозиторий обновлений (Non-Oss)</name>
@@ -370,6 +460,24 @@
             </repository>
             <repository recommended="false" format="rpm-md" alias="repo-debug-update">
                 <name>Update Repository (Debug)</name>
+                <name xml:lang="ca">Repositori d'actualització (Depuració)</name>
+                <name xml:lang="cs">Aktualizační repozitář (DEBUG)</name>
+                <name xml:lang="da">Opdateringsskilde (debug)</name>
+                <name xml:lang="de">Aktualisierungs-Repository (Debug)</name>
+                <name xml:lang="es">Repositorio de actualizaciones (depuración)</name>
+                <name xml:lang="fi">Päivitysasennuslähde (vianjäljitys)</name>
+                <name xml:lang="fr">Dépôt de mises à jour (Debug)</name>
+                <name xml:lang="gl">Actualizar o repositorio (Depuración)</name>
+                <name xml:lang="id">Repositori Pembaruan (Awakutu)</name>
+                <name xml:lang="it">Repository degli aggiornamenti (Debug)</name>
+                <name xml:lang="ja">更新リポジトリ (デバッグ)</name>
+                <name xml:lang="lt">Atnaujinimų saugykla (Derinimui)</name>
+                <name xml:lang="nl">Opslagruimte voor bijwerken (Debug)</name>
+                <name xml:lang="pt_BR">Repositório de atualização (Depuração)</name>
+                <name xml:lang="ru">Репозиторий обновлений (отладка)</name>
+                <name xml:lang="sk">Repozitár s aktualizáciami (Debug)</name>
+                <name xml:lang="zh_CN">更新源（调试）</name>
+                <name xml:lang="zh_TW">更新套件庫（偵錯用）</name>
                 <summary>Update repository of openSUSE Leap debuginfo packages</summary>
                 <summary xml:lang="ar">تحديث مستودع أوبن سوزي Leap حزم معلومات العلل</summary>
                 <summary xml:lang="ca">Repositori d'actualització de l'openSUSE Leap de paquets d'informació de depuració</summary>
@@ -466,7 +574,7 @@
                 <summary xml:lang="ja">まだテストが完了していない更新のリポジトリ</summary>
                 <summary xml:lang="lt">Dar neišbandytų atnaujinimų saugykla</summary>
                 <summary xml:lang="nb">Pakkebrønn for oppdateringer som ikke er testet enda</summary>
-                <summary xml:lang="nl">Installatiebron met nog niet geteste elementen voor bijwerken</summary>
+                <summary xml:lang="nl">Opslagruimte met nog niet geteste elementen voor bijwerken</summary>
                 <summary xml:lang="pl">Repozytorium aktualizacji niesprawdzonych</summary>
                 <summary xml:lang="pt_BR">Repositório de atualizações ainda não testadas</summary>
                 <summary xml:lang="ru">Репозиторий ещё не протестированных обновлений</summary>
@@ -482,7 +590,7 @@
                 <description xml:lang="da">Softwarekilden indeholder sikkerheds- og vedligeholdelsesopdateringer, som endnu mangler at blive testet af kvalitetssikringen. Tilføj kun denne kilde, hvis du vil deltage i testningen af openSUSE-opdateringer.</description>
                 <description xml:lang="de">Repository enthält Sicherheits- und Wartungsaktualisierungen die noch von der Qualitätssischerung geprüft werden müssen. Fügen Sie dieses Repository nur hinzu wenn Sie an Tests von openSUSE Aktualisierungen teilnehmen möchten.</description>
                 <description xml:lang="el">Αποθετήριο περιέχει ενημερώσεις ασφαλείας και συντήρησης που χρειάζονται ακόμα δοικμές από τη διασφάλιση ποιότητας.Προσθέστε αυτό το αποθετήριο μόνο αν θέλετε να συμμετέχετε στις ενημερώσεις του openSUSE υπό δοκιμή.</description>
-                <description xml:lang="es">Repositorio que contiene actualizaciones de seguridad y mantenimiento que aun necesitan pruebas para asegurar su calidad. Agregue este repositorio solo si quiere participar en las pruebas de las actualizaciones de openSUSE.</description>
+                <description xml:lang="es">Repositorio que contiene actualizaciones de seguridad y mantenimiento que aún necesitan pruebas para asegurar su calidad. Agregue este repositorio solo si quiere participar en las pruebas de las actualizaciones de openSUSE.</description>
                 <description xml:lang="fa">مخزن شامل بسته های امنیتی و نگه داری های بروزرسانی که همچنان برای تضمین سطح کیفیت آنها نیاز به آزمون بیشتری دارند. فقط در صورتی که قصد دارید در آزمایش بسته های آزمایشی openSUSE شرکت کنید این مخزن را اضافه کنید.</description>
                 <description xml:lang="fi">Asennuslähde sisältää turvallisuus- ja ylläpitopäivityksiä, jotka täytyy vielä tarkistaa laadun varmistamiseksi. Lisää tämä päivityslähde vain, jos haluat osallistua openSUSEn päivitysten testaamiseen.</description>
                 <description xml:lang="fr">Dépôt contenant les mises à jour de sécurité et de maintenance qui doivent encore être testées. Ajoutez ce dépôt uniquement si vous souhaitez participer aux tests des mises à jour d'openSUSE.</description>
@@ -492,7 +600,7 @@
                 <description xml:lang="ja">現時点で品質保証チームがテスト中の状態にある、セキュリティおよびメンテナンス更新のパッケージを含むリポジトリ。 openSUSE のテストに参加したい方のみ、このリポジトリをご利用ください。</description>
                 <description xml:lang="lt">Saugykloje talpinami saugumo ir palaikymo atnaujinimai, tačiau juos dar reikia patikrinti. Šią saugyklą prisidėkite, tik jei norite testuoti openSUSE atnaujinimus.</description>
                 <description xml:lang="nb">Pakkebrønnen inneholder sikkerhets- og vedlikeholdsoppdateringer, som enda ikke har blitt testet. Legg til denne kun hvis du ønsker å delta i testingen av openSUSE-oppdateringer.</description>
-                <description xml:lang="nl">Installatiebron met elementen voor bijwerken van beveiliging en onderhoud die nog getest moeten worden door de kwaliteitsborging. Voeg deze installatiebron alleen toe als u wilt deelnemen in het testen van het bijwerken van openSUSE.</description>
+                <description xml:lang="nl">Opslagruimte met elementen voor bijwerken van beveiliging en onderhoud die nog getest moeten worden door de kwaliteitsborging. Voeg deze opslagruimte alleen toe als u wilt deelnemen in het testen van het bijwerken van openSUSE.</description>
                 <description xml:lang="pl">To repozytorium zawiera aktualizacje bezpieczeństwa które muszą zostać sprawdzone przez kontrolę jakości. Dodaj to repozytorium jedynie w przypadku jeśli pragniesz uczestniczyć w testach aktualizacji openSUSE.</description>
                 <description xml:lang="pt_BR">O repositório contém atualizações de segurança e manutenção que ainda necessitam testes de garantia de qualidade. Adicione este repositório apenas se quiser participar de testes das atualizações do openSUSE.</description>
                 <description xml:lang="ru">Репозиторий содержит обновления сопровождения и безопасности, ещё не проверенные службой контроля качества. Добавляйте этот репозиторий только если хотите принять участие в тестировании обновлений openSUSE.</description>
