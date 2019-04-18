@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-06 11:09+0100\n"
-"PO-Revision-Date: 2018-02-13 21:06+0000\n"
-"Last-Translator: Jonas Svensson <jonas@ekhorva.se>\n"
+"PO-Revision-Date: 2019-04-18 15:57+0000\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
 "Language-Team: Swedish <https://l10n.opensuse.org/projects/download-o-o/"
 "master/sv/>\n"
 "Language: sv\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18\n"
+"X-Generator: Weblate 3.3\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -813,46 +813,34 @@ msgstr ""
 "utprovningen av nya openSUSE-uppdateringar."
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Main Repository"
-msgstr "Huvudförrådet (OSS)"
+msgstr "Huvudförråd"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
-msgstr "Huvudförrådet (OSS)"
+msgstr "Icke-OSS huvudförråd"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Source Repository"
-msgstr "Huvuduppderingsförråd"
+msgstr "Källförråd"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "Icke-open source förråd för openSUSE Leap"
+msgstr "Källpaket för openSUSE Leaps huvudförråd"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Debug Repository"
-msgstr "Huvuduppderingsförråd"
+msgstr "Felsökningsförråd"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
-#, fuzzy
-#| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"
-msgstr "Uppdateringsförråd (DEBUG)"
+msgstr "Uppdateringsförråd (Felsökning)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr ""
-"Huvudförrådet för openSUSE Leap 42.1 innehåller enbart open source-mjukvara"
+"Huvudförrådet för openSUSE Leap 42.1 innehåller enbart öppen källkodsmjukvara"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
@@ -860,7 +848,7 @@ msgid ""
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
 "Det stora Open Source Software (OSS) förrådet för openSUSE som ger dig "
-"åtkomst till tusentals paket underhållna av openSUSE teamet."
+"åtkomst till tusentals paket underhållna av openSUSE-teamet."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
