@@ -5,16 +5,16 @@ msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-06 11:09+0100\n"
-"PO-Revision-Date: 2017-03-11 09:18+0000\n"
-"Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
+"PO-Revision-Date: 2019-05-03 22:23+0000\n"
+"Last-Translator: Mohammad Rezaei Seresht <m_rezaei_seresht@hotmail.com>\n"
 "Language-Team: Persian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.6\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -811,40 +811,28 @@ msgstr ""
 "بسته های آزمایشی openSUSE شرکت کنید این مخزن را اضافه کنید."
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Main Repository"
-msgstr "مخازن اصلی (OSS)"
+msgstr "مخزن اصلی"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
-msgstr "مخازن اصلی (OSS)"
+msgstr "مخزن نرم افزار های غیر-متن باز"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Source Repository"
-msgstr "مخازن اصلی به روز رسانی"
+msgstr "مخزن کد منبع"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE Leap"
+msgstr "بسته های منبع برای مخزن اصلی openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Debug Repository"
-msgstr "مخازن اصلی به روز رسانی"
+msgstr "مخزن اشکال زدایی"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
-#, fuzzy
-#| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"
-msgstr "مخازن بروزرسانی (اشکال زدایی)"
+msgstr "مخزن بروزرسانی (اشکال زدایی)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
