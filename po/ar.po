@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: community-repositories.ar\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-06 11:09+0100\n"
-"PO-Revision-Date: 2017-05-09 12:23+0000\n"
+"PO-Revision-Date: 2019-05-14 23:54+0000\n"
 "Last-Translator: mohammad alhargan <malham1@gmail.com>\n"
 "Language-Team: Arabic <https://l10n.opensuse.org/projects/download-o-o/"
 "master/ar/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 3.3\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -791,40 +791,28 @@ msgstr ""
 "تضف هذا المستودع إلا إذا كنت ترغب في المشاركة في اختبار تحديثات أوبن سوزي."
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Main Repository"
-msgstr "المستودع الرئيسي (حرة)"
+msgstr "المستودع الرئيسي"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
-msgstr "المستودع الرئيسي (حرة)"
+msgstr "مستودع البرمجيات غير الحرة"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Source Repository"
-msgstr "مستودع التحديث الرئيسي"
+msgstr "مستودع المصدر"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "البرمجيات غير مفتوحة المصدر الملحقة بمستودع أوبن سوزي Leap"
+msgstr "مصدر الحزم للمستودع الرئيسي لأوبن سوزي Leap"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Debug Repository"
-msgstr "مستودع التحديث الرئيسي"
+msgstr "مستودع التصحيح"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
-#, fuzzy
-#| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"
-msgstr "تحديث المستودع (تصحيح)"
+msgstr "مستودع التحديث (تصحيح)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
