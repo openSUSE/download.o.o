@@ -6,11 +6,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-06 11:09+0100\n"
+"POT-Creation-Date: 2019-05-20 16:07+0200\n"
 "PO-Revision-Date: 2018-11-11 14:46+0000\n"
 "Last-Translator: Alessio Adamo <alessio.adamo@gmail.com>\n"
-"Language-Team: Italian "
-"<https://l10n.opensuse.org/projects/download-o-o/master/it/>\n"
+"Language-Team: Italian <https://l10n.opensuse.org/projects/download-o-o/"
+"master/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -399,11 +399,15 @@ msgstr "Fornisce il vecchio KDE per la nuova openSUSE"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "Repository principale (OSS)"
 
@@ -451,11 +455,15 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:4
 msgid "Main Repository (Sources)"
 msgstr "Repository principale (Sorgenti)"
 
@@ -472,11 +480,15 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:7
 msgid "Main Repository (DEBUG)"
 msgstr "Repository principale (DEBUG)"
 
@@ -495,12 +507,16 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
 msgid "Main Update Repository"
 msgstr "Repository principale degli aggiornamenti"
 
@@ -639,14 +655,22 @@ msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr ""
 "Repository degli aggiornamenti dei pacchetti debuginfo di openSUSE 13.2"
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr ""
 "Repository principale di openSUSE Tumbleweed che include solo programmi Open "
 "Source"
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
 "access to thousands of packages maintained by the openSUSE team. (Due to the "
@@ -661,6 +685,68 @@ msgstr ""
 "512MB di RAM o con una partizione di SWAP attiva, qualora si desideri avere "
 "accesso a questo repository durante l'installazione."
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:5
+msgid "Main repository of openSUSE Tumbleweed (Source packages)"
+msgstr "Repository principale di openSUSE Tumbleweed (Pacchetti sorgente)"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:6
+msgid ""
+"The repository of all source packages in openSUSE Tumbleweed. For experts "
+"only."
+msgstr ""
+"Il repository di tutti i pacchetti dei sorgenti di openSUSE Tumbleweed. Solo "
+"per esperti."
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
+msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
+msgstr ""
+"Repository principale di openSUSE Tumbleweed che include i pacchetti "
+"debuginfo"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:9
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Tumbleweed. For experts only."
+msgstr ""
+"Questo repository è utile per coloro che desiderano effettuare il debug "
+"delle applicazioni su openSUSE Tumbleweed. Solo per esperti."
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
+msgid "Official update repository for Tumbleweed"
+msgstr "Repository degli aggiornamenti ufficiali per Tumbleweed"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:12
+msgid ""
+"This repository provides urgent updates until they get integrated into the "
+"main repositories."
+msgstr ""
+"Questo repository fornisce gli aggiornamenti urgenti fino a quando non "
+"vengono integrati nei repository principali."
+
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr "Repository dei programmi Non Open Source per openSUSE Tumbleweed"
@@ -672,44 +758,6 @@ msgid ""
 msgstr ""
 "Il repository ufficiale di openSUSE Tumbleweed per tutti i programmi non "
 "open source mantenuti dal team openSUSE, inclusi Opera, Flash e altro."
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
-msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr "Repository principale di openSUSE Tumbleweed (Pacchetti sorgente)"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
-msgid ""
-"The repository of all source packages in openSUSE Tumbleweed. For experts "
-"only."
-msgstr ""
-"Il repository di tutti i pacchetti dei sorgenti di openSUSE Tumbleweed. Solo "
-"per esperti."
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
-msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
-msgstr ""
-"Repository principale di openSUSE Tumbleweed che include i pacchetti "
-"debuginfo"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
-msgid ""
-"This repository is useful for those that want to debug applications on "
-"openSUSE Tumbleweed. For experts only."
-msgstr ""
-"Questo repository è utile per coloro che desiderano effettuare il debug "
-"delle applicazioni su openSUSE Tumbleweed. Solo per esperti."
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
-msgid "Official update repository for Tumbleweed"
-msgstr "Repository degli aggiornamenti ufficiali per Tumbleweed"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
-msgid ""
-"This repository provides urgent updates until they get integrated into the "
-"main repositories."
-msgstr ""
-"Questo repository fornisce gli aggiornamenti urgenti fino a quando non "
-"vengono integrati nei repository principali."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2

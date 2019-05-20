@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.km\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-06 11:09+0100\n"
+"POT-Creation-Date: 2019-05-20 16:07+0200\n"
 "PO-Revision-Date: 2012-06-28 08:41+0700\n"
 "Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
 "Language-Team: Khmer <support@khmeros.info>\n"
@@ -385,11 +385,15 @@ msgstr "ផ្ដល់​ KDE ចាស់​សម្រាប់​អូផ�
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "ឃ្លាំង​ចម្បង (កម្មវិធី​កូដ​ចំហ)"
 
@@ -449,11 +453,15 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:4
 msgid "Main Repository (Sources)"
 msgstr "ឃ្លាំង​ចម្បង (ប្រភព)"
 
@@ -473,11 +481,15 @@ msgstr "ឃ្លាំង​របស់​កញ្ចប់​ប្រភព
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:7
 msgid "Main Repository (DEBUG)"
 msgstr "ឃ្លាំង​ចម្បង (បំបាត់​កំហុស)"
 
@@ -501,12 +513,16 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
 msgid "Main Update Repository"
 msgstr "ឃ្លាំង​ធ្វើ​បច្ចុប្បន្ន​​ចម្បង"
 
@@ -678,14 +694,22 @@ msgstr "ឃ្លាំង​សម្រាប់​​បច្ចុប្ប
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr "ឃ្លាំង​បច្ចុប្បន្នភាព​​​​របស់​អូផឹន​ស៊ូស៊ី ១២.២ រួម​មាន​កញ្ចប់​ debuginfo"
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:2
 #, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including only Open Source Software"
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr "ឃ្លាំង​ចម្បង​​របស់​អូផឹន​ស៊ូស៊ី ១២.២ រួម​មាន​តែ​កម្មវិធី​កូដ​ចំហ​​ប៉ុណ្ណោះ"
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:3
 #, fuzzy
 #| msgid ""
 #| "The big Open Source Software (OSS) repository for openSUSE 12.2, giving "
@@ -705,6 +729,73 @@ msgstr ""
 "អង្គ​ចងចាំ​ទំហំ ៥១២ មេកាបៃ ឬ​បាន​បើក​ភាគ​ថាស​ស្វប ក្នុង​ករណី​ដែល​អ្នក​ចង់​ចូល​ដំណើរការ​ឃ្លាំង​នេះ​នៅ​ពេល​"
 "ដំឡើង ។)"
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:5
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.2 (Source packages)"
+msgid "Main repository of openSUSE Tumbleweed (Source packages)"
+msgstr "ឃ្លាំង​ចម្បង​របស់​អូផឹន​ស៊ូស៊ី ១២.២ (កញ្ចប់​ប្រភព)"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:6
+#, fuzzy
+#| msgid ""
+#| "The repository of all source packages in openSUSE 12.2. For experts only."
+msgid ""
+"The repository of all source packages in openSUSE Tumbleweed. For experts "
+"only."
+msgstr "ឃ្លាំង​របស់​កញ្ចប់​ប្រភព​ទាំង​អស់​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១២.២ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​ប៉ុណ្ណោះ ។"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
+#, fuzzy
+#| msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
+msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
+msgstr "ឃ្លាំង​សំខាន់​​របស់​អូផឹន​ស៊ូស៊ី ១២.២ រួម​មាន​កញ្ចប់​ debuginfo"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:9
+#, fuzzy
+#| msgid ""
+#| "This repository is useful for those that want to debug applications on "
+#| "openSUSE 12.2. For experts only."
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Tumbleweed. For experts only."
+msgstr ""
+"ឃ្លាំង​នេះ​មាន​ប្រយោជន៍​សម្រាប់​អ្វី​ដែល​អ្នក​ចង់​បំបាត់​កំហុស​កម្មវិធី​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១២.២ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​"
+"ប៉ុណ្ណោះ ។"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
+msgid "Official update repository for Tumbleweed"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:12
+msgid ""
+"This repository provides urgent updates until they get integrated into the "
+"main repositories."
+msgstr ""
+
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
@@ -722,49 +813,6 @@ msgid ""
 msgstr ""
 "ឃ្លាំង​​អូផឹន​ស៊ូស៊ី ១២.២ ជា​ផ្លូវការ​សម្រាប់​កម្មវិធី​មិនមែន​កូដ​ចំហ ដែល​បាន​ថែទាំ​ដោយ​ក្រុម​អូផឹន​ស៊ូស៊ី រួម​មាន "
 "Opera, Java, Flash និង​អ្វីៗ​​ជា​ច្រើន​ទៀត ។"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
-#, fuzzy
-#| msgid "Main repository of openSUSE 12.2 (Source packages)"
-msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr "ឃ្លាំង​ចម្បង​របស់​អូផឹន​ស៊ូស៊ី ១២.២ (កញ្ចប់​ប្រភព)"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
-#, fuzzy
-#| msgid ""
-#| "The repository of all source packages in openSUSE 12.2. For experts only."
-msgid ""
-"The repository of all source packages in openSUSE Tumbleweed. For experts "
-"only."
-msgstr "ឃ្លាំង​របស់​កញ្ចប់​ប្រភព​ទាំង​អស់​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១២.២ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​ប៉ុណ្ណោះ ។"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
-#, fuzzy
-#| msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
-msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
-msgstr "ឃ្លាំង​សំខាន់​​របស់​អូផឹន​ស៊ូស៊ី ១២.២ រួម​មាន​កញ្ចប់​ debuginfo"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
-#, fuzzy
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE 12.2. For experts only."
-msgid ""
-"This repository is useful for those that want to debug applications on "
-"openSUSE Tumbleweed. For experts only."
-msgstr ""
-"ឃ្លាំង​នេះ​មាន​ប្រយោជន៍​សម្រាប់​អ្វី​ដែល​អ្នក​ចង់​បំបាត់​កំហុស​កម្មវិធី​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១២.២ ។ សម្រាប់​តែ​អ្នក​ជំនាញ​"
-"ប៉ុណ្ណោះ ។"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
-msgid "Official update repository for Tumbleweed"
-msgstr ""
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
-msgid ""
-"This repository provides urgent updates until they get integrated into the "
-"main repositories."
-msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2

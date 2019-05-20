@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!-- Additional Repositories for openSUSE Factory
+     These are maintained by Stephan Kulow <coolo@suse.de> -->
+<productDefines xmlns="http://www.suse.com/1.0/yast2ns" xmlns:config="http://www.suse.com/1.0/configns">
+    <servers config:type="list">
+
+	<!-- official openSUSE links -->
+	<item>
+	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml</link>
+	    <!-- to enable it during installation -->
+	    <installation_repo config:type="boolean">true</installation_repo>
+	    <official config:type="boolean">true</official>
+	</item>
+
+
+	<item>
+	    <link>https://opensuse-community.org/openSUSE_armv7hl_Tumbleweed_Community_Additional.xml</link>
+	    <official config:type="boolean">false</official>
+        </item>
+
+<!-- No OBS repos for factory recommended
+	<item>
+	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_Factory_Additional.xml</link>
+	    <official config:type="boolean">true</official>
+	</item>
+-->
+
+	<!-- Community links
+	<item>
+	    <link>https://opensuse-community.org/openSUSE_Factory_Community_Additional.xml</link>
+	    <official config:type="boolean">false</official>
+        </item>
+-->
+
+    </servers>
+</productDefines>

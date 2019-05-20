@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!-- Main Repositories for openSUSE Factory
+     These are maintained by Stephan Kulow <coolo@suse.de> -->
+<metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
+  <group distversion="openSUSE Main Repository">
+    <repositories>
+      <repository recommended="true" format="yast">
+        <_name>Main Repository (OSS)</_name>
+        <_summary>Main repository of openSUSE Tumbleweed including only
+		Open Source Software</_summary>
+        <_description>The big Open Source Software (OSS) repository
+		for openSUSE, giving you access to thousands of
+		packages maintained by the openSUSE team. (Due to the size of
+		the repository, adding it may take some time. 512 MB of RAM
+		or an enabled SWAP partition are highly recommended in case
+		you want to access this repository at installation time.)
+		 </_description>
+        <url>http://download.opensuse.org/ports/armv6hl/tumbleweed/repo/oss/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <_name>Main Repository (Sources)</_name>
+        <_summary>Main repository of openSUSE Tumbleweed (Source packages)</_summary>
+        <_description>The repository of all source packages in openSUSE Tumbleweed. For experts only.</_description>
+        <url>http://download.opensuse.org/ports/armv6hl/source/tumbleweed/repo/oss/</url>
+      </repository>
+      <repository recommended="false" format="yast">
+        <_name>Main Repository (DEBUG)</_name>
+        <_summary>Main repository of openSUSE Tumbleweed including the debuginfo packages</_summary>
+        <_description>This repository is useful for those that want to debug applications on openSUSE Tumbleweed. For experts only.</_description>
+        <url>http://download.opensuse.org/ports/armv6hl/debug/tumbleweed/repo/oss/</url>
+      </repository>
+      <repository recommended="true" format="rpm-md">
+        <_name>Main Update Repository</_name>
+        <_summary>Official update repository for Tumbleweed</_summary>
+        <_description>This repository provides urgent updates until they get integrated into the main repositories.</_description>
+        <url>http://download.opensuse.org/ports/armv6hl/update/tumbleweed/</url>
+      </repository>
+    </repositories>
+  </group>
+</metapackage>
