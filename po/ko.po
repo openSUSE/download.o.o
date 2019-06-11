@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.ko\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-06 11:09+0100\n"
+"POT-Creation-Date: 2019-05-20 16:07+0200\n"
 "PO-Revision-Date: 2018-12-20 18:00+0000\n"
 "Last-Translator: YunSeok Choi <xein@naver.com>\n"
 "Language-Team: Korean <https://l10n.opensuse.org/projects/download-o-o/"
@@ -40,8 +40,8 @@ msgid ""
 "the unsupported but latest version of the LX desktop environment and "
 "software."
 msgstr ""
-"오픈수세 빌드서비스에 있는 LXDE 저장소 입니다. 오픈수세에서 공식적으로 지원하지는 않는 최신 버전의 LX 데스크톱 환경과 소프트웨어를 "
-"제공합니다."
+"오픈수세 빌드서비스에 있는 LXDE 저장소 입니다. 오픈수세에서 공식적으로 지원하"
+"지는 않는 최신 버전의 LX 데스크톱 환경과 소프트웨어를 제공합니다."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:4
@@ -87,7 +87,9 @@ msgstr "파이어폭스 같은 모질라 소프트웨어의 최근 빌드"
 msgid ""
 "Containing the latest releases of all Mozilla software, such as the popular "
 "Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
-msgstr "썬더버드(메일 클라이언트), 파이어폭스, 씨몽키(웹 브라우저) 같은 모질라 소프트웨어 최신판이 들어 있습니다."
+msgstr ""
+"썬더버드(메일 클라이언트), 파이어폭스, 씨몽키(웹 브라우저) 같은 모질라 소프트"
+"웨어 최신판이 들어 있습니다."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:10
@@ -112,8 +114,9 @@ msgid ""
 "to run some Windows applications in openSUSE. This repository provides the "
 "latest CVS (development) snapshot packages of Wine."
 msgstr ""
-"와인은 윈도우 API 를 리눅스에서 실행할 수 있는 오픈소스 프로그램입니다. 와인을 이용하여 오픈수세에서 윈도우 응용프로그램을 실행시킬 "
-"수 있습니다. 이 저장소는 와인의 최신 CVS(개발) 스냅샷 패키지를 제공합니다."
+"와인은 윈도우 API 를 리눅스에서 실행할 수 있는 오픈소스 프로그램입니다. 와인"
+"을 이용하여 오픈수세에서 윈도우 응용프로그램을 실행시킬 수 있습니다. 이 저장"
+"소는 와인의 최신 CVS(개발) 스냅샷 패키지를 제공합니다."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:13
@@ -137,8 +140,8 @@ msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
 msgstr ""
-"오픈 아레나(FPS 게임), Flight Gear(비행 시뮬레이션), Torcs(3D 레이싱 시뮬레이션) 같은 다양한 액션 게임이 들어 "
-"있습니다."
+"오픈 아레나(FPS 게임), Flight Gear(비행 시뮬레이션), Torcs(3D 레이싱 시뮬레이"
+"션) 같은 다양한 액션 게임이 들어 있습니다."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
@@ -173,7 +176,8 @@ msgstr "최신 버추얼박스 빌드"
 msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
-msgstr "오픈소스로 된 x86 하드웨어 가상화 버추얼박스의 최신 업데이트를 제공합니다."
+msgstr ""
+"오픈소스로 된 x86 하드웨어 가상화 버추얼박스의 최신 업데이트를 제공합니다."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:19
@@ -210,7 +214,8 @@ msgstr "최신 데이터베이스 소프트웨어 업데이트"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
-msgstr "Firebird 와 MySQL 을 포함한 최신 데이터베이스 소프트웨어 업데이트 입니다."
+msgstr ""
+"Firebird 와 MySQL 을 포함한 최신 데이터베이스 소프트웨어 업데이트 입니다."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:25
@@ -383,11 +388,15 @@ msgstr "최신판 오픈수세용 구 KDE 버전 제공"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "주 저장소 (OSS)"
 
@@ -436,11 +445,15 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:4
 msgid "Main Repository (Sources)"
 msgstr "주 저장소 (소스)"
 
@@ -457,11 +470,15 @@ msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:7
 msgid "Main Repository (DEBUG)"
 msgstr "주 저장소 (디버그)"
 
@@ -480,12 +497,16 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
 msgid "Main Update Repository"
 msgstr "주 업데이트 저장소"
 
@@ -631,13 +652,21 @@ msgstr "11.1 공식 업데이트 저장소"
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:2
 #, fuzzy
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr "오픈소스 소프트웨어만 포함 되어 있는 오픈수세 11.1 의 메인 저장소"
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:3
 #, fuzzy
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
@@ -650,6 +679,65 @@ msgstr ""
 "리되는 큰 저장소 입니다. (저장소의 크기가 큰편이므로 저장소 추가에 시간이 좀 "
 "소요됩니다. 이 저장소를 사용 할 때 접근 속도 향상을 위해 RAM이나 SWAP 파티션"
 "의 크기가 512MB 보다 높은것을 권장합니다.)"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:5
+#, fuzzy
+msgid "Main repository of openSUSE Tumbleweed (Source packages)"
+msgstr "오픈수세 11.2 주 저장소 (소스 꾸러미)"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:6
+#, fuzzy
+msgid ""
+"The repository of all source packages in openSUSE Tumbleweed. For experts "
+"only."
+msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다."
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
+#, fuzzy
+msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
+msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:9
+#, fuzzy
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Tumbleweed. For experts only."
+msgstr ""
+"이 오픈수세 11.1 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
+msgid "Official update repository for Tumbleweed"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:12
+msgid ""
+"This repository provides urgent updates until they get integrated into the "
+"main repositories."
+msgstr ""
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #, fuzzy
@@ -664,41 +752,6 @@ msgid ""
 msgstr ""
 "오픈수세 팀에 의해 유지, 관리되는 비-오픈소스 소프트웨어(오페라, 자바, 플래"
 "시 등 기타)로 된 공식 오픈수세 11.2 저장소 입니다."
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
-#, fuzzy
-msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr "오픈수세 11.2 주 저장소 (소스 꾸러미)"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
-#, fuzzy
-msgid ""
-"The repository of all source packages in openSUSE Tumbleweed. For experts "
-"only."
-msgstr "전문가 전용 오픈수세 11.2 의 모든 소스 꾸러미 저장소 입니다."
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
-#, fuzzy
-msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
-msgstr "디버그정보 꾸러미가 포함되어 있는 오픈수세 11.1의 메인 저장소"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
-#, fuzzy
-msgid ""
-"This repository is useful for those that want to debug applications on "
-"openSUSE Tumbleweed. For experts only."
-msgstr ""
-"이 오픈수세 11.1 저장소에는 디버그 응용프로그램이 있습니다.(전문가 전용)"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
-msgid "Official update repository for Tumbleweed"
-msgstr ""
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
-msgid ""
-"This repository provides urgent updates until they get integrated into the "
-"main repositories."
-msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2

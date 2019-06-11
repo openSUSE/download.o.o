@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YaST (@memory@)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-06 11:09+0100\n"
+"POT-Creation-Date: 2019-05-20 16:07+0200\n"
 "PO-Revision-Date: 2010-07-01 21:40+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -408,11 +408,15 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:1
 msgid "Main Repository (OSS)"
 msgstr "คลังแพกเกจหลัก (ซอฟต์แวร์เสรี)"
 
@@ -464,11 +468,15 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:4
 msgid "Main Repository (Sources)"
 msgstr "คลังแพกเกจหลัก (ต้นฉบับ)"
 
@@ -485,11 +493,15 @@ msgstr "คลังแพกเกจของแพกเกจต้นฉบ
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:7
 msgid "Main Repository (DEBUG)"
 msgstr "คลังแพกเกจหลัก (แพกเกจดีบั๊ก)"
 
@@ -509,12 +521,16 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
 msgid "Main Update Repository"
 msgstr "คลังแพกเกจหลักสำหรับปรับรุ่น"
 
@@ -670,13 +686,21 @@ msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr ""
 "คลังแพกเกจหลักของ openSUSE 11.1 ที่รวมไว้แพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:2
 #, fuzzy
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมไว้เฉพาะซอฟต์แวร์เสรีเท่านั้น"
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:3
 #, fuzzy
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
@@ -692,6 +716,66 @@ msgstr ""
 "จึงขอแนะนำให้ใช้เครื่องที่มีหน่วยความจำขั้นต่ำ 512 เมกะไบต์ขึ้นไป "
 "และให้ทำการเปิดใช้งานพาร์ทิชันสวอปไว้ด้วย)"
 
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:5
+#, fuzzy
+msgid "Main repository of openSUSE Tumbleweed (Source packages)"
+msgstr "คลังแพกเกจหลักของ openSUSE 11.2 (แพกเกจต้นฉบับต่าง ๆ)"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:6
+#, fuzzy
+msgid ""
+"The repository of all source packages in openSUSE Tumbleweed. For experts "
+"only."
+msgstr "คลังแพกเกจของแพกเกจต้นฉบับทั้งหมดใน openSUSE 11.2 ซึ่งเหมาะสำหรับผู้เชี่ยวชาญเท่านั้น"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
+#, fuzzy
+msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
+msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมแพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:9
+#, fuzzy
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Tumbleweed. For experts only."
+msgstr ""
+"คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 11.2 "
+"ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น"
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
+msgid "Official update repository for Tumbleweed"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
+#: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:12
+msgid ""
+"This repository provides urgent updates until they get integrated into the "
+"main repositories."
+msgstr ""
+
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
@@ -706,42 +790,6 @@ msgstr ""
 "คลังแพกเกจอย่างเป็นทางการของ openSUSE 11.2 ที่จัดเก็บซอฟต์แวร์ทั้งหมดที่ไม่ใช่ซอฟต์แวร์แบบเสรี "
 "และดูแลโดยทีมงานของ openSUSE ซึ่งซอฟต์แวร์เหล่านี้ยังรวมไปถึง Opera, Java, Flash, และอื่น "
 "ๆ อีกมากมาย"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
-#, fuzzy
-msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr "คลังแพกเกจหลักของ openSUSE 11.2 (แพกเกจต้นฉบับต่าง ๆ)"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:9
-#, fuzzy
-msgid ""
-"The repository of all source packages in openSUSE Tumbleweed. For experts "
-"only."
-msgstr "คลังแพกเกจของแพกเกจต้นฉบับทั้งหมดใน openSUSE 11.2 ซึ่งเหมาะสำหรับผู้เชี่ยวชาญเท่านั้น"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
-#, fuzzy
-msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
-msgstr "คลังแพกเกจหลักของ openSUSE 11.2 ที่รวมแพกเกจเพื่อการดีบั๊ก (debuginfo) เอาไว้ด้วย"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
-#, fuzzy
-msgid ""
-"This repository is useful for those that want to debug applications on "
-"openSUSE Tumbleweed. For experts only."
-msgstr ""
-"คลังแพกเกจนี้จะมีประโยชน์มากสำหรับผู้ที่ต้องการดีบั๊กการทำงานของโปรแกรมบน openSUSE 11.2 "
-"ซึ่งจะเหมาะกับผู้เชี่ยวชาญเท่านั้น"
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
-msgid "Official update repository for Tumbleweed"
-msgstr ""
-
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
-msgid ""
-"This repository provides urgent updates until they get integrated into the "
-"main repositories."
-msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
