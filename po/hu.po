@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.hu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-20 16:07+0200\n"
+"POT-Creation-Date: 2019-08-09 14:17+0200\n"
 "PO-Revision-Date: 2013-02-04 08:44+0100\n"
 "Last-Translator: Kalman Kemenczy <kkemenczy@opensuse.org>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
@@ -496,6 +496,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
@@ -517,6 +518,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
@@ -706,6 +708,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
 #, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including only Open Source Software"
@@ -716,6 +719,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
@@ -724,6 +728,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
 #, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
@@ -733,6 +738,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
 #, fuzzy
 #| msgid ""
@@ -754,6 +760,7 @@ msgstr "Elsődleges telepítési forrás openSUSE 12.2-höz (forráscsomagok)"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
 #, fuzzy
 #| msgid ""
@@ -766,6 +773,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #, fuzzy
 #| msgid "Main repository of openSUSE 12.2 including the debuginfo packages"
@@ -775,6 +783,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
 #, fuzzy
 #| msgid ""
@@ -789,6 +798,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #, fuzzy
 #| msgid "Repository for official updates to 12.2"
@@ -797,6 +807,7 @@ msgstr "Az openSUSE 12.2 hivatalos frissítéseinek telepítési forrása"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
 #, fuzzy
 #| msgid ""
@@ -809,6 +820,7 @@ msgstr "Biztonsági és karbantartási frissítések az openSUSE 12.2 verzióhoz
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
 #, fuzzy
 #| msgid "Repository for official updates to 12.2"
@@ -817,6 +829,7 @@ msgstr "Az openSUSE 12.2 hivatalos frissítéseinek telepítési forrása"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #, fuzzy
 #| msgid "Update repository of openSUSE 12.2 debuginfo packages"
@@ -826,6 +839,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
@@ -834,6 +848,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
@@ -844,6 +859,7 @@ msgstr "Hivatalos, nem ingyenes frissítéseinek telepítési forrása"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
@@ -854,24 +870,28 @@ msgid ""
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
 #, fuzzy
 #| msgid "Main Repository (OSS)"
 msgid "Main Repository"
 msgstr "Fő telepítési forrás (OSS)"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
 #, fuzzy
 #| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
 msgstr "Fő telepítési forrás (OSS)"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
 #, fuzzy
 #| msgid "Main Update Repository"
 msgid "Source Repository"
 msgstr "Elsődleges frissítéseket tartalmazó telepítési forrás"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
 #, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.2"
 msgid "Source packages for the main repository of openSUSE Leap"
@@ -879,12 +899,14 @@ msgstr ""
 "Nem nyílt forrású szoftverek telepítési forrása openSUSE 12.2 verzióhoz"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
 #, fuzzy
 #| msgid "Main Update Repository"
 msgid "Debug Repository"
 msgstr "Elsődleges frissítéseket tartalmazó telepítési forrás"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
 #, fuzzy
 #| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"

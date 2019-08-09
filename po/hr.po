@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.hr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-20 16:07+0200\n"
+"POT-Creation-Date: 2019-08-09 14:17+0200\n"
 "PO-Revision-Date: 2011-04-04 18:34+0200\n"
 "Last-Translator: Krešimir Jozić <kjozic@gmail.com>\n"
 "Language-Team: Croatian <kde-i18n-doc@kde.org>\n"
@@ -484,6 +484,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
@@ -506,6 +507,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
@@ -715,6 +717,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
 #, fuzzy
 msgid "Main repository of openSUSE Leap including only Open Source Software"
@@ -722,6 +725,7 @@ msgstr "Glavni repozitorij za openSUSE 11.2 uključujući samo otvorene programe
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
@@ -730,12 +734,14 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
 msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
@@ -750,6 +756,7 @@ msgstr "Glavni repozitorij za openSUSE 11.2 (paketi s izvornim kodom)"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
 #, fuzzy
 msgid ""
@@ -758,6 +765,7 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #, fuzzy
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
@@ -767,6 +775,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
 #, fuzzy
 msgid ""
@@ -776,6 +785,7 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #, fuzzy
 msgid "Repository for official updates to openSUSE Leap"
@@ -783,6 +793,7 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
 #, fuzzy
 msgid ""
@@ -792,6 +803,7 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
 #, fuzzy
 msgid "Repository for official non free updates to openSUSE Leap"
@@ -799,6 +811,7 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #, fuzzy
 msgid "Update repository of openSUSE Leap debuginfo packages"
@@ -808,6 +821,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
@@ -816,6 +830,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
@@ -825,6 +840,7 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
@@ -835,34 +851,40 @@ msgid ""
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
 #, fuzzy
 #| msgid "Main Repository (OSS)"
 msgid "Main Repository"
 msgstr "Glavni repozitorij (OSS)"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
 #, fuzzy
 #| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
 msgstr "Glavni repozitorij (OSS)"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
 #, fuzzy
 #| msgid "Main Update Repository"
 msgid "Source Repository"
 msgstr "Glavni repozitorij za dogradnju"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
 msgid "Source packages for the main repository of openSUSE Leap"
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
 #, fuzzy
 #| msgid "Main Update Repository"
 msgid "Debug Repository"
 msgstr "Glavni repozitorij za dogradnju"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
 #, fuzzy
 #| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"

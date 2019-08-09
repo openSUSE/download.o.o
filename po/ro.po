@@ -22,7 +22,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenSUSE\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-20 16:07+0200\n"
+"POT-Creation-Date: 2019-08-09 14:17+0200\n"
 "PO-Revision-Date: 2012-11-19 15:00+0200\n"
 "Last-Translator: Lucian Oprea <oprea.luci@gmail.com>\n"
 "Language-Team: Romanian <LL@li.org>\n"
@@ -555,6 +555,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
@@ -584,6 +585,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
@@ -881,6 +883,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
 #, fuzzy
 #| msgid "Main repository of openSUSE 12.1 including only Open Source Software"
@@ -891,6 +894,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
@@ -899,6 +903,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
 #, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
@@ -907,6 +912,7 @@ msgstr "Sursă de instalare cu suplimente non-Open Source pentru openSUSE 12.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
 #, fuzzy
 #| msgid ""
@@ -929,6 +935,7 @@ msgstr "Sursa de instalare principală a openSUSE 12.1 (pachete cod sursă)"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
 #, fuzzy
 #| msgid ""
@@ -941,6 +948,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #, fuzzy
 #| msgid "Main repository of openSUSE 12.1 including the debuginfo packages"
@@ -951,6 +959,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
 #, fuzzy
 #| msgid ""
@@ -965,6 +974,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #, fuzzy
 #| msgid "Repository for official updates to 12.1"
@@ -973,6 +983,7 @@ msgstr "Sursă de instalare pentru actualizări oficiale ale 12.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
 #, fuzzy
 #| msgid ""
@@ -987,6 +998,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
 #, fuzzy
 #| msgid "Repository for official updates to 12.1"
@@ -995,6 +1007,7 @@ msgstr "Sursă de instalare pentru actualizări oficiale ale 12.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #, fuzzy
 #| msgid "Update repository of openSUSE 12.1 debuginfo packages"
@@ -1005,6 +1018,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
@@ -1013,6 +1027,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
@@ -1023,6 +1038,7 @@ msgstr "Sursă de instalare pentru actualizări oficiale ale 12.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
@@ -1033,36 +1049,42 @@ msgid ""
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
 #, fuzzy
 #| msgid "Main Repository (OSS)"
 msgid "Main Repository"
 msgstr "Sursă de instalare principală (OSS)"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
 #, fuzzy
 #| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
 msgstr "Sursă de instalare principală (OSS)"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
 #, fuzzy
 #| msgid "Main Update Repository"
 msgid "Source Repository"
 msgstr "Sursă principală de actualizări"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
 #, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE 12.1"
 msgid "Source packages for the main repository of openSUSE Leap"
 msgstr "Sursă de instalare cu suplimente non-Open Source pentru openSUSE 12.1"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
 #, fuzzy
 #| msgid "Main Update Repository"
 msgid "Debug Repository"
 msgstr "Sursă principală de actualizări"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
 #, fuzzy
 #| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"
