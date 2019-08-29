@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.ru\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:17+0200\n"
+"POT-Creation-Date: 2019-08-29 12:34+0200\n"
 "PO-Revision-Date: 2019-03-14 18:08+0000\n"
 "Last-Translator: Alex Minton <alex239@gmail.com>\n"
 "Language-Team: Russian <https://l10n.opensuse.org/projects/download-o-o/"
@@ -515,8 +515,11 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
@@ -525,6 +528,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:10
 msgid "Main Update Repository"
 msgstr "Основной репозиторий обновлений"
 
@@ -752,6 +756,202 @@ msgstr ""
 "Этот репозиторий предоставляет срочные обновления до того, как они войдут в "
 "состав основных репозиториев."
 
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
+msgid "Main Repository"
+msgstr "Основной репозиторий"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:2
+msgid "Main repository of openSUSE Leap including only Open Source Software"
+msgstr ""
+"Основной репозиторий openSUSE Leap, включающий только программное "
+"обеспечение с открытым кодом"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
+"access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"Большой репозиторий программного обеспечения с открытым кодом (OSS) для "
+"openSUSE Leap, дающий вам доступ к тысячам пакетов, поддерживаемых "
+"сообществом openSUSE."
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
+msgid "Source Repository"
+msgstr "Репозиторий исходных кодов"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
+msgid "Source packages for the main repository of openSUSE Leap"
+msgstr "Пакеты с исходным кодом для основного репозитория openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:6
+msgid ""
+"The repository of all source packages in openSUSE Leap. For experts only."
+msgstr ""
+"Репозиторий со всеми пакетами с исходным кодом в openSUSE Leap. Только для "
+"экспертов."
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
+msgid "Debug Repository"
+msgstr "Репозиторий отладочных данных"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:8
+msgid "Main repository of openSUSE Leap including the debuginfo packages"
+msgstr "Основной репозиторий openSUSE Leap, включающий пакеты debuginfo"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:9
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap. For experts only."
+msgstr ""
+"Этот репозиторий полезен для тех, кто хочет отлаживать приложения на "
+"openSUSE Leap. Только для экспертов."
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:11
+msgid "Repository for official updates to openSUSE Leap"
+msgstr "Репозиторий официальных обновлений для openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:12
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap."
+msgstr ""
+"В этом репозитории вы найдёте обновления безопасности и обслуживания для "
+"openSUSE Leap."
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
+msgid "Update Repository (Debug)"
+msgstr "Репозиторий обновлений (отладка)"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:14
+msgid "Update repository of openSUSE Leap debuginfo packages"
+msgstr "Репозиторий обновлений openSUSE Leap, включающий пакеты debuginfo"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:15
+msgid "Untested Updates"
+msgstr "Непротестированные обновления"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:16
+msgid "Repository of not yet tested updates"
+msgstr "Репозиторий ещё не протестированных обновлений"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:17
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+"Репозиторий содержит обновления сопровождения и безопасности, ещё не "
+"проверенные службой контроля качества. Добавляйте этот репозиторий только "
+"если хотите принять участие в тестировании обновлений openSUSE."
+
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr "Репозиторий дополнений с закрытым кодом для openSUSE Tumbleweed"
@@ -764,27 +964,6 @@ msgstr ""
 "Официальный репозиторий openSUSE Tumbleweed для всего программного "
 "обеспечения с закрытым кодом, поддерживаемого командой openSUSE, включая "
 "Opera, Flash и многое другое."
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr ""
-"Основной репозиторий openSUSE Leap, включающий только программное "
-"обеспечение с открытым кодом"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:3
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:3
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-msgid ""
-"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
-"access to thousands of packages maintained by the openSUSE community."
-msgstr ""
-"Большой репозиторий программного обеспечения с открытым кодом (OSS) для "
-"openSUSE Leap, дающий вам доступ к тысячам пакетов, поддерживаемых "
-"сообществом openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
@@ -810,52 +989,6 @@ msgstr ""
 msgid "Main repository of openSUSE Leap (Source packages)"
 msgstr "Основной репозиторий openSUSE Leap (Пакеты с исходным кодом)"
 
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:9
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-msgid ""
-"The repository of all source packages in openSUSE Leap. For experts only."
-msgstr ""
-"Репозиторий со всеми пакетами с исходным кодом в openSUSE Leap. Только для "
-"экспертов."
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:11
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr "Основной репозиторий openSUSE Leap, включающий пакеты debuginfo"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:12
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-msgid ""
-"This repository is useful for those that want to debug applications on "
-"openSUSE Leap. For experts only."
-msgstr ""
-"Этот репозиторий полезен для тех, кто хочет отлаживать приложения на "
-"openSUSE Leap. Только для экспертов."
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:14
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-msgid "Repository for official updates to openSUSE Leap"
-msgstr "Репозиторий официальных обновлений для openSUSE Leap"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:15
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-msgid ""
-"In this repository you find security and maintenance updates to openSUSE "
-"Leap."
-msgstr ""
-"В этом репозитории вы найдёте обновления безопасности и обслуживания для "
-"openSUSE Leap."
-
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
@@ -863,75 +996,10 @@ msgstr ""
 msgid "Repository for official non free updates to openSUSE Leap"
 msgstr "Репозиторий официальных несвободных обновлений для openSUSE Leap"
 
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:19
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "Репозиторий обновлений openSUSE Leap, включающий пакеты debuginfo"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
-msgid "Untested Updates"
-msgstr "Непротестированные обновления"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
-msgid "Repository of not yet tested updates"
-msgstr "Репозиторий ещё не протестированных обновлений"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
-msgid ""
-"Repository contains security and maintenance updates that still need testing "
-"by quality assurance. Add this repository only if you want to participate in "
-"testing openSUSE updates."
-msgstr ""
-"Репозиторий содержит обновления сопровождения и безопасности, ещё не "
-"проверенные службой контроля качества. Добавляйте этот репозиторий только "
-"если хотите принять участие в тестировании обновлений openSUSE."
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
-msgid "Main Repository"
-msgstr "Основной репозиторий"
-
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
 msgid "Non-OSS Repository"
 msgstr "Репозиторий Non-OSS"
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
-msgid "Source Repository"
-msgstr "Репозиторий исходных кодов"
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
-msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "Пакеты с исходным кодом для основного репозитория openSUSE Leap"
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
-msgid "Debug Repository"
-msgstr "Репозиторий отладочных данных"
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
-msgid "Update Repository (Debug)"
-msgstr "Репозиторий обновлений (отладка)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
