@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:17+0200\n"
+"POT-Creation-Date: 2019-08-29 12:34+0200\n"
 "PO-Revision-Date: 2019-05-03 22:23+0000\n"
 "Last-Translator: Mohammad Rezaei Seresht <m_rezaei_seresht@hotmail.com>\n"
 "Language-Team: Persian <https://l10n.opensuse.org/projects/download-o-o/"
@@ -497,8 +497,11 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
@@ -507,6 +510,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:10
 msgid "Main Update Repository"
 msgstr "مخازن اصلی به روز رسانی"
 
@@ -728,6 +732,199 @@ msgstr ""
 "این مخزن بروزرسانی های فوری و ضروری را تا زمان یکپارچه شدن آنها درون مخازن "
 "اصلی برای شما مهیا میکند."
 
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
+msgid "Main Repository"
+msgstr "مخزن اصلی"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:2
+msgid "Main repository of openSUSE Leap including only Open Source Software"
+msgstr "مخازن اصلی openSUSE Leapشامل فقط نرم افزارهای متن باز"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:3
+msgid ""
+"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
+"access to thousands of packages maintained by the openSUSE community."
+msgstr ""
+"مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE Leap ، به شما دسترسی به "
+"هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد."
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
+msgid "Source Repository"
+msgstr "مخزن کد منبع"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
+msgid "Source packages for the main repository of openSUSE Leap"
+msgstr "بسته های منبع برای مخزن اصلی openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:6
+msgid ""
+"The repository of all source packages in openSUSE Leap. For experts only."
+msgstr ""
+"مخازن شامل تمامی بسته های منبع  کد برای openSUSE Leap. فقط برای افراد متخصص "
+"است."
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
+msgid "Debug Repository"
+msgstr "مخزن اشکال زدایی"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:8
+msgid "Main repository of openSUSE Leap including the debuginfo packages"
+msgstr "مخازن اصلی openSUSE Leap شامل بسته های debuginfo"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:9
+msgid ""
+"This repository is useful for those that want to debug applications on "
+"openSUSE Leap. For experts only."
+msgstr ""
+"این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Leap اشکال زدایی "
+"کنند مناسب است. فقط برای افراد متخصص است."
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:11
+msgid "Repository for official updates to openSUSE Leap"
+msgstr "مخازن رسمی بروزرسانی برای openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:12
+msgid ""
+"In this repository you find security and maintenance updates to openSUSE "
+"Leap."
+msgstr ""
+"در این مخزن شما بسته های امنیتی و نگه داری بروزرسانی برای openSUSE Leap را "
+"پیدا خواهید کرد."
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
+msgid "Update Repository (Debug)"
+msgstr "مخزن بروزرسانی (اشکال زدایی)"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:14
+msgid "Update repository of openSUSE Leap debuginfo packages"
+msgstr "مخازن بروزرسانی برای بسته های debuginfo در openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:15
+msgid "Untested Updates"
+msgstr "بروزرسانی های نامطمئن"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:16
+msgid "Repository of not yet tested updates"
+msgstr "مخازن بسته های تست نشده"
+
+#: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
+#: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:17
+msgid ""
+"Repository contains security and maintenance updates that still need testing "
+"by quality assurance. Add this repository only if you want to participate in "
+"testing openSUSE updates."
+msgstr ""
+"مخزن شامل بسته های امنیتی و نگه داری های بروزرسانی که همچنان برای تضمین سطح "
+"کیفیت آنها نیاز به آزمون بیشتری دارند. فقط در صورتی که قصد دارید در آزمایش "
+"بسته های آزمایشی openSUSE شرکت کنید این مخزن را اضافه کنید."
+
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr "مخزن نرم افزارهای غیر متن-باز اضافی برای openSUSE Tumbleweed"
@@ -739,24 +936,6 @@ msgid ""
 msgstr ""
 "مخازن رسمی openSUSE Tumbleweed برای تمامی نرم افزار های غیر متن-باز که توسط "
 "تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، فلش، و ... است."
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
-msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr "مخازن اصلی openSUSE Leapشامل فقط نرم افزارهای متن باز"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:3
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:3
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
-msgid ""
-"The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
-"access to thousands of packages maintained by the openSUSE community."
-msgstr ""
-"مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE Leap ، به شما دسترسی به "
-"هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
@@ -781,52 +960,6 @@ msgstr ""
 msgid "Main repository of openSUSE Leap (Source packages)"
 msgstr "مخازن اصلی openSUSE Leap (بسته های منبع)"
 
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:9
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
-msgid ""
-"The repository of all source packages in openSUSE Leap. For experts only."
-msgstr ""
-"مخازن شامل تمامی بسته های منبع  کد برای openSUSE Leap. فقط برای افراد متخصص "
-"است."
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:11
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
-msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr "مخازن اصلی openSUSE Leap شامل بسته های debuginfo"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:12
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
-msgid ""
-"This repository is useful for those that want to debug applications on "
-"openSUSE Leap. For experts only."
-msgstr ""
-"این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Leap اشکال زدایی "
-"کنند مناسب است. فقط برای افراد متخصص است."
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:14
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
-msgid "Repository for official updates to openSUSE Leap"
-msgstr "مخازن رسمی بروزرسانی برای openSUSE Leap"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:15
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
-msgid ""
-"In this repository you find security and maintenance updates to openSUSE "
-"Leap."
-msgstr ""
-"در این مخزن شما بسته های امنیتی و نگه داری بروزرسانی برای openSUSE Leap را "
-"پیدا خواهید کرد."
-
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
@@ -834,75 +967,10 @@ msgstr ""
 msgid "Repository for official non free updates to openSUSE Leap"
 msgstr "مخازن رسمی بروز رسانی برای نرم افزارهای غیر آزاد در openSUSE Leap"
 
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:19
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
-msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "مخازن بروزرسانی برای بسته های debuginfo در openSUSE Leap"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
-msgid "Untested Updates"
-msgstr "بروزرسانی های نامطمئن"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
-msgid "Repository of not yet tested updates"
-msgstr "مخازن بسته های تست نشده"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
-msgid ""
-"Repository contains security and maintenance updates that still need testing "
-"by quality assurance. Add this repository only if you want to participate in "
-"testing openSUSE updates."
-msgstr ""
-"مخزن شامل بسته های امنیتی و نگه داری های بروزرسانی که همچنان برای تضمین سطح "
-"کیفیت آنها نیاز به آزمون بیشتری دارند. فقط در صورتی که قصد دارید در آزمایش "
-"بسته های آزمایشی openSUSE شرکت کنید این مخزن را اضافه کنید."
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
-msgid "Main Repository"
-msgstr "مخزن اصلی"
-
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
 msgid "Non-OSS Repository"
 msgstr "مخزن نرم افزار های غیر-متن باز"
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
-msgid "Source Repository"
-msgstr "مخزن کد منبع"
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
-msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "بسته های منبع برای مخزن اصلی openSUSE Leap"
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
-msgid "Debug Repository"
-msgstr "مخزن اشکال زدایی"
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
-msgid "Update Repository (Debug)"
-msgstr "مخزن بروزرسانی (اشکال زدایی)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productDefines xmlns:config="http://www.suse.com/1.0/configns" xmlns="http://www.suse.com/1.0/yast2ns">
+    <servers config:type="list">
+
+	
+	<item>
+	    <link>https://download.opensuse.org/YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml</link>
+	    
+	    <installation_repo config:type="boolean">true</installation_repo>
+	    <official config:type="boolean">true</official>
+	</item>
+
+	
+	
+    </servers>
+</productDefines>
