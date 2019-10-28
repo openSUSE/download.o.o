@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2019-10-25 15:53+0000\n"
+"PO-Revision-Date: 2019-10-28 10:53+0000\n"
 "Last-Translator: Jaanus Ojangu <jaanus.ojangu@gmail.com>\n"
 "Language-Team: Estonian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/et/>\n"
@@ -373,7 +373,7 @@ msgstr "Sisaldab mitmeid pakette, mis võivad õppimiseks olla huvitavad"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:43
 msgid "openSUSE BuildService - KDE:KDE3"
-msgstr "openSUSE BuildService - KDE:KDE3"
+msgstr "openSUSE BuildService kompileerimisteenud - KDE:KDE3"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:50
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:50
@@ -662,6 +662,11 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"OpenSUSE suur avatud lähtekoodiga tarkvara (OSS) hoidla, mis annab teile "
+"juurdepääsu tuhandetele OpenSUSE meeskonna hallatavatele pakettidele. ("
+"Repositooriumi suuruse tõttu võib selle lisamine võtta natuke aega. 512 MB "
+"RAM-i või lubatud SWAP-sektsiooni on soovitatav kasutada juhul, kui soovite "
+"sellele hoidlale juurde pääseda paigaldamise ajal.)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:5
@@ -669,7 +674,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:5
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr ""
+msgstr "OpenSUSE Tumbleweed peahoidla (lähtekoodipaketid)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:6
@@ -680,6 +685,7 @@ msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
+"Kõigi lähtekoodipakettide hoidla OpenSUSE Tumbleweedis. Ainult ekspertidele."
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
@@ -687,7 +693,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
-msgstr ""
+msgstr "OpenSUSE Tumbleweedi peahoidla koos silumisinfo pakettidega"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
@@ -698,6 +704,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
+"See hoidla on kasulik neile, kes soovivad siluda rakendusi openSUSE "
+"Tumbleweedis. Ainult ekspertidele."
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
@@ -705,7 +713,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
 msgid "Official update repository for Tumbleweed"
-msgstr ""
+msgstr "Tumbleweedi ametlik uuenduste hoidla"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
@@ -716,6 +724,8 @@ msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
 msgstr ""
+"See hoidla pakub kiireid uuendusi, kuni nad on integreeritud peamistesse "
+"andmehoidlatesse."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:1
@@ -724,7 +734,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
 msgid "Main Repository"
-msgstr ""
+msgstr "Peamine hoidla"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
@@ -736,6 +746,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:2
 msgid "Main repository of openSUSE Leap including only Open Source Software"
 msgstr ""
+"OpenSUSE Leapi peamine hoidla, mis sisaldab ainult avatud lähtekoodiga "
+"tarkvara"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:3
@@ -749,6 +761,8 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
 "access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"OpenSUSE Leapi suur avatud lähtekoodiga tarkvarahoidla (OSS), mis annab "
+"teile juurdepääsu tuhandetele OpenSUSE kogukonna hallatavatele pakettidele."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:4
@@ -757,7 +771,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
 msgid "Source Repository"
-msgstr ""
+msgstr "Lähtekoodi hoidla"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
@@ -766,7 +780,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr ""
+msgstr "OpenSUSE Leapi peahoidla lähtekoodipaketid"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
@@ -778,7 +792,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:6
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
-msgstr ""
+msgstr "Kõigi lähtekoodipakettide hoidla OpenSUSE Leapis. Ainult ekspertidele."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:7
@@ -787,7 +801,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
 msgid "Debug Repository"
-msgstr ""
+msgstr "Silumiste (debug) hoidla"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
@@ -798,7 +812,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr ""
+msgstr "OpenSUSE Leapi peamine hoidla koos silumisinfo pakettidega"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:9
@@ -812,6 +826,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap. For experts only."
 msgstr ""
+"See hoidla on kasulik neile, kes soovivad parandada rakendusi openSUSE "
+"Leapis. Ainult ekspertidele."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:11
@@ -822,7 +838,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:11
 msgid "Repository for official updates to openSUSE Leap"
-msgstr ""
+msgstr "OpenSUSE Leapi ametlike uuenduste hoidla"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:12
@@ -835,7 +851,7 @@ msgstr ""
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
-msgstr ""
+msgstr "Selles hoidlas leiate openSUSE Leapi turva- ja hooldusuuendusi."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
@@ -844,7 +860,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
 msgid "Update Repository (Debug)"
-msgstr ""
+msgstr "Uuenduste hoidla (debug)"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
@@ -855,7 +871,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:14
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr ""
+msgstr "Uuenduste hoidla openSUSE Leapi silumisinfo pakettidele"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:15
@@ -868,7 +884,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:15
 msgid "Untested Updates"
-msgstr ""
+msgstr "Testimata uuendused"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:16
@@ -881,7 +897,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:16
 msgid "Repository of not yet tested updates"
-msgstr ""
+msgstr "Hetkel veel testimata uuenduste hoidla"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:17
@@ -898,23 +914,29 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"Hoidla sisaldab turva- ja hooldusvärskendusi, mis vajavad veel kvaliteedi "
+"tagamise kontrolli. Lisage see hoidla ainult siis, kui soovite osaleda "
+"openSUSE värskenduste testimises."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr ""
+msgstr "Mitte-avatud lähtekoodiga tarkvara lisade hoidla openSUSE Tumbleweedile"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
+"Ametlik openSUSE Tumbleweedi hoidla kogu mitteavatud avatud lähtekoodiga "
+"tarkvara jaoks, mida haldab OpenSUSE meeskond, sealhulgas Opera, Flash ja "
+"palju muud."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr ""
+msgstr "Mitte-avatud lähtekoodiga tarkvara lisade hoidla openSUSE Leap jaoks"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:6
@@ -924,38 +946,46 @@ msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
 msgstr ""
+"Ametlik openSUSE hüppeteabehoidla kogu mitteavatud lähtekoodiga tarkvara "
+"jaoks, mida haldab openSUSE kogukond, sealhulgas Opera, Steam ja palju muud."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr ""
+msgstr "OpenSUSE Leap peahoidla (lähtekoodipaketid)"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap"
-msgstr ""
+msgstr "OpenSUSE Leapi ametlik mitte avatud uuenduste hoidla"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
 msgid "Non-OSS Repository"
-msgstr ""
+msgstr "Mittevaba tarkvara hoidla - non OSS"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr ""
+"OpenSUSE Leap 42.1 peahoidla, mis sisaldab ainult avatud lähtekoodiga "
+"tarkvara"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"OpenSUSE Leap 42.1 jaoks mõeldud suur avatud lähtekoodiga tarkvara (OSS) "
+"hoidla, mis annab teile juurdepääsu tuhandetele pakenditele, mida hooldab "
+"openSUSE kogukond."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr ""
+"Mitte-avatud lähtekoodiga tarkvara lisade hoidla openSUSE Leap 42.1 jaoks"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 msgid ""
@@ -963,59 +993,71 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"Ametlik openSUSE Leap 42.1 hoidla kogu mitteavatud lähtekoodiga (non OSS) "
+"tarkvara jaoks, mida haldab openSUSE kogukond, sealhulgas Opera, Steam, "
+"Flash ja palju muud."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr ""
+msgstr "OpenSUSE hüppe 42.1 peahoidla (lähtekoodipaketid)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
+"Kõigi lähtekoodipakettide hoidla OpenSUSE Leap 42.1-s. Ainult ekspertidele."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
-msgstr ""
+msgstr "OpenSUSE Leap 42.1 peahoidla koos silumisinfo pakettidega"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
+"See hoidla on kasulik neile, kes soovivad parandada-siluda rakendusi "
+"OpenSUSE Leap 42.1-s. Ainult ekspertidele."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "OpenSUSE Leap 42.1 ametlike uuenduste hoidla"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
-msgstr ""
+msgstr "Selles hoidlas leiate openSUSE Leap 42.1 turva- ja hooldusuuendusi."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "OpenSUSE Leap 42.1 ametlike mitte vaba tarkvara uuenduste hoidla"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
-msgstr ""
+msgstr "Uuenduste hoidla openSUSE Leap 42.1 silumisinfo pakettidele"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
+"OpenSUSE Leap 42.2 peahoidla, mis sisaldab ainult avatud lähtekoodiga "
+"tarkvara"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"OpenSUSE Leap 42.2 jaoks mõeldud suur avatud lähtekoodiga tarkvara (OSS) "
+"hoidla, mis annab teile juurdepääsu tuhandetele pakketidele, mida hooldab "
+"openSUSE kogukond."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
 msgstr ""
+"Mitte-avatud lähtekoodiga tarkvara lisade hoidla openSUSE Leap 42.2 jaoks"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
 msgid ""
@@ -1023,41 +1065,47 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"Ametlik openSUSE Leap 42.2 hoidla kogu mitteavatud lähtekoodiga tarkvara "
+"jaoks, mida haldab openSUSE kogukond, sealhulgas Opera, Steam, Flash ja "
+"palju muud."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr ""
+msgstr "Peahoidla OpenSUSE Leap 42.2 (lähtekoodipaketid)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
+"Kõigi lähtekoodipakettide hoidla OpenSUSE Leap 42.2-s. Ainult ekspertidele."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
-msgstr ""
+msgstr "Peahoidla OpenSUSE Leap 42.2 koos silumisinfo pakettidega"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
+"See hoidla on kasulik neile, kes soovivad siluda rakendusi OpenSUSE Leap "
+"42.2-s. Ainult ekspertidele."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr ""
+msgstr "OpenSUSE Leap 42.2 ametlike uuenduste hoidla"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
-msgstr ""
+msgstr "Selles hoidlas leiate openSUSE Leap 42.2 turbe- ja hooldusuuendusi."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
-msgstr ""
+msgstr "OpenSUSE Leap 42.2 ametlik mittevaba tarkvara uuenduste hoidla"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
-msgstr ""
+msgstr "Uuenduste hoidla openSUSE Leap 42.2 silumisinfo pakettidele"
