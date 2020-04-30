@@ -13,16 +13,16 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2018-11-30 13:30+0000\n"
-"Last-Translator: Yi-Jyun Pan <pan93412@gmail.com>\n"
-"Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/download-"
-"o-o/master/zh_TW/>\n"
+"PO-Revision-Date: 2020-05-02 19:50+0000\n"
+"Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/"
+"download-o-o/master/zh_TW/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.18\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -717,7 +717,7 @@ msgstr "這個套件庫提供急迫性高的更新，直到被整合進主要套
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
 msgid "Main Repository"
-msgstr "主要軟體庫"
+msgstr "主要套件庫"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
@@ -752,7 +752,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
 msgid "Source Repository"
-msgstr "來源軟體庫"
+msgstr "來源套件庫"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
@@ -761,7 +761,7 @@ msgstr "來源軟體庫"
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "openSUSE Leap 主要軟體庫的來源軟體包"
+msgstr "openSUSE Leap 主要套件庫的來源套件"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
@@ -782,7 +782,7 @@ msgstr "openSUSE Leap 所有原始碼套件的套件庫。僅提供專家使用�
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
 msgid "Debug Repository"
-msgstr "偵錯用軟體庫"
+msgstr "偵錯用套件庫"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
@@ -942,7 +942,7 @@ msgstr "openSUSE Leap 的官方非開放原始碼更新套件庫"
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
 msgid "Non-OSS Repository"
-msgstr "非開放原始碼軟體庫"
+msgstr "非開放原始碼套件庫"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
