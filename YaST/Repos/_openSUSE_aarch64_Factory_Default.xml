@@ -12,6 +12,7 @@
         <name xml:lang="de">Haupt-Repository (OSS)</name>
         <name xml:lang="el">Κύριο Αποθετήριο (OSS)</name>
         <name xml:lang="es">Repositorio principal (OSS)</name>
+        <name xml:lang="et">Üldine hoidla (OSS)</name>
         <name xml:lang="fa">مخازن اصلی (OSS)</name>
         <name xml:lang="fi">Pääasennuslähde (OSS)</name>
         <name xml:lang="fr">Dépôt principal (OSS)</name>
@@ -49,6 +50,7 @@
         <summary xml:lang="de">Hauptrepository von openSUSE Tumbleweed welches ausschließlich Open Source Software beinhaltet</summary>
         <summary xml:lang="el">Κύριο αποθετήριο του openSUSE Tumbleweed που συμπεριλαμβάνει μόνο Λογισμικό Ανοικτού Κώδικα</summary>
         <summary xml:lang="es">Repositorio principal de openSUSE Tumbleweed incluyendo solo software de código abierto</summary>
+        <summary xml:lang="et">Peahoidla OpenSUSE Tumbleweedi ainult avatud lähtekoodiga tarkvarale OSS</summary>
         <summary xml:lang="fa">مخازن اصلی openSUSE Tumbleweed شامل فقط نرم افزارهای متن باز</summary>
         <summary xml:lang="fi">openSUSE Tumbleweed -perusasennuslähde sisältää vain avoimen lähdekoodin ohjelmia</summary>
         <summary xml:lang="fr">Dépôt principal d'openSUSE Tumbleweed contenant seulement les logiciels Open Source</summary>
@@ -75,6 +77,7 @@
         <description xml:lang="de">Das große  'Open Source Software' (OSS) Repository für openSUSE, das Ihnen Zugriff auf tausende vom openSUSE-Team gepflegte Pakete gibt. (Aufgrund der Größe des Repositorys kann das Hinzufügen einige Zeit in Anspruch nehmen. Mindestens 512MB RAM oder eine aktivierte SWAP-Partition werden dringend empfohlen, falls Sie während der Installation dieses Repository verwenden wollen.)</description>
         <description xml:lang="el">Το μεγάλο αποθετήριο Λογισμικού Ανοικτού Κώδικα (ΛΑΚ) για openSUSE, που σας δίνει πρόσβαση σε χιλιάδες πακέτα που συντηρούνται από την ομάδα openSUSE. (Λόγω του μεγάλου μεγέθους του αποθετηρίου, η προσθήκη του θα πάρει ώρα. Συνίσταται 512MB RAM ή ενεργοποίηση της κατάτμησης SWAP σε περίπτωση που θέλετε να προσθέσετε αυτό το αποθετήριο κατά την εγκατάσταση.)</description>
         <description xml:lang="es">El gran repositorio de software de código abierto (OSS) de openSUSE le da acceso a miles de paquetes mantenidos por el equipo de openSUSE. (Debido al tamaño del repositorio, el añadirlo puede llevar algún tiempo. 512 MB de memoria RAM o habilitar una partición SWAP es altamente recomendable en caso que desee acceder a este repositorio en el momento de la instalación)</description>
+        <description xml:lang="et">OpenSUSE suur avatud lähtekoodiga tarkvara (OSS) hoidla, mis annab teile juurdepääsu tuhandetele OpenSUSE meeskonna hallatavatele pakettidele. (Repositooriumi suuruse tõttu võib selle lisamine võtta natuke aega. 512 MB RAM-i või lubatud SWAP-sektsiooni on soovitatav kasutada juhul, kui soovite sellele hoidlale juurde pääseda paigaldamise ajal.)</description>
         <description xml:lang="fa">مخزن بزرگ نرم افزارهای متن باز (OSS) برای openSUSE ، به شما دسترسی به هزاران بسته که توسط تیم openSUSE نگه داری میشود را میدهد. ( به دلیل اندازه ی مخزن، اضافه کردن آن ممکن است کمی زمان ببرد.اگر میخواهید در زمان نصب از این مخازن استفاده کنید، میزان  حافظه ی 512 مگابایت رم و یا پارتیشن فعال SWAP به شدت توصیه میشود.)</description>
         <description xml:lang="fi">Suuri avoimen lähdekoodin ohjelmistoasennuslähde (OSS) openSUSElle. Täältä löydät tuhansia openSUSE-tiimin ylläpitämiä paketteja. (Asennuslähteen koon vuoksi lisääminen saattaa viedä aikaa. 512 Mt keskusmuistia tai käyttöön otettu SWAP-osio ovat erittäin suositeltavia, jos haluat ottaa tämän asennuslähteen käyttöön asennuksen aikana.)</description>
         <description xml:lang="fr">Le principal dépôt de logiciels Open Source (OSS) pour openSUSE , vous donne accès à des milliers de paquets maintenus par l'équipe d'openSUSE. (En raison de la taille du dépôt, l'ajouter peut prendre du temps. 512 Mo de RAM ou une partition SWAP active sont fortement recommandés si vous voulez y accéder au moment de l'installation.)</description>
@@ -105,6 +108,7 @@
         <name xml:lang="de">Haupt-Repository (Quellen)</name>
         <name xml:lang="el">Κύριο Αποθετήριο (Πηγές)</name>
         <name xml:lang="es">Repositorio principal (fuentes)</name>
+        <name xml:lang="et">Üldine hoidla (lähtekoodid)</name>
         <name xml:lang="fa">مخازن اصلی (منابع)</name>
         <name xml:lang="fi">Pääasennuslähde (lähdekoodit)</name>
         <name xml:lang="fr">Dépôt principal (Sources)</name>
@@ -141,6 +145,7 @@
         <summary xml:lang="de">Hauptverzeichnis von openSUSE Tumbleweed ( Quellpakete )</summary>
         <summary xml:lang="el">Κύριο Αποθετήριο του openSUSE Tumbleweed (Πηγαία Πακέτα)</summary>
         <summary xml:lang="es">Repositorio principal de openSUSE Tumbleweed (código fuente)</summary>
+        <summary xml:lang="et">OpenSUSE Tumbleweed peahoidla (lähtekoodipaketid)</summary>
         <summary xml:lang="fa">مخازن اصلی openSUSE Tumbleweed (بسته های source)</summary>
         <summary xml:lang="fi">openSUSE Tumbleweed -jakelun perusasennuslähde (lähdekoodipaketit)</summary>
         <summary xml:lang="fr">Dépôt principal d'openSUSE Tumbleweed (Paquets Sources)</summary>
@@ -167,6 +172,7 @@
         <description xml:lang="de">Das Repository aller Quelltext-Pakete in openSUSE Tumbleweed. Nur für Experten.</description>
         <description xml:lang="el">Το αποθετήριο για όλα τα πηγαιά πακέτα στο openSUSE Tumbleweed. Μόνο για προχωρημένους.</description>
         <description xml:lang="es">El repositorio de todo el código fuente en openSUSE Tumbleweed. Solo para expertos.</description>
+        <description xml:lang="et">Kõigi lähtekoodipakettide hoidla OpenSUSE Tumbleweedis. Ainult ekspertidele.</description>
         <description xml:lang="fa">مخازن شامل تمامی بسته های منبع  کد برای openSUSE Tumbleweed. فقط برای افراد متخصص است.</description>
         <description xml:lang="fi">Asennuslähde kaikille openSUSE Tumbleweed -jakelun lähdekoodipaketeille. Vain asiantuntijoille.</description>
         <description xml:lang="fr">Le dépôt de tous les paquets source d'openSUSE Tumbleweed. Pour experts seulement.</description>
@@ -197,6 +203,7 @@
         <name xml:lang="de">Haupt-Repository (DEBUG)</name>
         <name xml:lang="el">Κύριο Αποθετήριο (DEBUG)</name>
         <name xml:lang="es">Repositorio principal (DEBUG)</name>
+        <name xml:lang="et">Peahoidla (DEBUG)</name>
         <name xml:lang="fa">مخازن اصلی (اشکال زدایی)</name>
         <name xml:lang="fi">Pääasennuslähde (Debug)</name>
         <name xml:lang="fr">Dépôt principal (DEBUG)</name>
@@ -234,6 +241,7 @@
         <summary xml:lang="de">Hauptverzeichnis von openSUSE Tumbleweed einschließlich der debuginfo Pakete</summary>
         <summary xml:lang="el">Κύριο αποθετριο του openSUSE Tumbleweed συμπεριλαμβανομένων και των πακέτων debuginfo</summary>
         <summary xml:lang="es">Repositorio principal de openSUSE Tumbleweed incluyendo los paquetes de depuración</summary>
+        <summary xml:lang="et">OpenSUSE Tumbleweedi peahoidla koos silumisinfo pakettidega</summary>
         <summary xml:lang="fa">مخازن اصلی openSUSE Tumbleweed شامل بسته های debuginfo</summary>
         <summary xml:lang="fi">OpenSUSE Tumbleweedin pääasennuslähde, joka sisältää debuginfo-paketit</summary>
         <summary xml:lang="fr">Dépôt principal d'openSUSE Tumbleweed contenant les paquets debuginfo</summary>
@@ -260,6 +268,7 @@
         <description xml:lang="de">Diese Softwarequelle ist für diejenigen nützlich, die Anwendungen auf openSUSE Tumbleweed debuggen wollen. Nur für Experten.</description>
         <description xml:lang="el">Αυτό το αποθετήριο είναι χρήσιμο για όσους θέλουν να αποσφαλματώσουν εφαρμογές στο openSUSE Tumbleweed. Μόνο για προχωρημένους.</description>
         <description xml:lang="es">Este repositorio es útil para aquellos que quieren depurar aplicaciones en openSUSE Tumbleweed. Solo para expertos.</description>
+        <description xml:lang="et">See hoidla on kasulik neile, kes soovivad siluda rakendusi openSUSE Tumbleweedis. Ainult ekspertidele.</description>
         <description xml:lang="fa">این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Tumbleweed اشکال زدایی کنند مناسب است. فقط برای افراد متخصص است.</description>
         <description xml:lang="fi">Tämä asennuslähde on tarpeen niille, jotka haluavat paikantaa vikoja openSUSE Tumbleweedin sovelluksista. Vain asiantuntijoille.</description>
         <description xml:lang="fr">Ce dépôt est utile pour ceux qui souhaitent déboguer des applications sous openSUSE Tumbleweed. Pour experts seulement.</description>
@@ -290,6 +299,7 @@
         <name xml:lang="de">Hauptaktualisierungs-Repository</name>
         <name xml:lang="el">Κύριο Αποθετήριο Ενημερώσεων</name>
         <name xml:lang="es">Repositorio principal de actualizaciones</name>
+        <name xml:lang="et">Peahoidla uuendustele</name>
         <name xml:lang="fa">مخازن اصلی به روز رسانی</name>
         <name xml:lang="fi">Perusasennuslähde päivityksille</name>
         <name xml:lang="fr">Dépôt principal de mise à jour</name>
@@ -326,6 +336,7 @@
         <summary xml:lang="de">Offizielles Update-Repository für Tumbleweed</summary>
         <summary xml:lang="el">Επίσημο αποθετήριο ενημερώσεων για Tumbleweed</summary>
         <summary xml:lang="es">Repositorio oficial de actualizaciones para Tumbleweed</summary>
+        <summary xml:lang="et">Tumbleweedi ametlik uuenduste hoidla</summary>
         <summary xml:lang="fa">مخزن بروزرسانی رسمی برای Tumbleweed</summary>
         <summary xml:lang="fi">Tumbleweedin virallinen päivityslähde</summary>
         <summary xml:lang="fr">Dépôt officiel de mise à jour pour Tumbleweed</summary>
@@ -352,6 +363,7 @@
         <description xml:lang="de">Diese Softwarequelle bietet wichtige Aktualisierungen bis diese in die Hauptrepositories integriert werden.</description>
         <description xml:lang="el">Αυτό το αποθετήριο παρέχει επείγοντες ενημερώσεις μέχρι να ενταχθούν στα κυρίως αποθετήρια.</description>
         <description xml:lang="es">Este repositorio provee actualizaciones urgentes hasta que sean integradas en los repositorios principales.</description>
+        <description xml:lang="et">See hoidla pakub kiireid uuendusi, kuni nad on integreeritud peamistesse andmehoidlatesse.</description>
         <description xml:lang="fa">این مخزن بروزرسانی های فوری و ضروری را تا زمان یکپارچه شدن آنها درون مخازن اصلی برای شما مهیا میکند.</description>
         <description xml:lang="fi">Tämä asennuslähde tarjoaa kiireiset päivitykset ennen kuin ne saadaan viedyksi pääasennuslähteisiin.</description>
         <description xml:lang="fr">Ce dépôt fournit les mises à jour urgentes, avant qu'elles ne soient intégrées aux dépôts principaux.</description>
