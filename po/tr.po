@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2020-05-02 19:51+0000\n"
-"Last-Translator: Ilkay Gokce <lokma@tuta.io>\n"
+"PO-Revision-Date: 2020-09-12 17:47+0000\n"
+"Last-Translator: Muhammet Kara <muhammet.kara@collabora.com>\n"
 "Language-Team: Turkish <https://l10n.opensuse.org/projects/download-o-o/"
 "master/tr/>\n"
 "Language: tr\n"
@@ -119,8 +119,10 @@ msgid ""
 "to run some Windows applications in openSUSE. This repository provides the "
 "latest CVS (development) snapshot packages of Wine."
 msgstr ""
-"Wine Windows API'nin açık kaynak kodlu bir uygulaması olduğundan OpenSUSE "
-"bazı windows uygulamalarını çalıştırmanıza izin verir. Bu depo"
+"Wine, Windows API'nin Açık Kaynak Kodlu bir uygulamasıdır; dolayısıyla, "
+"OpenSUSE'de bazı Windows uygulamalarını çalıştırmanıza olanak tanır. Bu veri "
+"deposu, Wine'ın en güncel CVS (geliştirme) anlık görüntü (snapshot) "
+"paketlerini sağlar."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:13
@@ -181,8 +183,8 @@ msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
 msgstr ""
-"x86 donanımı için genel amaçlı açık kaynaklı tam sanallaştırıcı "
-"VirtualBox'ın güncel derlemelerini sağlar"
+"x86 donanımı için genel amaçlı açık kaynaklı bir tam sanallaştırıcı olan "
+"VirtualBox'ın güncel derlemelerini sağlar."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:19
@@ -243,7 +245,8 @@ msgstr "KDE için topluluk deposu"
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:24
 msgid ""
 "Provides additional KDE software maintained by the openSUSE KDE community."
-msgstr " KDE ek yazılımının korunuşunu OpenSuse KDE topluluğu sağlar"
+msgstr ""
+"openSUSE KDE topluluğu tarafından hazırlanan ek KDE yazılımlarını sağlar."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:31
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:28
