@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: community-repositories.pt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2019-10-23 02:53+0000\n"
-"Last-Translator: Christophe Silva <christophesilva@tutamail.com>\n"
+"PO-Revision-Date: 2020-12-03 17:26+0000\n"
+"Last-Translator: Luís Tiago Favas <al62006@utad.eu>\n"
 "Language-Team: Portuguese <https://l10n.opensuse.org/projects/download-o-o/"
 "master/pt/>\n"
 "Language: pt\n"
@@ -498,12 +498,16 @@ msgstr "Repositório Principal (DEBUG)"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
 msgstr ""
+"Repositório PRINCIPAL do openSUSE 13.1 incluindo os pacotes de informação de "
+"depuração"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
 msgstr ""
+"Este repositório é útil para aqueles que pretendem depurar aplicações no "
+"openSUSE13.1. Para especialistas apenas."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -523,17 +527,19 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:10
 msgid "Main Update Repository"
-msgstr "Repositório Principal de Actualizações"
+msgstr "Repositório Principal de Atualizações"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
-msgstr ""
+msgstr "Repositório de atualizações oficiais para o 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.1."
 msgstr ""
+"Neste repositório encontrará atualizações de segurança e manutenção para o "
+"openSUSE 13.1."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
@@ -543,13 +549,12 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
-#, fuzzy
 msgid "Update Repository (Non-Oss)"
-msgstr "Repositório de Actualizações (DEBUG)"
+msgstr "Repositório de Atualizações (Non-Oss: Código fechado)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
-msgstr ""
+msgstr "Repositório para atualizações não gratuitas oficial para o 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
@@ -558,11 +563,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
-msgstr "Repositório de Actualizações (DEBUG)"
+msgstr "Repositório de Atualizações (Depuração)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:19
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
 msgstr ""
+"Repositório de atualizações de pacotes de informação de depuração do "
+"openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:46
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:40
@@ -574,17 +581,19 @@ msgstr "openSUSE BuildService - Java:pacotes"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:41
 msgid "Bleeding-edge Java packages"
-msgstr "Pacotes Java não estáveis"
+msgstr "Pacotes Java de última geração"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:48
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:42
 msgid "Provides uptodate Java packages (Factory backports)"
-msgstr "Fornece pacotes Java actualizados (backports por defeito)"
+msgstr "Fornece pacotes Java atualizados (backports por defeito)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:2
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
 msgstr ""
+"Repositório principal do openSUSE 13.2 incluindo apenas Aplicações "
+"Informáticas de Código Aberto"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:3
 msgid ""
@@ -594,53 +603,74 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"O grande repositório de Aplicações Informáticas de Código Aberto (OSS) para "
+"o openSUSE 13.2, dá-lhe acesso a milhares de pacotes mantidos pela equipa "
+"openSUSE. (Devido ao tamanho do repositório, poderá levar algum tempo a "
+"carregar. É altamente recomendado ter 512MB de RAM ou uma partição ativada "
+"de SWAP no caso de querer ter acesso a este repositório durante o período de "
+"instalação.)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
 msgstr ""
+"Repositório adicional de Aplicações Informáticas de Código Fechado para o "
+"openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
+"O repositório oficial do openSUSE para todas as Aplicações Informáticas de "
+"código fechado mantidas pela equipa openSUSE, incluem o Opera, Java, Flash, "
+"e muitas mais."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:8
 msgid "Main repository of openSUSE 13.2 (Source packages)"
-msgstr ""
+msgstr "Repositório Principal do openSUSE 13.2 (Pacotes Fonte)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr ""
+"O repositório de todas as fontes dos pacotes do openSUSE 13.2. Para "
+"especialistas apenas."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
 msgstr ""
+"O repositório principal openSUSE 13.2 inclui os pacotes de informação de "
+"depuração"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.2. For experts only."
 msgstr ""
+"Este repositório é útil para quem pretender depurar aplicações no openSUSE "
+"13.2. Para especialistas apenas."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
-msgstr ""
+msgstr "Repositório oficial para atualizações do 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.2."
 msgstr ""
+"Neste repositório encontra atualizações de segurança e manutenção do "
+"openSUSE 13.2."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
-msgstr ""
+msgstr "Repositório oficial para atualizações não gratuitas do 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
 msgstr ""
+"Repositório de atualizações do openSUSE 13.2 com pacotes de informação de "
+"depuração"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
@@ -650,6 +680,8 @@ msgstr ""
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr ""
+"Repositório principal do openSUSE Tumbleweed que apenas inclui Aplicações "
+"Informáticas de Código Aberto"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
@@ -663,6 +695,12 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"O grande repositório de Aplicações Informáticas de Código Aberto (OSS) para "
+"o openSUSE, dá-lhe acesso a milhares de pacotes mantidos pela equipa "
+"openSUSE. (Devido ao tamanho do repositório, poderá levar algum tempo a "
+"carregar. É altamente recomendado ter 512MB de RAM ou uma partição ativada "
+"de SWAP no caso de querer ter acesso a este repositório durante o período de "
+"instalação.)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:5
@@ -670,7 +708,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:5
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr ""
+msgstr "Repositório principal do openSUSE Tumbleweed (Pacotes das fontes)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:6
@@ -681,6 +719,8 @@ msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
+"O repositório de todas as fontes dos pacotes do openSUSE Tumbleweed. Para "
+"especialistas apenas."
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
