@@ -6,7 +6,7 @@
 
 	<!-- official openSUSE links -->
 	<item>
-	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml</link>
+	    <link>https://download.opensuse.org/YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml</link>
 	    <!-- to enable it during installation -->
 	    <installation_repo config:type="boolean">true</installation_repo>
 	    <official config:type="boolean">true</official>
@@ -20,7 +20,7 @@
 
 <!-- No OBS repos for factory recommended
 	<item>
-	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_Factory_Additional.xml</link>
+	    <link>https://download.opensuse.org/YaST/Repos/_openSUSE_Factory_Additional.xml</link>
 	    <official config:type="boolean">true</official>
 	</item>
 -->
