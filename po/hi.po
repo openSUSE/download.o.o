@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2021-04-07 20:56+0000\n"
+"PO-Revision-Date: 2021-04-08 08:56+0000\n"
 "Last-Translator: Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi <https://l10n.opensuse.org/projects/download-o-o/master/"
 "hi/>\n"
@@ -479,17 +479,19 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:7
 msgid "Main Repository (DEBUG)"
-msgstr ""
+msgstr "मुख्य पैकेज-संग्रह (दोषमार्जन)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
-msgstr ""
+msgstr "ओपनSUSE 13.1 हेतु दोषमार्जन पैकेज का मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
 msgstr ""
+"यह पैकेज-संग्रह ओपनSUSE 13.1 पर दोषमार्जन अनुप्रयोग हेतु उपयोगी है। केवल "
+"विशेषज्ञ उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -509,17 +511,17 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:10
 msgid "Main Update Repository"
-msgstr ""
+msgstr "मुख्य अपडेट पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
-msgstr ""
+msgstr "13.1 हेतु मुख्य अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.1."
-msgstr ""
+msgstr "ओपनSUSE 13.1 हेतु सुरक्षा व अनुरक्षण अपडेट का पैकेज-संग्रह।"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
@@ -530,11 +532,11 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
-msgstr ""
+msgstr "अपडेट पैकेज-संग्रह (गैर-ओएसएस)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
-msgstr ""
+msgstr "13.1 हेतु आधिकारिक अमुक्त अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
@@ -543,7 +545,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
-msgstr ""
+msgstr "अपडेट पैकेज-संग्रह (दोषमार्जन)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:19
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
@@ -579,6 +581,10 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"ओपनSUSE 13.2 के विशाल मुक्त स्रोत सॉफ्टवेयर (ओएसएस) पैकेज-संग्रह में सम्मिलि"
+"त हैं ओपनSUSE टीम द्वारा अनुरक्षित सहस्त्र पैकेज। (पैकेज-संग्रह आकार के कारण "
+"जोड़ने में समय लग सकता है। इंस्टॉल प्रक्रिया के समय इसे अभिगम करने हेतु 512 "
+"एमबी रैम या स्वैप सक्रिय विभाजन होना आवश्यक है।)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
@@ -608,6 +614,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.2. For experts only."
 msgstr ""
+"यह पैकेज-संग्रह ओपनSUSE 13.2 पर दोषमार्जन अनुप्रयोग हेतु उपयोगी है। केवल "
+"विशेषज्ञ उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
@@ -621,7 +629,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
-msgstr ""
+msgstr "13.2 हेतु आधिकारिक अमुक्त अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
@@ -684,6 +692,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
+"यह पैकेज-संग्रह ओपनSUSE टम्बलवीड पर दोषमार्जन अनुप्रयोग हेतु उपयोगी है। केवल "
+"विशेषज्ञ उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
@@ -773,7 +783,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
 msgid "Debug Repository"
-msgstr ""
+msgstr "दोषमार्जन पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
@@ -798,6 +808,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap. For experts only."
 msgstr ""
+"यह पैकेज-संग्रह ओपनSUSE लीप पर दोषमार्जन अनुप्रयोग हेतु उपयोगी है। केवल "
+"विशेषज्ञ उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:11
@@ -830,7 +842,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
 msgid "Update Repository (Debug)"
-msgstr ""
+msgstr "अपडेट पैकेज-संग्रह (दोषमार्जन)"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
@@ -921,7 +933,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap"
-msgstr ""
+msgstr "ओपनSUSE लीप हेतु आधिकारिक अमुक्त अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
@@ -969,6 +981,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
+"यह पैकेज-संग्रह ओपनSUSE लीप 42.1 पर दोषमार्जन अनुप्रयोग हेतु उपयोगी है। केवल "
+"विशेषज्ञ उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
@@ -982,7 +996,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.1 हेतु आधिकारिक अमुक्त अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
@@ -1029,6 +1043,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
+"यह पैकेज-संग्रह ओपनSUSE लीप 42.2 पर दोषमार्जन अनुप्रयोग हेतु उपयोगी है। केवल "
+"विशेषज्ञ उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
@@ -1042,7 +1058,7 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.2 हेतु आधिकारिक अमुक्त अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
