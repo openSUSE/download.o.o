@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2021-04-08 08:56+0000\n"
+"PO-Revision-Date: 2021-04-08 15:57+0000\n"
 "Last-Translator: Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi <https://l10n.opensuse.org/projects/download-o-o/master/"
 "hi/>\n"
@@ -483,7 +483,7 @@ msgstr "मुख्य पैकेज-संग्रह (दोषमार�
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
-msgstr "ओपनSUSE 13.1 हेतु दोषमार्जन पैकेज का मुख्य पैकेज-संग्रह"
+msgstr "ओपनSUSE 13.1 का दोषमार्जन पैकेज युक्त मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:12
 msgid ""
@@ -515,7 +515,7 @@ msgstr "मुख्य अपडेट पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
-msgstr "13.1 हेतु मुख्य अपडेट का पैकेज-संग्रह"
+msgstr "13.1 हेतु आधिकारिक अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
@@ -549,29 +549,29 @@ msgstr "अपडेट पैकेज-संग्रह (दोषमार�
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:19
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
-msgstr ""
+msgstr "ओपनSUSE 13.2 दोषमार्जन पैकेज का अपडेट पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:46
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:40
 msgid "openSUSE BuildService - Java:packages"
-msgstr ""
+msgstr "ओपनSUSE निर्माण सेवा - जावा : पैकेज"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:47
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:41
 msgid "Bleeding-edge Java packages"
-msgstr ""
+msgstr "नवीनतम जावा पैकेज"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:48
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:42
 msgid "Provides uptodate Java packages (Factory backports)"
-msgstr ""
+msgstr "नवीनतम जावा पैकेज (फैक्ट्री बैकपोर्ट) उपलब्ध हैं"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:2
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
-msgstr ""
+msgstr "केवल मुक्त स्रोत सॉफ्टवेयर युक्त ओपनSUSE 13.2 का मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:3
 msgid ""
@@ -588,26 +588,30 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
-msgstr ""
+msgstr "ओपनSUSE 13.2 हेतु अमुक्त स्रोत सॉफ्टवेयर पूरक साधन पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
+"ओपनSUSE टीम द्वारा अनुरक्षित सभी अमुक्त स्रोत सॉफ्टवेयर का आधिकारिक ओपनSUSE "
+"13.2 पैकेज-संग्रह जिसमें ओपेरा, जावा, फ़्लैश इत्यादि सम्मिलित हैं।"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:8
 msgid "Main repository of openSUSE 13.2 (Source packages)"
-msgstr ""
+msgstr "ओपनSUSE 13.2 का मुख्य पैकेज-संग्रह (स्रोत पैकेज)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr ""
+"ओपनSUSE 13.2 हेतु सभी स्रोत पैकेज का मुख्य पैकेज-संग्रह। केवल विशेषज्ञ "
+"उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
-msgstr ""
+msgstr "ओपनSUSE 13.2 का दोषमार्जन पैकेज युक्त मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:12
 msgid ""
@@ -619,13 +623,13 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
-msgstr ""
+msgstr "13.2 हेतु आधिकारिक अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.2."
-msgstr ""
+msgstr "ओपनSUSE 13.2 हेतु सुरक्षा व अनुरक्षण अपडेट का पैकेज-संग्रह।"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
@@ -633,7 +637,7 @@ msgstr "13.2 हेतु आधिकारिक अमुक्त अपड�
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
-msgstr ""
+msgstr "ओपनSUSE 13.2 दोषमार्जन पैकेज का अपडेट पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
@@ -642,7 +646,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
-msgstr ""
+msgstr "केवल मुक्त स्रोत सॉफ्टवेयर युक्त ओपनSUSE टम्बलवीड का मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
@@ -656,6 +660,10 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"ओपनSUSE के विशाल मुक्त स्रोत सॉफ्टवेयर (ओएसएस) पैकेज-संग्रह में सम्मिलित हैं "
+"ओपनSUSE टीम द्वारा अनुरक्षित सहस्त्र पैकेज। (पैकेज-संग्रह आकार के कारण जोड़ने "
+"में समय लग सकता है। इंस्टॉल प्रक्रिया के समय इसे अभिगम करने हेतु 512 एमबी रै"
+"म या स्वैप सक्रिय विभाजन होना आवश्यक है।)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:5
@@ -663,7 +671,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:5
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr ""
+msgstr "ओपनSUSE टम्बलवीड का मुख्य पैकेज-संग्रह (स्रोत पैकेज)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:6
@@ -674,6 +682,8 @@ msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
+"ओपनSUSE टम्बलवीड1 हेतु सभी स्रोत पैकेज का मुख्य पैकेज-संग्रह। केवल विशेषज्ञ "
+"उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
@@ -681,7 +691,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
-msgstr ""
+msgstr "ओपनSUSE टम्बलवीड का दोषमार्जन पैकेज युक्त मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
@@ -701,7 +711,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
 msgid "Official update repository for Tumbleweed"
-msgstr ""
+msgstr "टम्बलवीड हेतु आधिकारिक अपडेट पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
@@ -712,6 +722,8 @@ msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
 msgstr ""
+"यह पैकेज संग्रह मुख्य पैकेज-संग्रह में सम्मिलित होने के पूर्व अति आवश्यक अपडे"
+"ट प्रदान करता है।"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:1
@@ -720,7 +732,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
 msgid "Main Repository"
-msgstr ""
+msgstr "मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
@@ -731,7 +743,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:2
 msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr ""
+msgstr "केवल मुक्त स्रोत सॉफ्टवेयर युक्त ओपनSUSE लीप का मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:3
@@ -745,6 +757,8 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
 "access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"ओपनSUSE लीप के विशाल मुक्त स्रोत सॉफ्टवेयर (ओएसएस) पैकेज-संग्रह में सम्मिलित "
+"हैं ओपनSUSE समुदाय द्वारा अनुरक्षित सहस्त्र पैकेज।"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:4
@@ -753,7 +767,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
 msgid "Source Repository"
-msgstr ""
+msgstr "स्रोत पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
@@ -762,7 +776,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr ""
+msgstr "ओपनSUSE लीप के मुख्य पैकेज-संग्रह हेतु स्रोत पैकेज"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
@@ -775,6 +789,8 @@ msgstr ""
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
 msgstr ""
+"ओपनSUSE लीप हेतु सभी स्रोत पैकेज का मुख्य पैकेज-संग्रह। केवल विशेषज्ञ "
+"उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:7
@@ -794,7 +810,7 @@ msgstr "दोषमार्जन पैकेज-संग्रह"
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr ""
+msgstr "ओपनSUSE लीप का दोषमार्जन पैकेज युक्त मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:9
@@ -820,7 +836,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:11
 msgid "Repository for official updates to openSUSE Leap"
-msgstr ""
+msgstr "ओपनSUSE लीप हेतु आधिकारिक अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:12
@@ -833,7 +849,7 @@ msgstr ""
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
-msgstr ""
+msgstr "ओपनSUSE लीप हेतु सुरक्षा व अनुरक्षण अपडेट का पैकेज-संग्रह।"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
@@ -853,7 +869,7 @@ msgstr "अपडेट पैकेज-संग्रह (दोषमार�
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:14
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr ""
+msgstr "ओपनSUSE लीप दोषमार्जन पैकेज का अपडेट पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:15
@@ -866,7 +882,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:15
 msgid "Untested Updates"
-msgstr ""
+msgstr "अपरीक्षित पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:16
@@ -879,7 +895,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:16
 msgid "Repository of not yet tested updates"
-msgstr ""
+msgstr "अपरीक्षित अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:17
@@ -896,23 +912,27 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"गुणवत्ता परीक्षण रहित सुरक्षा व अनुरक्षण अपडेट का पैकेज-संग्रह। ओपनSUSE अपडे"
+"ट परीक्षण प्रक्रिया में सहयोग करने की इच्छा होने की स्थिति में ही इसे जोड़ें।"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr ""
+msgstr "ओपनSUSE टम्बलवीड हेतु अमुक्त स्रोत सॉफ्टवेयर पूरक साधन पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
+"ओपनSUSE टीम द्वारा अनुरक्षित सभी अमुक्त स्रोत सॉफ्टवेयर का आधिकारिक ओपनSUSE "
+"टम्बलवीड पैकेज-संग्रह जिसमें ओपेरा, जावा, फ़्लैश इत्यादि सम्मिलित हैं।"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr ""
+msgstr "ओपनSUSE लीप हेतु अमुक्त स्रोत सॉफ्टवेयर पूरक साधन पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:6
@@ -922,11 +942,13 @@ msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
 msgstr ""
+"ओपनSUSE समुदाय द्वारा अनुरक्षित सभी अमुक्त स्रोत सॉफ्टवेयर का आधिकारिक "
+"ओपनSUSE लीप पैकेज-संग्रह जिसमें ओपेरा, जावा, फ़्लैश इत्यादि सम्मिलित हैं।"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr ""
+msgstr "ओपनSUSE लीप का मुख्य पैकेज-संग्रह (स्रोत पैकेज)"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
@@ -938,22 +960,24 @@ msgstr "ओपनSUSE लीप हेतु आधिकारिक अमु�
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
 msgid "Non-OSS Repository"
-msgstr ""
+msgstr "गैर-ओएसएस पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
-msgstr ""
+msgstr "केवल मुक्त स्रोत सॉफ्टवेयर युक्त ओपनSUSE लीप 42.1 का मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"ओपनSUSE लीप 42.1 के विशाल मुक्त स्रोत सॉफ्टवेयर (ओएसएस) पैकेज-संग्रह में "
+"सम्मिलित हैं ओपनSUSE समुदाय द्वारा अनुरक्षित सहस्त्र पैकेज।"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.1 हेतु अमुक्त स्रोत सॉफ्टवेयर पूरक साधन पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 msgid ""
@@ -961,20 +985,24 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"ओपनSUSE समुदाय द्वारा अनुरक्षित सभी अमुक्त स्रोत सॉफ्टवेयर का आधिकारिक "
+"ओपनSUSE लीप 42.1 पैकेज-संग्रह जिसमें ओपेरा, जावा, फ़्लैश इत्यादि सम्मिलित हैं।"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.1 का मुख्य पैकेज-संग्रह (स्रोत पैकेज)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
+"ओपनSUSE लीप 42.1 हेतु सभी स्रोत पैकेज का मुख्य पैकेज-संग्रह। केवल विशेषज्ञ "
+"उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.1 का दोषमार्जन पैकेज युक्त मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
@@ -986,13 +1014,13 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.1 हेतु आधिकारिक अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
-msgstr ""
+msgstr "ओपनSUSE लीप 42.1 हेतु सुरक्षा व अनुरक्षण अपडेट का पैकेज-संग्रह।"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
@@ -1000,22 +1028,24 @@ msgstr "ओपनSUSE लीप 42.1 हेतु आधिकारिक अ�
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.1 दोषमार्जन पैकेज का अपडेट पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
-msgstr ""
+msgstr "केवल मुक्त स्रोत सॉफ्टवेयर युक्त ओपनSUSE लीप 42.2 का मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"ओपनSUSE लीप 42.2 के विशाल मुक्त स्रोत सॉफ्टवेयर (ओएसएस) पैकेज-संग्रह में "
+"सम्मिलित हैं ओपनSUSE समुदाय द्वारा अनुरक्षित सहस्त्र पैकेज।"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.2 हेतु अमुक्त स्रोत सॉफ्टवेयर पूरक साधन पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
 msgid ""
@@ -1023,20 +1053,24 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"ओपनSUSE समुदाय द्वारा अनुरक्षित सभी अमुक्त स्रोत सॉफ्टवेयर का आधिकारिक "
+"ओपनSUSE लीप 42.2 पैकेज-संग्रह जिसमें ओपेरा, जावा, फ़्लैश इत्यादि सम्मिलित हैं।"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.2 का मुख्य पैकेज-संग्रह (स्रोत पैकेज)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
+"ओपनSUSE लीप 42.2 हेतु सभी स्रोत पैकेज का मुख्य पैकेज-संग्रह। केवल विशेषज्ञ "
+"उपयोक्ताओं हेतु।"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.2 का दोषमार्जन पैकेज युक्त मुख्य पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
 msgid ""
@@ -1048,13 +1082,13 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr ""
+msgstr "ओपनSUSE लीप 42.2 हेतु आधिकारिक अपडेट का पैकेज-संग्रह"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
-msgstr ""
+msgstr "ओपनSUSE लीप 42.2 हेतु सुरक्षा व अनुरक्षण अपडेट का पैकेज-संग्रह।"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
@@ -1062,4 +1096,4 @@ msgstr "ओपनSUSE लीप 42.2 हेतु आधिकारिक अ�
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
-msgstr "openSUSE Leap 42.2 debuginfo के पैकेज का संग्रह अपडेट करें"
+msgstr "ओपनSUSE लीप 42.2 दोषमार्जन पैकेज का अपडेट पैकेज-संग्रह"
