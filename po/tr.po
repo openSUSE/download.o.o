@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2020-09-12 17:47+0000\n"
-"Last-Translator: Muhammet Kara <muhammet.kara@collabora.com>\n"
+"PO-Revision-Date: 2021-04-13 03:57+0000\n"
+"Last-Translator: Recep Baştürk <recepbasturk@gmail.com>\n"
 "Language-Team: Turkish <https://l10n.opensuse.org/projects/download-o-o/"
 "master/tr/>\n"
 "Language: tr\n"
@@ -469,6 +469,8 @@ msgstr "openSUSE 13.1 Ana Deposu (Kaynak paketler)"
 msgid ""
 "The repository of all source packages in openSUSE 13.1. For experts only."
 msgstr ""
+"openSUSE 13.1'in içindeki tüm kaynak paketler'in deposu. Sadece uzmanlar "
+"için."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
@@ -494,6 +496,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
 msgstr ""
+"Bu depo openSUSE 13.1 uygulamalarında hata ayıklamak isteyenler için "
+"yararlıdır. Sadece uzmanlar için."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -524,6 +528,7 @@ msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.1."
 msgstr ""
+"Bu depoda openSUSE 13.1'e güvenlik ve bakım güncellemeleri bulabilirsiniz."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
@@ -533,13 +538,12 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
-#, fuzzy
 msgid "Update Repository (Non-Oss)"
-msgstr "Güncelleme Deposu (HATA AYIKLAMA)"
+msgstr "Güncelleme Deposu (AKY-OLMAYAN)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
-msgstr ""
+msgstr "13.1'e özgür olmayan resmi güncellemeleri için depo"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
@@ -610,34 +614,39 @@ msgstr "openSUSE 13.2 Ana Deposu (Kaynak paketler)"
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr ""
+"openSUSE 13.2'nin içindeki tüm kaynak paketler'in deposu. Sadece uzmanlar "
+"için."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
-msgstr ""
+msgstr "Hata ayıklama bilgi paketlerini içeren openSUSE 13.2'nin ana deposu"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.2. For experts only."
 msgstr ""
+"Bu depo openSUSE 13.2 uygulamalarında hata ayıklamak isteyenler için "
+"yararlıdır. Sadece uzmanlar için."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
-msgstr ""
+msgstr "13.2'nin resmi güncellemeleri için depo"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.2."
 msgstr ""
+"Bu depoda openSUSE 13.2'nin güvenlik ve bakım güncellemeleri bulabilirsiniz."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
-msgstr ""
+msgstr "13.2'nin özgür olmayan resmi güncellemeleri için depo"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
-msgstr ""
+msgstr "openSUSE 13.2 hata ayıklama paketlerinin güncelleme deposu"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
@@ -646,7 +655,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
-msgstr ""
+msgstr "Sadece Açık Kaynak Yazılımı içeren openSUSE Tumbleweed ana deposu"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
@@ -667,7 +676,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:5
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr ""
+msgstr "openSUSE Tumbleweed'in ana deposu (Kaynak paketler)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:6
@@ -678,6 +687,8 @@ msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
+"openSUSE Tumbleweed içindeki tüm kaynak paketler'in deposu. Sadece uzmanlar "
+"için."
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
@@ -685,7 +696,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
-msgstr ""
+msgstr "Hata ayıklama bilgi paketlerini içeren openSUSE Tumbleweed ana deposu"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
@@ -696,6 +707,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
+"Bu depo openSUSE Tumbleweed uygulamalarında hata ayıklamak isteyenler için "
+"yararlıdır. Sadece uzmanlar için."
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
@@ -703,7 +716,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
 msgid "Official update repository for Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed için resmi güncelleme deposu"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
@@ -721,10 +734,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Main Repository"
-msgstr "Ana Depo (AKY)"
+msgstr "Ana Depo"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
@@ -734,9 +745,8 @@ msgstr "Ana Depo (AKY)"
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:2
-#, fuzzy
 msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr "Sadece Açık Kaynak Yazılımı içeren openSUSE 12.1'in ana deposu"
+msgstr "Sadece Açık Kaynak Yazılımı içeren openSUSE Leap ana deposu"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:3
@@ -757,10 +767,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Source Repository"
-msgstr "Ana Güncelleme Deposu"
+msgstr "Kaynak Deposu"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
@@ -768,9 +776,8 @@ msgstr "Ana Güncelleme Deposu"
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
-#, fuzzy
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "OpenSUSE 12.1 için Açık Kaynak Yazılımı Olmayan Addon deposu"
+msgstr "openSUSE Leap'ın ana deposu için kaynak paketleri"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
@@ -780,12 +787,10 @@ msgstr "OpenSUSE 12.1 için Açık Kaynak Yazılımı Olmayan Addon deposu"
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:6
-#, fuzzy
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
 msgstr ""
-"openSUSE 12.1'in içindeki tüm kaynak paketler'in deposu. Sadece uzmanlar "
-"için."
+"openSUSE Leap içindeki tüm kaynak paketler'in deposu. Sadece uzmanlar için."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:7
@@ -793,10 +798,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Debug Repository"
-msgstr "Ana Güncelleme Deposu"
+msgstr "Hata Ayıklama Deposu"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
@@ -806,9 +809,8 @@ msgstr "Ana Güncelleme Deposu"
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:8
-#, fuzzy
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr "Hata ayıklama bilgi paketlerini içeren openSUSE 12.1'in ana deposu"
+msgstr "Hata ayıklama bilgi paketlerini içeren openSUSE Leap ana deposu"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:9
@@ -818,12 +820,11 @@ msgstr "Hata ayıklama bilgi paketlerini içeren openSUSE 12.1'in ana deposu"
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:9
-#, fuzzy
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap. For experts only."
 msgstr ""
-"Bu depo openSUSE 12.1 uygulamalarında hata ayıklamak isteyenler için "
+"Bu depo openSUSE Leap uygulamalarında hata ayıklamak isteyenler için "
 "yararlıdır. Sadece uzmanlar için."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:11
@@ -834,9 +835,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:11
-#, fuzzy
 msgid "Repository for official updates to openSUSE Leap"
-msgstr "12.1'in resmi güncellemeleri için depo"
+msgstr "openSUSE Leap resmi güncellemeleri için depo"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:12
@@ -846,12 +846,10 @@ msgstr "12.1'in resmi güncellemeleri için depo"
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:12
-#, fuzzy
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
-msgstr ""
-"Bu depoda openSUSE 12.1'e güvenlik ve bakım güncellemeleri bulabilirsin."
+msgstr "Bu depoda openSUSE Leap güvenlik ve bakım güncellemeleri bulabilirsin."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
@@ -859,10 +857,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
-#, fuzzy
-#| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"
-msgstr "Güncelleme Deposu (HATA AYIKLAMA)"
+msgstr "Güncelleme Deposu (Hata Ayıklama)"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
@@ -872,9 +868,8 @@ msgstr "Güncelleme Deposu (HATA AYIKLAMA)"
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:14
-#, fuzzy
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "OpenSUSE 12.1 hata ayıklama paketlerinin güncelleme deposu"
+msgstr "OpenSUSE Leap hata ayıklama bilgi paketlerinin güncelleme deposu"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:15
@@ -887,7 +882,7 @@ msgstr "OpenSUSE 12.1 hata ayıklama paketlerinin güncelleme deposu"
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:15
 msgid "Untested Updates"
-msgstr ""
+msgstr "Test Edilmemiş Güncellemeler"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:16
@@ -900,7 +895,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:16
 msgid "Repository of not yet tested updates"
-msgstr ""
+msgstr "Henüz test edilmemiş güncellemelerin deposu"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:17
@@ -920,55 +915,50 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr ""
+msgstr "openSUSE Tumbleweed için Açık Kaynak Olmayan Yazılım Eklenti deposu"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
+"Opera, Flash ve daha fazlasını içeren openSUSE ekibi tarafından sağlanan tüm "
+"Açık Kaynak Olmayan Yazılımlar için resmi openSUSE Tumbleweed deposu."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
-#, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr "OpenSUSE 12.1 için Açık Kaynak Yazılımı Olmayan Addon deposu"
+msgstr "OpenSUSE Leap için Açık Kaynak Olmayan Yazılım Eklenti deposu"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
-#, fuzzy
 msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
 msgstr ""
-"OpenSUSE takımı tarafından korunan bütün Açık Kaynak Yazılımı Olmayanlar "
-"için  openSUSE 12.1'in resmi deposu, Opera, Java, Flash, ve daha fazlasını "
-"içeriyor."
+"Opera, Steam ve daha fazlasını içeren openSUSE ekibi tarafından sağlanan tüm "
+"Açık Kaynak Olmayan Yazılımlar için resmi openSUSE Leap deposu."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-#, fuzzy
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "openSUSE 12.1'in ana deposu (Kaynak paketleri)"
+msgstr "openSUSE Leap ana deposu (Kaynak paketleri)"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#, fuzzy
 msgid "Repository for official non free updates to openSUSE Leap"
-msgstr "12.1'in resmi güncellemeleri için depo"
+msgstr "openSUSE Leap özgür olmayan resmi güncellemeleri için depo"
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
-msgstr "Ana Depo (AKY)"
+msgstr "AKY-OLMAYAN Depo"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
@@ -1031,10 +1021,9 @@ msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
-#, fuzzy
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
-msgstr "Sadece Açık Kaynak Yazılımı içeren openSUSE 12.1'in ana deposu"
+msgstr "Sadece Açık Kaynak Yazılımı içeren openSUSE Leap 42.2'nin ana deposu"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
 msgid ""
@@ -1043,61 +1032,54 @@ msgid ""
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
-#, fuzzy
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
-msgstr "OpenSUSE 12.1 için Açık Kaynak Yazılımı Olmayan Addon deposu"
+msgstr "OpenSUSE Leap 42.2 için Açık Kaynak Olmayan Yazılım Eklenti deposu"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
-#, fuzzy
 msgid ""
 "The official openSUSE Leap 42.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
-"OpenSUSE takımı tarafından korunan bütün Açık Kaynak Yazılımı Olmayanlar "
-"için  openSUSE 12.1'in resmi deposu, Opera, Java, Flash, ve daha fazlasını "
-"içeriyor."
+"Opera, Steam, Flash ve daha fazlasını içeren openSUSE ekibi tarafından "
+"sağlanan tüm Açık Kaynak Olmayan Yazılımlar için resmi openSUSE Leap 42.2 "
+"deposu."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
-#, fuzzy
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr "openSUSE 12.1'in ana deposu (Kaynak paketleri)"
+msgstr "openSUSE Leap 42.2'nin ana deposu (Kaynak paketleri)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
-#, fuzzy
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
-"openSUSE 12.1'in içindeki tüm kaynak paketler'in deposu. Sadece uzmanlar "
-"için."
+"openSUSE Leap 42.2'nin içindeki tüm kaynak paketler'in deposu. Sadece "
+"uzmanlar için."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
-#, fuzzy
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
-msgstr "Hata ayıklama bilgi paketlerini içeren openSUSE 12.1'in ana deposu"
+msgstr ""
+"Hata ayıklama bilgi paketlerini içeren openSUSE Leap 42.2'nin ana deposu"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
-#, fuzzy
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
-"Bu depo openSUSE 12.1 uygulamalarında hata ayıklamak isteyenler için "
+"Bu depo openSUSE Leap 42.2 uygulamalarında hata ayıklamak isteyenler için "
 "yararlıdır. Sadece uzmanlar için."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
-#, fuzzy
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr "12.1'in resmi güncellemeleri için depo"
+msgstr "openSUSE Leap 42.2'nin resmi güncellemeleri için depo"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
-#, fuzzy
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
 msgstr ""
-"Bu depoda openSUSE 12.1'e güvenlik ve bakım güncellemeleri bulabilirsin."
+"Bu depoda openSUSE Leap 42.2'e güvenlik ve bakım güncellemeleri bulabilirsin."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
