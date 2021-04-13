@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2021-04-13 03:57+0000\n"
+"PO-Revision-Date: 2021-04-13 11:57+0000\n"
 "Last-Translator: Recep Baştürk <recepbasturk@gmail.com>\n"
 "Language-Team: Turkish <https://l10n.opensuse.org/projects/download-o-o/"
 "master/tr/>\n"
@@ -669,6 +669,11 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"openSUSE için büyük Açık Kaynak Yazılım (AKY) deposu, size openSUSE ekibi "
+"tarafından korunan binlerce pakete erişim sağlar. (Deponun boyutundan dolayı "
+"eklenmesi biraz zaman alabilir. Yükleme sırasında bu depoya erişmek "
+"istemeniz durumunda 512 MB RAM veya etkin bir SWAP bölümü şiddetle tavsiye "
+"edilir.)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:5
@@ -760,6 +765,8 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
 "access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"openSUSE Leap için büyük Açık Kaynak Yazılım (AKY) deposu, size openSUSE "
+"topluluğu tarafından korunan binlerce pakete erişim sağlar."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:4
@@ -963,17 +970,19 @@ msgstr "AKY-OLMAYAN Depo"
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
-msgstr ""
+msgstr "Sadece Açık Kaynak Yazılımı içeren openSUSE Leap 42.1'in ana deposu"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"openSUSE Leap 42.1 için büyük Açık Kaynak Yazılım (AKY) deposu, size "
+"openSUSE topluluğu tarafından korunan binlerce pakete erişim sağlar."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
-msgstr ""
+msgstr "openSUSE Leap 42.1 için Açık Kaynak Olmayan Yazılım Eklenti deposu"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 msgid ""
@@ -981,44 +990,52 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"Opera, Steam, Flash ve daha fazlasını içeren openSUSE topluluğu tarafından "
+"sağlanan tüm Açık Kaynak Olmayan Yazılımlar için resmi openSUSE Leap 42.1 "
+"deposu."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr ""
+msgstr "openSUSE Leap 42.1'in ana deposu (Kaynak paketler)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
+"openSUSE Leap 42.1'in içindeki tüm kaynak paketler'in deposu. Sadece "
+"uzmanlar için."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
-msgstr ""
+msgstr "Hata ayıklama bilgi paketlerini içeren openSUSE Leap 42.1'in ana deposu"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
+"Bu depo openSUSE Leap 42.1 uygulamalarında hata ayıklamak isteyenler için "
+"yararlıdır. Sadece uzmanlar için."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "OpenSUSE Leap 42.1 için resmi güncellemeleri için depo"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
 msgstr ""
+"Bu depoda openSUSE Leap 42.1'e güvenlik ve bakım güncellemeleri bulabilirsin."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "openSUSE Leap 42.1'in özgür olmayan resmi güncellemeleri için depo"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
-msgstr ""
+msgstr "openSUSE Leap 42.1'in hata ayıklama paketlerinin güncelleme deposu"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 msgid ""
@@ -1030,6 +1047,8 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"openSUSE Leap 42.2 için büyük Açık Kaynak Yazılım (AKY) deposu, size "
+"openSUSE topluluğu tarafından korunan binlerce pakete erişim sağlar."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
