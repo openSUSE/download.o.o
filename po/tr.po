@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2021-04-13 11:57+0000\n"
+"PO-Revision-Date: 2021-04-21 17:46+0000\n"
 "Last-Translator: Recep Baştürk <recepbasturk@gmail.com>\n"
 "Language-Team: Turkish <https://l10n.opensuse.org/projects/download-o-o/"
 "master/tr/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -285,7 +285,7 @@ msgstr "Mono uygulamaları için topluluk deposu"
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
-msgstr "Mono da yazılmış uygulamaların güncellemeleri ve ekleri"
+msgstr "Mono da yazılmış uygulamaların güncellemeleri ve ekleri."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:34
@@ -731,7 +731,7 @@ msgstr "Tumbleweed için resmi güncelleme deposu"
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
-msgstr ""
+msgstr "Bu depo, ana depolara entegre edilene kadar acil güncellemeler sağlar."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:1
@@ -919,6 +919,9 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"Depo, kalite güvencesi ile test edilmesi gereken güvenlik ve bakım "
+"güncellemelerini içerir. Bu depoyu sadece openSUSE güncellemelerinin test "
+"edilmesine katılmak istiyorsanız ekleyin."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
