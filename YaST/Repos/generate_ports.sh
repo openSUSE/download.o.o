@@ -3,7 +3,7 @@
 # TODO: handle non-OSS repo removal automatically
 
 additionnal_archs="aarch64 armv7hl armv6hl ppc"
-leap_versions="15.2"
+leap_versions="15.3"
 
 for ports_arch in $additionnal_archs; do
 	echo "Arch: $ports_arch"
@@ -23,12 +23,16 @@ for ports_arch in $additionnal_archs; do
 	sed -i -e "s,http://download.opensuse.org/update/tumbleweed/,http://download.opensuse.org/ports/$ports_arch/update/tumbleweed/," $output_file
 	
 	for leap in $leap_versions; do
-		echo "  Generating _openSUSE_$ports_arch\_Leap_$leap\_Servers.xml.in"
+		# Leap ports should've armv7 remained only
+		if [ "$ports_arch" != "armv7hl" ]; then
+			continue
+		fi
+		echo "  Generating _openSUSE_"$ports_arch"_Leap_"$leap"_Servers.xml.in"
 		cp openSUSE_Leap_$leap\_Servers.xml.in openSUSE_$ports_arch\_Leap_$leap\_Servers.xml.in
 		sed -i -e "s,_openSUSE_Leap_$leap\_Default.xml,_openSUSE_$ports_arch\_Leap_$leap\_Default.xml," openSUSE_$ports_arch\_Leap_$leap\_Servers.xml.in
 		# No need to update community links (openSUSE_Leap_XXX_Community_Additional.xml) as ports are already included in packman for Leap
 		
-		file="_openSUSE_Leap_$leap\_Default.xml.in"
+		file="_openSUSE_Leap_"$leap"_Default.xml.in"
 		output_file="_openSUSE_"$ports_arch"_Leap_"$leap"_Default.xml.in"
 		echo "  Generating $output_file"
 		cp $file $output_file
