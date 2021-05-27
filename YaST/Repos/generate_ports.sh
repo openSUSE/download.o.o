@@ -3,7 +3,7 @@
 # TODO: handle non-OSS repo removal automatically
 
 additionnal_archs="aarch64 armv7hl armv6hl ppc"
-leap_versions="15.2"
+leap_versions="15.3"
 
 for ports_arch in $additionnal_archs; do
 	echo "Arch: $ports_arch"
