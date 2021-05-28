@@ -51,6 +51,24 @@
                 <_description>This repository is useful for those that want to debug applications on openSUSE Leap. For experts only.</_description>
                 <url>http://download.opensuse.org/debug/update/leap/$releasever/oss</url>
             </repository>
+            <repository recommended="true" format="rpm-md" alias="repo-sle-update">
+                <_name>Update repository with updates from SUSE Linux Enterprise 15</_name>
+                <_summary>Repository with SUSE Linux Enterprise updates for openSUSE Leap</_summary>
+                <_description>In this repository you find SUSE Linux Enterprise security and maintenance updates to openSUSE Leap.</_description>
+                <url>https://download.opensuse.org/update/leap/$releasever/sle</url>
+            </repository>
+            <repository recommended="true" format="rpm-md" alias="repo-backports-update">
+                <_name>Update repository of openSUSE Backports</_name>
+                <_summary>Update repository with Backports updates for openSUSE Leap</_summary>
+                <_description>In this repository you find Backports security and maintenance updates for openSUSE Leap.</_description>
+                <url>https://download.opensuse.org/update/leap/$releasever/backports/</url>
+            </repository>
+            <repository recommended="false" format="rpm-md" alias="repo-backports-debug-update">
+                <_name>Update repository with Backports debuginfo package updates for openSUSE Leap</_name>
+                <_summary>Update repository of Backport debuginfo packages for openSUSE Leap.</_summary>
+                <_description>This repository contains Backport debuginfo packages and is useful for those that want to debug applications on openSUSE Leap. For experts only.</_description>
+                <url>https://download.opensuse.org/update/leap/$releasever/backports_debug/</url>
+            </repository>
             <repository recommended="false" format="rpm-md" alias="repo-update-test">
                 <_name>Untested Updates</_name>
                 <_summary>Repository of not yet tested updates</_summary>
