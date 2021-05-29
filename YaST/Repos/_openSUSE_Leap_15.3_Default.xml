@@ -640,19 +640,19 @@
                 <name>Update repository with updates from SUSE Linux Enterprise 15</name>
                 <summary>Repository with SUSE Linux Enterprise updates for openSUSE Leap</summary>
                 <description>In this repository you find SUSE Linux Enterprise security and maintenance updates to openSUSE Leap.</description>
-                <url>https://download.opensuse.org/update/leap/$releasever/sle</url>
+                <url>http://download.opensuse.org/update/leap/$releasever/sle/</url>
             </repository>
             <repository recommended="true" format="rpm-md" alias="repo-backports-update">
                 <name>Update repository of openSUSE Backports</name>
                 <summary>Update repository with Backports updates for openSUSE Leap</summary>
                 <description>In this repository you find Backports security and maintenance updates for openSUSE Leap.</description>
-                <url>https://download.opensuse.org/update/leap/$releasever/backports/</url>
+                <url>http://download.opensuse.org/update/leap/$releasever/backports/</url>
             </repository>
             <repository recommended="false" format="rpm-md" alias="repo-backports-debug-update">
                 <name>Update repository with Backports debuginfo package updates for openSUSE Leap</name>
                 <summary>Update repository of Backport debuginfo packages for openSUSE Leap.</summary>
                 <description>This repository contains Backport debuginfo packages and is useful for those that want to debug applications on openSUSE Leap. For experts only.</description>
-                <url>https://download.opensuse.org/update/leap/$releasever/backports_debug/</url>
+                <url>http://download.opensuse.org/update/leap/$releasever/backports_debug/</url>
             </repository>
             <repository recommended="false" format="rpm-md" alias="repo-update-test">
                 <name>Untested Updates</name>
