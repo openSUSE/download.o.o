@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2019-03-14 18:08+0000\n"
-"Last-Translator: jcsl <trcs@gmx.com>\n"
+"PO-Revision-Date: 2021-08-21 19:39+0000\n"
+"Last-Translator: Javier Llorente <javier@opensuse.org>\n"
 "Language-Team: Spanish <https://l10n.opensuse.org/projects/download-o-o/"
 "master/es/>\n"
 "Language: es\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 4.7.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -495,7 +495,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:7
 msgid "Main Repository (DEBUG)"
-msgstr "Repositorio principal (DEBUG)"
+msgstr "Repositorio principal (depuración)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
@@ -551,7 +551,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
-msgstr "Repositorio de actualizaciones (No OpenSource)"
+msgstr "Repositorio de actualizaciones (código no abierto)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
@@ -588,7 +588,7 @@ msgstr "Los últimos paquetes de Java"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:42
 msgid "Provides uptodate Java packages (Factory backports)"
-msgstr "Paquetes actualizados de Java (Factory)"
+msgstr "Paquetes actualizados de Java (adaptaciones de Factory)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:2
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
@@ -604,12 +604,12 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"El gran repositorio de Software de código abierto (OSS) de openSUSE 13.2 le "
-"brinda acceso a miles de paquetes mantenidos por el equipo de openSUSE. "
-"(Debido al tamaño del repositorio, el añadirlo puede llevar algún tiempo, "
-"512 MB de memoria RAM o habilitar una partición SWAP es altamente "
-"recomendable en caso que desee acceder a este repositorio en el momento de "
-"la instalación)"
+"El gran repositorio de software de código abierto (OSS) de openSUSE 13.2 le "
+"proporciona acceso a miles de paquetes mantenidos por el equipo de openSUSE. "
+"(Debido al tamaño del repositorio, añadirlo puede llevar algún tiempo. Se "
+"recomienda encarecidamente 512 MB de memoria RAM o tener una partición SWAP "
+"habilitada en caso de que quiera acceder a este repositorio durantela "
+"instalación.)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
