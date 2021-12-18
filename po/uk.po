@@ -14,8 +14,8 @@ msgstr ""
 "Project-Id-Version: community-repositories.uk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2017-02-07 04:29+0000\n"
-"Last-Translator: Andriy Bandura <andriykopanytsia@gmail.com>\n"
+"PO-Revision-Date: 2021-12-18 23:13+0000\n"
+"Last-Translator: Taras Panchenko <top39@ukr.net>\n"
 "Language-Team: Ukrainian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/uk/>\n"
 "Language: uk\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -469,13 +469,13 @@ msgstr "Головне сховище (джерела)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:8
 msgid "Main repository of openSUSE 13.1 (Source packages)"
-msgstr "Головне сховище для openSUSE 13.1 (джерельні пакунки)"
+msgstr "Головне сховище для openSUSE 13.1 (Джерельні пакунки)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.1. For experts only."
 msgstr ""
-"Сховище для всіх джерельних пакунків в openSUSE 13.1. Тільки для знавців."
+"Сховище для всіх джерельних пакунків в openSUSE 13.1. Тільки для експертів."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
@@ -501,7 +501,7 @@ msgid ""
 "openSUSE 13.1. For experts only."
 msgstr ""
 "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
-"13.1. Тільки для знавців."
+"13.1. Тільки для експертів."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -619,7 +619,7 @@ msgstr "Головне сховище для openSUSE 13.2 (джерельні �
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
 msgstr ""
-"Сховище для всіх джерельних пакунків в openSUSE 13.2. Тільки для знавців."
+"Сховище для всіх джерельних пакунків в openSUSE 13.2. Тільки для експертів."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
@@ -631,7 +631,7 @@ msgid ""
 "openSUSE 13.2. For experts only."
 msgstr ""
 "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
-"13.2. Тільки для знавців."
+"13.2. Тільки для експертів."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
@@ -687,7 +687,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:5
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr "Головне сховище для openSUSE Tumbleweed (джерельні пакунки)"
+msgstr "Головне сховище для openSUSE Tumbleweed (Джерельні пакунки)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:6
@@ -699,7 +699,7 @@ msgid ""
 "only."
 msgstr ""
 "Сховище для всіх джерельних пакунків у openSUSE Tumbleweed. Тільки для "
-"знавців."
+"експертів."
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
@@ -719,7 +719,7 @@ msgid ""
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
 "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE "
-"Tumbleweed. Тільки для знавців."
+"Tumbleweed. Тільки для експертів."
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
@@ -747,10 +747,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Main Repository"
-msgstr "Головне сховище (ВПЗ)"
+msgstr "Головне сховище"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
@@ -776,7 +774,7 @@ msgid ""
 "access to thousands of packages maintained by the openSUSE community."
 msgstr ""
 "Це велике сховище програмного забезпечення з відкритим кодом (OSS) для "
-"openSUSE  Leap, яке надає вам доступ до тисяч пакунків, що підтримуються "
+"openSUSE Leap, яке надає вам доступ до тисяч пакунків, що підтримуються "
 "командою openSUSE."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:4
@@ -785,10 +783,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Source Repository"
-msgstr "Головне сховище з оновленнями"
+msgstr "Сховище вихідних кодів"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
@@ -796,10 +792,8 @@ msgstr "Головне сховище з оновленнями"
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
-#, fuzzy
-#| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr "Додаткове сховище openSUSE  Leap, яке містить ПЗ з закритим кодом"
+msgstr "Джерельні пакунки для головного сховища openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
@@ -812,7 +806,7 @@ msgstr "Додаткове сховище openSUSE  Leap, яке містить 
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
 msgstr ""
-"Сховище для всіх джерельних пакунків в openSUSE  Leap. Тільки для експертів."
+"Сховище для всіх джерельних пакунків в openSUSE Leap. Тільки для експертів."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:7
@@ -820,10 +814,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Debug Repository"
-msgstr "Головне сховище з оновленнями"
+msgstr "Сховище даних зневадження"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
@@ -834,7 +826,7 @@ msgstr "Головне сховище з оновленнями"
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr "Головне сховище openSUSE  Leap, яке містить пакунки debuginfo"
+msgstr "Головне сховище openSUSE Leap, яке містить пакунки debuginfo"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:9
@@ -849,7 +841,7 @@ msgid ""
 "openSUSE Leap. For experts only."
 msgstr ""
 "Це сховище призначене для тих, хто хоче зневаджувати програми на openSUSE "
-"Leap. Тільки для знавців."
+"Leap. Тільки для експертів."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:11
@@ -874,7 +866,7 @@ msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
 msgstr ""
-"У цьому сховищі знаходяться латки безпеки і оновлення для  openSUSE Leap."
+"У цьому сховищі знаходяться латки безпеки та оновлення для openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
@@ -882,10 +874,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
-#, fuzzy
-#| msgid "Update Repository (DEBUG)"
 msgid "Update Repository (Debug)"
-msgstr "Сховище оновлень (DEBUG)"
+msgstr "Сховище оновлень (Зневадження)"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
@@ -961,7 +951,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr "Додаткове сховище openSUSE  Leap, яке містить ПЗ з закритим кодом"
+msgstr "Додаткове сховище openSUSE Leap, яке містить ПЗ з закритим кодом"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:6
@@ -977,7 +967,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "Головне сховище для openSUSE  Leap (джерельні пакунки)"
+msgstr "Головне сховище для openSUSE Leap (Джерельні пакунки)"
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
@@ -988,10 +978,8 @@ msgstr "Сховище для офіційних оновлень невільн
 
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Repository (OSS)"
 msgid "Non-OSS Repository"
-msgstr "Головне сховище (ВПЗ)"
+msgstr "Сховище Non-OSS"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
@@ -1005,12 +993,12 @@ msgid ""
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
 "Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
-"openSUSE  Leap 42.1, яке надає вам доступ до тисяч пакунків, що "
-"підтримуються командою openSUSE."
+"openSUSE Leap 42.1, яке надає вам доступ до тисяч пакунків, що підтримуються "
+"командою openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
-msgstr "Додаткове сховище openSUSE  Leap 42.1, яке містить ПЗ з закритим кодом"
+msgstr "Додаткове сховище openSUSE Leap 42.1, яке містить ПЗ з закритим кодом"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 msgid ""
@@ -1023,19 +1011,19 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr "Головне сховище для openSUSE  Leap 42.1 (джерельні пакунки)"
+msgstr "Головне сховище для openSUSE Leap 42.1 (Джерельні пакунки)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
-"Сховище для всіх джерельних пакунків в openSUSE  Leap 42.1. Тільки для "
+"Сховище для всіх джерельних пакунків в openSUSE Leap 42.1. Тільки для "
 "експертів."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
-msgstr "Головне сховище openSUSE  Leap 42.1, яке містить пакунки debuginfo"
+msgstr "Головне сховище openSUSE Leap 42.1, яке містить пакунки debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
@@ -1043,7 +1031,7 @@ msgid ""
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
 "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE Leap "
-"42.1. Тільки для знавців."
+"42.1. Тільки для експертів."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
@@ -1054,8 +1042,8 @@ msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
 msgstr ""
-"У цьому сховищі знаходяться латки безпеки і оновлення для  openSUSE Leap "
-"42.1."
+"У цьому сховищі знаходяться латки безпеки та оновлення для openSUSE Leap 42."
+"1."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
@@ -1077,12 +1065,12 @@ msgid ""
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
 "Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для "
-"openSUSE  Leap 42.2, яке надає вам доступ до тисяч пакунків, що "
-"підтримуються командою openSUSE."
+"openSUSE Leap 42.2, яке надає вам доступ до тисяч пакунків, що підтримуються "
+"командою openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
-msgstr "Додаткове сховище openSUSE  Leap 42.2, яке містить ПЗ з закритим кодом"
+msgstr "Додаткове сховище openSUSE Leap 42.2, яке містить ПЗ з закритим кодом"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
 msgid ""
@@ -1095,19 +1083,19 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr "Головне сховище для openSUSE  Leap 42.2 (джерельні пакунки)"
+msgstr "Головне сховище для openSUSE Leap 42.2 (джерельні пакунки)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
-"Сховище для всіх джерельних пакунків в openSUSE  Leap 42.2. Тільки для "
+"Сховище для всіх джерельних пакунків в openSUSE Leap 42.2. Тільки для "
 "експертів."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
-msgstr "Головне сховище openSUSE  Leap 42.2, яке містить пакунки debuginfo"
+msgstr "Головне сховище openSUSE Leap 42.2, яке містить пакунки debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
 msgid ""
@@ -1115,7 +1103,7 @@ msgid ""
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
 "Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE Leap "
-"42.2. Тільки для знавців."
+"42.2. Тільки для експертів."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
@@ -1126,8 +1114,8 @@ msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
 msgstr ""
-"У цьому сховищі знаходяться латки безпеки і оновлення для  openSUSE Leap "
-"42.2."
+"У цьому сховищі знаходяться латки безпеки та оновлення для openSUSE Leap 42."
+"2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
