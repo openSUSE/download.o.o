@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: YaST (@memory@)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2021-12-28 00:12+0000\n"
+"PO-Revision-Date: 2021-12-28 03:12+0000\n"
 "Last-Translator: andy great <andythe_great@pm.me>\n"
 "Language-Team: Thai <https://l10n.opensuse.org/projects/download-o-o/master/"
 "th/>\n"
@@ -42,7 +42,7 @@ msgid ""
 "software."
 msgstr ""
 "คลังแพกเกจของระบบ LXDE ในบริการสร้างแพกเกจของ openSUSE "
-"โดยได้จัดเตรียมระบบสภาพแวดล้อมของพื้นที่ทำงานแบบ XFCE และโปรแกรมต่าง ๆ "
+"โดยได้จัดเตรียมระบบสภาพแวดล้อมของพื้นที่ทำงานแบบ LX และโปรแกรมต่าง ๆ "
 "ในชุดของมันมาให้คุณได้เลือกใช้ ซึ่งเป็นรุ่นที่ยังไม่ได้รับการสนับสนุน "
 "แต่ว่าเป็นรุ่นที่ใหม่ล่าสุดของมัน"
 
@@ -50,28 +50,25 @@ msgstr ""
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:4
-#, fuzzy
 msgid "openSUSE BuildService - LibreOffice"
-msgstr "บริการสร้างแพกเกจของ openSUSE - โปรแกรมชุด OpenOffice.org"
+msgstr "บริการสร้างแพกเกจของ openSUSE - โปรแกรมชุด LibreOffice"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:5
-#, fuzzy
 msgid "Latest stable LibreOffice release"
-msgstr "โปรแกรมชุด OpenOffice.org รุ่นล่าสุด"
+msgstr "โปรแกรมชุด LibreOffice รุ่นเสถียร"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:6
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:6
-#, fuzzy
 msgid ""
 "Provides you with the latest stable version of LibreOffice, the Office suite "
 "that openSUSE uses."
 msgstr ""
-"จัดเตรียมโปรแกรมชุด OpenOffice.org รุ่นล่าสุดไว้ให้คุณเลือกใช้งาน, "
+"จัดเตรียมโปรแกรมชุด LibreOffice รุ่นล่าสุดไว้ให้คุณเลือกใช้งาน, "
 "โดยมันเป็นโปรแกรมชุดสำนักงานตัวหลักที่ openSUSE เลือกใช้"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:7
@@ -176,7 +173,7 @@ msgstr "บริการสร้างแพกเกจของ openSUSE - 
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:17
 msgid "Latest builds of Virtualbox"
-msgstr "แพกเกจที่ทำล่าสุดของ Virtualbox "
+msgstr "แพกเกจที่ทำล่าสุดของ Virtualbox"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:21
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:18
@@ -230,9 +227,8 @@ msgstr "ซอฟต์แวร์ด้านฐานข้อมูลที
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:22
-#, fuzzy
 msgid "openSUSE BuildService - KDE:Extra"
-msgstr "บริการสร้างแพกเกจของ openSUSE - ด้านฐานข้อมูล"
+msgstr "บริการสร้างแพกเกจของ openSUSE - KDE:Extra"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:26
@@ -275,7 +271,7 @@ msgstr "ปรับรุ่นของโปรแกรมแบบ GNOME �
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:31
 msgid "openSUSE BuildService - Mono:Community"
-msgstr "บริการสร้างแพกเกจของ openSUSE - โปรแกรมแบบ Mono จากชุมชน"
+msgstr "บริการสร้างแพกเกจของ openSUSE - Mono:Community"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:32
@@ -285,47 +281,42 @@ msgstr "คลังแพกเกจของชุมชนของโปร
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
-msgstr "ปรับรุ่นและทำการเพิ่มเติมโปรแกรมแบบ Mono"
+msgstr "อัพเดตและเพิ่มเติมสำหรับโปรแกรมเขียนด้วย Mono"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:28
-#, fuzzy
 msgid "openSUSE BuildService - devel:languages:perl"
-msgstr "บริการสร้างแพกเกจของ openSUSE - เกมส์"
+msgstr "บริการสร้างแพกเกจของ openSUSE - devel:languages:perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:29
-#, fuzzy
 msgid "Community repository for Perl modules"
-msgstr "คลังแพกเกจของชุมชน KDE"
+msgstr "คลังแพกเกจของชุมชนสำหรับ Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:39
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
-#, fuzzy
 msgid "Updates and Additions for Perl modules"
-msgstr "ปรับรุ่นและทำการเพิ่มเติมโปรแกรมแบบ Mono"
+msgstr "อัพเดตและเพิ่มเติมสำหรับโมดูล Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:31
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:31
-#, fuzzy
 msgid "openSUSE BuildService - devel:languages:python"
-msgstr "บริการสร้างแพกเกจของ openSUSE - เกมส์"
+msgstr "บริการสร้างแพกเกจของ openSUSE - devel:languages:python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
-#, fuzzy
 msgid "Community repository for Python modules"
-msgstr "คลังแพกเกจของชุมชน KDE"
+msgstr "คลังแพกเกจชุมชนสำหรับโมดูล Python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:39
