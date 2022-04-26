@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-29 12:34+0200\n"
-"PO-Revision-Date: 2022-04-26 14:12+0000\n"
+"PO-Revision-Date: 2022-04-26 18:12+0000\n"
 "Last-Translator: Bartłomiej Konecki <bartekkonecki97@gmail.com>\n"
 "Language-Team: Polish <https://l10n.opensuse.org/projects/download-o-o/"
 "master/pl/>\n"
@@ -792,10 +792,8 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Update Repository"
 msgid "Source Repository"
-msgstr "Główne repozytorium aktualizacji"
+msgstr "Repozytorium źródło"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
