@@ -8,27 +8,31 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-28 09:53+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-04-28 15:12+0000\n"
+"Last-Translator: Goran Šutilović <goran_sutilovic@sutotech.com>\n"
+"Language-Team: Slovenian <https://l10n.opensuse.org/projects/download-o-o/"
+"master/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:1
 msgid "openSUSE BuildService - LXDE"
-msgstr ""
+msgstr "openSUSE BuildService - LXDE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:2
 msgid "Latest LXDE release"
-msgstr ""
+msgstr "Najnovejša izdaja LXDE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:3
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:3
@@ -39,20 +43,22 @@ msgid ""
 "the unsupported but latest version of the LX desktop environment and "
 "software."
 msgstr ""
+"Repozitorij LXDE v storitvi za gradnjo openSUSE, ki vam nudi nepodprto, a "
+"najnovejšo različico okolja in programske opreme LX."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:4
 msgid "openSUSE BuildService - LibreOffice"
-msgstr ""
+msgstr "openSUSE BuildService - LibreOffice"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:5
 msgid "Latest stable LibreOffice release"
-msgstr ""
+msgstr "Najnovejša stabilna izdaja LibreOffice"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:6
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:6
@@ -62,20 +68,22 @@ msgid ""
 "Provides you with the latest stable version of LibreOffice, the Office suite "
 "that openSUSE uses."
 msgstr ""
+"Zagotavlja vam najnovejšo stabilno različico LibreOffice, zbirke Office, ki "
+"jo uporablja openSUSE."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:7
 msgid "openSUSE BuildService - Mozilla"
-msgstr ""
+msgstr "openSUSE BuildService - Mozilla"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:8
 msgid "Most recent builds of Mozilla Software like Firefox"
-msgstr ""
+msgstr "Najnovejše različice programske opreme Mozilla, kot je Firefox"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:9
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:9
@@ -85,20 +93,22 @@ msgid ""
 "Containing the latest releases of all Mozilla software, such as the popular "
 "Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
 msgstr ""
+"Vsebuje najnovejše izdaje vse programske opreme Mozilla, kot so priljubljeni "
+"Thunderbird (poštni odjemalec), Firefox in SeaMonkey (spletni brskalniki)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:10
 msgid "openSUSE BuildService - Wine CVS Builds"
-msgstr ""
+msgstr "openSUSE BuildService - Wine CVS Builds"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:11
 msgid "Snapshots of Wine CVS"
-msgstr ""
+msgstr "Posnetki Wine CVS"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:12
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:12
@@ -109,20 +119,23 @@ msgid ""
 "to run some Windows applications in openSUSE. This repository provides the "
 "latest CVS (development) snapshot packages of Wine."
 msgstr ""
+"Wine je odprtokodna implementacija Windows API-ja, zato vam omogoča zagon "
+"nekaterih aplikacij Windows v openSUSE. To skladišče ponuja najnovejše CVS "
+"(razvojne) pakete posnetkov Wine."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:13
 msgid "openSUSE BuildService - Games"
-msgstr ""
+msgstr "openSUSE BuildService - Igre"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:14
 msgid "A collection of action games"
-msgstr ""
+msgstr "Zbirka akcijskih iger"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:15
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:15
@@ -132,32 +145,34 @@ msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
 msgstr ""
+"Vsebuje več akcijskih iger, vključno z Open Arena (ustreli jih), Flight Gear "
+"(simulator letenja) in Torcs (3D dirkalni simulator)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
-msgstr ""
+msgstr "openSUSE BuildService - Gonilniki za spletne kamere"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
-msgstr ""
+msgstr "Najnovejši gonilniki za spletne kamere"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
-msgstr ""
+msgstr "Vsebuje najnovejše gonilnike za stotine različnih spletnih kamer."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:19
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:16
 msgid "openSUSE BuildService - Virtualization (VirtualBox)"
-msgstr ""
+msgstr "openSUSE BuildService - Virtualizacija (VirtualBox)"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:20
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:17
 msgid "Latest builds of Virtualbox"
-msgstr ""
+msgstr "Najnovejše različice Virtualboxa"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:21
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:18
@@ -167,36 +182,38 @@ msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
 msgstr ""
+"Zagotavlja najnovejše različice VirtualBoxa, splošnega odprtokodnega "
+"popolnega virtualizatorja za strojno opremo x86."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:19
 msgid "openSUSE BuildService - PHP"
-msgstr ""
+msgstr "openSUSE BuildService - PHP"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:20
 msgid "Latest updates for PHP software"
-msgstr ""
+msgstr "Najnovejše posodobitve programske opreme PHP"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:24
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:21
 msgid ""
 "Provides the latest packages and multiple-version builds of PHP software."
-msgstr ""
+msgstr "Zagotavlja najnovejše pakete in več različic programske opreme PHP."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:25
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:19
 msgid "openSUSE BuildService - Database"
-msgstr ""
+msgstr "openSUSE BuildService - Baza podatkov"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:26
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:20
 msgid "Latest updates for database software"
-msgstr ""
+msgstr "Najnovejše posodobitve za programsko opremo baze podatkov"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:27
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:24
@@ -204,20 +221,22 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
 msgstr ""
+"Najnovejše posodobitve za programsko opremo baze podatkov, vključno s "
+"Firebirdom in MySQL."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:22
 msgid "openSUSE BuildService - KDE:Extra"
-msgstr ""
+msgstr "openSUSE BuildService - KDE:Extra"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:23
 msgid "Community repository for KDE"
-msgstr ""
+msgstr "Skupnostni repozitorij za KDE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:27
@@ -226,13 +245,15 @@ msgstr ""
 msgid ""
 "Provides additional KDE software maintained by the openSUSE KDE community."
 msgstr ""
+"Zagotavlja dodatno programsko opremo KDE, ki jo vzdržuje skupnost openSUSE "
+"KDE."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:31
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:25
 msgid "openSUSE BuildService - GNOME:Apps"
-msgstr ""
+msgstr "openSUSE BuildService - GNOME:Apps"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:32
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:29
@@ -249,63 +270,65 @@ msgid ""
 "Updates to the GNOME software that is shipped with the distribution "
 "(backports)."
 msgstr ""
+"Posodobitve programske opreme GNOME, ki je priložena distribuciji "
+"(backports)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:31
 msgid "openSUSE BuildService - Mono:Community"
-msgstr ""
+msgstr "openSUSE BuildService - Mono:Skupnost"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:32
 msgid "Community repository for Mono applications"
-msgstr ""
+msgstr "Skupnostni repozitorij za aplikacije Mono"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
-msgstr ""
+msgstr "Posodobitve in dodatki aplikacij, napisanih v Mono."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:28
 msgid "openSUSE BuildService - devel:languages:perl"
-msgstr ""
+msgstr "openSUSE BuildService - devel:languages:perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:29
 msgid "Community repository for Perl modules"
-msgstr ""
+msgstr "Repozitorij skupnosti za module Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:39
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
-msgstr ""
+msgstr "Posodobitve in dodatki za module Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:31
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:31
 msgid "openSUSE BuildService - devel:languages:python"
-msgstr ""
+msgstr "openSUSE BuildService - devel:languages:python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
 msgid "Community repository for Python modules"
-msgstr ""
+msgstr "Repozitorij skupnosti za module Python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:39
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 msgid "Updates and Additions for Python modules"
-msgstr ""
+msgstr "Posodobitve in dodatki za module Python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:40
