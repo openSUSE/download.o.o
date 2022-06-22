@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!-- Main Repositories for openSUSE Leap 15.4
+     These are maintained by Ludwig Nussel <ludwig.nussel@suse.de> and Dominique Leuenberger <dimstar@suse.de> -->
+<metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
+    <group distversion="openSUSE Main Repository">
+        <repositories>
+            <repository recommended="true" format="rpm-md" alias="repo-oss">
+                <_name>Main Repository</_name>
+                <_summary>Main repository of openSUSE Leap including only Open Source Software</_summary>
+                <_description>The big Open Source Software (OSS) repository
+                for openSUSE Leap, giving you access to thousands of
+                packages maintained by the openSUSE community.
+                 </_description>
+                <url>http://download.opensuse.org/distribution/leap/$releasever/repo/oss/</url>
+            </repository>
+            <repository recommended="true" format="rpm-md" alias="repo-non-oss">
+                <_name>Non-OSS Repository</_name>
+                <_summary>Non-Open Source Software Addon repository for openSUSE Leap</_summary>
+                <_description>The official openSUSE Leap repository for all
+                Non-Open Source Software maintained by the openSUSE community,
+                including Opera, Steam and more.</_description>
+                <url>http://download.opensuse.org/distribution/leap/$releasever/repo/non-oss/</url>
+            </repository>
+            <repository recommended="false" format="rpm-md" alias="repo-source">
+                <_name>Source Repository</_name>
+                <_summary>Source packages for the main repository of openSUSE Leap</_summary>
+                <_description>The repository of all source packages in openSUSE Leap. For experts only.</_description>
+                <url>http://download.opensuse.org/source/distribution/leap/$releasever/repo/oss/</url>
+            </repository>
+            <repository recommended="false" format="rpm-md" alias="repo-debug">
+                <_name>Debug Repository</_name>
+                <_summary>Main repository of openSUSE Leap including the debuginfo packages</_summary>
+                <_description>This repository is useful for those that want to debug applications on openSUSE Leap. For experts only.</_description>
+                <url>http://download.opensuse.org/debug/distribution/leap/$releasever/repo/oss/</url>
+            </repository>
+            <repository recommended="true" format="rpm-md" alias="repo-update">
+                <_name>Main Update Repository</_name>
+                <_summary>Repository for official updates to openSUSE Leap</_summary>
+                <_description>In this repository you find security and maintenance updates to openSUSE Leap.</_description>
+                <url>http://download.opensuse.org/update/leap/$releasever/oss</url>
+            </repository>
+            <repository recommended="true" format="rpm-md" alias="repo-update-non-oss">
+                <_name>Update Repository (Non-Oss)</_name>
+                <_summary>Repository for official non free updates to openSUSE Leap</_summary>
+                <_description>In this repository you find security and maintenance updates to openSUSE Leap.</_description>
+                <url>http://download.opensuse.org/update/leap/$releasever/non-oss/</url>
+            </repository>
+            <repository recommended="false" format="rpm-md" alias="repo-debug-update">
+                <_name>Update Repository (Debug)</_name>
+                <_summary>Update repository of openSUSE Leap debuginfo packages</_summary>
+                <_description>This repository is useful for those that want to debug applications on openSUSE Leap. For experts only.</_description>
+                <url>http://download.opensuse.org/debug/update/leap/$releasever/oss</url>
+            </repository>
+            <repository recommended="true" format="rpm-md" alias="repo-sle-update">
+                <_name>Update repository with updates from SUSE Linux Enterprise 15</_name>
+                <_summary>Repository with SUSE Linux Enterprise updates for openSUSE Leap</_summary>
+                <_description>In this repository you find SUSE Linux Enterprise security and maintenance updates to openSUSE Leap.</_description>
+                <url>http://download.opensuse.org/update/leap/$releasever/sle/</url>
+            </repository>
+            <repository recommended="true" format="rpm-md" alias="repo-backports-update">
+                <_name>Update repository of openSUSE Backports</_name>
+                <_summary>Update repository with Backports updates for openSUSE Leap</_summary>
+                <_description>In this repository you find Backports security and maintenance updates for openSUSE Leap.</_description>
+                <url>http://download.opensuse.org/update/leap/$releasever/backports/</url>
+            </repository>
+            <repository recommended="false" format="rpm-md" alias="repo-backports-debug-update">
+                <_name>Update repository with Backports debuginfo package updates for openSUSE Leap</_name>
+                <_summary>Update repository of Backport debuginfo packages for openSUSE Leap.</_summary>
+                <_description>This repository contains Backport debuginfo packages and is useful for those that want to debug applications on openSUSE Leap. For experts only.</_description>
+                <url>http://download.opensuse.org/update/leap/$releasever/backports_debug/</url>
+            </repository>
+            <repository recommended="false" format="rpm-md" alias="repo-update-test">
+                <_name>Untested Updates</_name>
+                <_summary>Repository of not yet tested updates</_summary>
+                <_description>Repository contains security and maintenance updates that still need testing by quality assurance. Add this repository only if you want to participate in testing openSUSE updates.</_description>
+                <url>http://download.opensuse.org/update/leap/$releasever-test/</url>
+            </repository>
+        </repositories>
+    </group>
+</metapackage>
+<!-- vim:sw=4 et
+ -->
