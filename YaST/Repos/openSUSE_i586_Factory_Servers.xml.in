@@ -6,7 +6,7 @@
 
 	<!-- official openSUSE links -->
 	<item>
-	    <link>http://download.opensuse.org/YaST/Repos/_openSUSE_i586_Factory_Default.xml</link>
+	    <link>https://download.opensuse.org/YaST/Repos/_openSUSE_i586_Factory_Default.xml</link>
 	    <!-- to enable it during installation -->
 	    <installation_repo config:type="boolean">true</installation_repo>
 	    <official config:type="boolean">true</official>

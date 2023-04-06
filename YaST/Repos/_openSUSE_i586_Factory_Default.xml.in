@@ -15,7 +15,7 @@
 		or an enabled SWAP partition are highly recommended in case
 		you want to access this repository at installation time.)
 		 </_description>
-        <url>http://download.opensuse.org/ports/i586/tumbleweed/repo/oss/</url>
+        <url>https://download.opensuse.org/ports/i586/tumbleweed/repo/oss/</url>
       </repository>
       <repository recommended="true" format="yast">
         <_name>Main Repository (NON-OSS)</_name>
@@ -23,19 +23,19 @@
         <_description>The official openSUSE Tumbleweed repository for all
 		Non-Open Source Software maintained by the openSUSE team,
 		including Opera, Flash, and more.</_description>
-        <url>http://download.opensuse.org/ports/i586/tumbleweed/repo/non-oss/</url>
+        <url>https://download.opensuse.org/ports/i586/tumbleweed/repo/non-oss/</url>
       </repository>
       <repository recommended="false" format="yast">
         <_name>Main Repository (DEBUG)</_name>
         <_summary>Main repository of openSUSE Tumbleweed including the debuginfo packages</_summary>
         <_description>This repository is useful for those that want to debug applications on openSUSE Tumbleweed. For experts only.</_description>
-        <url>http://download.opensuse.org/ports/i586/debug/tumbleweed/repo/oss/</url>
+        <url>https://download.opensuse.org/ports/i586/debug/tumbleweed/repo/oss/</url>
       </repository>
       <repository recommended="true" format="rpm-md">
         <_name>Main Update Repository</_name>
         <_summary>Official update repository for Tumbleweed</_summary>
         <_description>This repository provides urgent updates until they get integrated into the main repositories.</_description>
-        <url>http://download.opensuse.org/ports/i586/update/tumbleweed/</url>
+        <url>https://download.opensuse.org/ports/i586/update/tumbleweed/</url>
       </repository>
     </repositories>
   </group>
