@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-29 12:34+0200\n"
+"POT-Creation-Date: 2023-04-06 17:27+0200\n"
 "PO-Revision-Date: 2017-06-15 12:31+0000\n"
 "Last-Translator: Andreas Saga Romsdal <trash@ehtele.com>\n"
 "Language-Team: Norwegian Bokmål <https://l10n.opensuse.org/projects/download-"
@@ -401,6 +401,7 @@ msgstr "Inneholder gammel KDE-versjon for nyere openSUSE-versjoner"
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
@@ -432,6 +433,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
@@ -484,6 +486,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
@@ -514,10 +517,15 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:13
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
@@ -540,9 +548,12 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
@@ -675,6 +686,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
@@ -686,6 +698,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
@@ -724,6 +737,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
 msgstr ""
@@ -734,6 +748,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:9
 msgid ""
 "This repository is useful for those that want to debug applications on "
@@ -746,6 +761,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
 msgid "Official update repository for Tumbleweed"
 msgstr "Offisiel pakkebrønn for Tumbleweed oppdateringer"
@@ -754,6 +770,7 @@ msgstr "Offisiel pakkebrønn for Tumbleweed oppdateringer"
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:12
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
@@ -765,8 +782,12 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:1
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
 #, fuzzy
 #| msgid "Main Repository (OSS)"
@@ -776,9 +797,13 @@ msgstr "Hovedpakkebrønn (OSS)"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:2
 msgid "Main repository of openSUSE Leap including only Open Source Software"
@@ -789,9 +814,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:3
 msgid ""
@@ -804,8 +833,12 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
 #, fuzzy
 #| msgid "Main Update Repository"
@@ -815,8 +848,12 @@ msgstr "Hovedpakkebrønn for oppdateringer"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
 #, fuzzy
 #| msgid "Non-Open Source Software Addon repository for openSUSE Leap"
@@ -827,9 +864,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:6
 msgid ""
@@ -841,8 +882,12 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
 #, fuzzy
 #| msgid "Main Update Repository"
@@ -852,9 +897,13 @@ msgstr "Hovedpakkebrønn for oppdateringer"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
@@ -865,9 +914,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:9
 msgid ""
@@ -880,9 +933,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:14
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:11
 msgid "Repository for official updates to openSUSE Leap"
@@ -891,9 +948,13 @@ msgstr "Pakkebrønn for offisielle oppdateringer til openSUSE Leap"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:15
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:12
 msgid ""
@@ -906,8 +967,12 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:18
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:18
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
 #, fuzzy
 #| msgid "Update Repository (DEBUG)"
@@ -917,9 +982,13 @@ msgstr "Oppdateringspakkebrønn (DEBUG)"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:19
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:14
 msgid "Update repository of openSUSE Leap debuginfo packages"
@@ -930,9 +999,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:29
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
@@ -943,9 +1016,13 @@ msgstr "Utestede oppdateringer"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:30
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
@@ -956,9 +1033,13 @@ msgstr "Pakkebrønn for oppdateringer som ikke er testet enda"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:31
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:31
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:31
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
@@ -972,32 +1053,33 @@ msgstr ""
 "ikke har blitt testet. Legg til denne kun hvis du ønsker å delta i testingen "
 "av openSUSE-oppdateringer."
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
-msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr ""
-"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE "
-"Tumbleweed"
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:4
+#, fuzzy
+#| msgid "Main Repository (OSS)"
+msgid "Non-OSS Repository"
+msgstr "Hovedpakkebrønn (OSS)"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
-msgid ""
-"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
-"maintained by the openSUSE team, including Opera, Flash, and more."
-msgstr ""
-"Den offisielle openSUSE Tumbleweed pakkebrønnen for all programvare uten "
-"åpen kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, "
-"Flash og mye mer."
-
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgstr ""
 "Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE Leap"
 
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
 msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
@@ -1007,26 +1089,132 @@ msgstr ""
 "kildekode som vedlikeholdes av openSUSE-samfunnet, blant annet Opera, Steam, "
 "Flash og mye mer."
 
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "Hovedpakkebrønn for openSUSE Leap (kildekodepakker)"
-
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap"
 msgstr ""
 "Pakkebrønn for offisielle oppdateringer for pakker uten åpen kildekode til "
 "openSUSE Leap"
 
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:20
+msgid "Update repository with updates from SUSE Linux Enterprise 15"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:21
 #, fuzzy
-#| msgid "Main Repository (OSS)"
-msgid "Non-OSS Repository"
-msgstr "Hovedpakkebrønn (OSS)"
+#| msgid "Repository for official updates to openSUSE Leap"
+msgid "Repository with SUSE Linux Enterprise updates for openSUSE Leap"
+msgstr "Pakkebrønn for offisielle oppdateringer til openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:22
+#, fuzzy
+#| msgid ""
+#| "In this repository you find security and maintenance updates to openSUSE "
+#| "Leap."
+msgid ""
+"In this repository you find SUSE Linux Enterprise security and maintenance "
+"updates to openSUSE Leap."
+msgstr ""
+"I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer til "
+"openSUSE Leap."
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:23
+#, fuzzy
+#| msgid "Update repository of openSUSE 13.1 debuginfo packages"
+msgid "Update repository of openSUSE Backports"
+msgstr ""
+"Oppdateringspakkebrønn for openSUSE 13.1 som inneholder pakker med "
+"feilsøkingsinformasjon"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:24
+#, fuzzy
+#| msgid "Repository for official updates to openSUSE Leap"
+msgid "Update repository with Backports updates for openSUSE Leap"
+msgstr "Pakkebrønn for offisielle oppdateringer til openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:25
+#, fuzzy
+#| msgid ""
+#| "In this repository you find security and maintenance updates to openSUSE "
+#| "Leap."
+msgid ""
+"In this repository you find Backports security and maintenance updates for "
+"openSUSE Leap."
+msgstr ""
+"I denne pakkebrønnen finner du sikkerhets- og vedlikeholdsoppdateringer til "
+"openSUSE Leap."
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:26
+#, fuzzy
+#| msgid "Repository for official updates to openSUSE Leap"
+msgid ""
+"Update repository with Backports debuginfo package updates for openSUSE Leap"
+msgstr "Pakkebrønn for offisielle oppdateringer til openSUSE Leap"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:27
+#, fuzzy
+#| msgid "Update repository of openSUSE Leap debuginfo packages"
+msgid "Update repository of Backport debuginfo packages for openSUSE Leap."
+msgstr ""
+"Oppdateringspakkebrønn for openSUSE Leap som inneholder pakker med "
+"feilsøkingsinformasjon"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:28
+#, fuzzy
+#| msgid ""
+#| "This repository is useful for those that want to debug applications on "
+#| "openSUSE Leap. For experts only."
+msgid ""
+"This repository contains Backport debuginfo packages and is useful for those "
+"that want to debug applications on openSUSE Leap. For experts only."
+msgstr ""
+"Denne pakkebrønnen er nyttig hvis du vil feilsøke programmer i openSUSE "
+"Leap. Kun for avanserte brukere."
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:5
+msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
+msgstr ""
+"Tilleggspakkebrønn med programvare uten åpen kildekode for openSUSE "
+"Tumbleweed"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:6
+msgid ""
+"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Flash, and more."
+msgstr ""
+"Den offisielle openSUSE Tumbleweed pakkebrønnen for all programvare uten "
+"åpen kildekode som vedlikeholdes av openSUSE-gruppen, blant annet Opera, "
+"Flash og mye mer."
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
+msgid "Main repository of openSUSE Leap (Source packages)"
+msgstr "Hovedpakkebrønn for openSUSE Leap (kildekodepakker)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""

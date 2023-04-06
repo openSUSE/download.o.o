@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-29 12:34+0200\n"
+"POT-Creation-Date: 2023-04-06 17:27+0200\n"
 "PO-Revision-Date: 2018-11-10 05:01+0000\n"
 "Last-Translator: Marguerite Su <i@marguerite.su>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/download-"
@@ -146,8 +146,8 @@ msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
 msgstr ""
-"涵盖一些动作游戏，诸如 Open Arena（射击），Flight Gear（飞行模拟器）和 "
-"Torcs（3D 赛车模拟器）。"
+"涵盖一些动作游戏，诸如 Open Arena（射击），Flight Gear（飞行模拟器）和 Torcs"
+"（3D 赛车模拟器）。"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
@@ -395,6 +395,7 @@ msgstr "提供针对新版 openSUSE 的旧版 KDE"
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
@@ -422,6 +423,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
@@ -470,6 +472,7 @@ msgstr "openSUSE 13.1 全部源代码包的软件源。仅供专家使用。"
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
@@ -497,10 +500,15 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:13
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
@@ -521,9 +529,12 @@ msgstr "在此软件源中，您可找到 openSUSE 13.1 的安全和维护更新
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
@@ -635,6 +646,7 @@ msgstr "openSUSE 13.2 调试信息包的主更新源"
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
@@ -644,6 +656,7 @@ msgstr "openSUSE Tumbleweed 主软件源，仅包含开源软件"
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
@@ -678,6 +691,7 @@ msgstr "openSUSE Tumbleweed 全部源代码包的软件源。仅供专家使用�
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
 msgstr "openSUSE Tumbleweed 主软件源包含调试信息包"
@@ -686,6 +700,7 @@ msgstr "openSUSE Tumbleweed 主软件源包含调试信息包"
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:9
 msgid ""
 "This repository is useful for those that want to debug applications on "
@@ -697,6 +712,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
 msgid "Official update repository for Tumbleweed"
 msgstr "Tumbleweed 官方更新源"
@@ -705,6 +721,7 @@ msgstr "Tumbleweed 官方更新源"
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:12
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
@@ -714,8 +731,12 @@ msgstr "此软件源提供了紧急更新，这些更新稍后会整合进主源
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:1
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
 msgid "Main Repository"
 msgstr "主软件源"
@@ -723,9 +744,13 @@ msgstr "主软件源"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:2
 msgid "Main repository of openSUSE Leap including only Open Source Software"
@@ -734,9 +759,13 @@ msgstr "openSUSE Leap 主软件源，仅包含开源软件"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:3
 msgid ""
@@ -748,8 +777,12 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
 msgid "Source Repository"
 msgstr "源代码软件源"
@@ -757,8 +790,12 @@ msgstr "源代码软件源"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
 msgid "Source packages for the main repository of openSUSE Leap"
 msgstr "openSUSE Leap 主软件源的源代码软件包"
@@ -766,9 +803,13 @@ msgstr "openSUSE Leap 主软件源的源代码软件包"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:6
 msgid ""
@@ -778,8 +819,12 @@ msgstr "openSUSE Leap 全部源代码包的软件源。仅供专家使用。"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
 msgid "Debug Repository"
 msgstr "调试软件源"
@@ -787,9 +832,13 @@ msgstr "调试软件源"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
@@ -798,9 +847,13 @@ msgstr "openSUSE Leap 主软件源包含调试信息包"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:9
 msgid ""
@@ -812,9 +865,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:14
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:11
 msgid "Repository for official updates to openSUSE Leap"
@@ -823,9 +880,13 @@ msgstr "openSUSE Leap 官方更新源"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:15
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:12
 msgid ""
@@ -836,8 +897,12 @@ msgstr "在此软件源中您可找到 openSUSE Leap 的安全和维护更新。
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:18
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:18
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
 msgid "Update Repository (Debug)"
 msgstr "更新源（调试）"
@@ -845,9 +910,13 @@ msgstr "更新源（调试）"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:19
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:14
 msgid "Update repository of openSUSE Leap debuginfo packages"
@@ -856,9 +925,13 @@ msgstr "openSUSE Leap 调试信息包更新源"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:29
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
@@ -869,9 +942,13 @@ msgstr "未测试的更新"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:30
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
@@ -882,9 +959,13 @@ msgstr "尚未测试的更新的软件源"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:31
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:31
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:31
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
@@ -897,28 +978,30 @@ msgstr ""
 "涵盖仍需要经品质保证小组测试的安全性和维护更新的软件源。只有您想要参与测试 "
 "openSUSE 更新时才可以添加此软件源。"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
-msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr "openSUSE Tumbleweed 非开源软件附加源"
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:4
+msgid "Non-OSS Repository"
+msgstr "非开源软件源"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
-msgid ""
-"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
-"maintained by the openSUSE team, including Opera, Flash, and more."
-msgstr ""
-"openSUSE Tumbleweed 全部非开源软件的官方源，由 openSUSE 团队维护，包括 "
-"Opera、Flash 等。"
-
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgstr "openSUSE Leap 非开源软件附加源"
 
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
 msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
@@ -927,22 +1010,118 @@ msgstr ""
 "openSUSE Leap 全部非开源软件的官方源，由 openSUSE 社区维护，包括 Opera、"
 "Steam 等。"
 
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
-msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr "openSUSE Leap 主软件源（源代码）"
-
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap"
 msgstr "openSUSE Leap 官方非开源软件更新源"
 
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
-msgid "Non-OSS Repository"
-msgstr "非开源软件源"
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:20
+msgid "Update repository with updates from SUSE Linux Enterprise 15"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:21
+#, fuzzy
+#| msgid "Repository for official updates to openSUSE Leap"
+msgid "Repository with SUSE Linux Enterprise updates for openSUSE Leap"
+msgstr "openSUSE Leap 官方更新源"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:22
+#, fuzzy
+#| msgid ""
+#| "In this repository you find security and maintenance updates to openSUSE "
+#| "Leap."
+msgid ""
+"In this repository you find SUSE Linux Enterprise security and maintenance "
+"updates to openSUSE Leap."
+msgstr "在此软件源中您可找到 openSUSE Leap 的安全和维护更新。"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:23
+#, fuzzy
+#| msgid "Update repository of openSUSE 13.1 debuginfo packages"
+msgid "Update repository of openSUSE Backports"
+msgstr "openSUSE 13.1 调试信息包的主升级源"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:24
+#, fuzzy
+#| msgid "Repository for official updates to openSUSE Leap"
+msgid "Update repository with Backports updates for openSUSE Leap"
+msgstr "openSUSE Leap 官方更新源"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:25
+#, fuzzy
+#| msgid ""
+#| "In this repository you find security and maintenance updates to openSUSE "
+#| "Leap."
+msgid ""
+"In this repository you find Backports security and maintenance updates for "
+"openSUSE Leap."
+msgstr "在此软件源中您可找到 openSUSE Leap 的安全和维护更新。"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:26
+#, fuzzy
+#| msgid "Repository for official updates to openSUSE Leap"
+msgid ""
+"Update repository with Backports debuginfo package updates for openSUSE Leap"
+msgstr "openSUSE Leap 官方更新源"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:27
+#, fuzzy
+#| msgid "Update repository of openSUSE Leap debuginfo packages"
+msgid "Update repository of Backport debuginfo packages for openSUSE Leap."
+msgstr "openSUSE Leap 调试信息包更新源"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:28
+#, fuzzy
+#| msgid ""
+#| "This repository is useful for those that want to debug applications on "
+#| "openSUSE Leap. For experts only."
+msgid ""
+"This repository contains Backport debuginfo packages and is useful for those "
+"that want to debug applications on openSUSE Leap. For experts only."
+msgstr ""
+"本软件源只对那些想要在 openSUSE Leap 中调试程序的人有用。仅供专家使用。"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:5
+msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
+msgstr "openSUSE Tumbleweed 非开源软件附加源"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:6
+msgid ""
+"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Flash, and more."
+msgstr ""
+"openSUSE Tumbleweed 全部非开源软件的官方源，由 openSUSE 团队维护，包括 "
+"Opera、Flash 等。"
+
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
+msgid "Main repository of openSUSE Leap (Source packages)"
+msgstr "openSUSE Leap 主软件源（源代码）"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""

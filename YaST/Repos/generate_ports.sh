@@ -2,7 +2,7 @@
 # Basically copy files from x86_64 and make changes as in https://github.com/yast/skelcd-control-openSUSE/blob/master/package/skelcd-control-openSUSE.spec
 # TODO: handle non-OSS repo removal automatically
 
-additionnal_archs="aarch64 armv7hl armv6hl ppc"
+additionnal_archs="i586 aarch64 armv7hl armv6hl ppc"
 leap_versions="15.3"
 
 for ports_arch in $additionnal_archs; do
