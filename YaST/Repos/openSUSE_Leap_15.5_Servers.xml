@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productDefines xmlns:config="http://www.suse.com/1.0/configns" xmlns="http://www.suse.com/1.0/yast2ns">
+    <servers config:type="list">
+
+	
+	<item>
+	    <link>https://download.opensuse.org/YaST/Repos/_openSUSE_Leap_15.5_Default.xml</link>
+	    
+	    <installation_repo config:type="boolean">true</installation_repo>
+	    <official config:type="boolean">true</official>
+	</item>
+
+	
+	<item>
+	    <link>https://www.opensuse-community.org/openSUSE_Leap_155_Community_Additional.xml</link>
+	    <official config:type="boolean">false</official>
+        </item>
+    </servers>
+</productDefines>
