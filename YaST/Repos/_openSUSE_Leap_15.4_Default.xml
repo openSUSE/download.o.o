@@ -20,7 +20,9 @@
                 <name xml:lang="id">Repositori Utama</name>
                 <name xml:lang="it">Repository principale</name>
                 <name xml:lang="ja">メインリポジトリ</name>
+                <name xml:lang="ka">მთავარი რეპოზიტორია</name>
                 <name xml:lang="lt">Pagrindinė saugykla</name>
+                <name xml:lang="mk">Главно складиште</name>
                 <name xml:lang="nl">Hoofd-opslagruimte</name>
                 <name xml:lang="pl">Repozytorium główne</name>
                 <name xml:lang="pt">Repositório Principal</name>
@@ -112,6 +114,7 @@
                 <name xml:lang="id">Repositori Non-OSS</name>
                 <name xml:lang="it">Repository Non-OSS</name>
                 <name xml:lang="ja">非オープンソースリポジトリ</name>
+                <name xml:lang="ka">არა-ღია-წყაროს მქონე პაკეტების რეპოზიტორია</name>
                 <name xml:lang="lt">Uždaro kodo programinės įrangos saugykla</name>
                 <name xml:lang="nl">Non-OSS opslagruimte</name>
                 <name xml:lang="pl">Repozytorium oprogramowania własnościowego (Non-OSS)</name>
@@ -166,7 +169,7 @@
                 <description xml:lang="fa">مخازن رسمی openSUSE Leap برای تمامی نرم افزار های غیر متن-باز که توسط تیم openSUSE نگه داری میشود، شامل مرورگر اوپرا، استیم و ... است.</description>
                 <description xml:lang="fi">Virallinen openSUSE Leapin asennuslähde kaikille ei-avoimen lähdekoodin ohjelmille kuten Operalle, Steamille jne. Sitä ylläpitää openSUSE-yhteisö.</description>
                 <description xml:lang="fr">Le dépôt officiel d'openSUSE Leap pour les logiciels non libre maintenus par la communauté openSUSE, comme Opera, Steam et plus encore.</description>
-                <description xml:lang="gl">O repositorio oficial de openSUSE Leap  para todo o software que non é de código aberto mantido pola comunidade de openSUSE, incluíndo Opera, Steam e máis.</description>
+                <description xml:lang="gl">O repositorio oficial de openSUSE Leap para todo o software que non é de código aberto mantido pola comunidade de openSUSE, incluíndo Opera, Steam e máis.</description>
                 <description xml:lang="hi">ओपनSUSE समुदाय द्वारा अनुरक्षित सभी अमुक्त स्रोत सॉफ्टवेयर का आधिकारिक ओपनSUSE लीप पैकेज-संग्रह जिसमें ओपेरा, जावा, फ़्लैश इत्यादि सम्मिलित हैं।</description>
                 <description xml:lang="id">Repositori openSUSE Leap resmi untuk semua Perangkat Lunak Bukan Sumber Terbuka yang dikelola oleh komunitas openSUSE, berisi Opera, Steam, dan lainnya.</description>
                 <description xml:lang="it">Il repository ufficiale di openSUSE Leap per tutti i programmi non open source mantenuti dalla comunità openSUSE, inclusi Opera, Steam e altro.</description>
@@ -205,6 +208,7 @@
                 <name xml:lang="it">Repository dei sorgenti</name>
                 <name xml:lang="ja">ソースリポジトリ</name>
                 <name xml:lang="lt">Programinės įrangos pirminio teksto saugykla</name>
+                <name xml:lang="mk">Изворно Складиште</name>
                 <name xml:lang="nl">Opslagruimte van broncode</name>
                 <name xml:lang="pl">Repozytorium źródło</name>
                 <name xml:lang="pt">Repositório de Fontes</name>
@@ -254,7 +258,7 @@
                 <description xml:lang="el">Το αποθετήριο με όλα τα πηγαία πακέτα στο openSUSE Leap. Μόνο για προχωρημένους.</description>
                 <description xml:lang="es">El repositorio con todos los paquetes de código fuente en openSUSE Leap. Sólo para expertos.</description>
                 <description xml:lang="et">Kõigi lähtekoodipakettide hoidla OpenSUSE Leapis. Ainult ekspertidele.</description>
-                <description xml:lang="fa">مخازن شامل تمامی بسته های منبع  کد برای openSUSE Leap. فقط برای افراد متخصص است.</description>
+                <description xml:lang="fa">مخازن شامل تمامی بسته های منبع کد برای openSUSE Leap. فقط برای افراد متخصص است.</description>
                 <description xml:lang="fi">openSUSE Leapin kaikkien lähdekoodipakettien asennuslähde. Vain asiantuntijoille.</description>
                 <description xml:lang="fr">Le dépôt de tous les paquets source d'openSUSE Leap. Pour experts seulement.</description>
                 <description xml:lang="gl">O repositorio de todos os paquetes de fontes de openSUSE Leap. Só para expertos.</description>
@@ -492,6 +496,7 @@
                 <name xml:lang="id">Repositori Pembaruan (Non-Oss)</name>
                 <name xml:lang="it">Repository degli aggiornamenti (Non-Oss)</name>
                 <name xml:lang="ja">更新リポジトリ (非オープンソース)</name>
+                <name xml:lang="ka">განახლების რეპოზიტორია (არა-ღია-წყაროს მქონეები)</name>
                 <name xml:lang="lt">Atnaujinimų saugykla (uždaro kodo)</name>
                 <name xml:lang="nb">Oppdateringspakkebrønn (ikke åpen kildekode)</name>
                 <name xml:lang="nl">Opslagruimte voor bijwerken (niet-Oss)</name>
@@ -587,6 +592,7 @@
                 <name xml:lang="id">Repositori Pembaruan (Awakutu)</name>
                 <name xml:lang="it">Repository degli aggiornamenti (Debug)</name>
                 <name xml:lang="ja">更新リポジトリ (デバッグ)</name>
+                <name xml:lang="ka">განახლების რეპოზიტორია (გამართვა)</name>
                 <name xml:lang="lt">Atnaujinimų saugykla (Derinimui)</name>
                 <name xml:lang="nl">Opslagruimte voor bijwerken (Debug)</name>
                 <name xml:lang="pl">Repozytorium aktualizacji (Debug)</name>
@@ -698,6 +704,7 @@
                 <name xml:lang="it">Aggiornamenti non verificati</name>
                 <name xml:lang="ja">テスト中の更新のリポジトリ</name>
                 <name xml:lang="lt">Neišbandyti atnaujinimai</name>
+                <name xml:lang="mk">Непроверени ажурирања</name>
                 <name xml:lang="nb">Utestede oppdateringer</name>
                 <name xml:lang="nl">Niet geteste elementen voor bijwerken</name>
                 <name xml:lang="pl">Niesprawdzone aktualizacje</name>
@@ -728,6 +735,7 @@
                 <summary xml:lang="it">Repository degli aggiornamenti non ancora verificati</summary>
                 <summary xml:lang="ja">まだテストが完了していない更新のリポジトリ</summary>
                 <summary xml:lang="lt">Dar neišbandytų atnaujinimų saugykla</summary>
+                <summary xml:lang="mk">Складишта од непроверени ажурирања</summary>
                 <summary xml:lang="nb">Pakkebrønn for oppdateringer som ikke er testet enda</summary>
                 <summary xml:lang="nl">Opslagruimte met nog niet geteste elementen voor bijwerken</summary>
                 <summary xml:lang="pl">Repozytorium aktualizacji niesprawdzonych</summary>

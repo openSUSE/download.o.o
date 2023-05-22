@@ -2,7 +2,7 @@
 # Basically copy files from x86_64 and make changes as in https://github.com/yast/skelcd-control-openSUSE/blob/master/package/skelcd-control-openSUSE.spec
 # TODO: handle non-OSS repo removal automatically
 
-additionnal_archs="aarch64 armv7hl armv6hl ppc"
+additionnal_archs="i586 aarch64 armv7hl armv6hl ppc"
 leap_versions="15.3"
 
 for ports_arch in $additionnal_archs; do
@@ -17,10 +17,10 @@ for ports_arch in $additionnal_archs; do
 	output_file="_openSUSE_"$ports_arch"_Factory_Default.xml.in"
 	echo "  Generating $output_file"
 	cp $file $output_file
-	sed -i -e "s,http://download.opensuse.org/tumbleweed/,http://download.opensuse.org/ports/$ports_arch/tumbleweed/," $output_file
-	sed -i -e "s,http://download.opensuse.org/debug/,http://download.opensuse.org/ports/$ports_arch/debug/," $output_file
-	sed -i -e "s,http://download.opensuse.org/source/,http://download.opensuse.org/ports/$ports_arch/source/," $output_file
-	sed -i -e "s,http://download.opensuse.org/update/tumbleweed/,http://download.opensuse.org/ports/$ports_arch/update/tumbleweed/," $output_file
+	sed -i -e "s,https://download.opensuse.org/tumbleweed/,https://download.opensuse.org/ports/$ports_arch/tumbleweed/," $output_file
+	sed -i -e "s,https://download.opensuse.org/debug/,https://download.opensuse.org/ports/$ports_arch/debug/," $output_file
+	sed -i -e "s,https://download.opensuse.org/source/,https://download.opensuse.org/ports/$ports_arch/source/," $output_file
+	sed -i -e "s,https://download.opensuse.org/update/tumbleweed/,https://download.opensuse.org/ports/$ports_arch/update/tumbleweed/," $output_file
 	
 	for leap in $leap_versions; do
 		# Leap ports should've armv7 remained only

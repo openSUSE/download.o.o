@@ -6,7 +6,7 @@
 
 	<!-- official openSUSE links -->
 	<item>
-	    <link>https://download.opensuse.org/YaST/Repos/_openSUSE_ppc_Factory_Default.xml</link>
+	    <link>https://download.opensuse.org/YaST/Repos/_openSUSE_i586_Factory_Default.xml</link>
 	    <!-- to enable it during installation -->
 	    <installation_repo config:type="boolean">true</installation_repo>
 	    <official config:type="boolean">true</official>
@@ -14,7 +14,7 @@
 
 
 	<item>
-	    <link>https://opensuse-community.org/openSUSE_ppc_Tumbleweed_Community_Additional.xml</link>
+	    <link>https://opensuse-community.org/openSUSE_i586_Tumbleweed_Community_Additional.xml</link>
 	    <official config:type="boolean">false</official>
         </item>
 

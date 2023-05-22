@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: community-repositories.hr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-29 12:34+0200\n"
+"POT-Creation-Date: 2023-04-06 17:27+0200\n"
 "PO-Revision-Date: 2011-04-04 18:34+0200\n"
 "Last-Translator: Krešimir Jozić <kjozic@gmail.com>\n"
 "Language-Team: Croatian <kde-i18n-doc@kde.org>\n"
@@ -12,8 +12,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Lokalize 1.0\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
@@ -383,6 +383,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:1
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:1
@@ -408,6 +409,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:4
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
@@ -455,6 +457,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:10
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:10
@@ -484,10 +487,15 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:10
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:13
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:13
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:13
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:13
@@ -509,9 +517,12 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:16
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
@@ -632,6 +643,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:2
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:2
 #, fuzzy
 msgid ""
@@ -642,6 +654,7 @@ msgstr "Glavni repozitorij za openSUSE 11.2 uključujući samo otvorene programe
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:3
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE, giving you "
@@ -674,6 +687,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:11
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
 #, fuzzy
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
@@ -685,6 +699,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:12
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:9
 msgid ""
 "This repository is useful for those that want to debug applications on "
@@ -695,6 +710,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:14
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
 msgid "Official update repository for Tumbleweed"
 msgstr ""
@@ -703,6 +719,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv7hl_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:15
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:12
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
@@ -712,8 +729,12 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:1
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:1
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:1
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
 #, fuzzy
 #| msgid "Main Repository (OSS)"
@@ -723,9 +744,13 @@ msgstr "Glavni repozitorij (OSS)"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:2
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:2
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:2
 #, fuzzy
@@ -735,9 +760,13 @@ msgstr "Glavni repozitorij za openSUSE 11.2 uključujući samo otvorene programe
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:3
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:3
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:3
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:3
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:3
 msgid ""
@@ -748,8 +777,12 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:7
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
 #, fuzzy
 #| msgid "Main Update Repository"
@@ -759,8 +792,12 @@ msgstr "Glavni repozitorij za dogradnju"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:8
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
 msgid "Source packages for the main repository of openSUSE Leap"
 msgstr ""
@@ -768,9 +805,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:9
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:9
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:6
 #, fuzzy
@@ -781,8 +822,12 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:7
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:10
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:10
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
 #, fuzzy
 #| msgid "Main Update Repository"
@@ -792,9 +837,13 @@ msgstr "Glavni repozitorij za dogradnju"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:8
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:11
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:8
 #, fuzzy
@@ -806,9 +855,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:9
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:9
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:12
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:12
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:9
 #, fuzzy
@@ -820,9 +873,13 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:11
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:14
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:14
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:11
 #, fuzzy
@@ -832,9 +889,13 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:12
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:15
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:12
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:15
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:15
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:12
 #, fuzzy
@@ -846,8 +907,12 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:13
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:18
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:18
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:18
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
 #, fuzzy
 #| msgid "Update Repository (DEBUG)"
@@ -857,9 +922,13 @@ msgstr "Glavni repozitorij (DEBUG)"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:14
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:19
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:19
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:14
 #, fuzzy
@@ -871,9 +940,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:15
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:29
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:15
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:29
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
@@ -884,9 +957,13 @@ msgstr ""
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:16
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:30
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:30
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
@@ -898,9 +975,13 @@ msgstr "Repozitorij za službene dogradnje na 11.1"
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:31
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.4_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:31
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:31
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:22
@@ -911,30 +992,132 @@ msgid ""
 "testing openSUSE updates."
 msgstr ""
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
-msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr ""
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:4
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:4
+#, fuzzy
+#| msgid "Main Repository (OSS)"
+msgid "Non-OSS Repository"
+msgstr "Glavni repozitorij (OSS)"
 
-#: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
-msgid ""
-"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
-"maintained by the openSUSE team, including Opera, Flash, and more."
-msgstr ""
-
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:5
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
 msgstr ""
 
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:6
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:6
 msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
+msgstr ""
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:17
+#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
+#, fuzzy
+msgid "Repository for official non free updates to openSUSE Leap"
+msgstr "Repozitorij za službene dogradnje na 11.1"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:20
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:20
+msgid "Update repository with updates from SUSE Linux Enterprise 15"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:21
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:21
+#, fuzzy
+msgid "Repository with SUSE Linux Enterprise updates for openSUSE Leap"
+msgstr "Repozitorij za službene dogradnje na 11.1"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:22
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:22
+#, fuzzy
+msgid ""
+"In this repository you find SUSE Linux Enterprise security and maintenance "
+"updates to openSUSE Leap."
+msgstr "Repozitorij za službene dogradnje na 11.1"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:23
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:23
+#, fuzzy
+msgid "Update repository of openSUSE Backports"
+msgstr ""
+"Glavni repozitorij za openSUSE 11.4 uključujući i pakete s informacijama za "
+"otklanjanje pogrešaka"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:24
+#, fuzzy
+msgid "Update repository with Backports updates for openSUSE Leap"
+msgstr "Repozitorij za službene dogradnje na 11.1"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:25
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:25
+#, fuzzy
+msgid ""
+"In this repository you find Backports security and maintenance updates for "
+"openSUSE Leap."
+msgstr "Repozitorij za službene dogradnje na 11.1"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:26
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:26
+#, fuzzy
+msgid ""
+"Update repository with Backports debuginfo package updates for openSUSE Leap"
+msgstr "Repozitorij za službene dogradnje na 11.1"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:27
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:27
+#, fuzzy
+msgid "Update repository of Backport debuginfo packages for openSUSE Leap."
+msgstr ""
+"Glavni repozitorij za openSUSE 11.4 uključujući i pakete s informacijama za "
+"otklanjanje pogrešaka"
+
+#: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:28
+#: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:28
+#, fuzzy
+msgid ""
+"This repository contains Backport debuginfo packages and is useful for those "
+"that want to debug applications on openSUSE Leap. For experts only."
+msgstr "Repozitorij za službene dogradnje na 11.1"
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:5
+msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
+msgstr ""
+
+#: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
+#: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:6
+msgid ""
+"The official openSUSE Tumbleweed repository for all Non-Open Source Software "
+"maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
@@ -942,21 +1125,6 @@ msgstr ""
 #, fuzzy
 msgid "Main repository of openSUSE Leap (Source packages)"
 msgstr "Glavni repozitorij za openSUSE 11.2 (paketi s izvornim kodom)"
-
-#: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:17
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:17
-#: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
-#, fuzzy
-msgid "Repository for official non free updates to openSUSE Leap"
-msgstr "Repozitorij za službene dogradnje na 11.1"
-
-#: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
-#: YaST/Repos/_openSUSE_Leap_15.2_Default.xml.in:4
-#, fuzzy
-#| msgid "Main Repository (OSS)"
-msgid "Non-OSS Repository"
-msgstr "Glavni repozitorij (OSS)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 #, fuzzy

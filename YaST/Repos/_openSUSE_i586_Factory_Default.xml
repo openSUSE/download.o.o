@@ -104,7 +104,7 @@
         <description xml:lang="uk">Це велике сховище програмного забезпечення з відкритим кодом (ВПЗ) для openSUSE, яке надає вам доступ до тисяч пакунків, які підтримуються командою openSUSE. (Через те, що сховище має величезний розмір, його додавання може тривати довго. Рекомендовано мати 512 МБ операційної пам'яті або розділ свопінгу, якщо ви хочете мати доступ до сховища під час встановлення системи.)</description>
         <description xml:lang="zh_CN">庞大的 openSUSE 开源软件源，提供由 openSUSE 团队维护的数千个软件包。（由于软件源容量太大，添加它可能要花费点时间。若想要在系统安装时访问该源，强烈建议有 512MB 内存或启用硬盘交换分区。）</description>
         <description xml:lang="zh_TW">openSUSE 巨大的開放原始碼軟體 (OSS) 套件庫，提供了數千個由 openSUSE 團隊維護的套件讓您取用。(由於這個套件庫非常大，要加入它會花上一些時間。如果您要在安裝時存取此套件庫，強烈建議至少 512 MB 的記憶體或可用的 SWAP 分割區。)</description>
-        <url>http://download.opensuse.org/tumbleweed/repo/oss/</url>
+        <url>http://download.opensuse.org/ports/i586/tumbleweed/repo/oss/</url>
       </repository>
       <repository recommended="true" format="yast">
         <name>Main Repository (NON-OSS)</name>
@@ -208,109 +208,7 @@
         <description xml:lang="uk">Офіційне сховище openSUSE Tumbleweed для всіх програм із закритим кодом, які підтримуються командою openSUSE: Opera, Flash та інших.</description>
         <description xml:lang="zh_CN">openSUSE Tumbleweed 全部非开源软件的官方源，由 openSUSE 团队维护，包括 Opera、Flash 等。</description>
         <description xml:lang="zh_TW">由 openSUSE 團隊維護之非開放原始碼軟體的官方 openSUSE Tumbleweed 套件庫，包含了 Opera, Flash 以及其他更多軟體。</description>
-        <url>http://download.opensuse.org/tumbleweed/repo/non-oss/</url>
-      </repository>
-      <repository recommended="false" format="yast">
-        <name>Main Repository (Sources)</name>
-        <name xml:lang="ar">المستودع الرئيسي (المصادر)</name>
-        <name xml:lang="ast">Repositoriu principal (Fontes)</name>
-        <name xml:lang="ca">Repositori principal (Fonts)</name>
-        <name xml:lang="cs">Hlavní repozitář (zdroje)</name>
-        <name xml:lang="da">Hovedsoftwarekilde (kildekoder)</name>
-        <name xml:lang="de">Haupt-Repository (Quellen)</name>
-        <name xml:lang="el">Κύριο Αποθετήριο (Πηγές)</name>
-        <name xml:lang="es">Repositorio principal (fuentes)</name>
-        <name xml:lang="et">Üldine hoidla (lähtekoodid)</name>
-        <name xml:lang="fa">مخازن اصلی (منابع)</name>
-        <name xml:lang="fi">Pääasennuslähde (lähdekoodit)</name>
-        <name xml:lang="fr">Dépôt principal (Sources)</name>
-        <name xml:lang="gl">Repositorio principal (Fontes)</name>
-        <name xml:lang="hi">मुख्य पैकेज-संग्रह (स्रोत)</name>
-        <name xml:lang="hr">Glavni repozitorij (programski kod)</name>
-        <name xml:lang="hu">Elsődleges telepítési forrás (források)</name>
-        <name xml:lang="id">Repositori Utama (Sumber)</name>
-        <name xml:lang="it">Repository principale (Sorgenti)</name>
-        <name xml:lang="ja">メインリポジトリ (ソース)</name>
-        <name xml:lang="km">ឃ្លាំង​ចម្បង (ប្រភព)</name>
-        <name xml:lang="ko">주 저장소 (소스)</name>
-        <name xml:lang="lt">Pagrindinė saugykla (šaltiniai)</name>
-        <name xml:lang="nb">Hovedpakkebrønn (kildekode)</name>
-        <name xml:lang="nl">Hoofd-opslagruimte (broncode)</name>
-        <name xml:lang="pa">ਮੁੱਖ ਰਿਪੋਜ਼ਟਰੀ (ਸਰੋਤ)</name>
-        <name xml:lang="pl">Repozytorium główne (pakiety źródłowe)</name>
-        <name xml:lang="pt">Repositório Principal (Fontes)</name>
-        <name xml:lang="pt_BR">Repositório principal (fontes)</name>
-        <name xml:lang="ro">Sursă de instalare principală (cod sursă)</name>
-        <name xml:lang="ru">Основной репозиторий (Исходные коды)</name>
-        <name xml:lang="sk">Hlavný repozitár (Zdrojové kódy)</name>
-        <name xml:lang="sv">Huvudförråd (källkod)</name>
-        <name xml:lang="th">คลังแพกเกจหลัก (ต้นฉบับ)</name>
-        <name xml:lang="tr">Ana Depo (Kaynaklar)</name>
-        <name xml:lang="uk">Головне сховище (джерела)</name>
-        <name xml:lang="wa">Mwaisse depot (Sourdants)</name>
-        <name xml:lang="zh_CN">主软件源（源代码）</name>
-        <name xml:lang="zh_TW">主要套件庫 (原始碼)</name>
-        <summary>Main repository of openSUSE Tumbleweed (Source packages)</summary>
-        <summary xml:lang="ar">مستودع أوبن سوزي Tumbleweed الرئيسي (حزم المصدر)</summary>
-        <summary xml:lang="ca">Repositori principal d'openSUSE Tumbleweed (Paquets de codi font)</summary>
-        <summary xml:lang="cs">Hlavní repozitář openSUSE Tumbleweed (zdrojové balíčky)</summary>
-        <summary xml:lang="da">Hovedsoftwarekilden for openSUSE Tumbleweed (kildekode-pakker)</summary>
-        <summary xml:lang="de">Hauptverzeichnis von openSUSE Tumbleweed ( Quellpakete )</summary>
-        <summary xml:lang="el">Κύριο Αποθετήριο του openSUSE Tumbleweed (Πηγαία Πακέτα)</summary>
-        <summary xml:lang="es">Repositorio principal de openSUSE Tumbleweed (código fuente)</summary>
-        <summary xml:lang="et">OpenSUSE Tumbleweed peahoidla (lähtekoodipaketid)</summary>
-        <summary xml:lang="fa">مخازن اصلی openSUSE Tumbleweed (بسته های source)</summary>
-        <summary xml:lang="fi">openSUSE Tumbleweed -jakelun perusasennuslähde (lähdekoodipaketit)</summary>
-        <summary xml:lang="fr">Dépôt principal d'openSUSE Tumbleweed (Paquets Sources)</summary>
-        <summary xml:lang="gl">Repositorio principal de openSUSE Tumbleweed (Paquetes de fontes)</summary>
-        <summary xml:lang="hi">ओपनSUSE टम्बलवीड का मुख्य पैकेज-संग्रह (स्रोत पैकेज)</summary>
-        <summary xml:lang="id">Repositori utama openSUSE Tumbleweed (Paket-paket Sumber)</summary>
-        <summary xml:lang="it">Repository principale di openSUSE Tumbleweed (Pacchetti sorgente)</summary>
-        <summary xml:lang="ja">openSUSE Tumbleweed のメインリポジトリ (ソースパッケージ)</summary>
-        <summary xml:lang="lt">openSUSE Tumbleweed pagrindinė saugykla (šaltinių paketai)</summary>
-        <summary xml:lang="nb">Hovedpakkebrønn for openSUSE Tumbleweed (kildekodepakker)</summary>
-        <summary xml:lang="nl">Hoofd-opslagruimte van openSUSE Tumbleweed (broncodepakketten)</summary>
-        <summary xml:lang="pl">Główne repozytorium openSUSE Tumbleweed (Pakiety źródłowe)</summary>
-        <summary xml:lang="pt">Repositório principal do openSUSE Tumbleweed (Pacotes das fontes)</summary>
-        <summary xml:lang="pt_BR">Repositório principal do openSUSE Tumbleweed (pacotes fonte)</summary>
-        <summary xml:lang="ru">Основной репозиторий openSUSE Tumbleweed (Пакеты с исходным кодом)</summary>
-        <summary xml:lang="sk">Hlavný repozitár openSUSE Tumbleweed (Zdrojové balíky)</summary>
-        <summary xml:lang="sv">Huvudförråd för openSUSE Tumbleweed (källkodspaket)</summary>
-        <summary xml:lang="tr">openSUSE Tumbleweed'in ana deposu (Kaynak paketler)</summary>
-        <summary xml:lang="uk">Головне сховище для openSUSE Tumbleweed (Джерельні пакунки)</summary>
-        <summary xml:lang="zh_CN">openSUSE Tumbleweed 主软件源（源代码）</summary>
-        <summary xml:lang="zh_TW">openSUSE Tumbleweed 的主要套件庫(原始碼套件)</summary>
-        <description>The repository of all source packages in openSUSE Tumbleweed. For experts only.</description>
-        <description xml:lang="ar">مستودع جميع حزم المصدر في أوبن سوزي Tumbleweed. للخبراء فقط.</description>
-        <description xml:lang="ca">El repositori de tots els paquets de codi font a l'openSUSE Tumbleweed. Només per a experts.</description>
-        <description xml:lang="cs">Repozitář všech zdrojových balíčků z openSUSE Tumbleweedu. Pouze pro zkušené uživatele.</description>
-        <description xml:lang="da">Softwarekilden for alle kildekode-pakker i openSUSE Tumbleweed. Kun for eksperter.</description>
-        <description xml:lang="de">Das Repository aller Quelltext-Pakete in openSUSE Tumbleweed. Nur für Experten.</description>
-        <description xml:lang="el">Το αποθετήριο για όλα τα πηγαιά πακέτα στο openSUSE Tumbleweed. Μόνο για προχωρημένους.</description>
-        <description xml:lang="es">El repositorio de todo el código fuente en openSUSE Tumbleweed. Solo para expertos.</description>
-        <description xml:lang="et">Kõigi lähtekoodipakettide hoidla OpenSUSE Tumbleweedis. Ainult ekspertidele.</description>
-        <description xml:lang="fa">مخازن شامل تمامی بسته های منبع کد برای openSUSE Tumbleweed. فقط برای افراد متخصص است.</description>
-        <description xml:lang="fi">Asennuslähde kaikille openSUSE Tumbleweed -jakelun lähdekoodipaketeille. Vain asiantuntijoille.</description>
-        <description xml:lang="fr">Le dépôt de tous les paquets source d'openSUSE Tumbleweed. Pour experts seulement.</description>
-        <description xml:lang="gl">O repositorio de todos os paquetes de fontes de openSUSE Tumbleweed. Só para expertos.</description>
-        <description xml:lang="hi">ओपनSUSE टम्बलवीड1 हेतु सभी स्रोत पैकेज का मुख्य पैकेज-संग्रह। केवल विशेषज्ञ उपयोक्ताओं हेतु।</description>
-        <description xml:lang="id">Repositori dari semua paket sumber di openSUSE Tumbleweed. Untuk pengguna ahli saja.</description>
-        <description xml:lang="it">Il repository di tutti i pacchetti dei sorgenti di openSUSE Tumbleweed. Solo per esperti.</description>
-        <description xml:lang="ja">openSUSE Tumbleweed の全てのソースパッケージを含むリポジトリ。熟練者向けです。</description>
-        <description xml:lang="lt">Visų openSUSE Tumbleweed šaltinių paketų saugykla. Tik ekspertams.</description>
-        <description xml:lang="nb">Pakkebrønn for alle kildekodepakker for openSUSE Tumbleweed. Bare for avanserte brukere.</description>
-        <description xml:lang="nl">De opslagruimte van alle broncodepakketten voor openSUSE Tumbleweed. Alleen voor ervaren gebruikers.</description>
-        <description xml:lang="pl">Repozytorium zawiera wszystkie pakiety źródłowe systemu openSUSE Tumbleweed. Tylko dla ekspertów.</description>
-        <description xml:lang="pt">O repositório de todas as fontes dos pacotes do openSUSE Tumbleweed. Para especialistas apenas.</description>
-        <description xml:lang="pt_BR">Repositório de todos os pacotes fonte no openSUSE Tumbleweed. Somente para usuários avançados.</description>
-        <description xml:lang="ru">Репозиторий со всеми пакетами с исходным кодом в openSUSE Tumbleweed. Только для экспертов.</description>
-        <description xml:lang="sk">Repozitár všetkých zdrojových balíkov v openSUSE Tumbleweed. Iba pre expertov.</description>
-        <description xml:lang="sv">Förrådet med alla källkodspaket i openSUSE Tumbleweed. För experter.</description>
-        <description xml:lang="tr">openSUSE Tumbleweed içindeki tüm kaynak paketler'in deposu. Sadece uzmanlar için.</description>
-        <description xml:lang="uk">Сховище для всіх джерельних пакунків у openSUSE Tumbleweed. Тільки для експертів.</description>
-        <description xml:lang="zh_CN">openSUSE Tumbleweed 全部源代码包的软件源。仅供专家使用。</description>
-        <description xml:lang="zh_TW">openSUSE Tumbleweed 所有原始碼套件的套件庫。僅提供專家使用。</description>
-        <url>http://download.opensuse.org/source/tumbleweed/repo/oss/</url>
+        <url>http://download.opensuse.org/ports/i586/tumbleweed/repo/non-oss/</url>
       </repository>
       <repository recommended="false" format="yast">
         <name>Main Repository (DEBUG)</name>
@@ -413,7 +311,7 @@
         <description xml:lang="uk">Це сховище придатне для тих, хто хоче зневаджувати програми на openSUSE Tumbleweed. Тільки для експертів.</description>
         <description xml:lang="zh_CN">本软件源只对那些想要在 openSUSE Tumbleweed 中调试程序的人有用。仅供专家使用。</description>
         <description xml:lang="zh_TW">這個套件庫對想要在 openSUSE Tumbleweed 偵錯應用程式非常有用。僅提供專家使用。</description>
-        <url>http://download.opensuse.org/debug/tumbleweed/repo/oss/</url>
+        <url>http://download.opensuse.org/ports/i586/debug/tumbleweed/repo/oss/</url>
       </repository>
       <repository recommended="true" format="rpm-md">
         <name>Main Update Repository</name>
@@ -515,7 +413,7 @@
         <description xml:lang="uk">Це сховище надає термінові оновлення до того, поки вони інтегруються в основні сховища.</description>
         <description xml:lang="zh_CN">此软件源提供了紧急更新，这些更新稍后会整合进主源。</description>
         <description xml:lang="zh_TW">這個套件庫提供急迫性高的更新，直到被整合進主要套件庫為止。</description>
-        <url>http://download.opensuse.org/update/tumbleweed/</url>
+        <url>http://download.opensuse.org/ports/i586/update/tumbleweed/</url>
       </repository>
     </repositories>
   </group>
