@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-06 17:27+0200\n"
-"PO-Revision-Date: 2022-04-06 23:12+0000\n"
+"PO-Revision-Date: 2023-05-27 23:14+0000\n"
 "Last-Translator: Jan Papež <honyczek@centrum.cz>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/download-o-o/master/"
 "cs/>\n"
@@ -1075,88 +1075,71 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:20
 msgid "Update repository with updates from SUSE Linux Enterprise 15"
-msgstr ""
+msgstr "Aktualizační repozitář s aktualizacemi ze SUSE Linux Enterprise 15"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:21
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid "Repository with SUSE Linux Enterprise updates for openSUSE Leap"
-msgstr "Repozitář s oficiálními aktualizacemi openSUSE Leap"
+msgstr "Repozitář s aktualizacemi ze SUSE Linux Enterprise pro openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:22
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap."
 msgid ""
 "In this repository you find SUSE Linux Enterprise security and maintenance "
 "updates to openSUSE Leap."
 msgstr ""
-"V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE Leap."
+"V tomto repozitáři naleznete bezpečnostní a údržbové aktualizace ze SUSE "
+"Linux Enterprise pro openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:23
-#, fuzzy
-#| msgid "Update repository of openSUSE 13.1 debuginfo packages"
 msgid "Update repository of openSUSE Backports"
-msgstr "Repozitář aktualizací debuginfo balíčků openSUSE 13.1"
+msgstr "Aktualizační repozitář s backporty pro openSUSE"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:24
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid "Update repository with Backports updates for openSUSE Leap"
-msgstr "Repozitář s oficiálními aktualizacemi openSUSE Leap"
+msgstr "Aktualizační repozitář s backportovými aktualizacemi pro openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:25
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap."
 msgid ""
 "In this repository you find Backports security and maintenance updates for "
 "openSUSE Leap."
 msgstr ""
-"V tomto repozitáři naleznete bezpečnostní aktualizace pro openSUSE Leap."
+"V tomto repozitáři naleznete backportové bezpečnostní a údržbové aktualizace "
+"pro openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:26
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid ""
 "Update repository with Backports debuginfo package updates for openSUSE Leap"
-msgstr "Repozitář s oficiálními aktualizacemi openSUSE Leap"
+msgstr ""
+"Aktualizační repozitář s aktualizacemi backportových debuginfo balíčků pro "
+"openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:27
-#, fuzzy
-#| msgid "Update repository of openSUSE Leap debuginfo packages"
 msgid "Update repository of Backport debuginfo packages for openSUSE Leap."
-msgstr "Repozitář s aktualizacemi openSUSE Leap obsahující balíčky debuginfo"
+msgstr ""
+"Aktualizační repozitář pro backportové debuginfo balíčky pro openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:28
-#, fuzzy
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE Leap. For experts only."
 msgid ""
 "This repository contains Backport debuginfo packages and is useful for those "
 "that want to debug applications on openSUSE Leap. For experts only."
 msgstr ""
-"Tento repozitář je užitečný pro všechny, kteří chtějí ladit aplikace pro "
-"openSUSE Leap. Pouze pro zkušené uživatele."
+"Tento repozitář obsahuje backportové debuginfo balíčky a je užitečný pro ty, "
+"kdo chtějí ladit aplikace na openSUSE Leapu. Pouze pro zkušené uživatele."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:5
