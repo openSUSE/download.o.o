@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Indonesian (download.o.o)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-06 17:27+0200\n"
-"PO-Revision-Date: 2019-03-14 18:08+0000\n"
+"PO-Revision-Date: 2023-05-31 16:14+0000\n"
 "Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/id/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -145,15 +145,15 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
-msgstr "openSUSE BuildService - Driver-driver untuk webcam"
+msgstr "openSUSE BuildService - Penggerak untuk kamera web"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
-msgstr "Driver terbaru untuk webcam"
+msgstr "Penggerak terbaru untuk kamera web"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
-msgstr "Berisi driver-driver terbaru untuk ratusan webcam yang berbeda."
+msgstr "Berisi penggerak terbaru untuk ratusan kamera web yang berbeda."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:19
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:16
@@ -188,7 +188,7 @@ msgstr "openSUSE BuildService - PHP"
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:20
 msgid "Latest updates for PHP software"
-msgstr "Pembaruan terkini untuk perangkat lunak PHP"
+msgstr "Pemutakhiran terkini untuk perangkat lunak PHP"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:24
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:21
@@ -210,7 +210,7 @@ msgstr "openSUSE BuildService - Basis Data"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:20
 msgid "Latest updates for database software"
-msgstr "Pembaruan terkini untuk perangkat lunak basis data"
+msgstr "Pemutakhiran terkini untuk perangkat lunak basis data"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:27
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:24
@@ -218,7 +218,7 @@ msgstr "Pembaruan terkini untuk perangkat lunak basis data"
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
 msgstr ""
-"Pembaruan terkini untuk perangkat lunak basis data seperti Firebird dan "
+"Pemutakhiran terkini untuk perangkat lunak basis data seperti Firebird dan "
 "MySQL."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:28
@@ -267,7 +267,7 @@ msgid ""
 "Updates to the GNOME software that is shipped with the distribution "
 "(backports)."
 msgstr ""
-"Pembaruan dari perangkat lunak GNOME yang telah disertakan bersama "
+"Pemutakhiran dari perangkat lunak GNOME yang telah disertakan bersama "
 "distribusi (backports)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:34
@@ -283,7 +283,7 @@ msgstr "Repositori komunitas untuk aplikasi-aplikasi Mono"
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
-msgstr "Pembaruan dan aplikasi tambahan yang ditulis dengan Mono."
+msgstr "Pemutakhiran dan aplikasi tambahan yang ditulis dengan Mono."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:34
@@ -304,7 +304,7 @@ msgstr "Repositori komunitas untuk modul-modul Perl"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
-msgstr "Pembaruan dan Tambahan untuk modul-modul Perl"
+msgstr "Pemutakhiran dan Tambahan untuk modul-modul Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:37
@@ -325,7 +325,7 @@ msgstr "Repositori komunitas untuk modul-modul Python"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 msgid "Updates and Additions for Python modules"
-msgstr "Pembaruan dan Tambahan untuk modul-modul Python"
+msgstr "Pemutakhiran dan Tambahan untuk modul-modul Python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:40
@@ -353,7 +353,7 @@ msgstr "Alat sistem berkas dan paket-paket yang berkaitan dengan FUSE."
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:37
 msgid "openSUSE BuildService - Education"
-msgstr "openSUSE BuildService - Education"
+msgstr "openSUSE BuildService - Edukasi"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:47
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:44
@@ -382,7 +382,7 @@ msgstr "openSUSE BuildService - KDE:KDE3"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:44
 msgid "Maintained KDE 3 packages"
-msgstr "Mempertahankan paket-paket KDE 3"
+msgstr "Paket KDE 3 yang dipertahankan"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:51
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:51
@@ -489,7 +489,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:7
 msgid "Main Repository (DEBUG)"
-msgstr "Repositori Utama (DEBUG)"
+msgstr "Repositori Utama (AWAKUTU)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
@@ -526,19 +526,19 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:10
 msgid "Main Update Repository"
-msgstr "Repositori Pembaruan Utama"
+msgstr "Repositori Pemutakhiran Utama"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
-msgstr "Repositori pembaruan resmi untuk 13.1"
+msgstr "Repositori pemutakhiran resmi untuk 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.1."
 msgstr ""
-"Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan "
-"untuk openSUSE 13.1."
+"Di dalam repositori ini Anda menemukan pemutakhiran keamanan dan "
+"pemeliharaan untuk openSUSE 13.1."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
@@ -552,11 +552,11 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
-msgstr "Repositori Pembaruan (Non-Oss)"
+msgstr "Repositori Pemutakhiran (Non-Oss)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
-msgstr "Repositori pembaruan resmi perangkat lunak tidak bebas untuk 13.1"
+msgstr "Repositori pemutakhiran resmi perangkat lunak tidak bebas untuk 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
@@ -565,11 +565,11 @@ msgstr "Repositori pembaruan resmi perangkat lunak tidak bebas untuk 13.1"
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
-msgstr "Repositori Pembaruan (DEBUG)"
+msgstr "Repositori Pemutakhiran (AWAKUTU)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:19
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
-msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE 13.1"
+msgstr "Repositori pemutakhiran untuk paket-paket debuginfo di openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:46
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:40
@@ -648,23 +648,23 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
-msgstr "Repositori untuk pembaruan resmi 13.2"
+msgstr "Repositori untuk pemutakhiran resmi 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.2."
 msgstr ""
-"Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan "
-"untuk openSUSE 13.2."
+"Di dalam repositori ini Anda menemukan pemutakhiran keamanan dan "
+"pemeliharaan untuk openSUSE 13.2."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
-msgstr "Repositori pembaruan resmi perangkat lunak tidak bebas untuk 13.2"
+msgstr "Repositori pemutakhiran resmi perangkat lunak tidak bebas untuk 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
-msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE 13.2"
+msgstr "Repositori pemutakhiran untuk paket-paket debuginfo di openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
@@ -746,7 +746,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
 msgid "Official update repository for Tumbleweed"
-msgstr "Repositori pembaruan resmi untuk Tumbleweed"
+msgstr "Repositori pemutakhiran resmi untuk Tumbleweed"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
@@ -758,8 +758,8 @@ msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
 msgstr ""
-"Repositori ini menyediakan pembaruan penting sampai mereka terintegrasi ke "
-"dalam repositori utama."
+"Repositori ini menyediakan pemutakhiran penting sampai mereka terintegrasi "
+"ke dalam repositori utama."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:1
@@ -914,7 +914,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:11
 msgid "Repository for official updates to openSUSE Leap"
-msgstr "Repositori pembaruan resmi untuk openSUSE Leap"
+msgstr "Repositori pemutakhiran resmi untuk openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:12
@@ -932,8 +932,8 @@ msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
 msgstr ""
-"Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan "
-"untuk openSUSE Leap."
+"Di dalam repositori ini Anda menemukan pemutakhiran keamanan dan "
+"pemeliharaan untuk openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
@@ -946,7 +946,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:18
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
 msgid "Update Repository (Debug)"
-msgstr "Repositori Pembaruan (Awakutu)"
+msgstr "Repositori Pemutakhiran (Awakutu)"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
@@ -961,7 +961,7 @@ msgstr "Repositori Pembaruan (Awakutu)"
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:14
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE Leap"
+msgstr "Repositori pemutakhiran untuk paket-paket debuginfo di openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:15
@@ -978,7 +978,7 @@ msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE Leap"
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:15
 msgid "Untested Updates"
-msgstr "Pembaruan Belum Teruji"
+msgstr "Pemutakhiran Belum Teruji"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:16
@@ -1016,9 +1016,9 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
-"Repositori ini berisi pembaruan keamanan dan pemeliharaan yang masih "
+"Repositori ini berisi pemutakhiran keamanan dan pemeliharaan yang masih "
 "memerlukan pengujian oleh jaminan kualitas. Tambahkan repositori ini hanya "
-"jika Anda ingin berpartisipasi dalam pengujian pembaruan openSUSE."
+"jika Anda ingin berpartisipasi dalam pengujian pemutakhiran openSUSE."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
@@ -1063,96 +1063,79 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap"
 msgstr ""
-"Repositori pembaruan resmi perangkat lunak tidak bebas untuk openSUSE Leap"
+"Repositori pemutakhiran resmi perangkat lunak tidak bebas untuk openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:20
 msgid "Update repository with updates from SUSE Linux Enterprise 15"
 msgstr ""
+"Repositori pemutakhiran dengan pemutakhiran dari SUSE Linux Enterprise 15"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:21
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid "Repository with SUSE Linux Enterprise updates for openSUSE Leap"
-msgstr "Repositori pembaruan resmi untuk openSUSE Leap"
+msgstr ""
+"Repositori dengan pemutakhiran SUSE Linux Enterprise untuk openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:22
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap."
 msgid ""
 "In this repository you find SUSE Linux Enterprise security and maintenance "
 "updates to openSUSE Leap."
 msgstr ""
-"Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan "
-"untuk openSUSE Leap."
+"Di dalam repositori ini Anda menemukan pemutakhiran keamanan dan "
+"pemeliharaan SUSE Linux Enterprise untuk openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:23
-#, fuzzy
-#| msgid "Update repository of openSUSE 13.1 debuginfo packages"
 msgid "Update repository of openSUSE Backports"
-msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE 13.1"
+msgstr "Repositori pemutakhiran Backports openSUSE"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:24
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid "Update repository with Backports updates for openSUSE Leap"
-msgstr "Repositori pembaruan resmi untuk openSUSE Leap"
+msgstr ""
+"Repositori pemutakhiran dengan pemutakhiran Backports untuk openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:25
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap."
 msgid ""
 "In this repository you find Backports security and maintenance updates for "
 "openSUSE Leap."
 msgstr ""
-"Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan "
-"untuk openSUSE Leap."
+"Di dalam repositori ini Anda menemukan pemutakhiran keamanan dan "
+"pemeliharaan Backports untuk openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:26
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid ""
 "Update repository with Backports debuginfo package updates for openSUSE Leap"
-msgstr "Repositori pembaruan resmi untuk openSUSE Leap"
+msgstr ""
+"Repositori pemutakhiran dengan pemutakhiran paket debuginfo Backports untuk "
+"openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:27
-#, fuzzy
-#| msgid "Update repository of openSUSE Leap debuginfo packages"
 msgid "Update repository of Backport debuginfo packages for openSUSE Leap."
-msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE Leap"
+msgstr "Mutakhirkan repositori paket debuginfo Backport untuk openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:28
-#, fuzzy
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE Leap. For experts only."
 msgid ""
 "This repository contains Backport debuginfo packages and is useful for those "
 "that want to debug applications on openSUSE Leap. For experts only."
 msgstr ""
-"Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap "
-"aplikasi pada openSUSE Leap. Untuk pengguna ahli saja."
+"Repositori ini berisi paket debuginfo Backport dan berguna bagi mereka yang "
+"ingin mengawakutu aplikasi di openSUSE Leap. Hanya untuk para ahli."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:5
@@ -1234,25 +1217,26 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
-msgstr "Repositori pembaruan resmi untuk openSUSE Leap 42.1"
+msgstr "Repositori pemutakhiran resmi untuk openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
 msgstr ""
-"Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan "
-"untuk openSUSE Leap 42.1."
+"Di dalam repositori ini Anda menemukan pemutakhiran keamanan dan "
+"pemeliharaan untuk openSUSE Leap 42.1."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr ""
-"Repositori pembaruan resmi perangkat lunak tidak bebas untuk openSUSE Leap "
-"42.1"
+"Repositori pemutakhiran resmi perangkat lunak tidak bebas untuk openSUSE "
+"Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
-msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE Leap 42.1"
+msgstr ""
+"Repositori pemutakhiran untuk paket-paket debuginfo di openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 msgid ""
@@ -1312,25 +1296,26 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr "Repositori pembaruan resmi untuk openSUSE Leap 42.2"
+msgstr "Repositori pemutakhiran resmi untuk openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
 msgstr ""
-"Di dalam repositori ini Anda menemukan pembaruan keamanan dan pemeliharaan "
-"untuk openSUSE Leap 42.2."
+"Di dalam repositori ini Anda menemukan pemutakhiran keamanan dan "
+"pemeliharaan untuk openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
 msgstr ""
-"Repositori pembaruan resmi perangkat lunak tidak bebas untuk openSUSE Leap "
-"42.2"
+"Repositori pemutakhiran resmi perangkat lunak tidak bebas untuk openSUSE "
+"Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
-msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE Leap 42.2"
+msgstr ""
+"Repositori pemutakhiran untuk paket-paket debuginfo di openSUSE Leap 42.2"
 
 #, fuzzy
 #~| msgid ""
