@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-06 17:27+0200\n"
-"PO-Revision-Date: 2022-10-28 22:13+0000\n"
-"Last-Translator: Mohammad Rezaei Seresht <securesage@aol.com>\n"
+"PO-Revision-Date: 2023-10-18 12:28+0000\n"
+"Last-Translator: Mohammad Rezaei Seresht <m.networking@gmail.com>\n"
 "Language-Team: Persian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/fa/>\n"
 "Language: fa\n"
@@ -1052,37 +1052,29 @@ msgstr "مخازن رسمی بروز رسانی برای نرم افزارهای
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:20
 msgid "Update repository with updates from SUSE Linux Enterprise 15"
-msgstr ""
+msgstr "به روز رسانی مخزن با به روزرسانی هایی از SUSE Linux Enterprise 15"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:21
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid "Repository with SUSE Linux Enterprise updates for openSUSE Leap"
-msgstr "مخازن رسمی بروزرسانی برای openSUSE Leap"
+msgstr "مخزن با بروزرسانی هایی از SUSE Linux Enterprise برای openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:22
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap."
 msgid ""
 "In this repository you find SUSE Linux Enterprise security and maintenance "
 "updates to openSUSE Leap."
 msgstr ""
-"در این مخزن شما بسته های امنیتی و نگه داری بروزرسانی برای openSUSE Leap را "
-"پیدا خواهید کرد."
+"در این مخزن شما بسته های امنیتی و نگه داری بروزرسانی SUSE Linux Enterprise "
+"برای openSUSE Leap را پیدا خواهید کرد."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:23
-#, fuzzy
-#| msgid "Update repository of openSUSE 13.1 debuginfo packages"
 msgid "Update repository of openSUSE Backports"
-msgstr "مخازن بروزرسانی برای بسته های debuginfo در openSUSE 13.1"
+msgstr "به روزرسانی مخزن openSUSE Backport"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
