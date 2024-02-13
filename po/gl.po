@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: community-repositories.po\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-06 17:27+0200\n"
-"PO-Revision-Date: 2023-03-16 20:14+0000\n"
+"PO-Revision-Date: 2024-02-13 16:42+0000\n"
 "Last-Translator: Manuel Vazquez <xixirei@yahoo.es>\n"
 "Language-Team: Galician <https://l10n.opensuse.org/projects/download-o-o/"
 "master/gl/>\n"
@@ -38,7 +38,7 @@ msgstr "openSUSE BuildService - LXDE"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:2
 msgid "Latest LXDE release"
-msgstr "Última versión de LXDE"
+msgstr "Versión máis recente de LXDE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:3
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:3
@@ -1096,89 +1096,75 @@ msgstr "Repositorio de actualizacións oficiais para openSUSE Leap"
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:20
 msgid "Update repository with updates from SUSE Linux Enterprise 15"
 msgstr ""
+"Repositorio de actualizacións con actualizacións de SUSE Linux Enterprise 15"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:21
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid "Repository with SUSE Linux Enterprise updates for openSUSE Leap"
-msgstr "Repositorio de actualizacións oficiais para openSUSE Leap"
+msgstr ""
+"Repositorio de actualizacións con SUSE Linux Entreprise para openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:22
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap."
 msgid ""
 "In this repository you find SUSE Linux Enterprise security and maintenance "
 "updates to openSUSE Leap."
 msgstr ""
-"Neste repositorio poderá atopar actualizacións de seguridade e mantemento "
-"para openSUSE Leap."
+"Neste repositorio poderá atopar actualizacións SUSE Linux Enterprise de "
+"seguridade e mantemento para openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:23
-#, fuzzy
-#| msgid "Update repository of openSUSE 13.1 debuginfo packages"
 msgid "Update repository of openSUSE Backports"
-msgstr "Repositorio de actualización de openSUSE 13.1 paquetes debuginfo"
+msgstr "Repositorio de actualización de openSUSE Backports"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:24
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid "Update repository with Backports updates for openSUSE Leap"
-msgstr "Repositorio de actualizacións oficiais para openSUSE Leap"
+msgstr ""
+"Repositorio de actualizacións, con actualizacións Backports para openSUSE "
+"Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:25
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap."
 msgid ""
 "In this repository you find Backports security and maintenance updates for "
 "openSUSE Leap."
 msgstr ""
-"Neste repositorio poderá atopar actualizacións de seguridade e mantemento "
-"para openSUSE Leap."
+"Neste repositorio poderá atopar actualizacións Backports de seguridade e "
+"mantemento para openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:26
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid ""
 "Update repository with Backports debuginfo package updates for openSUSE Leap"
-msgstr "Repositorio de actualizacións oficiais para openSUSE Leap"
+msgstr ""
+"Repositorio de actualizacións, con actualizacións de Backports de paquetes "
+"debuginfo para openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:27
-#, fuzzy
-#| msgid "Update repository of openSUSE Leap debuginfo packages"
 msgid "Update repository of Backport debuginfo packages for openSUSE Leap."
-msgstr "Repositorio de actualización de openSUSE Leap paquetes debuginfo"
+msgstr ""
+"Repositorio de actualización Backports de paquetes debuginfo para openSUSE "
+"Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:28
-#, fuzzy
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE Leap. For experts only."
 msgid ""
 "This repository contains Backport debuginfo packages and is useful for those "
 "that want to debug applications on openSUSE Leap. For experts only."
 msgstr ""
-"Este repositorio é útil para aqueles que desexan depurar aplicativos de "
-"openSUSE Leap. Só para expertos."
+"Este repositorio contén paquetes debuginfo Backport e é útil para aqueles "
+"que desexan depurar aplicativos de openSUSE Leap. Só para expertos."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:5
