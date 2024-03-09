@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: community-repositories\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-06 17:27+0200\n"
-"PO-Revision-Date: 2019-03-14 18:08+0000\n"
+"PO-Revision-Date: 2024-03-09 22:42+0000\n"
 "Last-Translator: Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>\n"
 "Language-Team: Lithuanian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/lt/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > "
 "19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? "
 "1 : 2);\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -123,7 +123,7 @@ msgid ""
 "to run some Windows applications in openSUSE. This repository provides the "
 "latest CVS (development) snapshot packages of Wine."
 msgstr ""
-"Wine yra atviro kodo  Windows programų sąsajos realizacija, taigi ji leidžia "
+"Wine yra atviro kodo Windows programų sąsajos realizacija, taigi ji leidžia "
 "kai kurias Windows programas openSUSE sistemoje. Ši saugykla pateikia Wine "
 "paskiausias CVS (vystymo) momentines kopijas."
 
@@ -1069,96 +1069,80 @@ msgstr "Oficiali openSUSE Leap uždaro kodo atnaujinimų saugykla"
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:20
 msgid "Update repository with updates from SUSE Linux Enterprise 15"
-msgstr ""
+msgstr "Atnaujinimų saugykla su atnaujinimais iš SUSE Linux Enterprise 15"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:21
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid "Repository with SUSE Linux Enterprise updates for openSUSE Leap"
-msgstr "Oficiali openSUSE Leap atnaujinimų saugykla"
+msgstr ""
+"Saugykla su SUSE Linux Enterprise atnaujinimais, bet tinkamais openSUSE Leap "
+"sistemai"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:22
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap."
 msgid ""
 "In this repository you find SUSE Linux Enterprise security and maintenance "
 "updates to openSUSE Leap."
 msgstr ""
-"Šioje saugykloje rasite openSUSE Leap saugumo ir palaikymo atnaujinimus."
+"Šioje saugykloje rasite SUSE Linux Enterprise saugumo ir palaikymo "
+"atnaujinimus, kurie tinka openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:23
-#, fuzzy
-#| msgid "Update repository of openSUSE 13.1 debuginfo packages"
 msgid "Update repository of openSUSE Backports"
-msgstr ""
-"openSUSE 13.1 atnaujinimų saugykla, turinti derinimo informacijos paketus"
+msgstr "openSUSE atkeltųjų paketų atnaujinimų saugykla"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:24
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid "Update repository with Backports updates for openSUSE Leap"
-msgstr "Oficiali openSUSE Leap atnaujinimų saugykla"
+msgstr ""
+"openSUSE Leap atnaujinimų saugykla atkeltiesiems paketams (angl. backports)"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:25
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap."
 msgid ""
 "In this repository you find Backports security and maintenance updates for "
 "openSUSE Leap."
 msgstr ""
-"Šioje saugykloje rasite openSUSE Leap saugumo ir palaikymo atnaujinimus."
+"Šioje saugykloje rasite openSUSE Leap saugumo ir palaikymo atnaujinimus "
+"atkeltiesiems paketams (angl. backports)."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:26
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid ""
 "Update repository with Backports debuginfo package updates for openSUSE Leap"
-msgstr "Oficiali openSUSE Leap atnaujinimų saugykla"
+msgstr ""
+"openSUSE Leap atnaujinimų saugykla su derinimo paketų atnaujinimais "
+"atkeltiesiems paketams"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:27
-#, fuzzy
-#| msgid "Update repository of openSUSE Leap debuginfo packages"
 msgid "Update repository of Backport debuginfo packages for openSUSE Leap."
 msgstr ""
-"openSUSE Leap atnaujinimų saugykla, turinti derinimo informacijos paketus"
+"openSUSE Leap atnaujinimų saugykla, turinti derinimo informaciją "
+"atkeltiesiems paketams (angl. backports)."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:28
-#, fuzzy
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE Leap. For experts only."
 msgid ""
 "This repository contains Backport debuginfo packages and is useful for those "
 "that want to debug applications on openSUSE Leap. For experts only."
 msgstr ""
-"Ši saugykla naudinga tiems, kas nori derinti programas su openSUSE Leap. Tik "
-"patyrusiems naudotojams."
+"Ši saugykla turi atkeltųjų paketų derinimo informaciją ir naudinga tiems, "
+"kas nori derinti programas su openSUSE Leap. Tik patyrusiems naudotojams."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr ""
-"openSUSE  Tumbleweed uždaro kodo programinės įrangos papildoma saugykla"
+msgstr "openSUSE Tumbleweed uždaro kodo programinės įrangos papildoma saugykla"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:6
