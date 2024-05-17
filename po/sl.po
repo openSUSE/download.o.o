@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-06 17:27+0200\n"
-"PO-Revision-Date: 2024-05-17 18:46+0000\n"
+"PO-Revision-Date: 2024-05-17 21:46+0000\n"
 "Last-Translator: Jure Repinc <jlp@holodeck1.com>\n"
 "Language-Team: Slovenian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/sl/>\n"
@@ -1066,18 +1066,20 @@ msgid ""
 "In this repository you find SUSE Linux Enterprise security and maintenance "
 "updates to openSUSE Leap."
 msgstr ""
+"Ta vir vsebuje varnostne in vzdrževalne posodobitve iz SUSE Linux Enterprise "
+"za openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:23
 msgid "Update repository of openSUSE Backports"
-msgstr ""
+msgstr "Posodobitveni vir novejših izdaj openSUSE"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:24
 msgid "Update repository with Backports updates for openSUSE Leap"
-msgstr ""
+msgstr "Posodobitveni vir posodobitev za openSUSE Leap iz novejših izdaj"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:25
@@ -1086,6 +1088,8 @@ msgid ""
 "In this repository you find Backports security and maintenance updates for "
 "openSUSE Leap."
 msgstr ""
+"Ta vir vsebuje varnostne in vzdrževalne posodobitve za openSUSE Leap iz "
+"novejših izdaj."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:26
@@ -1093,12 +1097,15 @@ msgstr ""
 msgid ""
 "Update repository with Backports debuginfo package updates for openSUSE Leap"
 msgstr ""
+"Posodobitveni vir razhroščevalnih podatkov za openSUSE Leap iz novejših izdaj"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:27
 msgid "Update repository of Backport debuginfo packages for openSUSE Leap."
 msgstr ""
+"Posodobitveni vir paketov razhroščevalnih podatkov za openSUSE Leap iz "
+"novejših izdaj."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:28
@@ -1107,11 +1114,15 @@ msgid ""
 "This repository contains Backport debuginfo packages and is useful for those "
 "that want to debug applications on openSUSE Leap. For experts only."
 msgstr ""
+"Ta vir vsebuje razhroščevalne podatke iz novejših izdaj in je uporaben, če "
+"želite razhroščevati programe na openSUSE Leap. Namenjeno strokovnjakom."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
 msgstr ""
+"Vir openSUSE Tumbleweed, ki vsebuje dodatno programsko opremo, ki ni "
+"odprtokodna"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:6
@@ -1119,26 +1130,33 @@ msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
+"Uradni vir openSUSE Tumbleweed za vso ne-odprtokodno programsko opremo, ki "
+"jo vzdržuje ekipa openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr ""
+msgstr "Glavni vir openSUSE Leap (paketi izvorne kode)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr ""
+"Glavni vir openSUSE Leap 42.1, ki vsebuje le odprtokodno programsko opremo"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"Obsežen vir odprtokodne programske opreme (OKPO) za openSUSE Leap 42.1 "
+"omogoča dostop do več tisoč paketov, ki jih vzdržuje ekipa openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
 msgstr ""
+"Vir openSUSE Leap 42.1, ki vsebuje dodatno programsko opremo, ki ni "
+"odprtokodna"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 msgid ""
@@ -1146,59 +1164,72 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"Uradni vir openSUSE Leap 42.1 za vso ne-odprtokodno programsko opremo, ki jo "
+"vzdržuje ekipa openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr ""
+msgstr "Glavni vir openSUSE Leap 42.1 (paketi izvorne kode)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
+"Vir vseh paketov z izvorno kodo v openSUSE Leap 42.1. Namenjeno "
+"strokovnjakom."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
 msgstr ""
+"Glavni vir openSUSE Leap 42.1, ki vsebuje pakete razhroščevalnih podatkov"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
+"Ta vir je uporaben, če želite razhroščevati programe na openSUSE Leap 42.1. "
+"Namenjeno strokovnjakom."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "Vir z uradnimi posodobitvami za openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
-msgstr ""
+msgstr "Tu najdete varnostne in vzdrževalne posodobitve za openSUSE Leap 42.1."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "Vir za uradne ne-odprtokodne posodobitve za openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
 msgstr ""
+"Posodobitveni vir openSUSE Leap 42.1 s paketi z razhroščevalnimi podatki"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
+"Glavni vir openSUSE Leap 42.2, ki vsebuje le odprtokodno programsko opremo"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"Obsežen vir odprtokodne programske opreme (OKPO) za openSUSE Leap 42.2 "
+"omogoča dostop do več tisoč paketov, ki jih vzdržuje ekipa openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
 msgstr ""
+"Vir openSUSE Leap 42.2, ki vsebuje dodatno programsko opremo, ki ni "
+"odprtokodna"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
 msgid ""
@@ -1206,41 +1237,49 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"Uradni vir openSUSE Leap 42.2 za vso ne-odprtokodno programsko opremo, ki jo "
+"vzdržuje ekipa openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr ""
+msgstr "Glavni vir openSUSE Leap 42.2 (paketi izvorne kode)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
+"Vir vseh paketov z izvorno kodo v openSUSE Leap 42.2. Namenjeno "
+"strokovnjakom."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
 msgstr ""
+"Glavni vir openSUSE Leap 42.2, ki vsebuje pakete razhroščevalnih podatkov"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
+"Ta vir je uporaben, če želite razhroščevati programe na openSUSE Leap 42.2. "
+"Namenjeno strokovnjakom."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr ""
+msgstr "Vir z uradnimi posodobitvami za openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
-msgstr ""
+msgstr "Tu najdete varnostne in vzdrževalne posodobitve za openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
-msgstr ""
+msgstr "Vir za uradne ne-odprtokodne posodobitve za openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
 msgstr ""
+"Posodobitveni vir openSUSE Leap 42.2 s paketi z razhroščevalnimi podatki"
