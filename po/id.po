@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Indonesian (download.o.o)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-06 17:27+0200\n"
-"PO-Revision-Date: 2025-10-04 06:59+0000\n"
+"PO-Revision-Date: 2025-10-05 17:59+0000\n"
 "Last-Translator: Ferdinan Rizky Budiarto <ferdinan.rizky@yahoo.com>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/id/>\n"
@@ -37,8 +37,9 @@ msgid ""
 "the unsupported but latest version of the LX desktop environment and "
 "software."
 msgstr ""
-"Repositori LXDE di openSUSE Build Service, menyediakan untuk Anda perangkat "
-"lunak dan lingkungan desktop LXDE terbaru tetapi tanpa dukungan."
+"Repositori LXDE di openSUSE Build Service menyediakan versi terbaru dari "
+"lingkungan desktop LX dan perangkat lunak terkait yang tidak didukung secara "
+"resmi."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:4
@@ -62,8 +63,8 @@ msgid ""
 "Provides you with the latest stable version of LibreOffice, the Office suite "
 "that openSUSE uses."
 msgstr ""
-"Menyediakan LibreOffice versi stabil terbaru sebagai aplikasi perkantoran "
-"yang digunakan openSUSE."
+"Menyediakan versi stabil terbaru dari LibreOffice, paket aplikasi "
+"perkantoran yang digunakan oleh openSUSE."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:7
@@ -77,7 +78,7 @@ msgstr "openSUSE BuildService - Mozilla"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:8
 msgid "Most recent builds of Mozilla Software like Firefox"
-msgstr "Versi terkini dari Perangkat Lunak Mozilla seperti Firefox"
+msgstr "Versi kompilasi terbaru dari perangkat lunak Mozilla seperti Firefox"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:9
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:9
@@ -88,7 +89,7 @@ msgid ""
 "Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
 msgstr ""
 "Berisi rilis terbaru dari semua perangkat lunak Mozilla, seperti Thunderbird "
-"(klien mail), Firefox dan SeaMonkey (peramban web) yang populer."
+"(klien email) yang populer, Firefox, dan SeaMonkey (peramban web)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:10
@@ -102,7 +103,7 @@ msgstr "openSUSE BuildService - Wine CVS Builds"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:11
 msgid "Snapshots of Wine CVS"
-msgstr "Snapshot dari Wine CVS"
+msgstr "Cuplikan dari Wine CVS"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:12
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:12
@@ -113,10 +114,9 @@ msgid ""
 "to run some Windows applications in openSUSE. This repository provides the "
 "latest CVS (development) snapshot packages of Wine."
 msgstr ""
-"Wine adalah sebuah implementasi Sumber Terbuka dari Windows API, yang "
-"memungkinkan Anda untuk menjalankan beberapa aplikasi Windows di openSUSE. "
-"Repositori ini menyediakan paket-paket snapshot CVS (pengembangan) terbaru "
-"dari Wine."
+"Wine adalah implementasi Open Source dari Windows API, sehingga memungkinkan "
+"Anda menjalankan beberapa aplikasi Windows di openSUSE. Repositori ini "
+"menyediakan paket cuplikan CVS (pengembangan) terbaru dari Wine."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:13
@@ -130,7 +130,7 @@ msgstr "openSUSE BuildService - Permainan"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:14
 msgid "A collection of action games"
-msgstr "Sebuah koleksi permainan aksi"
+msgstr "Kumpulan permainan aksi"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:15
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:15
@@ -140,20 +140,20 @@ msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
 msgstr ""
-"Berisi berbagai permainan aksi termasuk Open Arena (tembak-tembakan), Flight "
-"Gear (simulator penerbangan) dan Torcs (simulasi balapan 3D)."
+"Berisi beberapa permainan aksi termasuk Open Arena (tembak-menembak), Flight "
+"Gear (simulator penerbangan) dan Torcs (simulator balap 3D)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
-msgstr "openSUSE BuildService - Penggerak untuk kamera web"
+msgstr "openSUSE BuildService - Penggerak untuk kamera peramban"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
-msgstr "Penggerak terbaru untuk kamera web"
+msgstr "Penggerak terbaru untuk kamera peramban"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
-msgstr "Berisi penggerak terbaru untuk ratusan kamera web yang berbeda."
+msgstr "Berisi penggerak terbaru untuk ratusan kamera peramban yang berbeda."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:19
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:16
@@ -167,7 +167,7 @@ msgstr "openSUSE BuildService - Virtualisasi (VirtualBox)"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:17
 msgid "Latest builds of Virtualbox"
-msgstr "Build terkini dari Virtualbox"
+msgstr "Kompilasi terkini dari Virtualbox"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:21
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:18
@@ -177,8 +177,8 @@ msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
 msgstr ""
-"Menyediakan build VirtualBox terbaru, sebuah virtualizer penuh sumber "
-"terbuka untuk penggunaan umum pada perangkat keras x86."
+"Menyediakan versi kompilasi terbaru dari VirtualBox, sebuah virtualizer "
+"penuh sumber terbuka untuk perangkat keras x86 dengan tujuan umum."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:19
@@ -188,14 +188,14 @@ msgstr "openSUSE BuildService - PHP"
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:20
 msgid "Latest updates for PHP software"
-msgstr "Pemutakhiran terkini untuk perangkat lunak PHP"
+msgstr "Pembaruan mutakhir untuk perangkat lunak PHP"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:24
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:21
 msgid ""
 "Provides the latest packages and multiple-version builds of PHP software."
 msgstr ""
-"Menyediakan paket-paket dan berbagai versi build terbaru dari perangkat "
+"Menyediakan paket terbaru dan versi kompilasi multi-versi dari perangkat "
 "lunak PHP."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:25
@@ -210,7 +210,7 @@ msgstr "openSUSE BuildService - Basis Data"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:20
 msgid "Latest updates for database software"
-msgstr "Pemutakhiran terkini untuk perangkat lunak basis data"
+msgstr "Pembaruan mutakhir untuk perangkat lunak basis data"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:27
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:24
@@ -218,7 +218,7 @@ msgstr "Pemutakhiran terkini untuk perangkat lunak basis data"
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
 msgstr ""
-"Pemutakhiran terkini untuk perangkat lunak basis data seperti Firebird dan "
+"Pembaruan muthakir untuk perangkat lunak basis data seperti Firebird dan "
 "MySQL."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:28
@@ -267,8 +267,8 @@ msgid ""
 "Updates to the GNOME software that is shipped with the distribution "
 "(backports)."
 msgstr ""
-"Pemutakhiran dari perangkat lunak GNOME yang telah disertakan bersama "
-"distribusi (backports)."
+"Pembaruan untuk perangkat lunak GNOME yang disertakan dalam distribusi "
+"(backport)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:31
@@ -283,7 +283,7 @@ msgstr "Repositori komunitas untuk aplikasi-aplikasi Mono"
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
-msgstr "Pemutakhiran dan aplikasi tambahan yang ditulis dengan Mono."
+msgstr "Pembaruan dan tambahan aplikasi yang ditulis menggunakan Mono."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:34
@@ -304,7 +304,7 @@ msgstr "Repositori komunitas untuk modul-modul Perl"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
-msgstr "Pemutakhiran dan Tambahan untuk modul-modul Perl"
+msgstr "Pembaruan dan Tambahan untuk modul-modul Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:37
@@ -325,7 +325,7 @@ msgstr "Repositori komunitas untuk modul-modul Python"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 msgid "Updates and Additions for Python modules"
-msgstr "Pemutakhiran dan Tambahan untuk modul-modul Python"
+msgstr "Pembaruan dan Tambahan untuk modul-modul Python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:40
@@ -339,21 +339,21 @@ msgstr "openSUSE BuildService - sistem berkas (filesystems)"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:35
 msgid "Filesystem tools and FUSE-related packages"
-msgstr "Alat sistem berkas dan paket-paket yang berkaitan dengan FUSE"
+msgstr "Alat sistem berkas dan paket terkait FUSE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:45
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:36
 msgid "Filesystem tools and FUSE-related packages."
-msgstr "Alat sistem berkas dan paket-paket yang berkaitan dengan FUSE."
+msgstr "Alat-alat sistem berkas dan paket terkait FUSE."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:46
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:37
 msgid "openSUSE BuildService - Education"
-msgstr "openSUSE BuildService - Edukasi"
+msgstr "openSUSE BuildService - Pendidikan"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:47
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:44
@@ -368,7 +368,8 @@ msgstr "Aplikasi-aplikasi untuk pengguna di bidang pendidikan"
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:39
 msgid ""
 "Contains several packages which might be interesting for educational use"
-msgstr "Berisi beberapa paket yang mungkin menarik untuk penggunaan pendidikan"
+msgstr ""
+"Berisi beberapa paket yang mungkin menarik untuk digunakan dalam pendidikan"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:49
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:49
@@ -382,14 +383,14 @@ msgstr "openSUSE BuildService - KDE:KDE3"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:44
 msgid "Maintained KDE 3 packages"
-msgstr "Paket KDE 3 yang dipertahankan"
+msgstr "Paket KDE 3 yang dikelola secara teratur"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:51
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:51
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:45
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:45
 msgid "Provides old KDE for newer openSUSE"
-msgstr "Menyediakan KDE lama untuk openSUSE yang baru"
+msgstr "Menyediakan KDE versi lama untuk openSUSE yang lebih baru"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
@@ -420,11 +421,11 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
-"Repositori Perangkat Lunak Sumber Terbuka (OSS) besar untuk openSUSE 13.1, "
-"memberikan Anda akses ke ribuan paket yang dikelola oleh tim openSUSE. "
-"(Karena ukuran dari repositori, menambahkannya mungkin memerlukan waktu "
-"beberapa saat. 512 MB RAM atau partisi SWAP yang diaktifkan sangat "
-"dianjurkan jika Anda ingin mengakses repositori ini pada saat instalasi.)"
+"Repositori besar Perangkat Lunak Sumber Terbuka (OSS) untuk openSUSE 13.1, "
+"memberikan akses ke ribuan paket yang dikelola oleh tim openSUSE. (Karena "
+"ukuran repositori ini, penambahannya mungkin memerlukan waktu. Disarankan "
+"memiliki RAM 512 MB atau partisi SWAP yang diaktifkan jika ingin mengakses "
+"repositori ini saat instalasi.)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
@@ -440,15 +441,15 @@ msgstr "Repositori Utama (NON-OSS)"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
 msgstr ""
-"Repositori Perangkat Lunak Bukan Sumber Terbuka Tambahan untuk openSUSE 13.1"
+"Repositori tambahan Perangkat Lunak Non-Sumber Terbuka untuk openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.1 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
-"Repositori openSUSE 13.1 resmi untuk semua Perangkat Lunak Bukan Sumber "
-"Terbuka yang dikelola oleh tim openSUSE, berisi Opera, Java, Flash dan "
+"Repositori resmi openSUSE 13.1 untuk semua Perangkat Lunak Non-Sumber "
+"Terbuka yang dikelola oleh tim openSUSE, termasuk Opera, Java, Flash dan "
 "lainnya."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
@@ -473,8 +474,7 @@ msgstr "Repositori utama openSUSE 13.1 (Paket-paket Sumber)"
 msgid ""
 "The repository of all source packages in openSUSE 13.1. For experts only."
 msgstr ""
-"Repositori dari semua paket sumber di openSUSE 13.1. Untuk pengguna ahli "
-"saja."
+"Repositori semua paket sumber di openSUSE 13.1. Hanya untuk pengguna ahli."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
@@ -489,7 +489,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:7
 msgid "Main Repository (DEBUG)"
-msgstr "Repositori Utama (AWAKUTU)"
+msgstr "Repositori Utama (Analisis Kesalahan)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
@@ -500,8 +500,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
 msgstr ""
-"Repositori ini berguna bagi mereka yang ingin melakukan debug terhadap "
-"aplikasi pada openSUSE 13.1. Untuk pengguna ahli saja."
+"Repositori ini berguna bagi mereka yang ingin melakukan analisa kesalahan "
+"aplikasi-aplikasi di openSUSE 13.1. Hanya untuk pengguna ahli."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -526,11 +526,11 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:10
 msgid "Main Update Repository"
-msgstr "Repositori Pemutakhiran Utama"
+msgstr "Repositori Pembaruan Utama"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
-msgstr "Repositori pemutakhiran resmi untuk 13.1"
+msgstr "Repositori pembaruan resmi untuk 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
@@ -552,11 +552,11 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
-msgstr "Repositori Pemutakhiran (Non-Oss)"
+msgstr "Repositori Pembaruan (Non-Sumber Terbuka)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
-msgstr "Repositori pemutakhiran resmi perangkat lunak tidak bebas untuk 13.1"
+msgstr "Repositori pembaruan resmi perangkat lunak tidak bebas untuk 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
@@ -565,11 +565,11 @@ msgstr "Repositori pemutakhiran resmi perangkat lunak tidak bebas untuk 13.1"
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
-msgstr "Repositori Pemutakhiran (AWAKUTU)"
+msgstr "Repositori Pembaruan (Analisis Kesalahan)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:19
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
-msgstr "Repositori pemutakhiran untuk paket-paket debuginfo di openSUSE 13.1"
+msgstr "Repositori pembaruan untuk paket-paket debuginfo di openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:46
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:40
@@ -581,7 +581,7 @@ msgstr "openSUSE BuildService - Java:packages"
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:41
 msgid "Bleeding-edge Java packages"
-msgstr "Paket-paket Java Termutakhir"
+msgstr "Paket Java versi terbaru (bleeding-edge)"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:48
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:42
