@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: community-repositories.po\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-06 17:27+0200\n"
-"PO-Revision-Date: 2024-09-17 14:26+0000\n"
+"PO-Revision-Date: 2025-12-04 18:04+0000\n"
 "Last-Translator: Manuel Vazquez <xixirei@yahoo.es>\n"
 "Language-Team: Galician <https://l10n.opensuse.org/projects/download-o-o/"
 "master/gl/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -1260,7 +1260,8 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
-msgstr "Repositorio de actualizacións oficiais para openSUSE Leap 42.1"
+msgstr ""
+"Repositorio de actualizacións oficiais non libres para openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
@@ -1338,7 +1339,9 @@ msgstr ""
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
-msgstr "Repositorio de actualizacións oficiais para openSUSE Leap 42.2"
+msgstr ""
+"Repositorio de actualizacións oficiais de paquetes non libres para openSUSE "
+"Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
