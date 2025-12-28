@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-06 17:27+0200\n"
-"PO-Revision-Date: 2023-10-18 12:28+0000\n"
-"Last-Translator: Mohammad Rezaei Seresht <m.networking@gmail.com>\n"
+"PO-Revision-Date: 2025-12-28 10:04+0000\n"
+"Last-Translator: Goudarz Jafari <me@goudarzjafari.com>\n"
 "Language-Team: Persian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/fa/>\n"
 "Language: fa\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.9.1\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
@@ -1079,55 +1079,43 @@ msgstr "به روزرسانی مخزن openSUSE Backport"
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:24
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid "Update repository with Backports updates for openSUSE Leap"
-msgstr "مخازن رسمی بروزرسانی برای openSUSE Leap"
+msgstr "به‌روزرسانی مخزن با به‌روزرسانی‌های پیش‌انتقال برای openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:25
-#, fuzzy
-#| msgid ""
-#| "In this repository you find security and maintenance updates to openSUSE "
-#| "Leap."
 msgid ""
 "In this repository you find Backports security and maintenance updates for "
 "openSUSE Leap."
 msgstr ""
-"در این مخزن شما بسته های امنیتی و نگه داری بروزرسانی برای openSUSE Leap را "
+"در این مخزن به‌روزرسانی‌های امنیتی و نگه‌داری پیش‌انتقال برای openSUSE Leap را "
 "پیدا خواهید کرد."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:26
-#, fuzzy
-#| msgid "Repository for official updates to openSUSE Leap"
 msgid ""
 "Update repository with Backports debuginfo package updates for openSUSE Leap"
-msgstr "مخازن رسمی بروزرسانی برای openSUSE Leap"
+msgstr ""
+"به‌روزرسانی مخزن با به‌روزرسانی‌های بستهٔ debuginfo پیش‌انتقال برای openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:27
-#, fuzzy
-#| msgid "Update repository of openSUSE Leap debuginfo packages"
 msgid "Update repository of Backport debuginfo packages for openSUSE Leap."
-msgstr "مخازن بروزرسانی برای بسته های debuginfo در openSUSE Leap"
+msgstr "به‌روزرسانی مخزن بسته‌های debuginfo پیش‌انتقال برای openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:28
-#, fuzzy
-#| msgid ""
-#| "This repository is useful for those that want to debug applications on "
-#| "openSUSE Leap. For experts only."
 msgid ""
 "This repository contains Backport debuginfo packages and is useful for those "
 "that want to debug applications on openSUSE Leap. For experts only."
 msgstr ""
-"این مخزن برای آنهایی که میخواهند نرم افزارها را در openSUSE Leap اشکال زدایی "
-"کنند مناسب است. فقط برای افراد متخصص است."
+"این مخزن شامل بسته‌های debuginfo پیش‌انتقال است و برای کسانی که می‌خواهند "
+"برنامه‌ها را روی openSUSE Leap اشکال‌زدایی کنند مناسب است. فقط برای افراد "
+"متخصص است."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:5
@@ -1183,7 +1171,7 @@ msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
-"مخازن شامل تمامی بسته های منبع  کد برای openSUSE Leap 42.1. فقط برای افراد "
+"مخزن شامل تمامی بسته‌های منبع کد برای openSUSE Leap 42.1. فقط برای افراد "
 "متخصص است."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
@@ -1253,7 +1241,7 @@ msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
-"مخازن شامل تمامی بسته های منبع  کد برای openSUSE Leap 42.2. فقط برای افراد "
+"مخزن شامل تمامی بسته های منبع کد برای openSUSE Leap 42.2. فقط برای افراد "
 "متخصص است."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
