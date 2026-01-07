@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-28 09:53+0200\n"
-"PO-Revision-Date: 2026-01-05 07:04+0000\n"
+"PO-Revision-Date: 2026-01-07 08:04+0000\n"
 "Last-Translator: \"Kristijan \\\"Fremen\\\" Velkovski\" <me@krisfremen.com>\n"
 "Language-Team: Macedonian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/mk/>\n"
@@ -412,6 +412,7 @@ msgstr "Главно Складиште (OSS)"
 #: YaST/Repos/_openSUSE_131_Default.xml.in:2
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
 msgstr ""
+"Главно складиште на openSUSE 13.1 кое вклучува само софтвер со отворен код"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:3
 msgid ""
@@ -421,6 +422,11 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"Големото складиште за софтвер со отворен код (OSS) за openSUSE 13.1, кое ви "
+"дава пристап до илјадници пакети одржувани од тимот на openSUSE. (Поради "
+"големината на складиштето, неговото додавање може да потрае некое време. 512 "
+"MB RAM или овозможена SWAP партиција се препорачуваат во случај да сакате да "
+"пристапите до ова складиште за време на инсталацијата.)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
@@ -435,7 +441,7 @@ msgstr "Главно Складиште (NON-OSS)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
-msgstr ""
+msgstr "Репозиториум за додатоци за софтвер без отворен код за openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:6
 msgid ""
