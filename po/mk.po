@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-28 09:53+0200\n"
-"PO-Revision-Date: 2026-01-07 08:04+0000\n"
+"PO-Revision-Date: 2026-01-09 07:04+0000\n"
 "Last-Translator: \"Kristijan \\\"Fremen\\\" Velkovski\" <me@krisfremen.com>\n"
 "Language-Team: Macedonian <https://l10n.opensuse.org/projects/download-o-o/"
 "master/mk/>\n"
@@ -448,6 +448,8 @@ msgid ""
 "The official openSUSE 13.1 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
+"Официјалното openSUSE 13.1 складиште за целиот софтвер без отворен код што "
+"го одржува тимот на openSUSE, вклучувајќи Opera, Java, Flash и друго."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
@@ -489,13 +491,15 @@ msgstr "Главно Складиште (ДЕБАГ)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
-msgstr ""
+msgstr "Главно складиште на openSUSE 13.1, вклучувајќи ги пакетите debuginfo"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
 msgstr ""
+"Ова репозиториум е корисно за оние кои сакаат да дебагираат апликации на "
+"openSUSE 13.1. Само за експерти."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -520,11 +524,11 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:10
 msgid "Main Update Repository"
-msgstr ""
+msgstr "Главно складиште за ажурирања"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
-msgstr ""
+msgstr "Репозиториум за официјални ажурирања на 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
