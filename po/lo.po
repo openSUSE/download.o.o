@@ -8,28 +8,30 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-06 17:27+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-08-19 21:50+0000\n"
+"Last-Translator: Bone NI <bounkirdni@gmail.com>\n"
+"Language-Team: Lao <https://l10n.opensuse.org/projects/download-o-o/master/"
+"lo/>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:1
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:1
 msgid "openSUSE BuildService - LXDE"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - LXDE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:2
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:2
 msgid "Latest LXDE release"
-msgstr ""
+msgstr "ລຸ້ນ LXDE ຫຼ້າສຸດ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:3
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:3
@@ -40,20 +42,22 @@ msgid ""
 "the unsupported but latest version of the LX desktop environment and "
 "software."
 msgstr ""
+"ຄັງເກັບ LXDE ໃນບໍລິການບິວຂອງ openSUSE, ເຊິ່ງໃຫ້ບໍລິການສະພາບແວດລ້ອມເດັສທັອບ ແລະ ຊອບແວ LX ລຸ້ນ"
+"ຫຼ້າສຸດ ແຕ່ບໍ່ໄດ້ຮັບການສະໜັບສະໜູນ."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:4
 msgid "openSUSE BuildService - LibreOffice"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - LibreOffice"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:5
 msgid "Latest stable LibreOffice release"
-msgstr ""
+msgstr "ລຸ້ນ LibreOffice ທີ່ໝັ້ນຄົງຫຼ້າສຸດ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:6
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:6
@@ -63,20 +67,21 @@ msgid ""
 "Provides you with the latest stable version of LibreOffice, the Office suite "
 "that openSUSE uses."
 msgstr ""
+"ໃຫ້ບໍລິການ LibreOffice ລຸ້ນທີ່ໝັ້ນຄົງຫຼ້າສຸດ, ເຊິ່ງເປັນຊຸດໂປຣແກຣມຫ້ອງການທີ່ openSUSE ນຳໃຊ້."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:7
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:7
 msgid "openSUSE BuildService - Mozilla"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - Mozilla"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:8
 msgid "Most recent builds of Mozilla Software like Firefox"
-msgstr ""
+msgstr "ຊອບແວ Mozilla ລຸ້ນໃໝ່ຫຼ້າສຸດ ເຊັ່ນ Firefox"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:9
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:9
@@ -86,20 +91,22 @@ msgid ""
 "Containing the latest releases of all Mozilla software, such as the popular "
 "Thunderbird (mail client), Firefox and SeaMonkey (web browsers)."
 msgstr ""
+"ລວມມີຊອບແວທັງໝົດຂອງ Mozilla ລຸ້ນຫຼ້າສຸດ ເຊັ່ນ Thunderbird (ໂປຣແກຣມຮັບສົ່ງອີເມວ), Firefox ແລ"
+"ະ SeaMonkey (ເວັບບຣາວເຊີ)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:10
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:10
 msgid "openSUSE BuildService - Wine CVS Builds"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - Wine CVS Builds"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:11
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:11
 msgid "Snapshots of Wine CVS"
-msgstr ""
+msgstr "ແພັກເກັດຊົ່ວຄາວຂອງ Wine CVS"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:12
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:12
@@ -110,20 +117,22 @@ msgid ""
 "to run some Windows applications in openSUSE. This repository provides the "
 "latest CVS (development) snapshot packages of Wine."
 msgstr ""
+"Wine ແມ່ນການຈຳລອງ Windows API ແບບໂອເພັນຊອດ, ເຊິ່ງຊ່ວຍໃຫ້ທ່ານສາມາດໃຊ້ງານບາງແອັບພລິເຄຊັນຂອ"
+"ງ Windows ໃນ openSUSE ໄດ້. ຄັງເກັບນີ້ໃຫ້ບໍລິການແພັກເກັດ Wine ລຸ້ນພັດທະນາ (CVS) ຫຼ້າສຸດ."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:13
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:13
 msgid "openSUSE BuildService - Games"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - ເກມ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:14
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:14
 msgid "A collection of action games"
-msgstr ""
+msgstr "ລວມຊຸດເກມແອັກຊັນ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:15
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:15
@@ -133,32 +142,34 @@ msgid ""
 "Contains several action games including Open Arena (shoot 'em up), Flight "
 "Gear (flight simulator) and Torcs (3D racing simulator)."
 msgstr ""
+"ລວມມີເກມແອັກຊັນຫຼາຍເກມ ເຊັ່ນ Open Arena, Flight Gear (ເກມຈຳລອງການບິນ) ແລະ Torcs (ເກມ"
+"ຈຳລອງການແຂ່ງລົດ 3D)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:16
 msgid "openSUSE BuildService - Drivers for webcams"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - ໄດຣເວີສຳລັບເວັບແຄມ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:17
 msgid "Recent drivers for webcams"
-msgstr ""
+msgstr "ໄດຣເວີເວັບແຄມລຸ້ນໃໝ່"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:18
 msgid "Contains recent drivers for hundreds of different webcams."
-msgstr ""
+msgstr "ລວມມີໄດຣເວີລຸ້ນໃໝ່ສຳລັບເວັບແຄມຫຼາຍຮ້ອຍລຸ້ນ."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:19
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:16
 msgid "openSUSE BuildService - Virtualization (VirtualBox)"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - Virtualization (VirtualBox)"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:20
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:17
 msgid "Latest builds of Virtualbox"
-msgstr ""
+msgstr "VirtualBox ລຸ້ນຫຼ້າສຸດ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:21
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:18
@@ -168,57 +179,58 @@ msgid ""
 "Provides up-to-date builds of VirtualBox, a general-purpose open-source full "
 "virtualizer for x86 hardware."
 msgstr ""
+"ໃຫ້ບໍລິການ VirtualBox ລຸ້ນໃໝ່, ເຊິ່ງເປັນຊອບແວຈຳລອງລະບົບແບບໂອເພັນຊອດສຳລັບຮາດແວ x86."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:19
 msgid "openSUSE BuildService - PHP"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - PHP"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:20
 msgid "Latest updates for PHP software"
-msgstr ""
+msgstr "ອັບເດດຫຼ້າສຸດສຳລັບຊອບແວ PHP"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:24
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:21
 msgid ""
 "Provides the latest packages and multiple-version builds of PHP software."
-msgstr ""
+msgstr "ໃຫ້ບໍລິການແພັກເກັດຫຼ້າສຸດ ແລະ ການບິວ PHP ຫຼາຍເວີຊັນ."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:25
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:19
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:19
 msgid "openSUSE BuildService - Database"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - ຖານຂໍ້ມູນ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:26
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:20
 msgid "Latest updates for database software"
-msgstr ""
+msgstr "ອັບເດດຫຼ້າສຸດສຳລັບຊອບແວຖານຂໍ້ມູນ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:27
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:21
 msgid "Latest updates for database software including Firebird and MySQL."
-msgstr ""
+msgstr "ອັບເດດຫຼ້າສຸດສຳລັບຊອບແວຖານຂໍ້ມູນ ລວມທັງ Firebird ແລະ MySQL."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:22
 msgid "openSUSE BuildService - KDE:Extra"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - KDE:Extra"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:23
 msgid "Community repository for KDE"
-msgstr ""
+msgstr "ຄັງເກັບຊຸມຊົນສຳລັບ KDE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:27
@@ -226,21 +238,21 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:24
 msgid ""
 "Provides additional KDE software maintained by the openSUSE KDE community."
-msgstr ""
+msgstr "ໃຫ້ບໍລິການຊອບແວ KDE ເພີ່ມເຕີມທີ່ດູແລໂດຍຊຸມຊົນ openSUSE KDE."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:31
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:25
 msgid "openSUSE BuildService - GNOME:Apps"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - GNOME:Apps"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:32
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:26
 msgid "Backports of GNOME applications"
-msgstr ""
+msgstr "ແບັກພອດ (Backports) ຂອງແອັບ GNOME"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:33
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:30
@@ -249,99 +261,99 @@ msgstr ""
 msgid ""
 "Updates to the GNOME software that is shipped with the distribution "
 "(backports)."
-msgstr ""
+msgstr "ອັບເດດສຳລັບຊອບແວ GNOME ທີ່ມາກັບຊຸດຕິດຕັ້ງ (ແບັກພອດ)."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:31
 msgid "openSUSE BuildService - Mono:Community"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - Mono:Community"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:32
 msgid "Community repository for Mono applications"
-msgstr ""
+msgstr "ຄັງເກັບຊຸມຊົນສຳລັບແອັບພລິເຄຊັນ Mono"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:33
 msgid "Updates and Additions of applications written in Mono."
-msgstr ""
+msgstr "ອັບເດດ ແລະ ສ່ວນເພີ່ມຂອງແອັບພລິເຄຊັນທີ່ຂຽນດ້ວຍ Mono."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:28
 msgid "openSUSE BuildService - devel:languages:perl"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - devel:languages:perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:29
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:29
 msgid "Community repository for Perl modules"
-msgstr ""
+msgstr "ຄັງເກັບຊຸມຊົນສຳລັບໂມດູນ Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:39
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:30
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:30
 msgid "Updates and Additions for Perl modules"
-msgstr ""
+msgstr "ອັບເດດ ແລະ ສ່ວນເພີ່ມສຳລັບໂມດູນ Perl"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:31
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:31
 msgid "openSUSE BuildService - devel:languages:python"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - devel:languages:python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:32
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:32
 msgid "Community repository for Python modules"
-msgstr ""
+msgstr "ຄັງເກັບຊຸມຊົນສຳລັບໂມດູນ Python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:39
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:33
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:33
 msgid "Updates and Additions for Python modules"
-msgstr ""
+msgstr "ອັບເດດ ແລະ ສ່ວນເພີ່ມສຳລັບໂມດູນ Python"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:34
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:34
 msgid "openSUSE BuildService - filesystems"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - ລະບົບໄຟລ໌"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:35
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:35
 msgid "Filesystem tools and FUSE-related packages"
-msgstr ""
+msgstr "ເຄື່ອງມືລະບົບໄຟລ໌ ແລະ ແພັກເກັດທີ່ກ່ຽວຂ້ອງກັບ FUSE"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:45
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:36
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:36
 msgid "Filesystem tools and FUSE-related packages."
-msgstr ""
+msgstr "ເຄື່ອງມືລະບົບໄຟລ໌ ແລະ ແພັກເກັດທີ່ກ່ຽວຂ້ອງກັບ FUSE."
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:46
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:37
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:37
 msgid "openSUSE BuildService - Education"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - ການສຶກສາ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:47
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:38
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:38
 msgid "Applications for education users"
-msgstr ""
+msgstr "ແອັບພລິເຄຊັນສຳລັບຜູ້ໃຊ້ໃນຂະແໜງການສຶກສາ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:48
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:45
@@ -349,28 +361,28 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:39
 msgid ""
 "Contains several packages which might be interesting for educational use"
-msgstr ""
+msgstr "ລວມມີຫຼາຍແພັກເກັດທີ່ອາດຈະເປັນປະໂຫຍດສຳລັບການນຳໃຊ້ໃນການສຶກສາ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:49
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:49
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:43
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:43
 msgid "openSUSE BuildService - KDE:KDE3"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - KDE:KDE3"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:50
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:50
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:44
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:44
 msgid "Maintained KDE 3 packages"
-msgstr ""
+msgstr "ແພັກເກັດ KDE 3 ທີ່ໄດ້ຮັບການດູແລ"
 
 #: YaST/Repos/_openSUSE_131_Additional.xml.in:51
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:51
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:45
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:45
 msgid "Provides old KDE for newer openSUSE"
-msgstr ""
+msgstr "ໃຫ້ບໍລິການ KDE ລຸ້ນເກົ່າສຳລັບ openSUSE ລຸ້ນໃໝ່"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:1
 #: YaST/Repos/_openSUSE_132_Default.xml.in:1
@@ -385,11 +397,11 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:1
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:1
 msgid "Main Repository (OSS)"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກ (OSS)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:2
 msgid "Main repository of openSUSE 13.1 including only Open Source Software"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE 13.1 ເຊິ່ງລວມມີສະເພາະຊອບແວໂອເພັນຊອດເທົ່ານັ້ນ"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:3
 msgid ""
@@ -399,6 +411,9 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"ຄັງເກັບຊອບແວໂອເພັນຊອດ (OSS) ຂະໜາດໃຫຍ່ສຳລັບ openSUSE 13.1, ເຊິ່ງຊ່ວຍໃຫ້ທ່ານເຂົ້າເຖິງແພັກເກັດຫຼ"
+"າຍພັນລາຍການທີ່ດູແລໂດຍທີມງານ openSUSE. (ເນື່ອງຈາກຂະໜາດຂອງຄັງເກັບ, ການເພີ່ມອາດຈະໃຊ້ເວລາບາງສ່"
+"ວນ. ແນະນຳໃຫ້ມີ RAM 512 MB ຫຼື ເປີດໃຊ້ SWAP ໃນກໍລະນີທີ່ທ່ານຕ້ອງການເຂົ້າເຖິງຄັງເກັບນີ້ໃນເວລາຕິດຕັ້ງ.)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:4
 #: YaST/Repos/_openSUSE_132_Default.xml.in:4
@@ -409,17 +424,19 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:4
 msgid "Main Repository (NON-OSS)"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກ (NON-OSS)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.1"
-msgstr ""
+msgstr "ຄັງເກັບສ່ວນເສີມຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດສຳລັບ openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.1 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
+"ຄັງເກັບທາງການຂອງ openSUSE 13.1 ສຳລັບຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດທັງໝົດທີ່ດູແລໂດຍທີມງານ "
+"openSUSE, ລວມມີ Opera, Java, Flash ແລະ ອື່ນໆ."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:7
 #: YaST/Repos/_openSUSE_132_Default.xml.in:7
@@ -433,16 +450,16 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:4
 msgid "Main Repository (Sources)"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກ (ຊອດໂຄ້ດ)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:8
 msgid "Main repository of openSUSE 13.1 (Source packages)"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE 13.1 (ແພັກເກັດຊອດໂຄ້ດ)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.1. For experts only."
-msgstr ""
+msgstr "ຄັງເກັບແພັກເກັດຊອດໂຄ້ດທັງໝົດໃນ openSUSE 13.1. ສຳລັບຜູ້ຊ່ຽວຊານເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:10
 #: YaST/Repos/_openSUSE_132_Default.xml.in:10
@@ -457,17 +474,19 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:7
 msgid "Main Repository (DEBUG)"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກ (DEBUG)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:11
 msgid "Main repository of openSUSE 13.1 including the debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE 13.1 ເຊິ່ງລວມມີແພັກເກັດ debuginfo"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.1. For experts only."
 msgstr ""
+"ຄັງເກັບນີ້ເປັນປະໂຫຍດສຳລັບຜູ້ທີ່ຕ້ອງການດີບັກ (debug) ແອັບພລິເຄຊັນໃນ openSUSE 13.1. ສຳລັບຜູ້ຊ່ຽວຊານ"
+"ເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:13
 #: YaST/Repos/_openSUSE_132_Default.xml.in:13
@@ -492,17 +511,18 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:10
 msgid "Main Update Repository"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດຫຼັກ"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:14
 msgid "Repository for official updates to 13.1"
-msgstr ""
+msgstr "ຄັງເກັບສຳລັບການອັບເດດທາງການຂອງລຸ້ນ 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.1."
 msgstr ""
+"ໃນຄັງເກັບນີ້ ທ່ານຈະພົບກັບການອັບເດດຄວາມປອດໄພ ແລະ ການບຳລຸງຮັກສາສຳລັບ openSUSE 13.1."
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:16
 #: YaST/Repos/_openSUSE_132_Default.xml.in:16
@@ -516,11 +536,11 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:16
 msgid "Update Repository (Non-Oss)"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດ (Non-Oss)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:17
 msgid "Repository for official non free updates to 13.1"
-msgstr ""
+msgstr "ຄັງເກັບສຳລັບການອັບເດດຊອບແວທີ່ບໍ່ເສລີ (non free) ທາງການຂອງລຸ້ນ 13.1"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:18
 #: YaST/Repos/_openSUSE_132_Default.xml.in:18
@@ -529,33 +549,33 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:18
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:18
 msgid "Update Repository (DEBUG)"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດ (DEBUG)"
 
 #: YaST/Repos/_openSUSE_131_Default.xml.in:19
 msgid "Update repository of openSUSE 13.1 debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດແພັກເກັດ debuginfo ຂອງ openSUSE 13.1"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:46
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:40
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:40
 msgid "openSUSE BuildService - Java:packages"
-msgstr ""
+msgstr "ບໍລິການບິວ openSUSE - Java:packages"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:47
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:41
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:41
 msgid "Bleeding-edge Java packages"
-msgstr ""
+msgstr "ແພັກເກັດ Java ລຸ້ນພັດທະນາໃໝ່ລ້າສຸດ (Bleeding-edge)"
 
 #: YaST/Repos/_openSUSE_132_Additional.xml.in:48
 #: YaST/Repos/_openSUSE_Leap_42.1_Additional.xml.in:42
 #: YaST/Repos/_openSUSE_Leap_42.2_Additional.xml.in:42
 msgid "Provides uptodate Java packages (Factory backports)"
-msgstr ""
+msgstr "ໃຫ້ບໍລິການແພັກເກັດ Java ລຸ້ນໃໝ່ (Factory backports)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:2
 msgid "Main repository of openSUSE 13.2 including only Open Source Software"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE 13.2 ເຊິ່ງລວມມີສະເພາະຊອບແວໂອເພັນຊອດເທົ່ານັ້ນ"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:3
 msgid ""
@@ -565,53 +585,61 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"ຄັງເກັບຊອບແວໂອເພັນຊອດ (OSS) ຂະໜາດໃຫຍ່ສຳລັບ openSUSE 13.2, ເຊິ່ງຊ່ວຍໃຫ້ທ່ານເຂົ້າເຖິງແພັກເກັດຫຼ"
+"າຍພັນລາຍການທີ່ດູແລໂດຍທີມງານ openSUSE. (ເນື່ອງຈາກຂະໜາດຂອງຄັງເກັບ, ການເພີ່ມອາດຈະໃຊ້ເວລາບາງສ່"
+"ວນ. ແນະນຳໃຫ້ມີ RAM 512 MB ຫຼື ເປີດໃຊ້ SWAP ໃນກໍລະນີທີ່ທ່ານຕ້ອງການເຂົ້າເຖິງຄັງເກັບນີ້ໃນເວລາຕິດຕັ້ງ.)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE 13.2"
-msgstr ""
+msgstr "ຄັງເກັບສ່ວນເສີມຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດສຳລັບ openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:6
 msgid ""
 "The official openSUSE 13.2 repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Java, Flash, and more."
 msgstr ""
+"ຄັງເກັບທາງການຂອງ openSUSE 13.2 ສຳລັບຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດທັງໝົດທີ່ດູແລໂດຍທີມງານ "
+"openSUSE, ລວມມີ Opera, Java, Flash ແລະ ອື່ນໆ."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:8
 msgid "Main repository of openSUSE 13.2 (Source packages)"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE 13.2 (ແພັກເກັດຊອດໂຄ້ດ)"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE 13.2. For experts only."
-msgstr ""
+msgstr "ຄັງເກັບແພັກເກັດຊອດໂຄ້ດທັງໝົດໃນ openSUSE 13.2. ສຳລັບຜູ້ຊ່ຽວຊານເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:11
 msgid "Main repository of openSUSE 13.2 including the debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE 13.2 ເຊິ່ງລວມມີແພັກເກັດ debuginfo"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE 13.2. For experts only."
 msgstr ""
+"ຄັງເກັບນີ້ເປັນປະໂຫຍດສຳລັບຜູ້ທີ່ຕ້ອງການດີບັກ (debug) ແອັບພລິເຄຊັນໃນ openSUSE 13.2. ສຳລັບຜູ້ຊ່ຽວຊານ"
+"ເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:14
 msgid "Repository for official updates to 13.2"
-msgstr ""
+msgstr "ຄັງເກັບສຳລັບການອັບເດດທາງການຂອງລຸ້ນ 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "13.2."
 msgstr ""
+"ໃນຄັງເກັບນີ້ ທ່ານຈະພົບກັບການອັບເດດຄວາມປອດໄພ ແລະ ການບຳລຸງຮັກສາສຳລັບ openSUSE 13.2."
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:17
 msgid "Repository for official non free updates to 13.2"
-msgstr ""
+msgstr "ຄັງເກັບສຳລັບການອັບເດດຊອບແວທີ່ບໍ່ເສລີ (non free) ທາງການຂອງລຸ້ນ 13.2"
 
 #: YaST/Repos/_openSUSE_132_Default.xml.in:19
 msgid "Update repository of openSUSE 13.2 debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດແພັກເກັດ debuginfo ຂອງ openSUSE 13.2"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:2
@@ -622,6 +650,7 @@ msgstr ""
 msgid ""
 "Main repository of openSUSE Tumbleweed including only Open Source Software"
 msgstr ""
+"ຄັງເກັບຫຼັກຂອງ openSUSE Tumbleweed ເຊິ່ງລວມມີສະເພາະຊອບແວໂອເພັນຊອດເທົ່ານັ້ນ"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:3
@@ -636,6 +665,9 @@ msgid ""
 "enabled SWAP partition are highly recommended in case you want to access "
 "this repository at installation time.)"
 msgstr ""
+"ຄັງເກັບຊອບແວໂອເພັນຊອດ (OSS) ຂະໜາດໃຫຍ່ສຳລັບ openSUSE, ເຊິ່ງຊ່ວຍໃຫ້ທ່ານເຂົ້າເຖິງແພັກເກັດຫຼາຍພັນລ"
+"າຍການທີ່ດູແລໂດຍທີມງານ openSUSE. (ເນື່ອງຈາກຂະໜາດຂອງຄັງເກັບ, ການເພີ່ມອາດຈະໃຊ້ເວລາບາງສ່ວນ. ແ"
+"ນະນຳໃຫ້ມີ RAM 512 MB ຫຼື ເປີດໃຊ້ SWAP ໃນກໍລະນີທີ່ທ່ານຕ້ອງການເຂົ້າເຖິງຄັງເກັບນີ້ໃນເວລາຕິດຕັ້ງ.)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:5
@@ -643,7 +675,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:5
 msgid "Main repository of openSUSE Tumbleweed (Source packages)"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE Tumbleweed (ແພັກເກັດຊອດໂຄ້ດ)"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:6
@@ -654,6 +686,7 @@ msgid ""
 "The repository of all source packages in openSUSE Tumbleweed. For experts "
 "only."
 msgstr ""
+"ຄັງເກັບແພັກເກັດຊອດໂຄ້ດທັງໝົດໃນ openSUSE Tumbleweed. ສຳລັບຜູ້ຊ່ຽວຊານເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:8
@@ -662,7 +695,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:8
 msgid "Main repository of openSUSE Tumbleweed including the debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE Tumbleweed ເຊິ່ງລວມມີແພັກເກັດ debuginfo"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:9
@@ -674,6 +707,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Tumbleweed. For experts only."
 msgstr ""
+"ຄັງເກັບນີ້ເປັນປະໂຫຍດສຳລັບຜູ້ທີ່ຕ້ອງການດີບັກ (debug) ແອັບພລິເຄຊັນໃນ openSUSE Tumbleweed. ສຳລັບຜູ້"
+"ຊ່ຽວຊານເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:11
@@ -682,7 +717,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Factory_Default.xml.in:11
 msgid "Official update repository for Tumbleweed"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດທາງການສຳລັບ Tumbleweed"
 
 #: YaST/Repos/_openSUSE_aarch64_Factory_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Factory_Default.xml.in:12
@@ -693,7 +728,7 @@ msgstr ""
 msgid ""
 "This repository provides urgent updates until they get integrated into the "
 "main repositories."
-msgstr ""
+msgstr "ຄັງເກັບນີ້ໃຫ້ບໍລິການອັບເດດດ່ວນ ຈົນກວ່າພວກມັນຈະຖືກລວມເຂົ້າໃນຄັງເກັບຫຼັກ."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:1
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:1
@@ -706,7 +741,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:1
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:1
 msgid "Main Repository"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກ"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:2
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:2
@@ -721,7 +756,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:2
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:2
 msgid "Main repository of openSUSE Leap including only Open Source Software"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE Leap ເຊິ່ງລວມມີສະເພາະຊອບແວໂອເພັນຊອດເທົ່ານັ້ນ"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:3
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:3
@@ -739,6 +774,8 @@ msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap, giving you "
 "access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"ຄັງເກັບຊອບແວໂອເພັນຊອດ (OSS) ຂະໜາດໃຫຍ່ສຳລັບ openSUSE Leap, ເຊິ່ງຊ່ວຍໃຫ້ທ່ານເຂົ້າເຖິງແພັກເກັດຫຼ"
+"າຍພັນລາຍການທີ່ດູແລໂດຍຊຸມຊົນ openSUSE."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:4
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:4
@@ -751,7 +788,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:7
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:4
 msgid "Source Repository"
-msgstr ""
+msgstr "ຄັງເກັບຊອດໂຄ້ດ"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:5
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:5
@@ -764,7 +801,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:8
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:5
 msgid "Source packages for the main repository of openSUSE Leap"
-msgstr ""
+msgstr "ແພັກເກັດຊອດໂຄ້ດສຳລັບຄັງເກັບຫຼັກຂອງ openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:6
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:6
@@ -780,7 +817,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:6
 msgid ""
 "The repository of all source packages in openSUSE Leap. For experts only."
-msgstr ""
+msgstr "ຄັງເກັບແພັກເກັດຊອດໂຄ້ດທັງໝົດໃນ openSUSE Leap. ສຳລັບຜູ້ຊ່ຽວຊານເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:7
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:7
@@ -793,7 +830,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:10
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:7
 msgid "Debug Repository"
-msgstr ""
+msgstr "ຄັງເກັບ Debug"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:8
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:8
@@ -808,7 +845,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:11
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap including the debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE Leap ເຊິ່ງລວມມີແພັກເກັດ debuginfo"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:9
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:9
@@ -826,6 +863,8 @@ msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap. For experts only."
 msgstr ""
+"ຄັງເກັບນີ້ເປັນປະໂຫຍດສຳລັບຜູ້ທີ່ຕ້ອງການດີບັກ (debug) ແອັບພລິເຄຊັນໃນ openSUSE Leap. ສຳລັບຜູ້ຊ່ຽວຊານ"
+"ເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:11
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:11
@@ -840,7 +879,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:14
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:11
 msgid "Repository for official updates to openSUSE Leap"
-msgstr ""
+msgstr "ຄັງເກັບສຳລັບການອັບເດດທາງການຂອງ openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:12
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:12
@@ -858,6 +897,7 @@ msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap."
 msgstr ""
+"ໃນຄັງເກັບນີ້ ທ່ານຈະພົບກັບການອັບເດດຄວາມປອດໄພ ແລະ ການບຳລຸງຮັກສາສຳລັບ openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:13
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:13
@@ -870,7 +910,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:18
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:13
 msgid "Update Repository (Debug)"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດ (Debug)"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:14
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:14
@@ -885,7 +925,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:19
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:14
 msgid "Update repository of openSUSE Leap debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດແພັກເກັດ debuginfo ຂອງ openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:15
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:15
@@ -902,7 +942,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:15
 msgid "Untested Updates"
-msgstr ""
+msgstr "ອັບເດດທີ່ຍັງບໍ່ທັນໄດ້ທົດສອບ"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:16
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:16
@@ -919,7 +959,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_ppc_Leap_15.2_Default.xml.in:16
 msgid "Repository of not yet tested updates"
-msgstr ""
+msgstr "ຄັງເກັບການອັບເດດທີ່ຍັງບໍ່ທັນໄດ້ທົດສອບ"
 
 #: YaST/Repos/_openSUSE_aarch64_Leap_15.2_Default.xml.in:17
 #: YaST/Repos/_openSUSE_armv6hl_Leap_15.2_Default.xml.in:17
@@ -940,6 +980,9 @@ msgid ""
 "by quality assurance. Add this repository only if you want to participate in "
 "testing openSUSE updates."
 msgstr ""
+"ຄັງເກັບນີ້ລວມມີການອັບເດດຄວາມປອດໄພ ແລະ ການບຳລຸງຮັກສາທີ່ຍັງຕ້ອງການການທົດສອບໂດຍການປະກັນຄຸນະພາບ "
+"(QA). ເພີ່ມຄັງເກັບນີ້ສະເພາະໃນກໍລະນີທີ່ທ່ານຕ້ອງການມີສ່ວນຮ່ວມໃນການທົດສອບການອັບເດດຂອງ openSUSE ເທົ່"
+"ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.1_Default.xml.in:4
@@ -947,7 +990,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:4
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:4
 msgid "Non-OSS Repository"
-msgstr ""
+msgstr "ຄັງເກັບ Non-OSS"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:5
@@ -957,7 +1000,7 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:5
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap"
-msgstr ""
+msgstr "ຄັງເກັບສ່ວນເສີມຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດສຳລັບ openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:6
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:6
@@ -970,6 +1013,8 @@ msgid ""
 "The official openSUSE Leap repository for all Non-Open Source Software "
 "maintained by the openSUSE community, including Opera, Steam and more."
 msgstr ""
+"ຄັງເກັບທາງການຂອງ openSUSE Leap ສຳລັບຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດທັງໝົດທີ່ດູແລໂດຍຊຸມຊົນ openSUSE, "
+"ລວມມີ Opera, Steam ແລະ ອື່ນໆ."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:17
@@ -979,19 +1024,19 @@ msgstr ""
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:17
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap"
-msgstr ""
+msgstr "ຄັງເກັບສຳລັບການອັບເດດຊອບແວທີ່ບໍ່ເສລີ (non free) ທາງການຂອງ openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:20
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:20
 msgid "Update repository with updates from SUSE Linux Enterprise 15"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດດ້ວຍການອັບເດດຈາກ SUSE Linux Enterprise 15"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:21
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:21
 msgid "Repository with SUSE Linux Enterprise updates for openSUSE Leap"
-msgstr ""
+msgstr "ຄັງເກັບທີ່ມີການອັບເດດ SUSE Linux Enterprise ສຳລັບ openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:22
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:22
@@ -1000,18 +1045,20 @@ msgid ""
 "In this repository you find SUSE Linux Enterprise security and maintenance "
 "updates to openSUSE Leap."
 msgstr ""
+"ໃນຄັງເກັບນີ້ ທ່ານຈະພົບກັບການອັບເດດຄວາມປອດໄພ ແລະ ການບຳລຸງຮັກສາຈາກ SUSE Linux Enterprise "
+"ສຳລັບ openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:23
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:23
 msgid "Update repository of openSUSE Backports"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດຂອງ openSUSE Backports"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:24
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:24
 msgid "Update repository with Backports updates for openSUSE Leap"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດດ້ວຍການອັບເດດ Backports ສຳລັບ openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:25
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:25
@@ -1020,6 +1067,8 @@ msgid ""
 "In this repository you find Backports security and maintenance updates for "
 "openSUSE Leap."
 msgstr ""
+"ໃນຄັງເກັບນີ້ ທ່ານຈະພົບກັບການອັບເດດຄວາມປອດໄພ ແລະ ການບຳລຸງຮັກສາຈາກ Backports ສຳລັບ "
+"openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:26
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:26
@@ -1027,12 +1076,13 @@ msgstr ""
 msgid ""
 "Update repository with Backports debuginfo package updates for openSUSE Leap"
 msgstr ""
+"ຄັງເກັບອັບເດດດ້ວຍການອັບເດດແພັກເກັດ debuginfo ຂອງ Backports ສຳລັບ openSUSE Leap"
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:27
 #: YaST/Repos/_openSUSE_Leap_15.4_Default.xml.in:27
 msgid "Update repository of Backport debuginfo packages for openSUSE Leap."
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດແພັກເກັດ debuginfo ຂອງ Backport ສຳລັບ openSUSE Leap."
 
 #: YaST/Repos/_openSUSE_armv7hl_Leap_15.3_Default.xml.in:28
 #: YaST/Repos/_openSUSE_Leap_15.3_Default.xml.in:28
@@ -1041,11 +1091,13 @@ msgid ""
 "This repository contains Backport debuginfo packages and is useful for those "
 "that want to debug applications on openSUSE Leap. For experts only."
 msgstr ""
+"ຄັງເກັບນີ້ລວມມີແພັກເກັດ debuginfo ຂອງ Backport ແລະ ເປັນປະໂຫຍດສຳລັບຜູ້ທີ່ຕ້ອງການດີບັກແອັບພລິເຄຊັນ"
+"ໃນ openSUSE Leap. ສຳລັບຜູ້ຊ່ຽວຊານເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:5
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Tumbleweed"
-msgstr ""
+msgstr "ຄັງເກັບສ່ວນເສີມຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດສຳລັບ openSUSE Tumbleweed"
 
 #: YaST/Repos/_openSUSE_Factory_Default.xml.in:6
 #: YaST/Repos/_openSUSE_i586_Factory_Default.xml.in:6
@@ -1053,26 +1105,31 @@ msgid ""
 "The official openSUSE Tumbleweed repository for all Non-Open Source Software "
 "maintained by the openSUSE team, including Opera, Flash, and more."
 msgstr ""
+"ຄັງເກັບທາງການຂອງ openSUSE Tumbleweed ສຳລັບຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດທັງໝົດທີ່ດູແລໂດຍທີມງານ "
+"openSUSE, ລວມມີ Opera, Flash ແລະ ອື່ນໆ."
 
 #: YaST/Repos/_openSUSE_Leap_15.0_Default.xml.in:8
 #: YaST/Repos/_openSUSE_Leap_42.3_Default.xml.in:8
 msgid "Main repository of openSUSE Leap (Source packages)"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE Leap (ແພັກເກັດຊອດໂຄ້ດ)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.1 including only Open Source Software"
 msgstr ""
+"ຄັງເກັບຫຼັກຂອງ openSUSE Leap 42.1 ເຊິ່ງລວມມີສະເພາະຊອບແວໂອເພັນຊອດເທົ່ານັ້ນ"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.1, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"ຄັງເກັບຊອບແວໂອເພັນຊອດ (OSS) ຂະໜາດໃຫຍ່ສຳລັບ openSUSE Leap 42.1, ເຊິ່ງຊ່ວຍໃຫ້ທ່ານເຂົ້າເຖິງແພັ"
+"ກເກັດຫຼາຍພັນລາຍການທີ່ດູແລໂດຍຊຸມຊົນ openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.1"
-msgstr ""
+msgstr "ຄັງເກັບສ່ວນເສີມຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດສຳລັບ openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:6
 msgid ""
@@ -1080,59 +1137,69 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"ຄັງເກັບທາງການຂອງ openSUSE Leap 42.1 ສຳລັບຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດທັງໝົດທີ່ດູແລໂດຍຊຸມຊົນ "
+"openSUSE, ລວມມີ Opera, Steam, Flash ແລະ ອື່ນໆ."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.1 (Source packages)"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE Leap 42.1 (ແພັກເກັດຊອດໂຄ້ດ)"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.1. For experts "
 "only."
 msgstr ""
+"ຄັງເກັບແພັກເກັດຊອດໂຄ້ດທັງໝົດໃນ openSUSE Leap 42.1. ສຳລັບຜູ້ຊ່ຽວຊານເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.1 including the debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE Leap 42.1 ເຊິ່ງລວມມີແພັກເກັດ debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.1. For experts only."
 msgstr ""
+"ຄັງເກັບນີ້ເປັນປະໂຫຍດສຳລັບຜູ້ທີ່ຕ້ອງການດີບັກແອັບພລິເຄຊັນໃນ openSUSE Leap 42.1. ສຳລັບຜູ້ຊ່ຽວຊານເທົ່ານັ້"
+"ນ."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.1"
-msgstr ""
+msgstr "ຄັງເກັບສຳລັບການອັບເດດທາງການຂອງ openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.1."
 msgstr ""
+"ໃນຄັງເກັບນີ້ ທ່ານຈະພົບກັບການອັບເດດຄວາມປອດໄພ ແລະ ການບຳລຸງຮັກສາສຳລັບ openSUSE Leap 42.1."
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.1"
 msgstr ""
+"ຄັງເກັບສຳລັບການອັບເດດຊອບແວທີ່ບໍ່ເສລີ (non free) ທາງການຂອງ openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.1_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.1 debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດແພັກເກັດ debuginfo ຂອງ openSUSE Leap 42.1"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:2
 msgid ""
 "Main repository of openSUSE Leap 42.2 including only Open Source Software"
 msgstr ""
+"ຄັງເກັບຫຼັກຂອງ openSUSE Leap 42.2 ເຊິ່ງລວມມີສະເພາະຊອບແວໂອເພັນຊອດເທົ່ານັ້ນ"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:3
 msgid ""
 "The big Open Source Software (OSS) repository for openSUSE Leap 42.2, giving "
 "you access to thousands of packages maintained by the openSUSE community."
 msgstr ""
+"ຄັງເກັບຊອບແວໂອເພັນຊອດ (OSS) ຂະໜາດໃຫຍ່ສຳລັບ openSUSE Leap 42.2, ເຊິ່ງຊ່ວຍໃຫ້ທ່ານເຂົ້າເຖິງແພັ"
+"ກເກັດຫຼາຍພັນລາຍການທີ່ດູແລໂດຍຊຸມຊົນ openSUSE."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:5
 msgid "Non-Open Source Software Addon repository for openSUSE Leap 42.2"
-msgstr ""
+msgstr "ຄັງເກັບສ່ວນເສີມຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດສຳລັບ openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:6
 msgid ""
@@ -1140,41 +1207,48 @@ msgid ""
 "maintained by the openSUSE community, including Opera, Steam, Flash, and "
 "more."
 msgstr ""
+"ຄັງເກັບທາງການຂອງ openSUSE Leap 42.2 ສຳລັບຊອບແວທີ່ບໍ່ແມ່ນໂອເພັນຊອດທັງໝົດທີ່ດູແລໂດຍຊຸມຊົນ "
+"openSUSE, ລວມມີ Opera, Steam, Flash ແລະ ອື່ນໆ."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:8
 msgid "Main repository of openSUSE Leap 42.2 (Source packages)"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE Leap 42.2 (ແພັກເກັດຊອດໂຄ້ດ)"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:9
 msgid ""
 "The repository of all source packages in openSUSE Leap 42.2. For experts "
 "only."
 msgstr ""
+"ຄັງເກັບແພັກເກັດຊອດໂຄ້ດທັງໝົດໃນ openSUSE Leap 42.2. ສຳລັບຜູ້ຊ່ຽວຊານເທົ່ານັ້ນ."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:11
 msgid "Main repository of openSUSE Leap 42.2 including the debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບຫຼັກຂອງ openSUSE Leap 42.2 ເຊິ່ງລວມມີແພັກເກັດ debuginfo"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:12
 msgid ""
 "This repository is useful for those that want to debug applications on "
 "openSUSE Leap 42.2. For experts only."
 msgstr ""
+"ຄັງເກັບນີ້ເປັນປະໂຫຍດສຳລັບຜູ້ທີ່ຕ້ອງການດີບັກແອັບພລິເຄຊັນໃນ openSUSE Leap 42.2. ສຳລັບຜູ້ຊ່ຽວຊານເທົ່ານັ້"
+"ນ."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:14
 msgid "Repository for official updates to openSUSE Leap 42.2"
-msgstr ""
+msgstr "ຄັງເກັບສຳລັບການອັບເດດທາງການຂອງ openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:15
 msgid ""
 "In this repository you find security and maintenance updates to openSUSE "
 "Leap 42.2."
 msgstr ""
+"ໃນຄັງເກັບນີ້ ທ່ານຈະພົບກັບການອັບເດດຄວາມປອດໄພ ແລະ ການບຳລຸງຮັກສາສຳລັບ openSUSE Leap 42.2."
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:17
 msgid "Repository for official non free updates to openSUSE Leap 42.2"
 msgstr ""
+"ຄັງເກັບສຳລັບການອັບເດດຊອບແວທີ່ບໍ່ເສລີ (non free) ທາງການຂອງ openSUSE Leap 42.2"
 
 #: YaST/Repos/_openSUSE_Leap_42.2_Default.xml.in:19
 msgid "Update repository of openSUSE Leap 42.2 debuginfo packages"
-msgstr ""
+msgstr "ຄັງເກັບອັບເດດແພັກເກັດ debuginfo ຂອງ openSUSE Leap 42.2"
